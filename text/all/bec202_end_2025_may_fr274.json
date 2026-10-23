@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec202_end_2025_may_fr274.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.7,
+   "text": "-_—, —\nEnd Term Examination L-\n(CBCS)(SUBJECTIVE TYPE) (OffLine) } oy\nCourse Name: B.Tech. ECE, Semester:4 ~\n(May, 2025)\nSubject Code: BEC 202 i Subject: Linear Integrated Circuits (LIC)\nTime: 3 Hours , Maximum Marks :60\n> Note: Qua§ compulsory. Attempt one question each from the Units |, Ii, Ill & IV.\nge“ >\n=~ Explain the meaning of open loop and closed loop operation of an Op-amp.\nqi (2.5*8=20) | CO Mapping\na) The output voltage of Op-amp is changes by 20V in 4usec. What is the le} col\nslew rate of Op-amp?\nb) Explain the virtual ground concept with a suitab!2 example. ‘iam 1 COL el\n¢) What is precision diode? What part it plays in a half wave rectifier? ize te COZ | eal\nre a)\n_9) Explain the basic principle of a RC Phase shift oscillator,\nied e) Give limitations of an Operational Transconductance Amplifier (OTA).\nky f) Discuss the power conversion efficiency of a Class A Amplifier. bk he co3\ntA 8) For which applications active filters are preferred over passive filters EW CcO4\nand why?\nRi kad h) What is a phase detector? What are its types? | | con\n|__| Co Mapping\n(10) col\nDiscuss different circuits and their working for both types of operation of Op-\nAmp.\nDiscuss about the various methods used for improving CMRR of the Op-Amp. | (10) |\niLL |__| COMapping\nQ4 | Draw the circuit of a Monostable Multivibrator using Op-Amp. Explain its (10) 702\noperation and find out the mathematical expression for pulse width ‘T’ for the\nMornostabie miultivibrator. all\nDesign an op-amp differentiator that will differentiate an input signal with fmax |\n= 500 Hz. Draw the output waveform for a sine wave of 2V peak at 200 Hz\napplied to the differentiator.\n(10) | ~— co2\n|__| CO Mapping\nFind the transfer function of the circuit given in Figure below:"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 78.2,
+   "text": "lifier. Give cireaipg diagram and\nA Push-Pull Amp ake\nExplain the Operation of Class Ae\n; ee\nftailed working, oF\nfifth order der Butterworth low-\n2.\nDesign a\nfrequency 2k\nWrite Short\n(a) uw\nb) BI\npass filter having Upper cy ff\nnotes on the following:-\nMonostable Operation of 555 Timer ety\nOck schematic of Phase Locked Loop"
+  }
+ ]
+}

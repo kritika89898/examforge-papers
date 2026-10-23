@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-4/BCS204_DAA_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 77.4,
+   "text": "lass Enrollment No. 0 WOW ZO A\nos MID-TERM EXAMINATION\nht Name : (MTech CSE Al) (Semester 2)\n(February, 2023) OFF LINE mode\n* . Pr.\nSubject Code:BCS 20 ne\nTime : 1 4YHours ascennsnte\n* Tu... —\nNote: Q. Lis compulsory, sR Golde ae eg a\nas a | |\n: Analyse the j ; a Sa\nios Srctierti complexity of the following algorithm | CO1\nunction increment(x)\nifx mod 2==1then\nreturn 2 x increment(\n| x/2 4)\nelse return x +1 |\n| Subject; Design and analysis of algorithms: =a\nMaximum Marks : 30\nyo Solve the following recurrence using Recursion tree method\nT(n) = 2T(n/4)+sqrt(n) , if n>=2\n=1 ,Else |\nRe 4 What are greedy algorithms? What is its limitation. CcO2\n4 Find the minimum spanning tree of the following graph using Kruskals Minsiieg\nspanning tree algorithm\n4\n@)- -— -©\n< ioe\n|\n|\nae | ae Se ee\nQz {Attempt any Two Parts) UNIT-2\ny\n\\\n|\nication algorithm. Analyse its complexity | |\n2 | Explain the Strassen’s Matrix multiplicati\n{| Col\n| ie is) rl ¥ . Each node v of T is labeled with a\n(b) | Consider ann - node ¢ | |\nreal number Xv. You may e that eal numbers labeling the nodes are all | CO1 |\nminimum if the label Xv is less than the label Xv for |\ndistinct. A node v of Tis @ 10 '\nall nodes w that are joined to v by an edge. Show how to find a local minimum of T |\nusing only O(log n) probes to the nodes of T.\nGive the best case and worst case conditions for quick sort. |\nWrite the recurrences correspond to best case and worst case of quick sort, | col\nAnalyse the worst case, best case and average case complexities of quick sort, = |\nP| (Attempt any Two Parts) UNIT-2\nblem. Analyse its complexity | C02\nExplain the greedy algorithm for solving Knapsack pro"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 78.0,
+   "text": "Songs, where the i-th gon\nYou are given a sequence of py . Pay porn ee i |\nitle nutes long, Yo t\nwant to place all of the SONgS onto a collection of CDs, each of which can holdm | €02\nminutes. Furthermore, (i) The songs must be recorded | gty\nhe n the order given: song 1, |\nsa 2,..., song n. (ii) All songs must be included. (iii) No song may be split across\nSs. \\\nGive a greedy algorithm to place SONgS On CDs so as to minimize the number of\nCDs needed.\nExplain the greedy algorithm for generating\ncomplexity\nHuffman code and analyse its\n3 u“\nqc =\nSz A"
+  }
+ ]
+}

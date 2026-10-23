@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-1/BAI103_COA_MID_2023_OCT.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.4,
+   "text": "F (Please write your Enronment rumo . —— ——— a\n| MID-TERM EXAMINATION , 7 Pn _\n(Course Name : B. Tech AI&ML/ CSE- Al) (Semester - O\n2023)OFF LINE mode\n(October,\n— ject: Computer Organization &\n___ [Subject Code: Bal 103 —_ Maximum Marks : 30\nTime: 1 YeHours\nNote: Q. 1 is compulsory. _ ok\n‘om Half\nhow do we geta Full-adder fr\n\\Explain with the help of the Block diagram,\n~— adders.\n) Simply the expression using\nK-map : F(A,B,C,D) :\nSm: - (0,2,3,5,6,7,10,11,14,15) Vid\nAo) List the 5 different types of “Registers” for Basic Computer. Explain.\nrye List out any 5 differences between CISC and RISC architecture. Ez\nQ2 |UNIT-1 Attempt any two part\n5) Using 2’s complement representation:\ni) Subtract 3 from 5\nii) Subtract (-3) from (-5)\niii) Add (-5) and (-2)\nAdd5Sand4\nOR\nABC+ABC+ABC+ABC+ABC\nABC+ABC+ABC+ABC\nvb) What Is a decoder ? Explain how 3x8 decoder can be bui\nwith a logic diagram.\nf ot UN/T-2 Attempt any two part\nIZ Define instruction address format. Explain the various instruction address formats\n(c) Explain Dy’ 1 Ts, Dy’ I’ Ts, D7 I’ Ts and D7 1 73 with the help of Instruction cycle flow\nChart. r"
+  }
+ ]
+}

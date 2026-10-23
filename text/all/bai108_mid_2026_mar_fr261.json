@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai108_mid_2026_mar_fr261.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.7,
+   "text": "MID-TERM EXAMINATION\n(Programme: B. Tech (ECE/ ECE-Al/ MAC) (Semester: I)\n(March 2026) OFF LINE mode\nSubject Code:BAI 102\nSubject: IT Workshop\nMaximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n(2.5*4=10) | co Mapping\n| a) What are the features of R- programming language? 2.5 CO1\nae | b) How R- language is used as calculator? _ | cor\nc) Write and explain some of the most common syntaxes in R-\noe ) Cer 2\n| d) Write a short notes on built in functions in R programming? 2. p25 | ja C02 |\nbet Ser) Mapping\n} 02 | Attempt any two parts (5*2=10) | ie |\na) Define the list. How to create list and access the list elements co1\nfrom the list in R programming. Give an example?\n| b) Explain array object in R programming with an example. |p CO? ae |\nc) What are the data types used in R- programming and give an Soa\n| Q3 | Attempt any two parts (5*2=10) a\na) Write R program to demonstrate working with operators CcO2\n(arithmetic, logical, relational and assignment operators).\n*| b) Explain data structures in R- programming with an example. a Sue | C2\nexample for each data type?\nc) Explain about vector operations in R programming with an\nexamples.\nee ae"
+  }
+ ]
+}

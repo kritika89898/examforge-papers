@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai304_end_2026_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.9,
+   "text": "- ~\n(Please write your Enrollment Number) Enrollment Nome ee\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OFFLINE)\nCourse Name:<B.Tech (CSE-Al)>, Semester:<?\n(May, 2026)\nSubject ( ae | ee Se oe ae ~~“Subject: Deep Learning - Il\nde: BAI 304 ibject: Deep Le«\n| Sublect Code rit | Ey yy 7 rae Maximum Marks :60\n| +; .\n, Time :3Hours\nNote: Qlis compulsory, Attempt one question each from the Units |, I, Ill & NV.\nro. : am?\nx) \"Distinguish between bias and variance in deep learning. (2.5) |\nb) What is batch normalization? State one benefit of using it in deep neural networks.\nc) “| State any two differences between Batch Gradient Descent and Mini-Batch Gradient\nDescent.\nName any two optimization methods among Adagrad, RMSProp, Adam, and NAG\nand state one key idea behind each.\ne) | What is hyperparameter tuning? Give one example of a hyperparameter in deep\ni\n\\ learning.\nf) Why are baseline methods and performance metrics important while training and\n| evaluating deep learning models?\n|g) | What is transfer learning? Why is it useful in practice? \\ (2.5) |\n\\\nWhat is meant by explainability in deep learning? Why is it important in sensitive\n| applications?\n| Explain the following concepts with suitable examples and discuss their role in\ntraining deep neural networks:\na) regularization, b) bias-variance trade-off, c) weight initialization strategies, and d)\nti\nearly stopping.\n(a) Explain the idea of learning vs optimization in deep learning. Why should these\ntwo not be treated as the same?\n(b) Discuss Gradient Descent with Momentum. How does it differ from ordinary\nGradient Descent, and why can it lead to faster convergence?\n(@ 2 Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.6,
+   "text": "UNIT tae ee\nQ4 | Discuss the working principle, strengths, and limita\n: ee eniacas a Ed of any ti two of the fc following Te\noptimization methods used for training neural networks:\n| Adagyad, Adadelta, RMSProp, Adam, NAG,\nQs Boia is the saddle point problem in neural\nal networks? v Why does it make\n(4)\ntimization difficult?\n(fh dropout, drop connect, and batch normalization as methods for\n|\nimproving training and generalization in deep learning. (6)\nUNIT Ill\nQ6 Abinary classifier for disease detection produces the following results on a test set:\n‘TP = 80, TN = 150, FP = 20, FN = 50\n(10)\n_ Calculate the following and interpret them briefly:\nAccuracy, Precision, Recall, and F1-score.\n|\n(a) What are practical tips for training deep neural networks? Mention any four such | (@) |\ntips. | |\n(b) Explain hyperparameter tuning with reference to manual vs automatic tuning\nand grid search vs random search. Which approach is generally more suitable in (6)\nhigh-dimensional settings, and why?\nUNIT IV\nExplain the following with suitable examples:\nAutoencoders (undercomplete vs regularized), representation learning, and greedy\npretraining,\nJf) What is a Generative Adversarial Network (GAN)? Name its two major\nComponents and state their roles.\nA) Discuss the importance of transfer learning, explainability,\nand ethics in\ndeep learning-based systems deployed in real-world applications,\nCe Scanned with OKEN Scanner"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bit202_mid_2026_mar_fr2149.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.6,
+   "text": "MID-TERM EXAMINATION aster: 4\"\nB, Tech (AI&IML/CSE-AI/CSE/Im) -S¢™\n(March 2026) OFFLINE mode\nSubject: Operating Systems\nMaximum Marks :30\nany two parts of Q2 and Q3-\nSubject Code: BIT 204\nNote: Q1 is compulsory. Attempt\nay | Contrast user-level threads with kernel-level threads. Why 's 4\nblocking system call problematic for user-level threads?\nLA) | Explain Process Life Cycle in detail with diagram.\nDescribe the significance of the valid/invalid bit in paging systems.\nHow does it assist in handling page faults?\n) Define critical section. State three conditions of the Critical Section 25 co2\nproblem.\nUNITI | sf CO Mapping\nAttempt any two parts (5*2=10) Cc .. a\nConsider the following set of processes:\n| (2.5*4=10) | CO CO Mapping |\nProcess Arrival Time\nPi 0\nP2 1 4\nP3 2\nP4 4 6\nPS 6 3\nThe CPU scheduling policy is Round Robin with Time Quantum = 3\nunits. Answer the following:\n|. Draw the Gantt chart.\nll. Calculate the Average Waiting Time (AWT).\nIll. Calculate the Average Turnaround Time (ATT).\nExplain the following with diagram:\nSingle Threaded vs Multithreaded Programming\nii. Process Control Block (PCB)\nExplain the distinct roles of a short-term scheduler\nscheduler and a long-term scheduler with ar eee\n| Q3 | Attempt any two parts ——_ CO Mapping\nExplain the concept of Segmentation iq Memory management.\night why segmentation Is\nmedium |e\nCompare it briefly with paging to highli\nconsidered more user-oriented,\nAsystem has 4 processes (PO-P3) and\ntotal instances of resources are:\nA=8B=6Cx¢\n3 resource types (A, B, C). The"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.6,
+   "text": "c)\ni oi of\nape current system snapshot is given bel\nProcess Allocation (A B C) Max (AB ¢)\nPO 120 232\nPi 201 422\nP2 111 223\np3 102 ba 313\nAnswer the following using Banker's Algorithm:\n|, Compute the Available vector and th2 Need matriy.\n, Isthe system ina safe state? If yes, write one safe sequence,\nA system has the following memory blocks (in KB):\n100, 500, 200, 300, 600\nThe following processes (in KB) arrive in order:\nP1 = 212, P2 = 417, P3 = 112,74 = 426\nAllocate memory to the processes using the following allocation 5\nstrategies First Fit, Best Fit, Worst Fit and Next Fit. For each method\nShow the allocation of processes to memory blocks, Indicate which\nprocesses (if any) cannot be allocated and show the remaining\nmemory in each block after allocation."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "file_path": "papers/all/bma110_end_2023_mar_fr253.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.5,
+   "text": "End-TermExamination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B. Tech. IT/MAE/DMAM>, Semester:1°*\n(Feb-March, 2023)\nSubject Code:BMA-110 Subject: Engineering Mechanics\nTime :3 Hours Maximum Marks :60\nNote: Q. 1 is compulsory. Attempt one question each from the Units I, Il, Ill & IV.\nQl Attempt any 8 questions (2.5*8=20)\n(a) Define the system of forces.\n(b) Discuss the cone of friction and coefficient of friction.\n(c) Define the Moment of inertia and Radius of gyration.\n(d) Explain the perfect, deficient and redundant frame.\ni} Discuss the normal and tangential component of velocity and acceleration in\ncurvilinear motion.\n(f) Define the coefficient of restitution. What will be the value of coefficient of\nrestitution for elastic and inelastic bodies.\n@ A bar is sliding against wall at one end and the floor at other end. How these act\ncan be split into motion of translation and rotation.\n(h) State the work energy principle during the general plane motion.\n\\) what do understand by the term Instantaneous centre of rotation\n) State D‘Alembert’s principle\nUNIT-I\nQ2 Three parallel forces F1, F2, F3 are acting on a body as shown in fig and the body (10)\nis in equilibrium. If force F1 = 250N and F3=1000N and the distance between F1\nand F2=1.0m, then determine the magnitude of force F2 and the distance of F2\nfrom force F3. _\nF,=250N F, = 1000N\ni Fia. 4.6 .\nQ3 A cord connects two bodies of weight 400N and 800N. The two bodies are placed (10)\non an inclined plane and cord is parallel to inclined plane. The coefficients of\nfriction for the weight of 400N is 0.15 and for 800N is 0.4. Determine the\ninclination of the plane to the horizontal and the tension in the cord when the\nmotion is about to take place down the incline plane. Body weight 400N is below\nthe body weight 800N.\nPTO\nw\ni <7"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 73.9,
+   "text": "Q4\nQs\nQ6\nQ7a\nUNIT-II\npron a rectangular lamina ABCD 10cm *12cm a rectangular hole of 3cm*4cm is (10\n' vas oa in fig. Find the centroid of area,\n: A ee 10 om ~~ pf\nrrr Try\nt Ay / j//\n; t\nf / / f\nz J/ fj\n. | Vf ,\nSf Tf fj\n\\ \" tf} /4/\nVSS S/S SNA ©\n| ALLL) '\niy\nayy,\nLa S/\n’ ¥ Lif\nb\nDetermi\non ine the forces in the truss shown in fig which carries a horizontal load of (10)\nand a vertical load of 18KN.\n—\n|\na eens neiinnlinas, |\n1.5m\nvt a 8\n+r c Roller\n18 kN\nemeeat oa 2m-—\nRy Re\nUNIT-IiI (attempt any 2 question )\nof a rotating body is 2rad/s and initial angular (10)\no the relation a=3t’-3.\nhen t=5sec. Consider\nThe initial angular velocity\nacceleration is zero. The rotation of the body is according t\nFind i) angular velocity and ii) angular displacement w\nangular displacement in radians and time in seconds.\nA spherical ball A of 100gm mass, when released from rest, slides down the (10)\nsurface of a smooth container of height 30cm. It collides with a spherical ball B of\nmass 25gm resting at the bottom of the container as shown in fig. What should\nbe the height h from which the ball A be released so that after the impact the\nball B just leaves the container.\nCoefficient of restitution is 0.8.\n7 Cee seme enema tt ti Sea\n‘ 7\nLy\n. ~-]\n——\nPTO"
+  },
+  {
+   "page": 3,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.0,
+   "text": "Q7b_ Find the tension in the string and acceleration of blocks A and B weighing 200N 10\nand 50 N respectively, connected by a string and frictionless and weightless\npulleys as shown in Fig below\nUNIT-IV\nQ8 = A cylindrical roller, 50cm in diameter is in contact with two conveyors at its top (10)\nand bottom as shown in fig. If the belts run at the uniform speed of 5m/sand\n3m/s,find the linear and angular velocity of the roller.\n'\n\\\nQ9 A A homogenous cylinder of mass 5O0kg and 0.4m in radius is having initial velocity (10)\nof Sm/s down the 30° inclined plane. Calculate the velocity of cylinder when it\nhas reached 10m down the plane from starting point. Assume the cylinder is\nrolling without sliding."
+  }
+ ]
+}

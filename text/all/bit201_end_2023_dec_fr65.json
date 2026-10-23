@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bit201_end_2023_dec_fr65.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 69.7,
+   "text": "rite Enrollment No. 77\nend-term Examination\n3 cacs)(SU UBJECTIVE TYPE) (Offline)\nOUrse Namercg An CSE /vt/MAE/ ECE/DMAM/ECE-AI >, Semester:<3rqy\n(November-December, 2023)\nSubje -~—— —-- ~~ --———_—_ -\n‘Steet ade rox Sub: P|\nTime : 3h H\n0)\n, ——\"ur Maximum 1 Marks 160.\note: Ne tenn wank Sean tha lintel fi Me i\nQ. Lis Compulsory, attempt one question each from the Units |, Il, m &IV.\nMahal Sacepeias seeneianeee la\n(3 Define database management system and what are it's various\np\nplications? What are the different anomalies in designing a database?\nc) What are the various functionalities of a typical database management\nsystem?\n| d) What do you understand by conflict serializabil ity? Explain with the help |\nof an example.\nWhat is Entity set and also define Relationship set. List and explain the\nsymbols used to draw ER Diagram.\nQL Queries for following set of tables: _\na4 wi0 YEE (EmpNo, Name, DoB, Address, Gender,\nmber.\nsae a MENT (DNumber, Dname, ManagerEmpNo,\nP rtDate):\nne e of ‘male ‘employees.\nj) Dis? ie i) employees in Department named\nDi\nnagerstart\nii) ;\n‘Mark the name of highest salary paid ‘femal,\npisp!#\niO: loyee is oldest manger in COMpanyo\n\" wi ye mame of department of the °MPloye,\nyore\na\nAla\nwe"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 270,
+   "confidence": 77.1,
+   "text": "$$$ . , and stepW\nthe E-R diagram for a university data thm.\nClational database using the mapping 4'6\nise convert it\nCreate\ninto a,\n_—-\n—\nNormalize fo}\nank(acno\nbranch n\n—— UNIT-II\nOwing relation up to 3NF; ty, branchid.\n* Cust_name, ac_type, bal, int_rate, cust_city,\n™, br_city)\nWhat do you y\nR(A, B,C, D)a\ndetermine wh\nNderstand by functional dependencies? Given a relation\nNd Functional Dependency set FD = {AB > CD, B > C},\nether the given R is in 2NF? If not convert it into 2 NF.\nj\n———\nUNIT-IV él\nList and explain the various issues while transactions are running} (10)\nconcurrently in DBMS.\n| Q9 Explain Concurrency control with locking methods,\n| |"
+  }
+ ]
+}

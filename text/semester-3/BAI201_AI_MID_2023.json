@@ -1,0 +1,17 @@
+{
+ "file_path": "papers/semester-3/BAI201_AI_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "MID-TERM EXAMINATION\n                                 B.Tech. CSE-AI/ AI&ML Semester: I|\n                                     (October, 2023) OFF LINE mode\n\n Subject Code: BAI-201                                   Subject: Artificial Intelligence\n Time:1 SHours\n                                                                                         Maximum Marks:30\n Note:Q. 1 is compulsory.\n\n Q1\n                                                                                             (2.5*4)\n        (a)Define intelligent agents, simplex reflex agents and goal-based agents.\n        6) Explain the term artificial intelligence, and contribution of Al in various fields.\n\n        (c) Explain relevance of heuristic search in Al, and any one heuristic search technique.\n\n            Define Structure of an Agent, with associated PEAS descriptions and examples.\n\n\nQ2    (Attempt any Two Parts ) UNIT-1\n                                                                                             (5,5)\n           a)   Explain Breath First Search (BFS) and Depth First Search (DFS, and find the path\n                for the following figure using BES & DFS and highlight the properties of search\n                techniques. A- Start node, F- Goal node.\n\n\n\n\n                  (H\n\n                                                        M)\n\n\n\n      (b) Explain the reasons for preferring BFS technique over DFS, the limitations of DFS\n      strategy, and compare uninformed search strategies with informed search strategies.\n\n\n\n\n                                                  Page 1 of 2"
+  },
+  {
+   "page": 2,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "eExplain\n         Consider\n                  the A algorithm in                        with   advantages   and   disadvantages\n                   the following graph\n                                10\n\n\n\n\n                         6\n                                                                          7\n\n\n\n\n                                1\n\n\n\n                         5\n                                5\n\n\n                                               5\n\n\n      The numbers written on edges represent the distance between the nodes.The numbers\n     written on nodes represent the heuristic value.Find the most cost-effective path to\n      reach from start state Ato final state J using A Algorithm.\nQ3    (Attempt any Two Parts )       UNIT-2                                              (5,5)\n     er Explain bag of words (BoW) model. Why we use TF-IDF over BoW model?\n        b)Define Knowledge representation in Al, the different techniques of Knowledge\n      Representation, and the advantages of each technique.\n     (c) State first-order predicate logic? Explain syntax and semantics in Logical\n     Representation, and the limitations of propositional logic.\n\n\n\n\n                                              Page 2 of 2"
+  }
+ ]
+}

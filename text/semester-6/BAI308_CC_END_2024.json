@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BAI308_CC_END_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.0,
+   "text": "aT i ii A i eS\nIE lI a\nEnrollment no. 1\nEnd-Term Examination\n(CBCS)(SUBJECT IVE TYPE)(OffLine)\nCourse Name:<>, Semester:<>\n(Please write your Enrollment Number)\n(May, 2024)\n| Subject Code: BAI 308 Subject: Cloud Computing _\nTime :3 Hours Maximum Marks :60\n1, U, Wt & IV.\n[ Note:Q. 1 is compulsory. Attempt one question each from the Units\n~_| (2.5*8=20)\nsioning process\nillustrate the steps in virtual machine provi\nList and explain the elements of parallel computing\nWhat are the characteristics of hybrid cloud\nDiscuss any three features of laaS.\nList out the issues for a grid and cloud integration.\nWhat is the use of cloud Watch in Amazon EC2?\ni (g) Briefly discuss about Web services.\n(h) What do you mean by third party cloud services? Give suitable\nexamples.\nUNIT-I |\n(10)\nQ2 . | What is a cloud? Discuss the three service models of cloud\n| computing in a cloud landscape\nQ3 Discuss about hardware support for virtualization\nUNIT-II\nQ4. | What isa virtual infrastructure manager (VIM)? Give its\n| features?\nQs Write short notes on:\na) fog computing.\nb) utility computing\n(10)\nUNIT-III\nQ6 - | List and discuss the principles for designing public cloud,\nprivate cloud and hybrid cloud.\nExplain in detail about security monitoring and incident\nresponse.\nUNIT-IV\nWhat are the different security challenges in cloud\ncomputing? Discuss each in brief\nWhat do you mean by third party cloud services? Give\nsuitable examples."
+  }
+ ]
+}

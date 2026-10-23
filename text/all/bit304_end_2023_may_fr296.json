@@ -1,0 +1,17 @@
+{
+ "file_path": "papers/all/bit304_end_2023_may_fr296.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "2023 End Term\n\nNote: Q1 is compulsory. Attempt one question each from Unit I, II, III & IV.\n\nQ1 Conceptually explain the following technical concepts with suitable\nexamples. (2.5*8)\n\n   a.​ Business Process-as-a-Service (BPaaS)\n   b.​ Fog Computing\n   c.​ Virtual Machine Monitor (VMM)\n   d.​ Network Virtualization\n   e.​ Threats and Liabilities in Cloud Computing\n   f.​ IDaaS (Identity-as-a-Service)\n   g.​ Cloud Analytics\n   h.​ Cloud SLA (Cloud-Service Level Agreement)\n\nUNIT-I\n\nQ2 Categorically differentiate between SPI Model in cloud computing and\nTraditional IT Model. Briefly discuss the characteristic features associated with\neach of these along with schematic illustrations. (10)\n\nQ3 Discuss the significance of Green Cloud Computing and how it envisages to\nminimize the overall carbon footprint. (10)\n\nUNIT-II\n\nQ4 Elucidate the significance of hypervisor in virtualization. Differentiate between\nType-1 and Type-2 hypervisors in terms of CPU performance and security. (10)\n\nQ5 Conceptually, highlight the significance of Cloud Optimization. Discuss the\npivotal role it played in boosting cloud performance and discovering cloud cost\nsaving opportunities. (10)"
+  },
+  {
+   "page": 2,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "UNIT-III\n\nQ6 What is the role of Identity Access Management (IAM) in cloud security? How\ndo \"adopt a role-per-group model\" and \"grant least privilege\" help in achieving the\nthreshold cloud security? (10)\n\nQ7 Categorically differentiate between Static Load Balancing and Dynamic Load\nBalancing highlighting the significance of server communication and traffic\ndiversion in cloud computing. (10)\n\nUNIT-IV\n\nQ8 Discuss the significance of Meghraj (Cloud Computing initiative of Govt. of\nIndia) in accelerating the delivery of e-services while optimizing the ICT\nexpenditure of the government. State its characteristic features and security\nattributes. (10)\n\nQ9 Critically examine the impact of Cloud Computing in Educational Institutions.\nAnalyze the case-study of \"Moodle\" or \"BYJUs\" in revolutionizing the concept of\ne-education. (10)"
+  }
+ ]
+}

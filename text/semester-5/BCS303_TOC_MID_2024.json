@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-5/BCS303_TOC_MID_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 80.4,
+   "text": "(Please write your Enrollment Number) Enrollment No. |] OO \\\\72¢)9\nMID-TERM EXAMINATION\n(Course Name: B. Tech.) (Semester: 5)\n(October 2024) OFF LINE mode\nSubject Code: BCS 303 Subject: Theory of Computation\nMarks :30\nTime : 1 YHours Maximum\n(2.5°4=1 | CO Mapping\nid 0)\nHow many tuples are used to define a Grammar? Explain with a suitable Rare\")\n(=| example.\n| Dr] Whatis DFA? HowisitdifferentfromNFA? What is DFA? How is it different from NFA? Dr [Whatis DFA?HowisitdifferentfromNFAP iti‘; | CO\nce Define Pushdown Automata (PDA) using tuples and explain with an example. . 25° \"|e COl ae\nWhat is Greibach Normal Form (GNF) and how is it different from Context ag | hana\nFree Grammar (CFG)? Discuss with a suitable example.\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n| Q2 |stemptanytwoparts si‘s*s*~s~s*S empt any two parts [AttemptanytwopartsSSsSs~<CS~ststsSC*wYCS HO) CO Mapping\nExplain how to convert the NFA to DFA and find the equivalent DFA for the\nfollowing NFA.\nDefine Pumping Lemma for Regular Languages. Find out whether the\nfollowing language is Regular or Not.\nL=({a\"b\"/n21) over £ = {a,b).\n[a a me\neomierrth | |\n= {0\"1\"/n>1} over I = {0,1}.\nal ha\nSABA, ADaAle, BO bBle\nWhat is a derivation tree, discuss different types of derivation trees. Using the\nfollowing grammar productions, find out the leftmost derivation and\nrightmost derivation for the string idtid*id.\nADA+A\nADATA\nAid"
+  }
+ ]
+}

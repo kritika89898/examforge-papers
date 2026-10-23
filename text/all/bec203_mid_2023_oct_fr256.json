@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec203_mid_2023_oct_fr256.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 79.9,
+   "text": "MID-TERM EXAMINATION -\n(Course Name p.tech ECE) (Semester 3 )\n(October, 2923) OFF LINE mode\nSubject Code: BEC 203 Subject: Signals & Systems\nTime : 1 “%Hours\nNote: Q. 1 is compulsory.\n(b) Difference Between Continuous\nstep function.\n(c) What are the properties of Linear Time Invariant Systems.(Explain any 2 with\nexamples)\n(d) Check wether the systems are Periodic or Aperiodic-:\nI. X(t)=Sin 20 xt\nIl. X(t)= Cos 8 t + Sinv3\n|__|\n| Q2 (Attempt any Two Parts) UNIT-1 (5,5) | |\n(a) Explain the terms-:\nI. Principle of Homogeneity\nIl. Superposition Principle\n(b) Check wether the systems are-:\nI. = X(t)=Sin20zt Periodic/Aperiodic\nIl. ¥(t)=Loglx(t)] Static/Dynamic\nIl. ¥(t)=e** Causal/Non-Causal\nIV. -¥(t)=x(3-t)+x(t-8) Causal/Non-Causal\nV. —-Y(t)=x(t-6) Static/Dynamic\n(c) Draw the waveforms of the following-:\nIl. X21 (t)= u(t+2)\nIl. X3 (t)=u (-t)\n(Q3 [Attempt anyTwoParts) UNIT-2 SS) SOT\n| (a) Mention any 3 properties of Periodic Signals .\n(b) Find the Fourier Transform of-:\nX(t)=Cos(wet) u(t)\n(c) Explain the below mentioned properties with proof-:\n|. Linearity\nll. Time Shifting\nIll. Frequency Shifting\nIV. Time Reversal"
+  }
+ ]
+}

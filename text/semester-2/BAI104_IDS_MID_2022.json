@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-2/BAI104_IDS_MID_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.3,
+   "text": "MID-TERMEXAMINATION\n(CBCS)\nB. Tech (CSAI), 2\"? Semester\n(June, 2022)\nSubject Code:: BAI 104 Subject: Introduction To Data Science\nMaximum Marks : 30\nTime : 1% Hours\nNote:Q. 1 is compulsory. Attempt any two questions from the rest.\n(a) Write syntax to calculate mean of variable sales in DataFramedf using NumPy and\nwe Pandas. Is there any difference in output of pandas and output of NumPy?\n(b)\npl:\nd=file[\"Volume\"]\ntype(d)\np2:\nd=file[[\"Volume\"]]\ntype(d)\nDataFramed having a variable Volume. Is there any differences in output in p1 and\noutput p2? (One or two sentences)\nDataFramedf havingn observation and m variable. Consider following one line of\n(c)\nVY code:\nfor index, row in df.iterrows():\nwhat is range of index?\n(d) Write program using pandas 7\nConsider following list: _ = ;\nstock_symbols = (\"IBM\",\"ORCL\",\"MSFT\", \"AAPL\"]\nstock_prices = [116.86, 56.91, 216.51, 119.26]\nnumber_shares = [50, 100, 50, 100]\nCreate three series (stock_symbols, stock_prices, number_shares) and then create\naDataframedf.\nCreate anew variable amount.\nThe price of a share multiplied by the quantity of shares would get us anamount.\n(a) We haveDataFrame (df) and one of variable sales data as follows:\nsales\n0 1.95M\n1 6.70M\n2 842.16K\n3 1.37M\n4 478.98 K\nSymbol K= 1000 and M= 1000000: sales value 842.16k=1.95*1000\nAnother variable named company. The majority of companies in theDataFrame have\neither Group or Corp words in their company names.\nWrite pandas program to find average sales of company having group word in company\nname?\na ee | a\n——__— ——— ——"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.4,
+   "text": "[Os | eae ear ee eer rr ee aT Ton (Ge\n4\na) We have two datasets (excel file) named df1 and df2 having details x a\nCSEAI-Il and CSEAI-Il. We areinterested in finding distribution of variable named\nmarks (marks : total marks secured out of 100) for combined CSAI batch. Which\nvisualization will suitable for this problem and how will approach using tableau?\nAlso you have to color if secured marks is>45 with label ‘Pass’ else ‘Fail’ (different\ncolor).\n(b) We haveDataFrame (df) and one of variablenamed weight data as\nfollows:\nweight\nO 0.93%\n1 1.15%\n2 0.27%\n0.98%\nWrite a panda’s program and use lambda function to clean % from data\nand find sum of weight variable.\n(a) Wehave created a data frame (by reading a excel file) using pandas named df\nhaving many variables (numeric and object). Wehave toreplace all missingvalue in\nobject variable with ‘miss’ exceptsegmentvariable. Your task is to automate (create\na functionand pass dataset nameand which variable name not to replace missing\nvalue asparameter, ex: abc (df,segment) so that your program will automatically\ndetect all object variable and replace the missing values. Use for loop foriteration\nof all object variable."
+  }
+ ]
+}

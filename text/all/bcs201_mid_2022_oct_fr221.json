@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bcs201_mid_2022_oct_fr221.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 75.5,
+   "text": "(Please write your Enrollment Number)\nEnrollment No.\n_—_—\nMID-TERMEXAMIN AT On\n(c6CS)\nAM/cs\nB.Tech (CSE/IT/MAE/ECE/OM EAI/ECEAI), Se\n(cse/it/ (oct, 2022) ), Semester: 3\nSubject Code: acs 201\nTime: 1% Hours\nNote: Q. 2 is compulsory. Attempt any two Qve5t10N5 from the rest,\nQi\nSubjects: Dats Structures\nManxithum Marks: 30\n(2.574)\n(a) Write an algorithm/program 10 COUNT the number of zeras ina two\nGimensional array. Analyse the time Complexity af the algorithm\n15) What is the drawback of linear array implementation of queue? Sugeest 8\nsolution.\n{c) Convert the following infix expression to postfix expression using stack\nWA+8) ((C-D)E*F)))\n{d) Write an algocithm/progrom to print a linked list in reverse order?\nQ2 (5.5)\n{a) Write an algorithm/program to swap the second biggest and second smaiiet!\nelement in an array Pand\n(6) Write an algorithm/program ta swap two adjacent nodes (node at pointer | i\nits mext Node) in a doubly linked list. Analyze the time complexity of the algorithm,\nne (5,5)\na) Write an algorithm/program to split a linked list Into two by yA\nthe finks, The first list contains all odd nodes and the second list contains 3\neven nodes.\nth\n(b) Write an aigorithm/program to return hn” node from the end of a.linked fist\nos (5,5)\n: erty\n(a) Implement (push and pop operationsjtwo stacks in a common array where D\nStacks grow in opposite direction. :\n(b) implement (insertion and deletion operations) a queue using singly linked list"
+  }
+ ]
+}

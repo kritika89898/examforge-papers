@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BCS306_CD_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 67.0,
+   "text": "(Please write your Enrollment Number) Ent yOooteo\nUOlltpreere eee ey\nMID-TERM EXAMINATION\n(Course Name B.Tech,CSE/!T) (Semester 6\n(February, 2023) OFF LINE mode\na\n=]\nMaximum Marks : 30\n| Subject: Compiler Design\n[ Subject Code: BCS 306\nTime : 1 “Hours\n[ Note: Q. 1 is compulsory.\nQi (2.5*4) \\ t\nj \\ VW\n_(3/Betine FIRST and FOLLOW functions, explain with an example Grammar. p ¢\nRe Z\\\nbY Define CFG? Write about Derivation trees and Parse tree.\n| _ 8 wat is left recursion? Eliminate left recursion in the following grammar:\nA— Abd | Aa|a 0\nB— Be |b i\n5 5 p a)\nJ = 2 5 U ?\n: (d) Define Ambiguity? Check whether the grammar S>aAB, A >bC/cd, CJ cd, eb\nBO c/d, is Ambiguous or not? iV, nL\nat\n<9 (Attempt any Two Parts ) (5,5)\n(er with an example explain about various phases of a compiler with a neat diagram?\n(6) Discuss about bootstrapping with a neat diagram?\n(c) Write about the following: .\n(i) Role of Lexical Analyzer & Specification of Tokens using Regular Expressions\n(ii) Input Buffering\n—_ ~\"@3 (Attempt any Two Parts) Fe a 5a oe (5,5)\n(a) Write about shift reduce parser and parse the input string int id,id; using shift-\nreduce parser for the grammar\nSoTL;\nT—int | float\nL—-L,id | id\n(b) Construct LR(O) items and SLR Parsing table for the grammar S>L=R/R, L>*R/id,\naR? L\n(cf What is the difference between Top-down Parsing and Bottom up Parsing? Write\nabout Operator precedence parser with an example. ’\n0, un! ae\n= ny Ua, Wek y; { i)\n‘ O i 7\" } ’ LA ar\n5 um A f oe . t '\ni a\nisi ee ee gd\nC : pL\nie Af (3 ys ‘ \\ CAL >\n(@ilen } mk : ¥ £ py L ’\ni : o l Ly Wal :\n4 Lael ,\n‘ (es Ln\nDahl a\nf\nj [BOS F ]\np> tent Un ; et ale\nS¢"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-2/BAI102_JAVA_MID_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.4,
+   "text": "MID-TERMEXAMINATION\n(CBCS)\nB. Tech (CSAI), 2\" Semester\n(June, 2022)\n| Subject Code: BAI 102 Subject: Object Oriented Programming Using Java |\nTime: 1% Hours . Maximum Marks : 30\nNote:Q. 1 is compulsory. Attempt any two questions from the rest.\n(2.5*4)\n(a) Find the 5 errors in the following code\npackage java-exam;\npublic class Test Programs{\nstatic void main (String [10] args){\nString s = “abc”\nSystem.out.printin(s);\ni. (b) What is multiple-inheritance? Is multiple-inheritance allowed in java? How yes/Why\nnot?\ni (c) Differentiate between pure and ad-hoc polymorphism.\n(d) What will be the output for following code? Give reason\npublic class Test{\npublic static void main(){\nSystem.out.print(“Hello”);\nint a=10, b=20;\nSystem.out.print(a==b);\nSystem.out.print(“a =“+a+b);\n}\npublic static void main(String [] args){\nSystem.out.print(“Namastey!”);\nint a=10, b=20;\nSystem.out.print(“a==b”);\nSystem.out.print(“a =“+a+b); |\n_ ere (5,5)\n(a) WAP to remove all vowels from a string entered by the user and print it. Eg. Input:\n“JAVA EXAM” Output: “JV XM”.\n(b) WAP to print reverse pyramid pattern as shown (Star & spaces)\nxe EK\n}\n** * *\n** *\n* *\n*\n(10)\nand read(),\nand Duck\nons should\nclasses have read()\nS this?\n(a) WAP to create an abstract class Animals having Sound, name as variables\nprint() methods. Inherit the class in Cat (color), Dog (breed, height)\n(food_type). Create the 2-2 objects for each type of animals. Read functi\nread details from user and print functions should print them. All\nand print() without any arguments. Which type of polymorphism i\noh Sr rx\n(a) Differentiate between constructor overloading and constructor chaining within same\nclass. Explain both for the example with a Box class having length, width and hei ht\nCreate constructors to 1) initialize all variabies to 0, 2) all variables to user entered\nvalues, and 3) all variables to the same user entered value (cube).\nPrint the volume of the box for 3 different objects."
+  }
+ ]
+}

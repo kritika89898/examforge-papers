@@ -1,0 +1,11 @@
+{
+ "file_path": "papers/semester-4/BAI202_CN_MID_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "MID-TERM EXAMINATION\n                             (B. Tech. Al&ML/CSE-Al) (Semester -4\")\n                                   (March, 2024) OFF LINE mode\n\n  Subject Code: BAI- 202                            Subject: Computer Networks\n Time : 1 Hours                                                                 Maximum Marks:30\n Note: Q. 1is compulsory.\n\n Q1                                                                                 (2.5 4)\n       N) Distinguish between aPoint to Point link anda broadcast Link.\n         b List out the main responsibilities of Data Link layer?\n\n      ) What is CSMA? Explain the different persistence methods of CSMA.\n        What is Piggybacking in Computer Networks?\nQ2 (Attempt any Two Parts )          UNIT-1                                       6,5)\n      Nar Contrast and compare ISO- OSI and TCP/IP networking models.\n      (6) address\n            What is ?theExplain\n                           difference  between Port address, Logical address and Physical\n                                 with an example.\n           What is Unguided Media ? Explain diffèrent types of Unguided media.\n\n      (Attempt any Two Parts) UNIT-2                                             (5,5)\n             The message 11001001 is to be transmitted using the CRC polynomial\n            X+1   to protect it from errors. What is the message that should be\n            transmitted ?\n\n         (a) ACluster of stations share 48 Kbps of pure Aloha Channel. Every Station\n            outputs frames of length 1024 bits on an average of every 50 seconds.\n            Then what is the maximum value of number of stations?\n\n         egDescribe mechanism of sliding window protocol ?"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai416_end_2026_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.6,
+   "text": ". -\n| CQ)\n(Please write your Enrollment Number) Enrollment No. OYEOI7202\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OFFLINE)\nCourse Name: B.Tech (CSE-AI /EcE-al), Semester: VIII\n(May, 2026)\nSubject: Al In Healthcare\nMaximum Marks :60\nSubject Code: BAI 416\nTime :3 Hours\nNote: Q1 is compulsory. Attempt one question each from the Units |, Ul, Hl & IV.\nLe Define \"Structured\" and \"Unstructured\" data (2.5)\nby _» State two historical milestones in the evolution of Al within the healthcare sector.\n| What is a Clinical Decision Support System (CDSS)?\nay Differentiate between image \"classification\" and \"segmentation\" in medical imaging\n2 How can Natural Language Processing (NLP) improve Electronic Health Record (EHR) (2.5)\nA analysis\nDt | Name two common predictive modeling techniques used for patient risk (2.5)\n| assessment.\nB: | What is the primary purpose of HIPAA compliance in Al healthcare applications? (2.5)\nx! by | Mention one major ethical dilemma associated with using Al for medical diagnosis. (2.5)\nUNIT |\n| Describe the typical workflow of a healthcare data analysis project, from data | (10)\n| collection to deployment.\" |\nQx | Why is data preprocessing and cleaning considered the most critical step before | (10) |\n| performing hands-on analysis with healthcare datasets?\nes =. SS ees Sits, ite oS Se ee\nUNIT II\n.| Describe the technical process of medical image segmentation and classification, (10)\nand explain how these techniques assist in early disease detection? Jes |\n| How Al-powered diagnostics have transformed traditional CDSS, and analyze the | (10) |\n| ethical considerations involved in their implementation? |\nUNIT Ill =a\nLF) Describe the end-to-end process of developing a predictive model for patient risk Ta 4\n| assessment\n(\nExplain the significance of Natural Language Processing (NLP) in extracting value ) |\nfrom Electronic Health Records (EHRs). Discuss the specific NLP tasks involved and\nthe ethical considerations unique to processing medical text.\nUNIT IV\nHow can healthcare organizations address the issue of patient data protection'? (10)\nWhat are the potential benefits and the technical hurdles that must be overcome for (10)\nwidespread adoption Al-driven Telemedicine and Genomics?"
+  }
+ ]
+}

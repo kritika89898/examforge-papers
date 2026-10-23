@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec202_mid_2024_mar_fr2109.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.2,
+   "text": "]\nEnrollment No,\nMID-TERM EXAMINATION\name: B. Tech, ECE/ECE-Al/Reappear ) (Semester : Ath)\n(March, 2024) OFF LINE mode\n(Course N\n: Maximum Marks ; 30\nNote: Q.1lis compulsory, axim 5 3 1\nCe on\n) fine Common Mode Rejection Ratio (CMRR). Give its significance, UNIT-1\ncr What is Input bias current? How the effect of input bias current is UNIT-1\ncompensated?\n{c) Define hysteresis width. What ar UNIT\ne\n=] (d) List the different types of comparators with their i/p vs o/p waveforms. UNIT-2\ne different parameters that determine\nhysteresis width?\n| Q2 |Attempt any Two Parts) UNIT-1\n(a) Explain Pole-Zero compensation technique. Compare it with Dominant-Pole compe\ntechnique by plotting fully labelled gain vs frequency curves.\n(b) Explain the following op-amp parameters:\ni. Input Offset Voltage\nii. Supply Voltage Rejection Ratio\niii. Output Voltage Swing\niv. Slew Rate\n(C) Give the block diagram for internal structure of op-amp. Explain each block with detailed\ndescription.\n(5,5)\n| Q3_| (Attempt any Two Parts) _ UNIT-2 a ‘ ma\n(a) Explain the operation of square wave generator (Astable multivibrator) by\ncapacitor and output voltage waveforms. . —— ———\n(b) Explain the working of precision full wave rectifier with circuit diagram and draw inp\noutput waveforms.\n(C) Draw the circuit of an integrator an\nintegrator if the following input signals are applied:-\nave input\nnsation\nd explain its operation. Give output waveforms for the\n(i) Sine wave input (ii) Step input (ili) Square"
+  }
+ ]
+}

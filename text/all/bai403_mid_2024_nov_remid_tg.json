@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai403_mid_2024_nov_remid_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.6,
+   "text": "(Please write your Enrollment Number) Enrollment No,\nREMID-TERM EXAMINATION\n(Course Name: B.Tech) (Semester: 7\" )\n(November 2024) OFF LINE mode\n= ~ Subject: Computer Vision |\n_ Maximum Marks ;30 |\n[Subject Code: BAI403——— |\n| Time : 1 Hours -\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nFai (2.5*4=10) | CO Mapping |\n| a) T What do you mean by digitization of image? 2.5 ; >\nbe - —_—_—_—_—__. |\n6b) | Write and explain various applications of computer vision? | 25 | 1\n|\n- | Briefly explain edge detection. res i,\n‘d) | How CNN differs from ANN? | 25 | 1\n“a2 | Attempt any two parts | (5*2=20) | CO Mapping |\na) Describe the process of gradient averaging in SPGD. How does it\naffect the convergence and stability of the algorithm? Ean\np}\n6) | Explain the concept of backpropagation and its role in training\nneural networks. Why is it essential for learning in deep\n| networks?\nc) | Explain the concept of linear classification. How does a linear 1\n| classifier separate data into different classes? aga | ale\nUNIT II\nlaa | Attempt any two parts (5*2=10) CO Mapping |\n‘a) | What is the function of ReLU layer. Give suitable example. awe >\nb) | What are the different types of pooling? Explain their\n| | characteristics.\neee\n¢) | Write short notes on i) LeNet ii) ResNet 05 1\na"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-3/BAI201_AI_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.1,
+   "text": "(Please write your Enrollment Number) Enrollment No,\nSEE\nEND-TERM EXAMINATION\nB.Tech. CSE-Al/ AI&ML Semester: Ill\n(November-December, 2023) OFFLINE MODE\nSubject Code: BAI-201 Subject: ARTIFICIAL INTELLIGENCE\nTime: 3 Hours Maximum Marks: 60\nNote: Q. 1 Is compulsory. Attempt one question each from the Units I, Hi, Hl & IV,\n{c) What do you mean by feature extraction? Briefly explain popular methods of feature\nextraction,\n(d) Differentiate between rule-based and learning-based Al ap\ne) Explain mombersh!\nAnswer the questlons in part |) and Il) based on the figure 1 below:\nPlease refer to Figure | and answer the following questions.\nApply the mintines #lyorithin to the BANG troo In Figure 1, wie\nturn to play, ‘The volves eatinmated by the evaluation functdo\nAsauine that the search alwnyn visits children in a len-to-ri\n») Compute tho backed-up values computed by:\nenewer by writing values at the oppropriate\ni Indicate the propee mova for the MAXIM!\nlndieniviy ——=4 10 ihe reot'\nro it im the MAXIMIZER *‘y\nn are indicated at the leaf nodes,\nwht order,\nY tho minimen Aigorithn, Shaw your\nNodes In the above tree.\nZER by mark\n* Outgoing edges.\ning the line with bold"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.0,
+   "text": "Qs\naa\nQs\n1\nWhat ls minimax algorithm In Al? Explain Its steps? What Is contingency (10)\nproblem I Minimax? State advantages and disadvantages of Minirnax?\nUNIT-I\ndifferent approaches to get Word embeddings, and list the properties of\ndifferent approaches of Word embeddings?\nConsider these statements and answer the questions below: f\n(a) Convert all the above statements into predicate logic\n(b) Show that John likes peanuts using back chaining\n(c) Convert the statements Into clause form\n(d) Using Resolution show that “John likes peanuts”\nStatements:\nJohn likes all kinds of food,\nApples are food.\nChicken Is food,\nAnything anyone eats and it Is not killed is food.\nBill eats peanuts and is still alive,\nSwe eats everything Bill eats\nUNIT-III\na) A doctor has decided to prescribe two new drugs to 200 heart patients as (20)\nfollows: 50 get drug A, SO get drug B and 100 get both.\nDrug A reduces the probability of a heart attack by 35 percent, drug B reduces\nthe probability by 20 percent, and the two drugs when taken together, work\nindependently.\nThe 200 patients were chosen so that each has an 80 percent chance of having a\nheart attack, find the probability that the patient was given both the drugs?\nb) Consider fuzzy set A defined on the interval x= [0,10] of integers by the\nmembership function pA(x) = x / (x+ 3). Find a cut corresponding to a =0.6\nHow do Al-based systems deal with Uncertainty? State the strategies adopted | (10)\nto handle Uncertainty problems in Al? Explain Bayesian belief networks and\ntheir applications?\n—\nUNIT-IV\nExplain the Importance of Natural Language Processing (NLP) and its (10)\ncomponents? Explain NLP techniques and any five applications of NLP.\n. (10)\nExplain the significance and scope of Expert Systems in Al, and the components\nof an Expert System? Elucidate the steps for development of expert system |\nalong with its participants?"
+  }
+ ]
+}

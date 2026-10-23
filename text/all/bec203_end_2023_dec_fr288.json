@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec203_end_2023_dec_fr288.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.7,
+   "text": "(Please write your Enrollment Number) Enrollment No f(Y¥Oi929 O07\nEnd-Term Examination (Regular & Reappear)\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B.Tech ECE>, Semester:<3>\n(November-December, 2023)\nSubject Code: BEC 203 Subject: Signals & Systems\nTime :3 Hours Maximum Marks :60\nNote:Q. 1 is compulsory. Attempt one question each from the Units |, Il, Ill & IV.\na 25%8=20\nre a) Difference between Static and Dynamic.\na | (b) What do you mean by Superposition principle ? Explain it with example.\n(c) Check whether the signals are periodic or aperiodic-:\n|. Sin 30 rt\nUl. Sinzrt u(t)\nid) Ss Explain the property Time shifting with example.\n|__| {e) Explain the difference between Linear and Non-Linear phase. | |\n| NA Describe the properties of LTI system. —_\n| (g)~ Explain the properties of ROC. | |\nState the Differences with example-;\n& a (hb) What do you mean by Aliasing? |\n(10)\na) Even and Odd signals\nb) Continuous time signal and discrete time signals\nDraw the waveforms of the following signals-: (10)\na) Xa(t)=u(t-2)\nb) X2(t)=u(t+3)\nc) Xa(t)=u(-2t+1)\nd) Xa(t)=u(-t)\ne) Xs(t)=u(t)-2u(t-1)+u(t-3)\nel\n| aa | Describe the properties of periodic signals in detail | (20) | |\nFind the Fourier transform of the signal g(t) defined by (10)\ng(t)=te** u(t)\n: : 0\n[oy |\nExplain the terms-:\na) Group Delay\np b) Phase Delay\na7 | What do you mean by All Pass system? Explain it with suitable diagrams.\nUNIT-IV\n“Explain the terms-:\na) Sampling\nb) Interpolation\nDetermine the Laplace transform of-:\nX(t)= - etu(-t)+e'u(-t)"
+  }
+ ]
+}

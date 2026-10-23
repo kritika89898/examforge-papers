@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-5/BCS303_TOC_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.3,
+   "text": "6 OMA (420\nMID-TERM EXAMINATION\n(Course Name _B. Tech 1T/ CSE-Al/ CSE) (Semester Sth)\n(October, 2023) OFF LINE mode\nSubject: Theory of Computation ——\nMaximum Mar\nas%)\nxf Define Finite Automata and Discuss the difference between DFA and NDFA7\n| (by How many tuples are used to define Grammar? Explain the tuples of grammar with the\nhelp of an example grammar. K\n(ey hat are Null Production, Useless Symbols, and Unit Production in grammar? Discuss witl\nexample.\n(ay) ‘ind the language accepted by the following Finite Automata?\ni ?, 5 o a o\nDF A ie\n©\nom\nAttempt any Two Parts UNIT-1\n| (6) Convert the following NFA to DFA.\n(b) Design a DFA that accepts all the strings not having more than two a’s over the alphabet |\nE = fa, b}. And check whether the string abababaaabbbba is accepted.\n| s Define Pumping Lemma for Regular Languages. Explain with a suitable example. cid\n55) ee\n| Q3 | (Attempt any Two Parts) UNIT-2\nbiguous grammar for the following =|\n(g¥ What is ambiguity? Find the equivalent unam\nEDE+E\nE>E*E\n>id\n| (6) What is CNF? Convert the following CFG to CNF?\nS>ABa\n(c) Simplify the following CFG? Discuss the simplification procedure.\nSaSSS/aA/aBB\nADaAA/Ble\nB>bB/bbC\nC3B\nD~a/bbe"
+  }
+ ]
+}

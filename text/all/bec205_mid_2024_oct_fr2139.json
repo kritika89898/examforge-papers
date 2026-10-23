@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec205_mid_2024_oct_fr2139.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.5,
+   "text": "PI :\n(Please Write your Enrollment Number)\nEnrollment No. I2}Full Bor &\nMID-TERM EXAMINATION\n(Course Name: B, Tech (ECE) 2nd Year) (Semester: 3rd)\n(October 2024) OFFLINE mode\n(2.5*4=10)\n| a) Define Kirchhoff’s voltage law.\nco\nMapping\nFue | b) Derive the current division rule. —— | |\noe | ¢) Explain the process of source transformation. f ~~ wlio\n| d) Find Laplace Transform of e®.\nco\nMapping\nPea |\nAttempt any two parts\na) For the circuit shown in fig-1, determine the current (1)\nthrough the 10 0 resistance using Superposition Theorem.\nb) For the circuit shown in fig-1, determine the current (I)\nthrough the 10 0 resistance using Thevenin’s Theorem\nc) For the circuit shown in fig-1, determine the current (1)\nthrough the 10 0 resistance using Mesh Analysis Method —\nUNIT II\nAttempt any two parts - 7 7\na) Consider the RC series circuit shown in Fig. 2 (Vs — (R *\nQ), (L= 2H), (C= 0.25 F). Determine i(0) , di(0)/dt, d*i(0) /de\nand i(t).\nb) Draw the graph of network shown in fig. 3 and also write\nIncidence Matrix for given network: oe\naie. | c)Find the Laplace transform of é (sinw"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 40.8,
+   "text": "Fig. 1\n~~\n~"
+  }
+ ]
+}

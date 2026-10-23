@@ -1,0 +1,11 @@
+{
+ "file_path": "papers/all/bec205_mid_2026_mar_fr255.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "Enrollm\nPlease write your Enrollment Number)\n                                  MID-TERM EXAMINATION\n\n                        (Programme: B. Tech. ECE/ECE-AI) (Semester: lI)\n                                   (March 2026) OFF LINE mode\n\n                  O4\n Subject\n        Code: BE                                         Subject: Network Analysisand Synthesis\n Time: 1 sHOUrs                                                              Maximum Marks :30\n\n Note: Qizis compulsory. Attempt anytwo pas f Q2 and Q3\n\nQ1                                                                                      (2.5*4=10)\n     a) State Superposition Theorem.\n      b) What is the condition for maximum power transfer in a DC and in AC network?\n     c) Atwhat time does the current reach 63.2% of its final value in an RL circuit?\n     d) Why does current in an inductor does not change instantaneously?\n                                          UNITI\n\nQ2   Attempt any two parts                                                               (5*2=10)\n     a)State Thevenin's Theorem and mention its advantages and limitations.\n     b) Find the Thevenin's resistance of the network shown in Fg-1\n                               (2+ j5)!                  (3-j5)12\n\n\n                       10020V                                50290°V\n                                                    9B\n\n\n                                          Fig:1\n      c) Find the Thevenin's Voltage of the network shown in Fig-1\n                                          UNIT II\n\nQ3    Attempt any twO parts\n                                                                                        (5*2=10)\n      A series RL circuit has: Resistance R=109\n      Inductance L=2H, Applied DCvoltage V=50V Calculate:\n       a, Tirme constant of the circuit\n\n\n      b) Expression for current growth i(t)\n     c) Current at t-0.2 seconds"
+  }
+ ]
+}

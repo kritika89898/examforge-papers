@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec201_mid_2023_oct_fr25.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 77.6,
+   "text": "(Please writ as NT oA SP Rae ea SS af Ff «\n© your Enrollment Number) fi\nF\nEnrollment No._697701022022\nmip-TERMEXAMinay\n(cee ION\nCourse Name: B.Tech: ECE, Semester; 3°4\nSemester\n(October, 2923)\nSubject Code\n- : BEC-201 Subject:\n| Subion code: ee 03 ~~] bject: Analog Electronics\nNote: Q. 1 is compulsory Maximum Marks : 30\n—\na) Explai ; F\n(a) Explain the Operation of a Darlington pair, Why is it called as “Super pB”\n(b) eaetation, Justify with required analysis,\ndiodes _ PIV rating mean in a rectifier circuit? Why does the PIV of the\nin a full ~wave rectifier need to be 2*xVm\n© wets Vm is the peak voltage of the input AC signal.\nis biasing? Why do we need biasing? Name few biasing techniques\nor common! used in BJT circuits.\ni. rive the relation between small signal base resistance and small signal\nemitter resistance,\nof Figure given below\n| Q2_ | (Attempt any Two Parts) UNIT-1\n(a) Sketch the Output voltage waveform for each network\nand explain their operation.\nc c\no—f v,o—] %o\nIdeal\n(bs) Analyze the input and output characteristics of common base transistor\namplifier configuration with the help of V-I waveforms. Explain different\nregions of operations with detailed working of CB transistor.\n(c ) Identify the circuit given below and explain its operation.\nTwo Parts) _UNIT-2 = -\nAe alyze the circuit given below Using small signal modelling (SSM) in\na\namplifiers & find its voltage gain\npage 1 of 2"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 93.9,
+   "text": "(b) Analyze the small signal common emitter BJT configuration and derive the\nfollowing characterizing parameters for the same:-\n(i) Input Resistance (Rin)\n(ii) Output Resistance (Ro)\n(iii) Open Circuit Voltage Gain (Avo)\n(iv) Closed Circuit Voltage Gain (Av)\n(v) Overall Voltage Gain (Gv)\n(c ) Differentiate between Cascade and Cascode amplifiers. Give one example of\neach with circuit diagram. Also, discuss the operation, advantages, and applications\nof emitter follower circuit."
+  }
+ ]
+}

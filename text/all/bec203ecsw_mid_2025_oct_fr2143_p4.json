@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec203ecsw_mid_2025_oct_fr2143_p4.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.1,
+   "text": "QreSaet WIT YUU CH WITITITEak wetting Re ee Mtr ee eee 00 eee ¥ were |\nMID-TERM EXAMINATION ie AB cs\n(Course Name: B. Tech (ECE/ECE Al’ (Semester: 3rd)\n(October, 2025) OFF LINE mode\nSubject: Electronic Circuit Simulation Workshop\nMaximum Marks :30\nSubject Code: BEC 203\n| Time : 1 AHOurs\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nROY TCO Mai\na) €xplain the h-parameter model of a transistor at low —| CcO1\ncoi\nCO Mappin,\n(5*2=10)\na) Draw the hybrid-m equivalent circuit for a CE amplifier and\nCO1\nexplain each element. —|\nb) With the help of diagrams, explain the operation of a Col\n>| Darlington pair amplifier. —_—\nc) ACE amplifier is drawn by a voltage source of internal col\nresistance r,= 800 Q and the load resistance R,=1000 Q. The\nh-parameters are hie=1 kQ, hre=2x10%, hre=50 and Noe=25pA/V.\nCompute the current gain (Ai), Input resistance (Ri), Voltage\ngain (Ay) and output resistance (Ro) using exact analysis and\nfrequency.\nb) Compare CB and CE configurations of a transistor in terms of\ninput resistance and current gain.\nc) State the significance of capacitances (Cm and Cy) in hybrid-m\nmodel.\nIn a UJT relaxation oscillator, the value of Res is SkQ and stand\noff ratio n=0.6 at le=0. The value of Raz.\n| UNITI\nAttempt any two parts\napproximate analysis.\nUNIT I | a | CO Mappin\n| 03 | Attempt any two parts\na) Explain the Hybrid-n model at high frequency and its — CO?\nb) Discuss the characteristics and applications of TRIAC and CO2\nc) Explain the working principle and operation of a Thyristor and CcO2\n|| list its practical applications. — .\nsignificance in amplifier"
+  }
+ ]
+}

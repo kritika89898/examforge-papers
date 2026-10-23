@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec206_mid_2024_mar_fr276.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.7,
+   "text": "(Please w\nrite your Enrollment Number) Enroll\nMID-TERM EXAMINATION\n(B.Tech, ECE/ECE-Al/Reappear) (Semes!\n(March, 2024)\nSubject Code REC onc |\n[ Subject Code: BEC 206 | Subject: Electror\n___ Oe et\nTime: 1 YaHours\nNote:Q.1 is compulsory.\n(a) Derive spherical coordinates in terms of Cartesian coordi\ndiagram. |\n(b) Discuss Gauss’s law = i aa\nae | (c) Discuss the conservative nature of an electrostatic field.\n(d) Explain the difference between line, surface and volume charge density. -. 2\nor |\n[a2 fatematanyTworens) wa\na) ne laplace and poisson’s equations. Find V* V for the scalar field V = r? (1+cos\nsin 9).\n(b) Given vector A = 2ap + 3ad + 4az, convert A into Cartesian coordinates at point\n(2, n/2, -1)\n| (c) State Stoke’s theorem. Evaluate the curl of A = xy ax + y“ay + XZ az, a |\n(Attempt any Two Parts) UNIT-2 (5,5)\nbia | (a) Demonstrate the general case of electric fields intensity due to line charge distribution} |\n| (b) Prove that tangential component of electric field undergoes no change on the\nboundary between two different media.\na | (c) Given the potential V = (10/r)in@ cos@. Find the electric flux density D at (2,7¢/ 20) |"
+  }
+ ]
+}

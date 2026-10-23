@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-5/BAI301_ML_END_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 80.4,
+   "text": "(Please write your Enrollment Number)\nEnrollment No. {(7 0 [17 2022.\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nB.Tech :<>, Semester:<7>\n(December, 2024)\nNote:\nQl —\nSubject Code: BAI-301 a a \"\" _ Subject: Machine Learning\nTime : 3 Hours _ Maximum Marks :60_\nee\nQ1 ls compulsory, Attempt one question each from the Units LU, IV,\n(2.5%8*20) | CO Mapping”\n' Why is data cleaning an essential step in the machine learning i\npipejine? Ee S\ntne Is the importance of evaluation metrics in machine learning? iil -.\n(e)) hat is the difference between Ridge Regression and LASSO 2\npacbrpssion? \\ ~-\n[Serine the kernel trick In Su\n} pport Vector Machines, Ss\nLey What is k-means clustering, and how isit different from hierarchical _ 3\n“clustering? <a\nSBetine Dimensionality Reduction at =\nre pwWhat is meant by cross-validation, and whys itimportant? 4\n_byb efine ensemble learning and list its types, 4\nUNIT! CO Mapping\nExplain the Machine Learning Cycle with an example, highlighting key _ ~~ (10) —— Peal\nValidation.\nData Objects and Attributes, Visualization, and Feature\nUNIT II\nclassification?\nExplain Naive Bayes Classifiers with examples.\nUNIT Ill\nDiscriminant Analysis (LDA). Give examples\napplication in clustering.\nUNIT IV\nstages like Train-Test Split, Validation Data, and K-Fold Cross\nTEE\nDiscuss the process of Data Exploration and Pre-processing,\nExplain Logistic Regression in detail. How |s it used for binary\nDescribe the process of Principal component analysis (PCA) and Linear\nExplain the Expectation-Maximization (EM) algorithm and its\nExplain the concept of Random Forests using an example. How does it\nimprove prediction accuracy compared to a single decision tree?\na\nincluding (10) 1\nExtraction,\nco Mapping\n(10) 2\n(10) 2\nCO Mapping"
+  }
+ ]
+}

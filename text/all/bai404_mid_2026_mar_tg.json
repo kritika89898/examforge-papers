@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai404_mid_2026_mar_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.9,
+   "text": "Enrollment No._04 £0 1/7227\n(Please write your Enrollment Number)\nMID-TERM EXAMINATION\n(Programme: B. Tech. Al&ML/CSE-Al) (Semester: VIII)\n(March 2026) OFF LINE mode\nSubject Code; BAI 404 Subject: Social Media Analytics\nTime : 1 4Hours Maximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n(2.5*4=10) | CO Mapping\nvr Define Social Media Landscape, and describe its key\naspects.\nDt “ What is the need of the Social Media analytics in small as\nwell as large organizations, give example.\n= Define Micro Test Analysis and list various techniques\nused for the same.\nC B] Differentiate between Web crawling and Web Indexing. 3\nUNITI CO Mapping\n——\n,Q2_/) Attempt any two parts (5*2=10)\nab ‘Explain Social Networks and its different perspectives\nwith example.\nib} What are the key aspects of Information Visualization in\nsocial media networks, how they are influencing the\nanalysis.\nc) Describe the important models end tech que: used in\n| Social Media Analytics in different types of its,\nCO Mapping\na) What does Social affiliation and contexts mean ? How do\nSocial contexts influence the identity, give example.\nDefine Web Analytics, explain its tools and techniques\nwith example.\nUs Describe the Random graphs and evolution methods for\nSocial Network Analysis."
+  }
+ ]
+}

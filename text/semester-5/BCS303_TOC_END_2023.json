@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BCS303_TOC_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.2,
+   "text": "End-Term Examination\n(CBCS)(SUBsECTIVE TYPE)(OffLine)\nCourse Name:<B.Tech (T/ CSE-Al/ CSE>, Semester:<5>\n(November-December, 2023)\nof ation\nTime :3 Hours i Theory of Computat Maximum Marks :60\nNote:Q, Lis ulsory, Attempt one question each from the Units |, Ht, 1 a iV. |\na a a al Cs\nEz How many tuples are used to define a Finite Automate, explain with an\nexample? rn\na Design a DFA which accepts all the strings starting with 00 and ending ES\n101?\npa What is Greibach Normal Form, explain with an example? CFG)? Bag\naes\" Discuss about different closure properties of Context Free Grammar ae\ntion tree and Rightmost\nWhat is the difference between Leftmost Deriva j\nDerivation tree, draw the derivation tree for the string id+id*id using\nfollowing productions of the grammar.\nEDE+E, EDE*E, E>(E), EDid\nWhat is a Turing Machine Transducer? Design TM fo\nWhat is the difference between Context Free\nSensitive Language, explain with example?\nWhat is halting problem, discuss about it briefly?\nr 1's complement.\nUNIT-4\n[ay Find out whether the strings 00, 01001, 10010, 000, 0000 are\naccepted by the following Nondeterministic Finite Automata\nExplain the steps followed in minimization of Finite Automata and\nminimize the following finite automata.\nUNIT-Ii\naQ4 How many tuples are used to define a Pushdown Automata\n(PDA) (describe cach tuple) and design a PDA for L = {a\"b™:\nn>G} on D = fa, b}.\nPage 1of2"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.6,
+   "text": "“Find out whether the grammar > a5b/S5/e is ambiguous of not.\n(Where eis epsilon — empty string).\n“Define Chomsky Normal Form (CNF), Convert the following\n‘Context free grammar to CNF.\nS>bA/aB\nA>bAA/aS/a\nB>a88/bS/b\nping Lemma for context free languages find out\nBy writing the Pum Ei\nwhether the language L = {a\"b?\"c\"/n>1} is context free or NOt. i$\nae ) Design a Turing Machine which accepts the Language L=\n{a\"b\"/n>1} over f= {a,b}.\nb} Discuss about Chomsky Hierarchy of Languages.\nUNIT-IV\n(a). Briefly describe about Complexity classes P and NP,\n(b). convert the following Moore Machine to Mealy Machine.\né ;\nNext state\nInput a=1"
+  }
+ ]
+}

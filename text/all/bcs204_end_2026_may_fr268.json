@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bcs204_end_2026_may_fr268.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.5,
+   "text": "(Please write your Enrollment Number) Enroll\nnrollment No.\na,\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE) (Off\nLine)\nProgramme: <B.Tech (CSE-Al/ IT/AI&ML/ECE-Al)> Semester:<a'>\n(May, 2026)\nSubject Code: BCS 201\nTime: 3 Hours\nSubject: Design and Analysis of Algorithm\nMaximum Marks 60.\nNote: Q1 is compulsory. Attempt one question each from the Units |, Il, Ill & IV.\n5*4=20)\n| ay Discuss the Big-O and Big-Omega asymptotic notations and their significance in\nanalyzing algorithm. Also prove that % n(n-1) = O(n’) by finding the values of Cy, C2,\nand,no. .\n| bY Why is Huffman coding optimal? Construct the Huffman Tree and calculate the\ntotal number of bits required to encode the message for the following set of\ncharacters with their frequencies:\nA:5, B:9, C:12, D:13, £:16, F:45\nind the topological sort of the following graph.\na.\n: dy\n13% —_\n? Mad mb\noa | ~e\nOM ei ©\nSy ae\no* 20\n\\\n/\nmatching automaton for the pattern P= aabab and illustrate\naabababaabab.\nd/Construct the string-\nits operation on the text string T=\nSolve the following Recurrences\ni. T(n) = 4T(n/2) +n?Vn\nii, T(n) = VnT(vn) +n\nnd both the maximum and minimum elements in an array\nha suitable example. Also,\nuired,.\nWrite an algorithm to fi\nsimultaneously using 4 divide-and-conquer approach, wit\nwrite its recurrence relation and analyze the number of comparisons req\nnd greedy approach. Write an\nhe Matrix Chain Multiplication\nhe following Matrix\nDifferentiate between the dynamic programming a\nalgorithm and analyze its time complexity to solve t biden\nproblem, and determine the optimal parenthesization !0f\nchain:\n2x7)\nmming? Write 2M algorithm\ntime and space Complexit\ndg Y=\"BDCABA\", y\nA1(5x4), A2(4x6), A3(6x2), A4(\nality usedin dynamic progr\nSubsequence and analyze its\n\"ABCBDAB\" an\nHow is the principle of optim\nto find the Longest Common i\nby constructing the table for the strings x="
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.0,
+   "text": "UNIT III\nFor the give i irecte s\nTan hurtace, She tar directed graph, apply the Floyd—Warshall algorithm to find\nSikdshow th Ps nS etween all pairs of vertices. Construct the initial distance matrix\n€ Intermediate updates leading to the final shortest path matrix,\n‘a 5 »\nAlso, write the algorithm and analyze its time complexity.\nExplain the N-Queen problem and write an algorithm to solve it using the\nbacktracking approach. Analyze the time complexity of the algorithm and for N=4,\nshow all the steps involved in the backtracking process, including the state-space\ntree or partial configurations.\nExplain the Rabin—Karp string matching algorithm and analyze its time complexity.\nWorking modulo q =11, how many spurious hits does the Rabin-Karp matcher\nencounter in the text T =14159265 when looking for the pattern P= 26?\nDiscuss the classes P, NP, NP-hard, and NP-complete with a suitable diagram, and\ndescribe the steps involved in proving that a problem is NP-complete."
+  }
+ ]
+}

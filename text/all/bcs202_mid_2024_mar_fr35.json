@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bcs202_mid_2024_mar_fr35.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.0,
+   "text": "(Pleas i\n7 ew\nwrite your Enrollment Number)\n2 Prrolinent ta,\nMID-TERM EXAMINATION\nB.Tech CSE/ECE-AI/ECE JIT /MAL /DMAM/Reappear Sem: iy\n(March, 2024) OFF LINE mode\nCourse Name .\n_—\nSubject Code: ace pag\n7€: BCS 202 1 rm\nSubject: Computer Organization and\nTee ——— Architecture\n| Attempt all questions latin oe Maximurn Marks + 40\nci ence)\nAttempt all parts\na\ni eae NOR Gc tcl by using NAND or NOR Gate only and show its truth table for two\nD. Explain the functionality of the D flip flop with the help of its truth table. Justify how\nD F/f can be used as a memory element?\nc. Calculate 2’s complement of the following numbers in 2 bits forrnat and represent it in\n| |EEE-754 floating point notation (i) 10010011 and (ii) 10101110\n| cd. What are the micro-operations and explain the microoperations for any instruction with\nthe example\nQ2 | Attempt any two parts [ UNIT1-]\n(a) Simplify and then Realize the given following Boolean equation using basic gates\n| ABC+AC+ C+D and find how many minimum numbers of gates are required?\n_(b) What are the different methods that are used to represent the numbers in computers\n| | and explain any two methos that you suggest along with its merits and demerits?\n| (c} Whatisa bus and what are the different buses being used in computers organization\nand explain its functions with the help of block diagram?\n5,5\nAttempt any two parts [ UNIT2-]\n= . . * .\n(a) What isan instruction and explain instruction with the help of instruction cycle considering\n| he data 30 into Accumulator]\nthe MOVA, #30h [Movet\n(b) Design a 4-bit parallel adder and subtractor and how many minimum full adders and\nhalf adders are required.\n(c) What is microprogrammed Cc\nmicroprogram. Define the functio\nHow an instruction sequence is generated using\nontrol unit.\nning of control registers."
+  }
+ ]
+}

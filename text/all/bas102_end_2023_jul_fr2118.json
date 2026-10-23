@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bas102_end_2023_jul_fr2118.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 70.9,
+   "text": "aS A —E—E———— t—™\nQ Write your throlme a\nnt Number; cium INUs\nEnd-Term Examination (REGULAR)\n(CBCS)(SUBJECTiye TYPE](Offline)\nive TYPE](\nCourse Name:<B, Tach, . IT/MAE/DMAM> Semester:<2nd>\nJULY 2023\nime ‘3 Hours\nlote « Subject: Applied Mathematics II\n‘QLis compulsory, Attem Maximum Marks :60\nm Pt one question each from the Units |, 1, I & IV.\nIbject Code:\noo me emene,\n(a)ifea\nxt yp 4\nzk Qa as\nnd \\?| =r » then Prove that grad ( ) =\n1\nr\n(b) Descri\nibe the physical interpretation of curl\nC :\n(c} Solve (D’ 20 +.4)2y =, D\nf a homogeneous differential equation.\n(d) Define th\n€ term “ ian” ions 0 i\nWronskian” of the solution are linearly independent or not using\nCheck whether the functions 1, e~* and e~2*\nWronskian.\n(e) Find the Laplace transform of Sy = dx.\n¢, 0<tS 5\n(f) Find the Laplace transform of f= ee 0, t27-\n(g) Ifu= = log(x? + y*) , then determine its analytic function.\nene %\n(5*2=10)\n(h) Evaluate J = §. = around |\n(i) Circle |z — 2| = 4\n(ii) Triangle with vertices at (0,0), (1,0),\n= ; ; 2 Bi\n(a) Evaluate the line integral of F over the circular path given by x° + y° =\na?,z = 0 where\nF = (siny)i+x(1+cosy)j.\n(b) Evaluate ff F..d§ using Gauss divergence theorem where © a axylt+\nyz*p+ zxk and S is the surface of the regicn bourdee oy % = Vy = 0,2=\n0,y=3,x+22=6.\noe | O20\n(a) Evaluate ff F.Aa dS , over § where f = yit+tZxj—zk and S$\nsurface of the plane 2x + y = 6 inthe first octant os oi cy Se pene Z=\n4. ae\n(b) Verify Green’s theorem for\nf. (- dx += dy) | |\nPage lof 2"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 62.2,
+   "text": "UNIT\n——\n—\na ntedt..\n‘ unded —\nwhere Cle the boundary of the region ps by the parabola y = vx and\nthe finesa = 1, 454 = 1s\n(a) Solve (D? 4 5D 4 ay = x24 7X 49 YY Operator method. (5*2=10)\n. 9 - i - “a ,\nprebeeg: (D8 = Vy = e™* since\") 4 cos(e ) by Variation of Parameter\nAes\nmre ——\nee.\nte\n1 (@) Solve a2 ay ay\nse 33\nae t SY = x? sin(log x) Te oe (5*2=10)\n| (b) § “* a ai\nsolve (D* — 2D)y & ek ain y |\nsin\nys eo sing by meth Of Undetermined Coefficients\n/ Q6 (a) State and\n| . Prove First Shifting theorem\n| transform of e@' sin? 3t. : la easimieaine ual\n| 1\n| (b) Find inverse Laplace transform of pom by using convolution\n| theorem, est?) .\n| Q7 ;\nQ (a) Find the Laplace transform of (1 + te-t)° : (502-10)\n(b) Solve (D? —-2D + 1)y =e! »y =2 and Dy =—1att =0 by using\nLaplace transforms.\n|\n2xy(xtiy) , ; '5*2=10)\n(a) Show that for f(z) ={ x*+y? ’ if z #0 |\n0, ifz=0\nC-R equations are satisfied at origin but derivative of f(z) at origin does not\nexist.\n2 t 4 \"\\ 0 ( Y\n(b) Find the residue of f(z) = me at al'its isoiated singular points, 2, |(2 8}\n(22 4 3) L |\nbts > lid Ak Alt\n. y a ‘ ~\" vg — ——_—_— 5* at |\n(a) Find the Laurent’s series of f(z) Girtea) (5 *2=10)\ninl <|z| <2.\n-1 He\n(b) Evaluate J. ey , where C is |Z ~ i] = 2,\nBi ALS SEY Sn ee | COD |"
+  }
+ ]
+}

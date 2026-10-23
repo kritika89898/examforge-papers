@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai205_end_2024_dec_fr2120.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.1,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE}/ Offline)\nCourse Name: B. Tech, Semester: 3°\n(December, 2024)\n| Subject Code: BAI 205 _ : f \"Subject: : Neural Networks and Artificial Intelligence |\n| Time :3 Hours —- Maximum Marks: 60\n= —_—_—_______}\nNote: Q1 is compulsory. Attempt one question each from the Units I, HH, 1H & IV.\nco\nMapping\nOS ee\net a\nco\nMapping\n(10) co1\n| (2.5*8=20)\nExplain the concept of 'search knowledge’ ir in the context of Al and |\n2.5\nprovide one example of its use in n pro blem-solving. a\nWhat are intelligent agents? Describe the r role of age nts in the Al\nsystem architecture.\nExplain the Means-End Analysis technique with an exam\nproblem-solving in Al.\npie of\n/d) | Analyze the significance of alpha-beta pruning in improving the\n| performance of Minimax in decision-making systems.\nWhat is a conceptual dependency graph? Demonstrate its\napplication in representing natural language sentences.\nExplain how semantic networks can be used for reasoning.\nWhat are radial basis function networks? Explain their working and\nsignificance in Al applications.\nExplain the role of activation functions in neural networks.\nCompare commonly used activation functions with examples.\nCompare informed and uninformed search strategies. Evaluate\ntheir effectiveness in solving a given problem with an example.\nExplain the functionality of different types of intelligent agents.\nDiscuss their relevance in designing autonomous systems.\nUNIT - II\nDefine informed search strategies and explain how heuristics\nco\nMapping\ninfluence their efficiency. Further, Explain the A* algorithm in (10) co2\ndetail. -\nead crise constraint satisfaction problems (CSP). Solve a real-world jm\neal ree: (e.g., Sudoku) using CSP techniques.\nUNIT Ill oe\nMapping"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.3,
+   "text": "ee ns\nDiscuss the principles of Forward Chaining and Sackward Chaining\nwithin Rule-Based Systems, emphasizing their distinctions and\nreal-world use cases.\nExplain how predicate logic extends propositional logic for\nknowledge representation, Discuss its application in knowledge\nrepresentation.\nDescribe the learning paradigms in Al: supervised, unsupervised,\nand reinforcement learning. Provide real-world examples for each.\nee\nCompare single-layer perceptron with multi-layer perceptron.\nExplain how backpropagation improves learning.\nco\nMapping"
+  }
+ ]
+}

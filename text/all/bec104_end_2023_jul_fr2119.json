@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec104_end_2023_jul_fr2119.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 72.9,
+   "text": "ad-Term Examination (Regular & R\neappear\nr +gcs/Non-CBCS)(SUBJECTIVE sypekomies\ncourse Name: BTECH ECE Al, Semester: 2nd\nVULY 2023)\nject Code: BEC 104. ject: DIGITAL ELECTRONICS\nMaximum Marks :60\nne 3 Hours _ SS\n— ae Arrempt © one question each from the Units |, I, Itt & IV.\nte:Q. 2 is compu!\n\"B+ CIA. ‘Dy’ using the convention A=true=1 and B=False=0.\nans BAR)\ni the following expression into sum of products;\n~rvert sath c\nx+y ly t2 }-\nimp! ement the following Boolean expression with exclusive-OR and AND gates:\nee + A'BCD' + AB 'C’'D+A'BCD.\naris the : difference be between binary code and BCD?\nsae do you ‘understand by encoder? Draw the circuit d\nWr te first and § second De-Morgan’s theorems.\nxpiain the » difference between SRAM and DRAM.\nx +x\ngram.\nWr at is the difference between Logic gate and Flip-Flop?\nUNIT-I\nz_| | Extrac a the ex e extitation table of SR, JK? D and T Flip Flops. Show all st¢ all steps.\nFen) Ex ain the f oction “of the he circuit shown below through state state a\ndiag fend. Mee Pa =\nAy\njt\nUNIT-H\nL , es SOOO\n1 -Sesign a pulse train generator for the waveform shown below: -\n[| ‘ jefe ‘ 10\n| @ notes on 2R-R ladder and binary weighted DAC, with proper diagram\n| “e Vrit\nnd examples. 0\nUNIT-Il\n1a hot isa B Shift t Register and its various types? Ust out its applications. Explain\n\\ cert in-Serial-Out shi -Out shift register u using Truth Table and Greut\nQ? combinational circuit Is is defined by the following ng functi\nNement this circuit ase\na B,C) = im(4,5, 7) and F2(A, 8, C} = Em(3, 5, 7). bmp\nwith a PLA having 3 inputs, 3 ¢ sroduct terms and 2 outputs.\nUNITAV\nbit both UP/DOWN counter using JK FF and K-map- Zw\nD gn a synchronous 3-\non ‘ite short notes on ROM, RAM PLA and PAL with di\n; . —"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-5/BAI305_DL1_MID_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.1,
+   "text": "(Please write your Enrollment Number) Enrollment No.______—_~\nMID-TERM EXAMINATION\n(Course Name: B. Tech) (Semester: V_ )\n(October, 2025) OFF LINE mode\ni er: Subject: Deep Learning -|\nSubject Code: BAl305. Se rks #30\nTime: 1 YaHours ; ita wee\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\na) Explain the structure of a McCulloch—Pitts neuron with the help of a diagram. cL\n78) \"Perceptron model considers the non-linear combination of inputs.\" Verify the\n| | statement.\nrae Differentiate between overfitting and underfitting in neural networks? | eae |\n| | d) Explain gradient descent and its purpose in training neural networks. Eo\nUNIT!\n| Q2 | Attempt any two parts (5*2=10)\n| a) Describe the Perceptron Learning Algorithm (PLA) in context of perceptron\n| :\nmodel along its convergence proof.\nj\n+——+\n| b) Why. does the perceptron fail for non-linearly separable problems? Explain \\\n| | with suitable example.\nc) Explain the thresholding function? What are the advantages of thresholding\nfunction over logistic function?\n| UNIT II\n| Q3 | Attempt any two parts (5*2=10)\na) Explain the architecture and working of a Multi-Layer Perceptron (MLP).\nExplain the architectural design parameters for a MLP.\n© Scanned with OKEN Scanner"
+  }
+ ]
+}

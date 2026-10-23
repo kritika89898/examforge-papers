@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-4/BAI202_CN_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 80.6,
+   "text": "‘ CCE C9 OFe Hi65 WO “4 |\nase write your Enroliment Numper)\nrie\n| MId-TERME YAMINATION\n(CHCS)\nName:h. Tach, (658 Al), Sarmestara”™\ncourse\n(February, 2024)\nSubject: Cormputear teryjorks\n. BAL- 202\nsubject Code: BAI Maxirwuin tharks s 4\nTime:1™% Hours\nNote? Q.iis compulsory:\n(2.,5* 45\nQi ,\nDirerentiate: Intranet, internet and Internet.\ngr List out the main responsibilities of Network Layer?\ncn What is CSMA? Explain the different persistence methods of COMA,\nGiven the data word 101001 f010 and the divisor 10111 find CRC and the codeword generated. Explain\nWhy the CRC is added at the end in the frame format?\nQ2 (Attempt any Two Parts ) (5,5)\n‘Contrast and compare ISO- OSI and TCP/IPnetworking models.\nubyY What is the difference between Port address, Logical address and Physical address 2\nExplain with an example.\n(c) Define fiber optic communication principle and light propagation through fiber optic\ncable.\nQ3 (Attempt any Two Parts } (5,5)\nDescribe IEEE 802 family of standards and differentiate between the Token Bus and\nToken Ring LANs.\nHow throughput is improved in slotted ALOHA over pure ALOHA?\n(c) Explain in detail about the ARQ-Sliding window algorithm, with its merits and demerits."
+  }
+ ]
+}

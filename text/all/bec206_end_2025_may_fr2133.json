@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec206_end_2025_may_fr2133.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.9,
+   "text": "UL>\nFONMENC WO LTE TN EVO\number) rn\nEnd-Term Examination\n(CBcs)(SUBJECTIVE TYPE) (Offline)\nB.Tech ECE, IV\" Sem\n(May, 2025)\nSubject Code: BEC 206 ______Subject: Electromagnetic Field Theory Electromagnetic Field Theory\nne Hours Maximum Marks :60\nNote: Q1 js compulsory, Attempt one question each from the Units |, Il, Ill & IV.\n| (2.5*8=20) | CO Mapping\n— 8) What do YOu mean by Magnetic Flux density? rae\nb) What do you mean by displacement current? [eer]\nS| c) Define L\naplace’s equation and state its general form in Cartesian P| tee\nCoordinates,\nerial has p= SHo, € = 2€o. If at 5 MHz, the phase constant\nalculate the loss tangent.\nell’s equations in dj\n8) A lossy mat\nis 10 rad/m, c\nState Divergence Theorem.\nfunction A = r2 a,\nhemisphere defin\nUNIT Il .\n(a) State the differential form of Gauss's Law in terms of electric flux coO2\ndensity, Explain its significance,\n(b) Determine electric flux density D at (4,0,3) if there is\n-5m mC at (4,0,0) and a line charge 3n mC/m along the\n(a) Derive the relationship between E and V.\ncO2\n(b) Using boundary conditions, prove that the tangential component of\nthe electric field remains continuous across the boundary between\ntwo dielectric media.\nUNIT III |_| COMapping\n(a) Derive Ampere’s law. What are coO3\na point charge\ny-axis,\nmagnetic field?\n(b) Discuss law of conservation of ma\nmonopole does not exist.\nDiscuss Biot Savart’s law,\nto line, surface and Volum\ngnetic flux. Explain why magnetic\nFrom it, derive magnetic field intensity H due\ne current distributions,\nUNIT IV\na | CO Mapping\n(a) Discuss any two applications of transmission lines with suitable (10) co4\nfigures.\n(b) An air line (loss less) has characteristic impedance of 70Q and phase\nconstant of 3 rad/m at 100 MHz. Calculate the inductance per meter\nand the capacitance Per Meter of the line,\nState Poynting theorem and re con\nits significance. Derive the mathematical\nexpression for Poynting theorem,\n‘?"
+  }
+ ]
+}

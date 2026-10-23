@@ -1,0 +1,11 @@
+{
+ "file_path": "papers/all/bma203_mid_2023_oct_fr211.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "Number)                                tnroiment No.    0o2022\n                     Enrotment\n                  vour\n      (Pteasewrite              MID-TERM EXAMINATION\n                          (Course Name B.Tech MAE/DMAM) (Semester 3rd )\n                                    (October, 2023) OFF LINE mode\n\n            Code: BMA 203                              Subject: Strength of Materials\n                                                                                  Maximum Marks:30\n   Subject\n  Time :1 KHours\n                                                             during answering of questions\n     Note: Q 1 is compulsory.Assume all variables required\n                                                                                        (2.5*4)\n Qu\n       tá State stress at a point\n      6) Define principal plane\n      eEstablish SF &BM relationship of uniformly distributed load\n       (dEnlist assumptions of simple theory of bending\n\nQ2 (Attempt any Two Parts )         UNIT-1                                              (5,5)\n                                                                                  subjected\n      a Establish relationship of elongation of uniformly tapered rectangular bar\n       to tensile force\n\n        b)Prove E=3K(1-2v)\n\n       (c) Find max shear stress for a stress tensor Oxx= 15 MPa, Oyy= 10 MPa & Txy= 5 MPa\n\n\n03      (Attempt any Two Parts )     UNIT-2                                             (5,5)\n        (a) DrawSF and BM of asimply supported beam subjected to distributed load\n        w=wo(1+x)\n         (b) Derive simple theory of bending formula\n        (c) Determine maximum deflection of a simply supported beam subjected to eccentric\n        load at a distance a\" from left hand side support"
+  }
+ ]
+}

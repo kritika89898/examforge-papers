@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec110_mid_2024_mar_fr277.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.3,
+   "text": "MID-TERM EXAMINATION\n(Course Name: B. Tech (1T/MAE/DMAM) (Semester: 2nd) - Regular\n(March, 2024) OFF LINE mode\n| Subject Code: BEC 110 Subject: Basic Electrical Engineering\nTime: 1 %Hours\n_ Maximum Marks: 30\n(a) Find the equivalent resistance between X and x\n1.5 Ohm\nMAAS ‘ A\n(b) State and Prove Maximum Power Transfer Theorem. Derive the Rae?) 1\nexpression of Maximum Power transferred. = _\n(c) Two impedances 5+j8 and 3-j8 are connected in parallel. Find the | UN\nequivalent impedance of the combination.\nae (d) Draw power triangle. Explain true power, reactive power and\napparent power?\n(5,5)\n/Q2 (Attempt any Two Parts) UNIT-1 - | (5,5) |\n(a) Define Superposition Theorem, Find current in 8 Ohm resistance using\nSuperposition theorem. me. saa ee\n(b) Determine the total current I in the given circuit,\n200 102"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.8,
+   "text": "(c ) Derive the Thevenin’s equivalent circuit of the figure given below.\n3ohm 2 ohm 4 ohm\nes any Two Parts) UNIT-2\n(a) Find the average and RMS value of the waveform shown below. Do find peak factor\nand form factor.\n(b) A pure resistance of 50 Q is connected is in series with a pure capacitor of 100 pF.\nThe series combination is connected across 100 V, 50 Hz supply. Find (i) Impedance\n(ii) Current (iii) Power Factor (iv) Voltage across R and C (v) Draw phasor diagram\n(c) A series RLC circuit is connected across an ac voltage source (v=V msinat). Draw the\nphasor diagram and derive the following: (i) Total impedance (ii) Expression of\ncurrent (iii) Resonance frequency and (iv) Quality factor."
+  }
+ ]
+}

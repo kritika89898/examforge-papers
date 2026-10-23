@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec201_end_2023_dec_fr2100.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 78.2,
+   "text": "\\“BUS)(SUBFCTIVE \" »sten3™\nCourse Name: . rrech: (EC ce), se\n(November-pece™ mbe oo\n| Subject Code: BE lo —jnalog Electronics |\nTime ne:3Hours <2) ee | SY “subject A Anes \"Maximum m Marks :60\nNote:Q. 1 1s compulioy. Rtamp one one question mn each fF — from the Ur the Units |, A, Hl THB AV,\nreece 25-20 | |\na Si diode when It Is reverse\n(a) Differentiate among types of capacitances presen n e in capacitance level with\nbiased and forward biased. Comment on the chang\nincrease in reverse-blas potential for t the SI diode. itage regulator Ya\n| | (b) Give principal of Zener diode and explain its usaBe as ve m6 By . —\nc Di t of temperature on operating Pp :\n(c) scuss the effect of temperature variation on OP om V-I characteristic curve. he\n(d) How can we graphically f nsconductance “gm al\n(e) What is singh. rr vale ee — affected by variation in gate to source voltage in\nn-channel depletion type MOSFET?\n(f) Give advantages of R-C coupled transistor amp\ntransistor amplifier,\nrig Describe the phenomenon\nCP are (h) Why the terminology field effect appropriate for JFET transistor and why JFET hs | ae\nhigh input impedance and effectively zero gate current?\nDetermine the output vo of the network given below in Fig. 1 if the se\nwaveform v; (given in Fig. 2) is applied to this network.\nC=1yur\ngd\n+\nlifier over Transformer Coupled\n“channel length modulation” versus “base width\nIdentify the types of biasing techniques applied in circuits given below in Fig. 3\nand Fig. 4. Compare both these techniques for the thermal stability provided to\ncircuit in terms of Stability ‘S’ factor.\nPage 1 of 2\nsana a dl a ce aN li A a lm hs alts"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.6,
+   "text": "UNIT-II\nplifiers | (10)\nAnalyze the circuit given in Fig. 5, using small signal modelling (SSM) in am\n& find its voltage gain.\nView + !0V\nc\nRo = aK\nRg =looKnr\n“be\nL Vee\" SV —\nFig. 5\nWhat are different types of negative feedback topologies? Give comparative\nanalysis of them for the parameters (i) Nonlinear Distortion (ii) Noise (iii)\nWrite short notes on any two of the following :- (10)\n|. Cascaded Amplifiers\nll. Darlington pair\nIll. 1t-Low frequency models\nIV. | Cascode Amplifiers\nOE Eee |\nBandwidth (iv) Input impedance (v) Output impedance. Give detailed block\n(10)\ndiagrams for all these topologies.\n\" Explain voltage and current operations of SCR and discuss its V-I characteristics. (1c) ||\nExplain the working of n-channel JFET. What are the major differences between (10) =\nthe collector characteristics of a BJT transistor and the drain characteristics of a\nJFET? Compare the units of each axis and the controlling variable. How does Ic\nreact to increasing levels of Is versus changes in Ip to increasing negative values\nof Vos?\njo | Sketch a p-channel enhancement type MOSFET and explain its working with the (10)\nhelp of gate and drain characteristics waveforms,\nPage 2 of 2"
+  }
+ ]
+}

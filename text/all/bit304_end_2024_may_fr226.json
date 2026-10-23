@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bit304_end_2024_may_fr226.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 93.2,
+   "text": "u a1 =F mes\ne write your Enrollment Number) Enrollment No, 0150/0! 2021\n(Pleas'\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B.Tech>, Semester:<6\"\">\n(May, 2024)\nSubject: Cloud Computing |\nMaximum Marks :60\nSubject Code: BIT-304\nTime :3 Hours\n[ Note:Q. 1is com\npulsory. Attempt one question each from the Units I, Il, Ill & IV.\n(2.5*8=20)\nClient Information Privacy\nVM Security\n(d) Network Intrusion\nDynamic Computing Infrastructure\nCritically analyze the benefits and limitations of distributed\nand decentralized computing in Web 3.0.\nDiscuss the Data Lock-In and Data-Segregation limitations in\nCloud Computing. State the effective measures to overcome\nthe aforementioned problems in cloud environment.\nIn the realm of Virtualization at Server in Cloud Computing,\ndifferentiate between Logical Partitioning and Physical\nPartitioning with suitable illustrations.\nQuantitatively differentiate between Virtualization at Server,\nat Network and at Desktop and Application in Cloud\nComputing paradigm. Explain with suitable illustrations.\nCritically analyze the Cloud Information Security objectives\nfrom clients’ perspective. Simultaneously highlight the Cloud\nSecurity Design Principles from organizations’ perspective.\nCategorically differentiate between Internet-based Software\nTesting and Cloud Testing with suitable real-world examples.\nQuantitatively assess the crucial factors adopted by Govt. of\nIndia in adopting a specific Cloud Computing Architecture for\ntheir e-Healthcare Management System.\nHighlight the significance of Service-Level-Agreements\nbetween the cloud service provider and its client. Enlist the\nLAs’ salient characteristics along with its privacy concerns."
+  }
+ ]
+}

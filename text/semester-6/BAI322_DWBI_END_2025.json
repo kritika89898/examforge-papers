@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BAI322_DWBI_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.3,
+   "text": "\\_ 27\n(Please write your Enrollment Number) Enrollment No,_!' ‘) oO \\V72022—\nEnd-Term Examination cicndeel\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech, Semester: 6\n(May, 2025)\nSubject Code: BAI 322 Subject: Data Warehousing and Business Intelligence\nMaximum Marks :60\nNote: Q1 is compulsory. Attempt one question each from the Units |, ti, Ill & IV.\n[aa SC‘ f2,5 820) [CO Mapping\n| +a diferente between database stem anda data warehouse. [| _¢__\nLB WhatisETL? Explaineach component. ——SSSC~iSC‘“‘(‘CdC COL\nHe Define star schema with an example. ae | 002 |\nWhat is OLAP? List its types and key characteristics. aes [= co2 2\n; cos\neJ Define data mining and explain the role of KDD.\nFY Discuss the importance of data mining in business decision-making. tae |. CO3 2]\nman?) Write a short note on outlier analysis. i a\n|__| What are the benefits of using association rule mining? ee =~) ee\nPoe CC™C™~——CCCC‘dTCSCC| CO Mapping\n[ean ware se ai Da HE ET Explain the architecture of a data warehouse. Discuss the three-tier tal\narchitecture and the role of metadata in detail.\nfe apres eect | Ma\ntransformation with suitable examples\n|” O™—~—CCCCCCsdt | €O Mapping\n| a3 Define dimensional modeling. Explain STAR, Snowflake, and Fact\n=\n* } Constellation schemas with appropriate diagr2ms.\n|__| CO Mapping\nWhat are OLAP operations? Describe with suitable examples: drill-\nco3\ndown, roll-up, slice, dice, and pivot.\nUNIT Ill\nDifferentiate classification and prediction in data mining. How does\ndecision tree induction work? Illustrate with an example.\nWhat is KNN algorithm? Explain its working and use cases. Compare it\nwith Decision Tree classification.\n5 a ENTS TT | tO\n8 | What is clustering in data mining? Explain the K-Means algorithm i\nan example. Mention its limitations.\nhat will be the association rules using Apriori Algorithm:\nGiven the following transactions:\nTID Items\nT1 A, B, C\nT2 A, C\nT3 A,D\nT4 B,E\nTS A, B,C,E\nT6 B,C\nSupport : 50%\nConfidence: 75%"
+  }
+ ]
+}

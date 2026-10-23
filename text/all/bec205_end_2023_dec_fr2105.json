@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec205_end_2023_dec_fr2105.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.0,
+   "text": "®-F@ch Eee /ECE-Al Hird SEM!\nVembe,-December, 2023)\nene\n| and synthesis ___]\nSubject Code: BEC 205 Subject: Network analysis Maximum Marks :60\nTime :3 Hours\n, IV.\nNote:Q. 1 is compulsory. Attempt one qestion each from the Units |, Hl, Hl &\n|__| (a) Derive hybrid parameters in terms of Z parameter. i\n|_| (b) Howdo you find Thevinin’s resistance? : it\n(c) A heater elements draws 20 , ed to a 230-V line. How long does |\nS$ 20 A when connect\ntake to consume 60 kJ? . t\n>| (d) Differentiate analysis and synthesis and specify their importance with relevan\nexpression. :\n(e) A series RL circuit has R = 10 KO, L=10 Mh and C = 1)F. Find the transfer function\nof the circuit. -\n>| (f) Derive the expression of Maximum power for the network under maximum power eo;\ntransfer condition. -\n(g) Derive an expression for the decay current in an RC circuit excited by a unit step\nvoltage. What is the time constant of the circuit?\nUsing nodal analysis find ali prancfi currents\nfor the following circuit\nUNIT-II\nA series RLC circuit with R = 2 ohm, L= 1H and C=0.5 Farad with the\napplied voltage V (t) = sin t. Find i (t) if the switch is closed at t= 0. Use\nLaplace transform method.\nA voltage pulse of magnitude 8 Volts and duration 2 seconds extending\nfrom t=2 seconds to t=4 seconds is applied to a series RL circuit. Obtain\nthe expression for the current i(t).\n| Q6 | Explain Hybrid and Transmission parameters with examples.\nQ7_ | Explain the concept of interconnection of Two-Port networks. Show that\nH=H, + Hp for two Two-Port networks, when these are connected in\nseries-parallel connection.\nHow is a physical network realized by considering the driving point\nadmittance function. Discuss.\nFind the first and second Cauer forms of LC networks for the given driving\npoint impedance function\n2(s) = (s+ 10s? + 9) / (s* +4s)"
+  }
+ ]
+}

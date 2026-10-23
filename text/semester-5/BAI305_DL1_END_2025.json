@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BAI305_DL1_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.1,
+   "text": "(4 —\n(Please write your Enrollment Number) Enrollment No.\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:8. Tech. (CSE-Al), Semester:5\n(December, 2025)\nSubject Code: BAI308.—S«d| ee Subject: Deep Learnings\nTime :3 Hours . ay Maximum Marks ;60\nNote; Q1 Is compulsory, Attempt one question each from the Units 1, Il, Il & IV,\n‘Qu Rae ee CO Mapping\n= a) \"The Perceptron Learning Algorithm can be applied to train a CO1\n_ perceptron model for multl-class classification problems”. Justify the\n|v alidity of this statement with suitable reasoning.\n) Discuss why L2 regularization is generally considered more applicable CcO2\n|__| than L1 regularization in many deep learning models.\n_¢) “Tan activation function is appropriate for the hidden layers of an co3\n_RNN model.” Examine the correctness of this statement with suitable |\n| reason,\n|\n| d) Explain the concept of Transfer Learning in context of a DL model E CO4\n_ along with different techniques for transfer Learning.\n| UNIT | | | | CO Mapping |\n| Q2 a) Explain the MP-neuron (McCulloch-Pitts neuron) model in detail. (10) co1\nFurther, identify the key advantages and limitations of this\n| computational unit.\nb) Consider a two-input MP-neuron with excitatory inputs and a\nthreshold value of 1. For the input vectors [-4, -5] and [2, 0.6], determine |\nthe corresponding output values produced by the neuron. Additionally,\ndraw the MP-neuron architecture for this scenario.\n| 038 2) Explain in detail the improvements introduced by the Perceptron unit (10) co1\nover the MP-neuron model.\ndy Discuss why both the Perceptron and the MP-neuron fail to correctly\nmodel or classify non-linearly separable Boolean functions,\nUNIT II |__| CO Mapping\nQ4 | Consider a three-input perceptron that uses a sigmoid activation | (10) co2\nfunction, with an initial weight vector [2.2, 0.1, 4.0] anda bias of 0.5. The\nmodel] is trained on two input samples: [7.2, -0.5, 1.2] with target\noutput 1, and [2.0, 1.5, -0.2] with target output 1, Using the cost\nfunction as (y*-y*)*, where ‘y’ is the target output and ‘y*’ is the\nestimated output, determine the updated weight values after three\niterations of the batch gradient descent algorithm with a learning rate\nof 0.1,\na) Explain the concept of the bias—variance trade-off in the context of (10) cO2\nArtificial Neural Networks (ANNs).\nb) Discuss why overfitting tends to be a more prominent concern than\nunderfitting in neural network models, highlighting the key factors that\nlead to its occurrence.\n'@3 Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.5,
+   "text": "fee UNIT IN be |__| CO Mapping\na) Discuss five | activation functions commonly used in deep learning (10) | cO3\nmodels, explaining their characteristics and typical applications\nb) “ReLU activation function is more appropriate for hidden layers of a\n_CNN model.” Justify this statement with appropriate reason.\n| Q7 Lal Discuss the Bac kpropogation through time in RNN. eo |<: ale\n¥ 1) Explain the LSTM unit along with its advantages and disadvantages.\n: UNIT IV hol\nQs ;2) “CNN is designed to work upon sequence of inputs while RNN fails to | (10) | co4\n_ Go”. identify the correctness of the above statement with appropriate\nreason.\n“b) Explain the different weight initialization techniques.\nQS 2) Differentiate among ResNet and InceptionNet along with their (10) | co4\narchitecture in detail.\n6) Explain the 1x1 convolution along with its advantages.\n'@3 Scanned with OKEN Scanner"
+  }
+ ]
+}

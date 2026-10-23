@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec208_end_2024_may_fr2107.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.6,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech, Semester:4\n(May, 2024)\nSubject Code: BEC-208 = ae | Subject: Communication System\nMarks :60\nTime: 3 Hours Maximum\nNote:Q. 1 is compulsory. ep a ASRS each from the Units 1, Ui, 1 & IV.\nIe Plot the CDF and PDF for a Random Variable ‘x’ which is eT number [ase |\nheads in the experiment of tossing a coin twice.\noS Soom\nthe respective expressions for each\n(c) For an amplitude modulated signal, the bandwidth is 20 KHz and the highest\nfrequency component is 800 KHz. What Is the carrier frequency used for this AM\nsignal?\n(d) Draw and explain the block diagram of the Digital Communication System. Why\nare source encoders/decoders and channel encoders/decoders required?\n(e) Explain the relationship between the Frequency Modulator and Phase Modulator\nwith the help of the block diagrams. ||\n| {f) _Whatis the use of Carson’s rule inWidebandFM?\n(g) What is the Figure of merit? How is the receiver's efficiency determined by the\nFigure of merit?\nA white noise of having 2-sided PSD 4 KW/Hz is passed through LPF, whose cut-\noff ee ee oe | is 2 KHz. Fine output white noise power.\nA continuous random variable has a uniform density function as Pe\nbelow. Find all its statistical averages.\nfx(x)\na -a)\nWhat are Cumulative Probability Distribution Function (CDF) and Probability\nDensity Function (PDF)? State the properties of CDF.\nDraw the comparison chart for DSB-FC, DSB- SC, SSB-SC and VSB.\nFurthermore, arrange them in descending order of bandwidth and power\n- |\nrequirements.\nDraw and explain the frequency domain representation of single-tone AM. (10) :\nAlso derive the expression for total power in terms of carrier power.\nM and Wideband FM in detail. Also, draw te Ee\nExplain Narrowband F\nspectrum for each case.\nDraw and explain the block diagram of AM Radi\nmean by image frequency rejection? How is |\nBroadcasting?\no Broadcasting. What do =e\nQ7\nit done in AM radio\nas | What is narrowband noise? Provide its expression and properties.\nExplain the concept of Pre- emphasis and De-emphasis in FM. Also include\nthe circuit diagram explaining its functioning."
+  }
+ ]
+}

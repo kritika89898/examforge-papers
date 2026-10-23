@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bas205_mid_2025_oct_fr2143_p12.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.0,
+   "text": "ee\nSiR Nimes\n(Please write your Enrollment Number) Enrollment No,__. EE\nMID-TERM EXAMINATION\n(Course Name: B. Tech.) (Semester: 3rd)\n(October, 2025) OFF-LINE mode\nal Techniques for Engineers\nMaximum Marks: 30\n| Subject Code: BAS 203\nTime: 1%Hours\nSubject Name: Numeric\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3.A scientific, non-programmable calculator\nis permitted in the exam.\nQl (2.5*4=10) CO Mapping |\na) Giventwo numbers y, = 3.456 and yz = 27.8 are corrected up 1\nto their significant digits. Compute the relative errors in yy + yz\nand y, — y2.\nb) Express the number 54.625 in the following forms: (i) Base 2 floating 1\npoint representation. (ii) 32-bit IEEE-754 single precision bit string.\nc) Suppose f(x) = x3-7x +6. (a) State the condition under which 2\nthe Newton-Raphson method will converge to a root of this function\nfor a chosen initial value x9. (b) Verify if the method is likely to\nconverge when Xq = 1.5.\n3 3\ni) Given the system of equations:\nx+l1 000 Iy= 2.0001\n(i) Calculate the condition morber of the coefficient matrix.\n‘(i Fthe-right-hand.side changes to I solve the system againcend\nexplain what this tells you about the system’s conditioning iz = 2 LS I\nAttempt any two parts\na) Find the root of the equation cos x —5x +1 =O using the fixed-point\nmethod, correct to four decimal places, by taking an initial approximation\nX05;\nb) Find one root of the equatione” —3x =0, correct to two decimal 2\nplaces, using the method of bisection.\nc) Find the double root of the equation ae x +1 0. 2\nme rN us\n;"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.2,
+   "text": "an a ee\nee, UNIT-II\nQ2 ttempt any two parts\na) Solve the following system of equations by the LU decomposition\n| method:\n4x+y-z=-2\nSx+y+2z=4\n6x+y+z=6\nb) Solve the following system of equations:\n12x, +7x, +3x, =2\nx, +5x,+%, =-9\n2x, +7x, -llx, =6\nby the Gauss-Seidel method. Begin with an initial guess (1,3,5) and perform\nthree iterations.\n4 ke2\nc) Given a matrix A = } 3 i , use the power method starting with the\na\ninitial vector fl l i] to find the dominant eigenvalue and eigenvector\nafter 5 iterations.\nCO Mapping |.\n(5*2=10)\nau"
+  }
+ ]
+}

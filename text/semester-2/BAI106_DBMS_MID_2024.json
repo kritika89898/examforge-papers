@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-2/BAI106_DBMS_MID_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.2,
+   "text": "MID-TERM EXAMINATION\n(Course Name ; B. Tech. CSE-Al) (Semester : 2\")\n(March, 2024) OFF LINE mode\nSubject Code: BAI 106 Subject: Database Management Systems * i]\nTime : 1 %Hours Maximum Marks ; 30\nNote: Q. Lis compulsory.\n[oa [i ates era 2°9 Lae\n[| ta) Whats a Schema? Expinit.———SSSSSOSCSCSCSSSSC*d;CN\n(b) Suppose you are working as an administrator of a company what roles and| UNIT-1\nresponsibilities you will handle while managing the data\nEar (c) Define the term entity.\n|_| (d) Explain difference between 1:1 and 1: M relationship\n| Q2 (Attempt any Two Parts) UNIT-1\na’)Explain the following keys with examples\n1. Primary Key\n2. Super Key\n3. Alternate Key\n4. Candidate Key\n5. Foreign Key\naaae| ( (b) List and explain DML commands\nPak Draw and explain the detailed system architeture of DBMS"
+  }
+ ]
+}

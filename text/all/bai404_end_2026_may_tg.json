@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai404_end_2026_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 77.3,
+   "text": "eer. © a ee a ee ee ‘\n(Please write your Enroliment Number) Enrollment no._0'4 § O}19 20 3-9\n———— =\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(Offline)\nCourse Name: <8. Tech, (AI&ML/CSE-Al) (Reappear — ECE-Al), Semester: <g'\"s\n(May, 2026)\nSubject Code: BAI 404 Subject: Social Media Analytics |\nTime :3 Hours Maximum Marks: 60 |\nNote: Q1 is compulsory. Attempt one question each from the Units 1, ll, Il & IV,\n4 or “ar? pe : FE | (2.5*8=20) |\nwa | Why is visualization important In analyzing large social network data? Mention =\n2.\n| | any two benefits 5\n=<\n= ——— —————— . ——— il re\n, bo Anode acts as a bridge between two groups in a network. Identify the relevant 2.5\n| network measure and explain its importance.\n“dasa ‘ -. 1 3\n“| Explain the concept of Clickstream Analysis. 2.5\n|\nidentify whether the following belong to link analysis or network evolution, and 2.5\n|\n| justify:\ne Predicting future connections\n}® (ii) Studying how networks grow over time\n+ : }\n| Identify whether the following are input metrics or performance metrics, and\n| justify:\n| ® Click-through rate\n® Number of posts\n_|« Engagement rate\n—\ntt. | Explain the concept of Facebook Analytics.\ndz7]| Explain Collective Classification,\noy W5 2 + . + . . 7 +\njt. | Explain the concept of data processing and visualization in social media\n| analytics.\nt\nUNITI\nLo = ee : HE\nLo] a) Explain the concept of nodes, ties, and influencers in social network\nanalysis.\n) &xplain how graphs and matrices are used to represent social network data.\na) Explain the concept of Social Media Analytics (SMA). Discuss its importance\nin modern organizations.\nb) Explain the social media landscape. Discuss different platforms and their\nrole in analytics.\nUNIT - II\n8 A company wants to compare two versions of a webpage to determine which\none performs better in terms of user engagement and conversions. \\dentify the (10)\nJ, method used and discuss its design, implementation, and advantages.\n) a) Explain Web Crawling and Indexing. Discuss how they help in collecting and\norganizing social media data, mt\n(10)\nSS pS eg ep eS ee Se eee -\n. ."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.7,
+   "text": "|b) Explain the role of Natural Language Processing (NLP) ih micro-text analysis\nDiscuss its applications in sotial media platforms.\nUNIT III\n| O56 Explain the process of measuring and analyzing social media campaigns. A\nfe | Company launches a campaign and wants to evaluate;\n| | * Number of users who viewed the content\ni\n© Number of users who interacted with the content\nIdentify the metrics used and explain their significance\noe\nyO | a) Explain the process of social media campaign analysis. Discuss goal setting,\ntracking, and evaluation\n| | 6) Explain Network Analysis in social media platforms. Discuss how it helps in\n| identifying communities and influencers,\nDial hin\ni UNIT IV\n_—\na) Explain the process of data Processing and visualization in social media\nanalytics.\nDiscuss how visualization helps in deriving insights.\nExplain the role of Python in social media analytics.\nDiscuss tools and libraries used for data collection, analysis, and | (10)\nvisualization."
+  }
+ ]
+}

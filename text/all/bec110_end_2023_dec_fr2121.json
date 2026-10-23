@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec110_end_2023_dec_fr2121.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.3,
+   "text": "02010)\n(Please write your Enrollment Number) Enrollment No, OOM AMI A0IS\nEND TERM EXAMINATION\nCBCS)(SUBJECTIVE TYPE)(OFFLINE)\nge h<ECE-AVECE/CSE>, I Semester\nPecember, 2023) =\nee Subject; BASIC ELECTRICAL ENGINEERING |\n[Subject Code: BECIIO a Maxinum Marke 60\nTime :3 Hours —$_————~“oa cach from the Units LU.Wueiv. —\nNote: Q. Lis compulso t one question cach from the &\n[ Note: Q. 1 is compulsory. Attempt one.\n(2.58\n=20\nBl ‘(@)__ Explain Kirchhoff s first and second law | en |\n(b) Convert the given Deita load into seo load\n| & Ohm\nS$ Ohm\nA B\n6 Ohm\n(c) Two impedances 4+3j Ohms and 4-3j Ohms are connected in parallel\ncombination, This combination is then connected in series with 2+5j\nEY Ohm. Determine the equivalent impedance of the combination.\nOma Ie What do you understand by 3-phase connection? Give examples of it E--=a\npt (e)\nWhat is the significance of power factor of any circuit? fe S=s\n() Why a@ moving coil instrument is not suitable for measuring ac Ea\nquantities whereas # moving iron instrument can?\n| (g) Why the transformer rating is in kVA and not in kW? es |\naim Explain Flemings left hand and right hand rule.\nUNIT-1\nFind the value of V1 and V2 in the given circull\nVi ‘Q v2\n10A (t) (ft) 24\n— a a\nFind the Thevenin's equivalent of the circuit given in Figure. For what\nload across terminal ab, the circuit will deliver Maximum Power?\nObtain Maximum Power Transfer,\n6 Olwn\na\n40hm\n+ 3 Ohm\nwv) a 4 co\n3 Ohm\nive the DllO a\not Derive the RMS and average value of half wave rectifi\nvoltage waveform shown in figure,"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.9,
+   "text": "resonance frequency f,.\nch component and\napplied is 240V,\nA series RLC circuit undergoes resonance at a\nFind the resonance frequency, voltage across ¢@\ncurrent drawn by the circuit at resonance, if Voltage\nR=80 ohms, L=|0mH and C=10 micro F.\nUNIT-II\nExplain the construction and working of Induction type instrument.\nWrite its advantages and disadvantages over Moving fron instrument.\nPower in a three phase load is measured using 2 wattmeter method. (i)\nDraw the circuit diagram of connection of two watimeters in 3 phase\nstar load. (ii) Draw the phasor disgram and obtain the readings of two\nwattmeters (iii) Derive the expression of power factor of load in terms\nof two wattmeter readings.\nDraw the equivalent circuit and phasor diagram of a two winding\ntransformer at a lagging power factor."
+  }
+ ]
+}

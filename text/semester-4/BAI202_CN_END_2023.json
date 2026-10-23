@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-4/BAI202_CN_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.4,
+   "text": "(Please write your Enrollment Number) Enrollment No. in| GI )\\ \\¥ Ww y\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech. CSE-Al, Semester: Fourth\n(April -May, 2023)\n[ Subject Code: BAI - 202 Subject: Computer Networks ih SR\nTime :3 Hours ~ Maximum Marks :60\n| Note: Q. lis compulsory. Attempt one question each from the Units I, II, Ill & IV. : ae\na (2.5*8=20)\nList the characteristics of broadband coaxial cable.\nAbt at limitations of a bridge are overcome by a router?\nerate the purpose of layering in Networks.\nist two advantages and two disadvantages of Flooding.\nFor n devices in a network, what is the number of cable links required for a mesh, ring\nand star topology, respectively?\nhat are the network address, broadcast address, and the subnet mask for a host with the\nGiven IP address 183.203.107.171/2Q\nx ow is IP version 4 address space is divided into different classful addresses. Explain ?\nDraw and explain different fields of UDP header.\nUNIT-I\n54 Define fiber optic communication principle and light propagation through (10)\nfiber optic cable\nQ3 Compare and contrast ISO-OSI and TCP/IP Model (10)\nUNIT-II\nA group of terminals are to be connected to a central site using ALOHA (10)\nschemes over a 9600 bps channel. Frame length is 200 bits. Terminals\ngenerate on an average one frame in every two minutes. For maximum\nthroughput condition, estimate the number of terminals that can be\nsupported if the scheme used is (a) Pure ALOHA (b) Slotted ALOHA.\nQ5 Explain the reason for moving from Stop-and-Wait ARQ Protocol to the (1.0)\nGo-Back-N ARQ protocol.\nUNIT-III\n96 Using Dijkstra’s algorithm to find the shortest path tree for the node A in (10)\nthe figure given below\nQ7 An organization is granted the block 130,86.0.0/16 The wdtiniadwwars =\nSe\nwants to create 1024 nets,\na. as"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 90,
+   "confidence": 91.4,
+   "text": "(i) Find the subnet mask,\n(ii) Find the number of addresses in each subnet,\n(iii) Find the first and the last address in the first subnet.\n(iv) Find the first and the last address in the last subnet (subnet 1024)\nUNIT-IV\noe Explain the use of TCP and UDP header Fields ? (10)\nQ9 (a) Discuss the features of HTTP and also discuss how HTTP works, (10)\n(b) Explain the working of Electronic mail. How SMTP used in Email\napplications"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bit201_mid_2024_oct_fr95.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.0,
+   "text": "—— = Rg\nite YOur Enrollment Number)\nEnrollment No. IZ! fr02 g\nMID-TERM EXAMINATION\nProgram Name: B, Tech. Semester: 3\n(October 2024)\nSubject: Database Management System |\nMaximum Marks :30 |\nNote:\nte: Q1 is compulsory. Attempt any two parts of Q2 and Q3\na) Suppose that you are an Administrator (DBA) for a software\npplication of Hospital Management System. What roles and\nresponsibilities do you foresee for yourself for managing the\ncomplete database for this application?\nb) With reference to the File System and Database System, explain the C01\nlogical data independence concept.\n¢) Suppose you have to delete all the values from the DESIGNATION\nCol\ncolumn of EMPLOYEE table. Which SQL Command will you use?\nWrite the syntax also.\nd) Discuss 3 Layer Architecture of DBMS with the help of appropriate co1\ndiagram |\n~~ UNIT | ; CO Mapping |\n_Q2 | Attempt any two parts Sees = | (S*2010) |\nIn an organization several projects are undertaken. Each project ; cOLae\ncan employ one or more employees. Each employee can work on\nonly one project. Each project is undertaken on the request of a\nclient. A client can request several projects. Fach project have only\none client. A project can use a number of items and an item may\nbe used by several projects. Draw an ER diagram by clearly\nmentioning all assumptions required for designing the ER\nDiagram. = a 2\nDesign an ER Diagram of Hospital Management System by cO1\nconsidering the following entity sets:\nDOCTOR, PATIENT, NURSE, MEDICINE, BED, WARD\nClearly mention all assumptions considered for designing the ER |\nDiagram. ee\nExplain the Weak Entity Set and Specialization concept with the C01\n= help of suitable example. | _\nUNIT II CO Mapping\n3 Attempt any two parts\n(1) Differentiate between Inner Join and Outer join.\n1+(1°4)=5 | CO2\n(I) Consider the following Relations:\nEMP (empid, ename, salary, designation, date join, deptid),"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.6,
+   "text": "5 PARTMENT deptid dname, location, hod),\nROJECT (pr_id, Pname, pdetails, start_date, Completion_date, r\nempid)\nWrite Relational Algebra Ex\ni) Display ai those employee names and their designations who\nare Clerks and have joined before 1\" January 2020. 5\nli) Display all the project names managed by Mr Ramesh.\niii) Display all the Projects which are running in CSE Department.\niv) Display all employees who are not holding any project.\n(!) Differentiate between COMMIT and ROLLBACK.\n(Il) Consider the tables of Q. 3 (a) Iland\nthe following queries:\npression for the following queries:\n1+(1*4)=5 | CQ?\nwrite the SQL statements for\ni) Display all those employee names and their designations who\nare Clerks and have joined before 1* January 2020,\nii) Display all the project names managed by Mr Ramesh.\niii) Display the number of employees working in IT Department.\niv) Display only those department names where exactly 5\nemployees are working.\n(1) Explain Super Key and Candidate key concept.\n(Il) Discuss Referential Integrity concept with the help of a suitable\nexample.\n2.5*2=5 | CO2"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-3/BIT203_SE_MID_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 93.9,
+   "text": "(Please write your Enrollment Number) Enrollment No. \\SS\nMID-TERM EXAMINATION\n(Course Name: B. Tech.) (Semester: 3rd)\n(October, 2025) OFF LINE mode\nSubject Code: BIT 205 Subject: Software Engineering\nTime : 1 %Hours Maximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n(2.5*4=10)\na) How Agile methodology is different from conventional techniques for\nsoftware development?\nb) Discuss about failure curves for hardware and software. — |\nc) Interpret about the importance of feasibility studies of requirements\nengineering process,\nd) Define characteristics of a good SRS. Also, outline its goals.\nba Attempt any two parts (5*2=10)\na) What is the role of user participation in software development life aycle?\nExplain a model which ensures the same.\nb) To create a banking application, which software development life cycle\nmodel! will you use and why? Explain the model in detail.\nc) What is the primary goal of software engineering? How producing a good\nquality software is different from producing a good quality maintainable\nsoftware?\nO38 Attempt any two parts (5*2=10)\na) Using the example of a retail clothing store in a mall, list relevant data\nflows, data stores, processes, draw upto 2 level Data Flow Diagram.\nb) Draw Use Case Diagram for Online Food Ordering System.\nc) Explain Modularity in Software Design. Illustrate the concept of Coupling\nwith its different types."
+  }
+ ]
+}

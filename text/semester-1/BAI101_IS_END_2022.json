@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-1/BAI101_IS_END_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 93.1,
+   "text": "End-Term Examination\n(B.Tech CSEAI/ECEAI CBCS)(SUBJECTIVE TYPE)\n(April, 2022)\nSubject Code: BAI-101 Subject: Intelligent Systems\nMaximum Marks : 60\nTime : 3 Hours\nNote: Q. 1is compulsory. Attempt one question each from the Units |, Il, Ill & IV.\nTay Differentiate Data, Information, Knowledge and Intelligence.\n2 | 5) How data is crucial in machine learning? Why we require pre- -processing?\n(ef When user send a request to open any application using web browser then, what are various\nsteps taken by web application to show result to user.\nd) How do you differentiate between automation and intelligent automation? Take one real life\na example to explain.\ne) What is the difference between regression and classification? Use appropriate example.\n(i) Formalize the following sentences:\n. “Oshin comes to the party only if Anand and Preet do not come”.\n2. “Dinesh comes to the party if and only if Oshin comes and Anand doesn’t\ncome”.\n3. “Oshin comes to the party provided that Dinesh doesn’t come, but, if\nDinesh comes, then Preet doesn’t come”.\n4. “A necessary condition for Anand coming to the party, is that, if Preet and\nOshin aren’t: coming, Dinesh comes”.\n5. “Anand, Preet and Oshin come to the party if and only if Dinesh doesn’t\ncome, but, if neither Anand nor Preet come, then Dinesh comes only if\nOshin comes”.\n(ii)Prepare the Truth Table for (-p<>-q) <> (qr).\n3. | What is reasoning in Al? Reasoning is classified in Al? (10)\nUNIT-2\nA data set is being given to you, your task is to train and test that dataset in python.\nWrite commands to do so. In test and training process what % of dataset is used for\ntesting the data and training the data.\nQ What is the difference between classification and clustering? Suppose that you have (10)\nbeen given a dataset where you need to apply an appropriate Classification algorithm.\nExplain various stages of experimentation with the help of a diagram.\n“For intelligent mobile robots, autonomous navigation is a must-have feature. A robot\nmust do Simultaneous Planning, Localization, and Mapping to travel autonomously in\nan environment (SPLAM). To successfully handle the dynamic entities in the operating\nenvironment, a robot must execute localization, mapping, and planning\nsimultaneously. A robot will not be able to move autonomously in real-world\ndeployment circumstances if none of these tasks are performed”\nExplain the interaction of Localization, Mapping and Path Planning Activity for\nAutonomous Navigation.\nSpeech recognition is a field where Al is being used heavily? Discuss the working of few\nvery well-known applications of Speech recognition. Which machine learning model is\nwidely used in that?"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 95.5,
+   "text": "UNIT-4\n“The government's decision to priorities Al for healthcare has prompted more\ncollaboration between the government, technology businesses, and_ traditional\nhealthcare providers. Several healthcare and tech Companies in collaboration with\nGovernment agencies and other private industries and start-ups are working on\ndeveloping intelligent solutions for early identification of critical disease.”\nSo, according to you how Al will help in improving the medical facilities in India, what\nare various benefits and challenges, stakeholders will face while implementing it.\n“In recent years Tesla, Apple, etc are working on self-driving cars so that Al can be\nimplement in car to make our life easier. “\nNow if a task is being given to you to implement this autonomous vehicle in India, then\nis it feasible in India to implement it or not, justify your answer with suitable examples."
+  }
+ ]
+}

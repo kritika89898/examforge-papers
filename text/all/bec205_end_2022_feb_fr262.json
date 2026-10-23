@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec205_end_2022_feb_fr262.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.3,
+   "text": "(Please writ\n© your Enrollment\nNumber) Enrollment No.\nSpecial End-Term Examination- ONLINE MODE\n(CBCS)\nB.Tech ECE Ilird SEM\n(Feb, 2022)\nSubject Code: .\nJ ode: BEC-205 Subject: Network analysis and synthesis\nTime : i\n1 Hour 15 Minutes Maximum Marks : 30\nNote: i\note:Q. 1 is compulsory. Attempt any one question from the rest.\n> | (a) Derive hybrid parameters in terms of Z parameter.\n(b) How do you find Thevinin’s resistance?\n(c) A heater elements draws 20 A when connected to a 230-V line. How long does it take to\nconsume 60 kJ?\n(7.5+7.5= 15)\n(a) If two circuits X and Y are to be connected in cascade. Give the two port parameters of the\ncombination with diagram of cascade combination.\n(b) Using nodal analysis find all branch currents for the following circuit\n110 Vv Oe Me Ho\n110 VC+) 24 <2\n16 <2\n7.5+7.5= 15\n( )\n(a) Verify Superposition theorem for 4Q resistor for the following circuit.\nnc) > (}) 104\n(b) Deduce the transient response of source free series RC circuit."
+  }
+ ]
+}

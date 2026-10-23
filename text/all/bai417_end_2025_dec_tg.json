@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai417_end_2025_dec_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.5,
+   "text": "G /\n(Please write your Enrollment Number) Enrollment No._(Ji/£0// 12012\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(Off Line)\nCourse Name: B, Tech, Semester: 7\n: (December, 2025)\nSubject Code: BAI 417 | ___\"Subject: Multimodal Data Analysis | Multimodal Data Analysis\nTime :3 Hours\nMaximum Marks :60\n| Note:Q, 1 is compulsory. Attempt one question each from the Units 1, 11, 1 &\nIV,\npara the concept of Speciontan in Short-Term Analysis?\nd) Define the need for Windowing in Short- Term Analysis.\nxplain the concept of Ed\nProcessing.\nos\nDescribe point Processing & neighborhood processing in Video\nProcessing.\n) Define Co-learning and its application in Multimodal Data Integration. cod\nive some applications of Multimodal Recommendation pees _anlees Saec WWE\nHoot | CO Mapping |\nA LE ae 2 a large dataset of text, it is observed that k=10, B=0.5,\nEstimate the vocabulary size if the total number of words in the\n(2.5) (CO1)\ntext is 1,000,000.\nrite the examples and applications of Zipf’s Law & Heap’s | (5)\nA collection of text has a total of 300,000 words. The constants | (2.5)\n= 15 and , B=0.6. If the total word count increases to 600,000,\nestimate the new vocabulary size.\n(a) What are the different Multimodal Learning Techniques.\n(CO1)\n(2.5)\n(b) What are different combining models?\n(2.5)\n(c) In a text, the first-ranked word appears 12,000 times. Estimate\nthe total number of words used in the text assuming that the text\nfollows Zipf’s law up to rank 100,\nUNIT-II CO Mapping\n(a) Define various Applications of Speech Processing in MDA, (5) (CO2)\n(b) In speech processing, the energy of a short speech signal (5)\nsegment is computed as the sum of the squared samples in that\nsegment. Given the segment, S= [2,-1, 3,2].\nCalculate the energy of the signal.\n| (a) The spectral centroid represents the center of mass of a (CO2)\nspectrum. Given the frequency bins, f= [100, 200,300,400} and | (5)\ntheir corresponding magnitudes m = [1,3,5,2]. Calculate the 3\nSpectral centroid, f\n— ‘ao\n(5)"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.3,
+   "text": "th eat cat\ntale _ aa Po Athi we ft tS oe wo mre\nbyDefine Formant frequencies, further solve the following\nA speaker has a vocal tract length of 17 cm. Assuming that the\nspeed of sound in air is 34,000 cm/s, calculate the first three\nformant frequencies (F1, F2, F3) for this speaker using the formula\nfor an open-closed tube.\nUNIT-III\n(a) Explain the Neighborhood Processing Techniques in\nMultimodal Data Analysis.\nb) Briefly Explain the challenges of Point Processing.\niven an audio signal with the following amplitude values at\neach time point:\nAmplitudes = [ 0.1, 0.3, 0.5, 0.2, 0.6, 0.9]\nCalculate the difference between each consecutive time point to\ndetect sudden changes (edges) in amplitude.\nrb eT Ge cde the benefits of Enhancement in MDA.\n(a) What are the advantages and limitations of ahaha \"eae at)\nMultimodal Learning.\n(b) Explain the challenges in Processing Biomedical Signals?\nLééf Explain Spatial and Temporal Data Handelling.\n| hat are the types, characteristics and applications of\nBiomedical Signals?\nSt ines\n~ =\n| COMapping | | COMapping |\n(5)\nAe\nco p00 Merrie\n(5)\n(5)\n¥"
+  }
+ ]
+}

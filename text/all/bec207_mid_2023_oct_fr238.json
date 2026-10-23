@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec207_mid_2023_oct_fr238.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 77.6,
+   "text": "—— ; J bid\nae\n(Please\nwrite your Enrollment Number) Enrollment No.0210102202.7.\nMID-TERIy ¢ yAMINATIO\nON\n(Course Name: b.tech ECE) (semester 3rd)\n2023\nSubject Code: BEC\n: 207 = ~ Digital Electronics\nsubject: Dist Maximum Marks : 30\nTime :1 %Hours\nNote: All Q. is Compulsory.\n(a) Differentiate between\n(i) Weighted C Nats Non ele)\nghted Code and Non-Weighted Code\nii) Reflective Code and Self-Complementing Code\n(b) Prove the following Boolean y etpressions\nA+B)(A+C)=A+BC : 3\n(c) Draw the Internal Circuitry for RS flip flop using only NAND gates. State ae:\n= table too.\n2 Covert the Gray code 1001011 to Serene en Sy aa\nC—O (a) Implement in NOR logic. P= |\nY= (A+B+C)(D+E)F Ae Os)\n| Convert the expression into canonical SOP form\nns for the function using k — maps\nY=AB+AC+BC\nJe Find the minimum POS and SOP expressio\nF (ABCD) = [| M (0, 2, 6, 8, 9, 10). D(S, 12, 13, 14, 15)\nROME 3\n(a) The 74154 is a 4:16 decoder with active low outputs. Using this IC and logic (4)\ngates, POC the following Boolean functions.\n=> m(1,9, 12, 15)\n2,5,9\nm 2,5 2\n| MUX using 4: | MUX\n="
+  }
+ ]
+}

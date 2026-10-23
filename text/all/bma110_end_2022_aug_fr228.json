@@ -1,0 +1,33 @@
+{
+ "file_path": "papers/all/bma110_end_2022_aug_fr228.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.0,
+   "text": "END TERM EXAMINATION\n(CBCS)(SUBJECTIVE TYPE)\nB. Tech, 2” Semester\n____ (AUGUST, 2022) _\n| swe Code: BMA-110 2. Subject: Engineering\n_ _ Mechanics\nTime :3 Hours Maximum Marks :60\nNote: Q. lis compulsory. Attempt one question each from the Units |, ti, Hl! & IV.\n‘State True or False (1 mark each)\ni) A body is said to be in equilibrium if it has no linear motion. /\nii) The like parallel forces are those parallel forces, which are liked\nby the scientists and engineers.\niii) A couple can be balanced by a force equal to its magnitude. f\niv) Lami’s Theorem cannot be applied in the case of concurrent\nforces |\nv) The motion under gravity is a particular case of motion under\nconstant velocity ;\nvi) The instantaneous centre is a point which is always fixed. ¢\nvii) The units of weight are the same as that of force. 7\nviii) A science teacher told to his students that Newton’s Third Law of\nMotion is involved while studying the motion of rockets. Is his\nstatement correct? ¢\nix) Two bodies of masses 10 kg and 15 kg are hung from the ends of\nan inextensible rope passing over a frictionless pulley. If the\nmasses of both the bodies are doubled the acceleration of the\nsystem will also be doubled. f\nx) When a body moves along a circular path with a uniform\n— velocity, there will be no tangential acceleration. |\nb) | Short Answer Questions (2 marks Each)\ni Describe Cone of Friction\nii. Explain Lami’s theorem.\niii. Define the Pappus theorem for Area and Pappus theorem for\nVolume.\niv. Define Rigid Body.\nv. Explain different types of accelerations involved in curvilinear motion\nof a particle.\nUNIT-I\nQ2 | Each cord can sustain a maximum tension of 500 N.Determine the largest rw\nmass of pipe that can be supported."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.5,
+   "text": "Q3 | The horizontal force P = 50 N is applied to the upper block with (10)\nthe system initially stationary. The block masses are ma= 10 kg\nand ma= 5 kg. Determine if and where slippage occurs for the\nfollowing conditions on the coefficients of static friction: |\n(4) w1 = 0.40, 42 = 0.50 and (b) pl = 0.30, u2 = 0.60.\nAssume that the coefficients of kinetic friction are 75 percent of\n| the static values. |\nUNIT-I\nThe cross section shown is for a complete cast-iron body of\nrevolution about the z-axis. Compute its mass m. (Density of cast\niron = 7300kg/m3). (The area with the lines is the area that is\nrevolved around z-axis)"
+  },
+  {
+   "page": 3,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.4,
+   "text": "?\n: LOO tien 8\nQS | Determine the forces in members CH and CF. (10)\n— 2m —-2m-— 2m - |\nE\n24 kN\n; “UNIT” —_\nTo anticipate the dip and hump in the road, the driver of a cat applies her ] (10)\nbrakes to produce a uniform deceleration. Her speed ts 100 km/h at the |\nbottom A ofthe dip and SO km/h at the top C of the hump, which ts 120 m\nalong the road from A. If the passengers expenence a total acceleration of 3\nm/s? at A and if the radius ofcurvature of the hump at C ts 150 m, calculate |\n(a) the radius of curvature p at A, (b)the acceleration at the inflection point |\nB, and (c) the tota! acceleration at C |\ngom C |\n60 m\n— | |\nB 150 m\nA |\n,\nDetermine the initial acceleration of the 15-kg blockit (aba and ean tne] (10)\nsystem is initially at rest with no slack in the cable, and themass and friction\nof the pulleys are negligible { a"
+  },
+  {
+   "page": 4,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.0,
+   "text": "UNIT-IV\na OA has an angular velocity Wo,=8 rad/s as it passes the position shown.\netermine the corresponding angular velocity Weg of the slotted link CB.\nSolve by considering the relation between the infinitesimal displacements\ninvolved,\nThe uniform beam has a weight W. If it is originallyat rest whilebeing\nsupported at A and B by cables,determine the tension in cable A if cable B\nsuddenly fails.Assume the beam is a slender rod.\n—"
+  }
+ ]
+}

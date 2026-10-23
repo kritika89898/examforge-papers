@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai403_end_2023_dec_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.6,
+   "text": "(Pleas\n© Write\n°\nyour Enroliment Number)\nEnrollment No, EEE\nEnd-Term Examina\ntion\nCourse aren) SUBIECTIVE TYPE) (Offline)\name:<BTech CSE-Al>, Semester:<VII>\n(November-December, 2023)\nSub\nTimes Code: BAI 403\n©:3 Hours Subject: Computer Vision —warks : “60\n10.1] Maximu\nid) bs\n(a) How is\nSupervised learning di i arnin\nexample rning different from unsupervised le 6\n(ce ipal Component Analysis\ne xplain the design cycle of a pattern recogniti\n)What are the different types of discriminant functions\nrk translation invariant\n(f) Why Max-Pooling makes the Convolutional Neural Netwo\n(for small translations of the input)?\ne with a filter of size f=2 and\nhe output image?\n(h) For max-pooling done on a 6x6x3 imag\nwith stride s=1, what would be the size of t\nWhat is Computer Vision? Why is vision so difficult? Provide six real-\nworld examples of computer vision and explain. .\nWhat is the optimization function of the loss function? Explain its role\nin CV.\n}Q4 | Explain any two examples of CNN architectures.\ncor Explain K-means Clustering for Vector Quantization in detail.\nUNIT-III\nMake a comparative analysis between CNN and RNN and their\nimplementation in computer vision.\nWhat is a Vision Transformer for image predictio\nel a\nbal binaries What is data augmentation technique in computer vision? What is its\nuse?\nExplain the use of GAN in explain the use ofGANincomputervision? vision? | (10) |\nn? Explain it with an"
+  }
+ ]
+}

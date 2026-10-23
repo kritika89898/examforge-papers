@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BAI308_CC_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.6,
+   "text": "ff)\n{ “~\n\\\nEnrollment No, 04/0 1172072\nination\n(Please write your Enrollment Number)\nEnd Term Exam\nB.Tech, 6th\nSemester\n(May, 2025)\n~¢ Code: BAI 308 aA einerac _ Subject: Cloud Computi\n| subject conte BAI 30S a, Subject: Cloud Computing |\nlame 33 HO = imum Marks «6\n| ‘Time ae _____Maximum Marks :60\nNote: Qi is compulsory. Attempt one question each from the Units 1, I, 111 & IV\nfai |\n; a EI ey\na)How does cloud computing overcome the limitations of grid col\n“computing?\npr Oscus the challenges of cloud computing that are still need to be =.\nco1\naddressed.\nBz) List the standard protocols used in web services,\ny What is PaaS in cloud computing? Explain with example.\nco2 |\nList the steps involved in the Virtual Machine Provisioning process.\n‘Discuss the properties of a Type 2 hypervisor.\n_ gy Explain the blockchain structure that makes it secure.\nco3\ni h) Discuss the security concerns at different levels of the cloud\ncomputing environment.\n‘\nUNIT I\n92) How have computing paradigms evolved up te the point of cloud\n;\n: za, | COMputing, and what are the key milestones in this evolution?\nj (Q3 )| Explain the deployment models of cloud computing in detail.\nUNIT II\n; Soy | What is the need for cloud migration? Discuss the steps involved in the\n|\n; | | Cloud migration model,\n; | What is dynamic scalability? Discuss the types of dynamic scaling with\n: |\n; | | 4Ppropriate diagrams.\nUNIT III\nFa In the context of mo\ndern programmable networks, how does Software\nDefine Networking (SDN) redefine traditional network control and\nforwarding mecha\ncoL }\nco2\nnisms? Illustrate your explanation with a detailed\nf > 2rchitectural diagram,\nhy ~ litional\nHow does Network Function Virtualization (NFV) transform traditio\n?\nNetwork archi ern cloud-based infrastructures!\n[> —Letwork architecture in mod 5\n; TS —_UNITIV oo\nee — / AA. “ Pro\n*Plain what a smart contract is and how it works\ny demonstration with sample code. : one irtualization in\nIn what ways ‘do containers differ from traditional v\nt\nility?\ner , ; ent, and scalability’ __.\nMs of resource isolation, management, and\n( 34344)\na\non"
+  }
+ ]
+}

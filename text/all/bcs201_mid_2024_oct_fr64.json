@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bcs201_mid_2024_oct_fr64.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.1,
+   "text": "e your n I\nNumber)\nEnrollment No,_| EY __—.\netl\nMID-TERM EXAMINATION\n(Course Name ; g. Tect\n(October 2024)\n1. CSE ) (Semester + a\")\nOFF LINE mode\nSubject Cod\nubje e: BCS 201\nTime : 1 %sHours Mies : =ub lect: Date Structures\na —————— ___Maximum Marks :30\nParts of Q2 and Q3\nte\" (2.5*4=10)\n“Consider the below given function in pseudocode:\nfunction ()\n{ While (N>1) do\nfori=1toNdo\nPrint( “Hello”);\nEnd for\nN= [N/oI;\nEnd While }\nHow many times Hello will be printed? Justify your answer.\nConsider a sequence A of elements Ay = 1,A, =5, Az =7,A3 = 8,A, = 9, and A;\n2. The following operations are\ninitially empty.\nI: push the elements of a from Ag to As in that order into S.\nIl: enqueue the elements of a from Ao to Ag in that order into Q.\nIll: pop an element from S.\nIV: dequeue an element from Q.\nV: pop an element from S.\nVI: dequeue an element from Q,\nVil: dequeue an element from Q and push the same element into S.\nVIII: Repeat operation VII three times,\nIX: pop an element from S.\nX: pop an element fromS.\nWhat is the top element of § after executing the above operations?\nConsider the following recursive functions written in C language:\nint funl(int n) {\nperformed on astackS anda queue Q, both of which are\nint fun2(int n)\n{\nstatic int i = 0; static int i= 0; |\nif (n> 0) { tf (n> 0) 4\nr +44; i= i+ funl(n);\nfunl (n-1); fun2 (n-1);\n}\nreturn(i);\n)\nreturn(i);\nWhat will return the above code when fun2(5) is called? Justify your answer. will\n= Hlowing C function takes a single-linked list of integers as a parameter and\nThe fo es the elements of the list. The function Is called with the list containing the\ncomm 2,3,4,5,6,7 in the given order. What will be the contents of the list after the\nintegers 4/4,\nf pel completes execution? Justify your answer.\nun"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.8,
+   "text": "struct node |\nInt Value:\nstruct node “next;\nh\nVoid rearrange (struct node “list i\nstruct Node *p, * q:\nint temp;\nif( list || llist-> next) return;\nP = list; q = list->next:\nwhile (q) {\ntemp = p->value;\np-> value = q ->value;\nq-> value = temp;\nP = q-> next;\nGq =P? p->next: 0;\n(5*2=10)\nGiven an array of integers, devise an O(N) time complexity algorithm to rearrange the\narray so that even-indexed elements are even and odd-indexed elements are odd.\nHighlights the constraints on the solution, if any.\nAttempt any two parts\nLet A be a two dimensional array declared as follows: A[1...10}[1...15] of integer;\nAssuming that each integer takes one memory locations the array is stored in row-major\norder and the first element of the array is stored at location 100, what Is the address of\nthe element A[i] {j]?\nThe input is an N x N matrix of numbers that is already in memory. Each individual row is\nincreasing from left to right. Each individual column is increasing from top to bottom.\nDevise an O(N) worst-case algorithm that decides if a number X is in the matrix.\nUNIT I\nAttempt any two parts bi _(5*2=10) ™\nWrite an algorithm to sort a stack in ascending order using another stack for temporary\nstorage. Analyze the complexity of your approach and discuss possible boundary cases if\nany.\nUse queue and stack to implement an algorithm to check if a given string is a palindrome.\nog Analyze the complexity of your approach and discuss possible boundary cases if any.\nGiven two linked lists,\nit exists. Analyze the complexity of your appr oach and discuss possible boundary cases jf\nwrite an algorithm to find the intersection point of the two lists, if\nany."
+  }
+ ]
+}

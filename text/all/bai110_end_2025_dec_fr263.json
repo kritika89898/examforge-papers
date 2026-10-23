@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai110_end_2025_dec_fr263.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.5,
+   "text": "End-Term Examination\n(CBCS)(SU BJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech., Semester: 1\n(December, 2025)\nSubject Code: BAI 104\nompulsory. Attempt one question each from the Units I, II, Ill & 1\nNote: Q1isc\n) Compare an algorithm and a program in Python with stable | aa\nwe oe\n| b) List the advantages of object oriented programming.\n| c) What is the need of bitwise operators in Python?\nd) Write a Python program that accepts a tuple and sorts it in\ndescending order.\no@ e) List the difference between lists and tuples with example code.\nFj f) Differentiate between default and keyword argument in function —_\nwith suitable example code.\n| g) Demonstrate the importance of base case in recursion with example\ncode.\nh) Write a python program to find transpose of a 2D matrix sng | ee\nnumpy.\nDescribe the concept with suitable example code of\n(a)Abstraction\n(b) Inheritance\nQ2\n(a) Write a program to print the given pattern.\n1\n12\n123\n1234\n12345\nccepts ‘a person’s age and prints\n(b) Write a Python program that a\nor a senior citizen.\nwhether they are a minor, an adult,\ns True if ee have at\n(a) Write a program that takes two lists and return\nleast one common member.\n(b) Write a Python program to delete a given key-value pair from a\ndictionary and display the updated dictionary.\nSubject: Programming Fundamentals\nMaximum Marks :60\nV.\nco\nMapping\nrh\nte\nFated\n=\ncO4\nsha\noe\n2\nil\ncon\nati"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.9,
+   "text": "est 9k /\nWrite a\non © 8 yinon program een two matrices. Moreover, handle\nere matrix multiplication is\nincompatible dimensions. eee\n(a) Write a program to check whether a given word is present in a\nstatement using function. If the word is found, display a suitable\nmessage; otherwise, indicate that it is not present\n(b) What are command line arguments in Python? Explain their\npurpose and usage with a suitable example program.\n(a) Write a python program to generate a 5-digit CAPTCHA using\nrandom number generator and functions.\n(b) Create a NumPy array containing numbers from 1 to 10. Calculate\nits mean, median, and standard deviation.\nWrite a Python program to append content toa text file and handle the\nexception that occurs when trying to open a non-existing file.\nWrite a Python program to\nGenerates 1000 ran\ndom numbers from a standard normal\na)\ndistribution.\nb) Plots a histogram with 30 bins, sky-blue bars, and black\nedges. a me\nce) Adds X and Y axis labels and a title.\n_d) Displays the histogram plot."
+  }
+ ]
+}

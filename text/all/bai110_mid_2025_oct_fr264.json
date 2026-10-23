@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai110_mid_2025_oct_fr264.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.6,
+   "text": "ae\nMID-TERM EXAMINATION\n(Course Name: B. Tech.) (Semester: Ist)\n(October, 2025) OFF LINE mode\nSubject Code: BAI 104\nTime : 1 “%Hours\nSubject: Programming Fundamentals\nMaximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nfaa 54220) [CO Mapping\nF 5 1\na)Describe various types of error messages in python with ) mame |\nexample. 7\nb) Explain the purpose of loop structure in a programming C3\nlanguage with example. - 3\nc) Distinguish between mutable and immutable data types in a |\nPython with an example.\nd) Explain the concept of slicing in Python and on which data Cj 2\nstructures it can be applied, give example.\nPNT TCO Mapping\n| Q2_| Attempt any two parts (5*2=10)\na) State which of the following python statements are valid and 3\ninvalid, give reason.\ni. x = input(\"enter a number\")\nii. xX = input()\niii. xX = input(\"\")\n-iV.x = input(\"'\") sai\nV.X= input(2)-— Re ‘Seti a\nvi. x=input(\"2\" + '\"3\") i\nb) Describe the working of if-elif-else statements with a flow ng\ndiagram and a PYTHON code example\nc) Explain the concept of object-oriented programming (OOP) 2\nand how it applies to Python. Discuss classes, objects, and\nmethods with suitable examples.\n| co mapping\n| Q3 | Attempt any two parts (5*2=10)\n=| a) Differentiate between List, Tuple & dictionary with suitable 3\nexamples of each.\nb) Write a Python program to create a dictionary with three\n2\nkey-value pairs: “onion” with a value of 3, “tomato” with a\nvalue of 2, and “potato” with a value of 5, Display the\ndictionary.\nc) Discuss the difference between 2\nThe remove() and pop() methods for lists in Python,\nproviding examples for each."
+  }
+ ]
+}

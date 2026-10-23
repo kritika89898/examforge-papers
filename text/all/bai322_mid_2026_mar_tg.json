@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai322_mid_2026_mar_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.0,
+   "text": "(Please write your Enrollment Number) Enrollment No.\nB. Tech, CSE-q; semester: gth\n(March 2026) of FLINE mode\nSubject Code: BAI 322\nTime: 1 %Hours\nSubject: D Data Warehousing and Business Intelligence\nMaximum Marks: 30\nNote: Q1is compulsory, Attempt any two parts of Q2 and Q3\nQl (2.5*4=10) | CO Mapping\na)\nDifferentiate between an independent data mart and a dependent coi\ndata mart.\nag Identify two common data anomalies that must be handled during col\nthe Data Cleaning phase of pre-processing,\nc) Define a 'Fact Table' and a ‘Dimension Table’ within a Multi- co2\nDimensional Data Model.\nd) Define a ‘hyper cube' in the context of OLAP in the Data co2\nWarehouse.\nUNIT : Sia\na2\na) Explain the Three tier architecture of a data warehouse and co1\nprovide an overview of its components. Pa\n| b) Discuss the ETL Process in detail. Why is Data transformation often coil\nconsidered the most complex and time-consuming step in this\nco1\ndo information packages support dimensional design? ae\nUNIT II\npipeline?\nQ3 [Attemptanytwoparts sd any two parts (5*2=10) iy -+-——\nAn e-commerce company records sales transactions using the a)\nae\nae\nExplain the lifecycle of defining business requirements in DW. How\ndimensions Time, Product, Customer, and Location. Design a\nsuitable Star Schema for this scenario by identifying the fact table\nand dimension tables (assume appropriate attributes where\nnecessary).\nExplain the slice-and-dice and pivot (rotation) operations with ae\nhelp of a suitable example and diagrams,\nExplain the Fact Constellation Schema with a suitable example.\nShow how multiple fact tables share common dimension tables,\n(@ 3 Scanned with OKEN Scanner"
+  }
+ ]
+}

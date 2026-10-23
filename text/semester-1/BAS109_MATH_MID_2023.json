@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-1/BAS109_MATH_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.9,
+   "text": "rnc\nr MID-TERM Exa\nMINA\n(B.Tech cse AI/ECE Al/ hep\nAI&ML) (Semester 18\n(October, 2023) OFF Liye mode pe\nSs ’\nubject: Applied Mathematics\nry. Attempt any two Maximu\nquestions from Mm Marks ; 36\nris not allowed, the rest, ey\nSubject Code: BAS 109\nTime :1 %Hours\nNote: (a)Q. 4 is compulso\n(b) Use of calculato\n(2.5*4)\ney lfa f ; !\nis an eigenvalue of a matrix A then prove that g(A) Is an eigenvalue of a matrix\ng(A), where g is 2 polynomial.\n| for P| rp teienetanacavermeter | the inverse Laplace transform of Fi the menetanbwtandormotan™ |\nd) Let V be a vector space. Let H and K be subspaces of V. Give a\nat HUK need not be a subspace.\n| Q2_ |(Attempt any Two Parts) UNIT-1 5.5) ee\n(a) Check whether the system is consistent or inconsistent. Give the complete solution\n, if consistent.\n3x —3y —2z=23\n—6x + 4y + 3z = —40\n—2x+y+z=-12\n6 —2\nb) Find the inverse of a matrix A= F -1 = by using the Cayley-Hamilto\n10 -5 -\nheorem.\ns) Consider the matrix:\n7 p ae\nA= Ts\n18\nFind the eigenvalues and the fundamental 4genved\\ : genve’\nse 1<x<4.\n0, x >4\na) Find the Laplace transform of f(x) =\nb) (i) Consider the vector space M3.3(R)and the sets\nT;: the set of non singular 3*3 pea\nT, the set of singular 3*3 matrices\nRefermine T; and T2 are subspaces of M3,3(IR) or not?\n1\nplace transform of Gane\n(ii) Apply convolution theorem to find the inverse La\n3\nc) For the following linear transformation 7: R?-R"
+  }
+ ]
+}

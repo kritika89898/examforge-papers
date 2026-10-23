@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-5/BAI305_DL1_END_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.6,
+   "text": "(Please write your Enrollment Number) Enrollment No._ © Y 80 l l ? 1022\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech./CSE-Al, Semester: 5\n(December, 2024)\nSubject Code: BAI 305\nTime :3 Hours\nSubject: Deep Learning-|\nMaximum Marks :60\nNote: Q1 is compulsory. Attempt one question each from the Units I, Il, Ill & IV.\n(5*4=20) | CO Mapping\ncoi\nae ML COZ Sana\nco3\nco4\n|_| CO Mapping\n(10) cO1\noN\nMP-neuron units and perceptron units are suitable for linear separable (10) col\nBoolean functions. Identify which one is better and justify your answer\nwith appropriate reason : ;\ni aaa ecyaeee UNIT | co mapping\n| Q4/ Consider a two-input perceptron with sigmoid activation function and CcO2\nweight vector as [0.1, 4] and bias of 0.5. For the input vector of [7.2, -0.5]\nand output label as 1 and cost function as (y*+y*)’, where ‘y’ is the target\noutput and ‘y*’ is the estimated output. What will be the updated\nweights values after two iterations of gradient descent algorithm\n(learning rate as 0.2)?\nDifferentiate between Overfitting vs Underfitting. Explain the dropout\nand data augmentation in detail in context of ANN.\nees pee UNIT AL aa\n“ReLU is suitable for CNN while TanH is suitable for RNN”. Justify this\nstatement with appropriate reason. Also discuss the other activation\nunctions available for deep learning models. i\nExplain the LSTM and GRU unit along with arc (10)\nUNIT IV CO Mapping\nAe) “Convolutional Neural Network is better than Recurrent Neural (10) C04\nNetwork for Image Classification”. Identify the correctness of the above\n‘atement and justify with appropriate reason.\nean the VGG16, ResNet, and InceptionNet along with their (10)\nConsider a three-input perceptron with weight vector a [1,3,4] with bias\nas -1. For the input vectors of [0.1, -4, -5] with output label as 1 and [2,\n2.5, 0.6] with output label as 0, what will be the updated weights values\nCO Mapping\n=\nhitectural difference.\narchitecture in detail."
+  }
+ ]
+}

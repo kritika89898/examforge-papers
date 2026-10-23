@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-1/BAS107_PHY_END_2026.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.1,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE) (Offline)\nProgramme: <B.Tech. (Al&IVIL/CSE-Al/ECE-Al/ECE/M&C), Semester: <2\"\n(May , 2026)\nSubject Code: BAS 102 Subject: Applied Physics |\nMaximum Marks :60 | .\nNote: Q1 is compulsory. Attempt one question each from the Units |, Il, Ill & IV.\n(2.5*8=20)\na) If light of 660 nm wavelength has a spectral width of 1.5x10° Hz, what is its\ncoherence length and coherence time?\nb) How many orders will be observed by a grating having 4000 lines/cm by visible light\nin the wavelength range of 4000-7000 A?\n| c) Given a solenoidal vector A = (x + 3y)i+ (2y + 3z)j + (x + a2) k. Find the value —_\nof a.\nd) The current density is given by J = (x?2+ 2yzj +z? k) A/m?, Find the rate of\nchange of charge density at the point (5,0,2).\ne) State de Broglie Hypothesis. Calculate the de Broglie wavelength of an electron (in\nA) if it is accelerated from rest through a potential difference V=100 V.\n“== A—4) Which of the wave functions A and B shown in the figure is/are physically\nacceptable? Give reason.\nW(x) (x) i\nA ‘\nrg g) Make a labelled schematic of optical communication system. a |\na | h) Is lasing action possible in a two level system? Give reason. E 28\nUNIT I\na. Explain Fraunhoffer diffraction at a single slit and discuss the intensity distribution\npattern.\nb. Give the mathematical analysis of the case when two mutually perpendicular\nharmonic waves of different amplitudes and phase superimpose to produce a\npolarized wave.\na. Derive an expression for intensity at a point P due to Fresnel diffraction at a straight\nedge. Show the intensity curve for the illuminated and shadow regions.\nb. What is the phenomenon of double refraction? Give a well labelled diagram of a\nNicol prism."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.8,
+   "text": "— ~ UNIT II 7\nQ4 | a. Explain the failure of Ampere’s circuital law and Maxwell’s modification of Ampere’s\ncircuital law in its generalized form.\nb. State Poynting Theorem. Give the physical significance of Poynting Vector.\nQ5_ | Discuss the propagation of plane monochromatic electromagnetic waves ina (10)\nconducting media. Derive the dispersion equation and thus derive (i) Phase velocity,\n(ii) impedance (iii) Skin depth in a good conductor.\na.Give the properties of the quantum mechanical wave function. Find the\nnormalization constant of )(x)=A(1+sinx), in the range Osxsrt\nb, State Heisenberg Uncertainity principle. Show that an electron cannot reside\nwithin the nucleus of an atom.\na. Derive the time independent Schrodinger Wave equation and give its general (5,5)\nsolution.\nb.Find the ground state energy of the electron confined in a 1-D infinite potential well\nof length 1 nm.\nQ7\nUNIT IV =\nQ8 | a. Discuss Einstein’s transition probabilities and derive the relation between Einstein's (5,5)\nA and B coefficients with due discussion on the results.\nb. Explain the construction and working of He-Ne Laser with energy diagram.\nQ9 | a. Differentiate between a step index and graded index fiber. The refractive inde ot\nding of a fiber is 1,52 and 7.41 respectively. Calculate critical angle and\n(7,3)\nthe care and cree\nmaximum incidence angle in degrees.\nb. How many modes can propagate in a step index fiber with a core diameter 40 uum, if\nthe refractive indices of the core and cladding are 1.461 and 1.456 respectively and the\nwavelength of light is 8500 A."
+  }
+ ]
+}

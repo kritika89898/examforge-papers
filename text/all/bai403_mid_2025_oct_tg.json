@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai403_mid_2025_oct_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.0,
+   "text": "be\n(Please write your Er\nMID-TERM EXAMINATION\nB, Tech., Semester : Vilth\n(October 2025) OFF LINE mode\n‘\njrollment Number) Enrollment No. OU’ 0 ))7 2022 4\nerie fee ee ___ Subject: Computer Vision |\n\"Subject Code: BAI 403 _ ; ts a pea at\nMaximum Marks :30 |\n| Time : 1 “Hours\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n———\nhat is the goal ofan optimization algorithm in machine\n~yLprinat is parameter sharing, and where is it used?\n| hy is the choice of loss function important for model\n| performance?\nwith reasons and solutions.\n(2.5*4=10) | CO Mapping\n2.5 1\n2.5 2\n2.5 2\n— — -— —— ———+ ——\nb) Mow weights are updated in Stochastic Gradient Descent\n|\n| algorithm?\n| xpiain the step-by-step process of training a neural network\nusing forward pass, loss computation, and backward pass.\niL\nUNIT Il\n£937 neceppt any two parts\nExplain different types of layers used in CNNs: Convolutional,\nPooling, Activation, and Fully Connected.\nspecific task?\ns (5*2=10)\nf 5 2\n5 1\ntaegee| Se\n: c) Explain ResNet architecture.\ni aie a a ll 5 A I i"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec211_mid_2024_oct_fr271.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.5,
+   "text": "(Please Write your Enrollment Number)\nEnroliment No\nMID- eee at\n. TERM EXAMINATION\nOurse Name: B.\nTech, ECE-Al-1& ECE-Al-2) (Semester 73\")\n(Octobe, 2024) OFF LINE mode\nSubject Code: BEC-211\nTime: 1 % Hours —\nSubject: COM, = ——\n~— WMUNICATION SYSTEM\n—\nMaximum Marks: 30\nNote: Q1 is compulsory, Attempt any two part,\nof Q2 and Q3\n(2.5*4=10) co\nMapping\na | a) Draw the Frequency and Time domain representation of AM.\nb) Define Modulation\nand also describe the need of modulation in\nbrief,\nC) Define the Statistical averages of Random Process with its\nexpressions,\nd) Calculate the percentage power Saving when the carrier and\nOne of the sidebands are suppressed in an AM wave\nmodulated to a depth of (a) 100 percent & (b) 50 percent.\nco\nUNITI\n| Mapping\n02 | Attempt any two parts:\nannie Speer ee\na) Define Random Process. Differentiate be\nStationary (SSS) and Wide-sense Stationa\nprocesses,\ntween Strict-sense\nry (WSS) random\nb) A continuous Random Variable is uniformly distributed in\nthe interval (-10, 10). Find all of its Statistical averages.\nC) Plot the Probability Mass Function for a random variable\nwhich is specifying number of heads in the experiment of\ntossing a coin twice.\nAttempt any two parts:\na) Derive the expression for Power Content of Single Tone AM,\nCompare SSB-SC, DSB-SC and VSB, —_\nb) What are the different detectors of ay, Explain with the help\nOf circuit diagram Envelope Detection scheme.\ny Modulator mith pe op nant diagram,\nExplain Ring Modulator with the help of neat diagra |\ni ~—N neem -\n: os RS Ses a a ~ e\n1|\naA ."
+  }
+ ]
+}

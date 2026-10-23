@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bam102_end_2024_may_fr214.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.0,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(Offtine)\nCourse Name:<B,Tech (AIML)>, Semester:\n(May, 2024)\n| Subject Code: BAM-102 Subject: Fundamentals of Data Structures\nTime :3 Hours\nMaximum Ma: Marks : ‘60°\nNote:Q, Lis compulsory, Attempt one question each from the Units Lt, 1 &\nIV.\n<Il>\n4\ni\nwe\n| Fe Oe ere ee\nee 6) 7 What Is Data Structures ? Wh do we need eed Data Structures ?\n1\nce Differentiate between linear and non- linear data Structure. -———] 4\nWhat are the advantages of Linked List,\nalso list down its\n—_2pplications.\noy Define Stack ? \"Write down Its application end aaa ——————_—\ndown its application ‘and “Operations\nPerformed on Stack,\nWhat is threaded binary tree ? What are the advantages of\nthreaded binary tree over binary tree.\nDefine Hashing ? what is the need of Hashing ? Bier oy\nDefine Graph data structure ? Describe different\nand their applications.\nDefine different Operations of graphs and th Ey examples, |\ni\nA) Define an Algorithm ? Lj\n(5,5)\nst out and discuss the\nsequence of steps needed to design and analyze an\nEo) what on\n2) wha are the merits and demerits of array\nimplementation of lists?\na) Writea Program for array implementation of lists.\nb) Write a program for deletion of element of array list\na) a) Whatis priority queue ? Implement using linked\nists.\nplain selection sort with exam\ncomplexity ?\nExplain binary search with example, also give its\ncomplexity ?\nConvert the infix (a+b)*(c+d)/f into postfix & prefix\nexpression\nConstruct an expression tree for the expression (a +\nb * c) +((d * e + 1) * g). Give the outputs when you\napply preorder, inorder and postorder traversals.\nExplain AVL tree ADT in detail.\nWw minimal\nis spanning tree? Explain ho\nconstructed ?\nrithm with an example?\nhm with an example?\ntion with\nWhat\nspanning trees are\nExplain Prim's algo\nn Krushal's algori\nsaath different types of files organiza\nXx\nexample."
+  }
+ ]
+}

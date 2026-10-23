@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-6/BAI306_DIP_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.1,
+   "text": "(Please write your Enrollment Number) Enrollment No._ OU 0 /} 2 2021\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE) (Offline)\nCourse Name: B. Tech CSE-Al Semester:VI\n(May, 2025)\nSubject: Digital Image Processing\nMaximum Marks :60\n,k\nExplain the concept of gamma correction in image enhancement. How do a\ndifferent values of gamma affect the output image intensity?\nhy median filters are best suited for salt and pepper noise removal?\nState differences between Lossy and Lossless image compression.\nf)_ “What is pseudo color image processing? Discuss its applications in image\ng)_ Explain regional descriptors and boundary descriptors with an example each.\nIh) Explain morphology and different morphological Algorithms.\n@) What is point processing in spatial domain? Discuss any two techniques.\nb) Given a 3X3 grayscale image:\n100 255 200\n200 100 255\n[00 200 0|\n{i) Perform bit plane slicing and extract 0\" and 7\" bit plane.\n(ii) Apply Sobel filter Sx and Sy on (1,1) pixel.\nA 3-bit grayscale image of size 16 x 16 (i.e., MN = 256 pixels) has the following\ninput image histogram. Perform histogram specification to match this image to\nthe desired histogram.\nInput Histogram:\nGray\nLevel\nUNIT II\nBriefly explain the concepts of Inverse Filtering and Wiener Filtering in image\nrestoration with their mathematical formulae.\nAn image is degraded in the frequency domain by a blur function H(u,v) and\nthe observed image G(u,y) is:"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.5,
+   "text": "90 100 110 22 2\nG(u,v) = [z» 130 0 » H(u,v) = 2 |\n150 160 170 BP es\nUsing Inverse Filtering, compute the restored image F (u, v). Show all necessary\nsteps.\na. Define Image Restoration. Briefly descri\nimage degradation/restoration process.\nb. An observed degraded image G(u,v) blur function H(u,v) and noise power\nspectrum Sn(u,v) and S(u,v) are given in the frequency domain as:\n100 120 140 2222\nGlu.) = [ie 180 =, H(u,v) = f 2 4\n220. 240 255 ye eee\nSw(u,v) =10 and S:(u,v) = 1000. Compute the restored image F(u,v). Show all\nnecessary steps,\nbe the mathematical model of the\nUNIT III\na) Describe the Canny Edge Detection al\nsteps and discuss how they contribut:\nb) Given an RGB colour wi\n(i) CMYK values\n(ii) Grayscale value\n@) Explain the concept of redu\nredundancy found in images.\n6) A piece of information | is represented by 250 bits using code A, and the same\ninformation is represented by 90 bits using another code B. Calculate the\ncompression ratio and the coding redundancy of code A in comparison to code\nB.\ngorithm in detail. Explain each of its main\n€ to accurate edge detection in images.\nith R=51, G=76 and B=25 convert it to:\nndancy in image data. Describe various types of\nUNIT Iv\nucturing element B are given, Calculate:\na) Abinary image X and stri\n(i) xe\n(ii) Y1=x@sB\n(iii) Y2=x° SB\n(iv) Opening operation\n(v) Closing operation\nx:\na) Compare structural methods with decision\n@pproach to classifying patterns,\n-theoretic methods in terms of their\nb) Explain the importance of pattern classes in developing a classification system\nfor object recognition,"
+  }
+ ]
+}

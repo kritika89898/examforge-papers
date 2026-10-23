@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai306_end_2026_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.8,
+   "text": "S)\n(Please write your Enrollment Number) Enrollment No, (4\nEnd-Term Examination — Hanne\n(CBCS)(SUBJECTIVE TYPE)(OFFLINE)\nProgramme; «B.Tech, (CSE)-Al)®, Semester: <6\" »\n(May, 2026)\nSubject Code: BAI 306 Subject: Digital Image Processing\nTime: 3 Hours Maximurn Marks: 60\nNote: Q1 is compulsory. Attempt one question each from the Units |, Il, Hl & IV.\nQi (2.5*8=20)\nay Define Image Sampling and Quantization. Why are they important in digital image (2.5)\nnf processing?\nbr Explain the concept of 4-connectivity and 8-connectivity between pixels with suitable (2.5)\nexamples.\nc} State the Convolution Theorem and explain its significance in frequency domain (2.5)\nfiltering.\nd) _ List and briefly describe any three noise models used in image restoration. (2.5)\ne) _ Differentiate between RGB and HSI color models. Which one is more suitable for (2.5)\nimage processing and why?\nf) Define coding redundancy in image compression. How does it differ from spatial (2.5)\nredundancy?\ng) Explain boundary descriptors and regional descriptors with one example each. (2.5)\nh) | What are patterns and pattern classes in object recognition? Give suitable examples. (2.5)\nUNITI\nQ2 Delain histogram equalization technique for image enhancement with a suitable (10)\nexample. How does it improve the visual quality of an image?\nb) Describe the process of smoothing using averaging filters. Compare the effects of\n3x3 and 5x5 averaging filters on image quality.\nQ3 g Fon the fundamental steps involved in digital image processing with a neat (10)\nlogk diagram. Discuss the role of each component.\nWhat are the different types of distance measures between pixels? Derive the\nEuclidean distance formula and compare it with City-block distance,\na —\n(@ 2 Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.7,
+   "text": "Qa\nQs\nis used for image restoration.\nUNIT II\na) Derive the 2D Fourier Transform and explain its properties. How is\nenhancement in the frequency domain?\nb) Explain the design and implementation of ideal low-pass and high-pas\nfrequency domain. Discuss their advantages and limitations.\nit used for image (10)\n5 filters in the\nDescribe the image degradation and restoration model. Explain how Wiener filtering (10)\nb) Compare and contrast the following filtering techniques for noise reduction:\nGeometric Mean Filter, Arithmetic Mean Filter, and Median Filter. When wou\neach?\nId you use\nUNIT Ill\nQ6 =a) Explain the fundamentals of color image processing. Discuss various color models\n(RGB, CMY, HS!) and their applications in image processing.\n(10)\nb) Describe edge detection and boundary detection techniques in image segmentation.\nExplain the Canny edge detection algorithm with suitable examples.\nQ7\n10\nexploited in various compression models?\nas Ae\nExplain the fundamentals of image compression. Differentiate between lossy and (10)\nsiess compression techniques with suitable examples.\nDescribe spatial and temporal redundancy in image compression. How are they\nUNIT IV\nxplain the concept of morphological operations in image processing. Describe\n(10)\nbo and dilation operations with suitable examples.\nb)\niscuss the use of Principal Component Analysis (PCA) for image representation and\nEscription. How does it help in dimensionality reduction?\nQ3 a) Explain decision-theoretic methods in\npattern recognition. Describe the Bayes (10)\nclassifier and its application in object recognition,\nb) Compare structural methods and deci\nsion-theoretic methods for object recognition.\nWhat are the advantages and limitations of each approach?\n(@ 2 Scanned with OKEN Scanner"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BAI301_ML_MID_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.2,
+   "text": "(Please write your Enrollment Number) Enrollment No. jioo 12027\nMID-TERM EXAMINATION\nCourse Name : B.Tech. CSE Al Semester : 5\n(October 2024) OFF LINE mode\nSubject Code: BAI-301 Subject: Machine Learning\nMaximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nco\nMapping\nA) Describe the purpose of validation data in model training. (jee (C01\nWhat is feature extraction, and why is it important in machine\nlearning? j\na Define Ridge Regression and explain how it addresses the issue oe\nRicollinearity in linear regression.\ndf Explain the basic concept of Support Vector Machines (SVM). coz\nWhat is the significance of the margin in SVM?\nco\n| (s*2-10) | |\n| Q2 | Attempt any two parts\na) What is K-Fold Cross Validation? Given a dataset containing\n10K samples apply:\n(i) 5-Fold Cross Validation\n(ii) Stratified 4-Fold Cross Validation\nCalculate how many samples will be in the training and testing sets\nfor gath fold.\nExplain the importance of data cleaning and integration in\nmachine learning. What are the common techniques used for\nhandling missing or inconsistent data?\nLES A binary classification model is evaluated on a test set of 150\nsamples. The confusion matrix obtained from the model's\npredictions is as follows:\nPredicted Negative\n| J Predicted Positive\nActual Negative\n(i) Construct the confusion matrix and label its\ncomponents (True Positives, True Negatives, False\nPositives, and False Negatives).\n(ii) Calculate the following metrics for the model:"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.0,
+   "text": "Accuracy\ne Precision\ne Recall\nF1 Score\neast Mean Square Regression and explain the process\nof finding the optimal coefficients.\nof feature independence. Describe its application in text\nclassification and discuss its advantages and limitations.\nc) Explain the logistic regression model and its application in binary\nclassification."
+  }
+ ]
+}

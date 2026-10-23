@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec204_mid_2025_oct_fr2143_p6.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.4,
+   "text": "Se el\n~~ Enrollment No.\nles i\n(Please wri\nwrite your Enrollment Number)\nAan EXAMINATION\n(ont, Name: B. Tech.) (Semester: 3)\nctober, 2025) OFF LINE mode\nSubject: Digital System Design\nMaximum Marks :30\nSubject Code: BEC 201\nNote: Q1 is\n| compulsory. Attempt any two parts of Q2 and Q3\n(2.5*4=10)\na) Differentiate with Examples (any two)\nL Positive Logic and Negative Logic\na Level Triggered and Edge Triggered\nili. Mealy Machine and Moore Machine\n[|b)_State the Exctation TableforDfipFlopandTfipFlop | Ut\n> | c) What is a Ring Counter? Explain with timing Diagram.\nAttempt any two parts\na) A combinational circuit is defined by the following Boolean functions. Unit 1\nDesign circuit with a decoder and external gates.\nFi(x,y,z) =XYZ+xz\nF2(x, y,z) =xyZ+ Xz\n(b) Implement the following Boolean expression using 8:1 MUX : F\nD) = 5m (0, 1, 4,5, 8, 9,11, 12)\n(c) Draw the internal circuitry for R\nUse this and draw the internal circui\nfor this Latch and Flip flop\n(A, B, C,\nS latch, which is made of NOR gates only.\ntry for RS Flip Flop. State the Truth Table\npositive edge triggered -\nle Counter using\ndiagrams\n5 counter using JK f/f\nDesign a 3-bit DOWN Ripp\nToggle f/fs. Draw the timing\nb) Designa Synchronous MOD\nc) Write Short note on:\ni. Shift Register\nJohnson Counter"
+  }
+ ]
+}

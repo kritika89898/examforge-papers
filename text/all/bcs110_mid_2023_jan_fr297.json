@@ -1,0 +1,11 @@
+{
+ "file_path": "papers/all/bcs110_mid_2023_jan_fr297.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "MID-TERM EXAMINATION\n                                                       (B.Tech CSsE/ECE)\n                                                   1semester(January, 2023)\n                                                        OFF LINE mode\n\nSubject Code: BCS 110                                           Subject: Programming in CLanguage\nTime:1%Hours                                                                               Maximum Marks: 30\nQ1   Attempt all Parts                                                                                (2.5 4)\n      (a)   What are the differences between the\n                                                 compiler and interpreter?\n      (6) Convert 8GB into Mega Bytes.\n      Explain any one of the logical operators with example.\n      (d) Find the output of the following program\n          #include <stdio.h>\n            int main()\n\n               int i =   -1, j =2, k   =\n                                           3, m;\n               m=\n                    i++&& ++j|| k++;\n               printf(\"%d\\t%d\\t%d\\t%d\".ij.k,m);\n               return 0;\n\n\nQ2   (Attempt any Two Parts)\n      (a) Find the difference between break and continue with the help of example.\n                                                                                                         (5,5)\n      (6) Design and develop a C program to read a year as an input and find whether it is leap year\n            or not. Also consider end of the centuries.\n\n     (e Drawa flowchart to solve, whether entered character is vowel or constant.\n\nQ3    (Attempt any Two Parts)                                                                            (5,5)\n      (a)Explain the following cache memory, main memory, and secondary memory.\n      (6) Explain explicit type casting with example\n      (Givena = 8, b = 4, c                 2, d =1, e =5, f= 20, evaluate the following expression\n            ( a - b ) + (c+d) * 3      %    e-f/9"
+  }
+ ]
+}

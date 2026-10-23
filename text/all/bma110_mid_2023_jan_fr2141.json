@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bma110_mid_2023_jan_fr2141.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.0,
+   "text": "(Please write your Enrollment Number) Enrollment No.\nMID-TERM EXAMINATION\n(0. Tech, IT/MAE/DMAM)\nI*semester (lanuary, 2023)\nOFF LINE mode\n[ subject Code: BMA 110 ora . | subject: Engineering Mechanics\nTime: 1 Yours SES Sg ai meee Maximum Marks : 30\nQl Attempt all Parts (2.5*4)\n(a) what do you mean by non concurrent coplanar force system\n(b) State Var ignon's Theorem\nC) State parallel Axis theorem and pappus theorem for area\n(d) What is a truss, Write equations of equilibrium for a 2 dimensional systeme\nQ2 (Attempt any Two Parts ) a\n(a)A parallel coplanar force system is acting on a rigid bar as shown below\n40kN 100kN SOkN\nReduce this force system into\na) a single force system and couple at B\nb) A single force system \\\n(b)For the system of blocks as shown in fig below find the force P required to move the lower\nblock A and tension in the cable C. Take coefficient of friction for all contact surfaces to be 0.3\n(C)For a ladder of length 4m, rest against a vertical wall making an angle of 45°, Determine the\nminimum horizontal force applied at A to prevent slipping if 1=0.2 between the wall and ladder\nand 1=0.3 for the floor and ladder . The ladder weight = 200N and a man weight 600N is at 3m\nfrom point A (point Ais on the floor and at the contact point of ladder and floor )\nPIO"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 48.4,
+   "text": "Q3 (Attenrpt any Two Parts (5,5)\n(a)Find the MOL of C section about centroldal axis X-X\n1a tie an AEE | ! aon\n¢\n800mm\nOe mee seni ee\n: ! “onen\n20000\n(b)Determine the centroid of the given figure\nk ‘ m 9 fr\nf , - ie\nt ve . ’\npe he\ne ‘\n4 ' ‘\nI Bes hee x,\n: : ANE r\n' t\nMY { ' '\nE : ' if\nr ? A a Sel <\nb =f Ver ae ee\n\\ if |\n‘ lx G: 6) ni\nbe --\n:\n} y, x,\n6 oe\ni2.5 om\n(C) Determine the forces in the truss members GE and CD of the given truss\n- Rm. GO) Dey tyme\nr ——-ee o\n>, auaneens « 20k\neS yy \\6\ni, \\\n! ’\ni ~\nj / bD\ny E FQ ~ 2 4\nE 8 ne\nE\ni | ;"
+  }
+ ]
+}

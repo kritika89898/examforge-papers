@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BAI303_CS_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.0,
+   "text": "ill\nnrollment No.____E\n(Please write your Enrollment Number)\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TyPE)(Offline)\nCourse Name: B, Tech, Semester: 5\n(December, 2025)\n————$—$$—$—— Subject: Cyber Security\nSubject Code: BAI 303 —_—_—|}— — Maximum Marks: 60\nTime :3 Hours\nH Vv.\nNote: Q1 is compulsory. Attempt one question each from the Units 1, Il, I & I\nee (4*5=20) | CO Mapping\nrai\na) | Discuss the process of ARP spoofing. Explain how ARP cache\ntal? 1\npoisoning occurs and the impact it has on data confidentiality and (04) co\nintegrity. :\n|b) | Describe the concept of a Reflection Attack. How does IP spoofing (04) Col\nenable reflection-based DDoS?\n| c) Explain the complete sequence of steps involved in a large-scale (04)\n| financial cyber fraud committed through compromised digital co2\npayment identities.\nd) | Compare symmetric and asymmetric cryptographic systems. (04)\nc)) Compare the Lollipop Model and the Onion Model of defense in (04)\nterms of structure, assumptions, and practical security co4\n&. implications.\nUNITI . ee | CO Mapping |\n| Q2 The Dark Web supports illegal marketplaces and cybercrime\necosystems. Explain the technical architecture and operational\nworkflow of the following:\n* Tor-based anonymity\n* Onion routing process (10) col\n¢ Role of exit nodes\n* How cybercriminals use these components for APTs,\nransomware operations, and data exfiltration,\nQ3 | A multinational company faces repeated phishing incidents me\nleading to credential theft. Analyze this case by explaining:\n* The phishing attack chain\nHow attackers craft convincing baits |\nCredential harvesting mechanisms See oa\nBrowser-level vulnerabilities exploited |\n* Long-term defense processes\nfor: users, browsers,\nnetworks, and servers,\nUNIT - I t uv.\n. r ———— co Ma i\nDiscuss the socio-technical consequences of security breaches on | pping\nsocial networking websites, addressing individual and\norganizational dimensions, Give\nthreat matrix for the same\nexplaining different kind of attacks their impact and counter\nmeasure.\nDiscuss the personal and Organizational impacts of securit\nbreaches in smartphones and smart\nvs devices. Present 9 threat\nmatrix outlining major attacks, their effects, and corresponding\ncountermeasures.\n(10) co2\n© Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.0,
+   "text": "_|_€O Mapping\nUNIT TIT ie\na | A toy ‘hash function sat esses data In 8-bit blocks using the rule:\n1 = (Hing @ Bi) DK\nWhere:\ne Ho = 11110000(initial value)\ne Round constant R = 00111100\ne Message blocks:\n| o B, = 10101010\n| o By = 11001100\n| a) Compute Hy,\n|b) Compute H, |\nic) State one limitation of simple XOR-based hash constructions.\n| Q7 | Compare SSL/TLS, IPSec, and SSH as secure communication\n} pprotocols, focusing on their design goals, layer of operation, and (10) co3\n| practical deployment contexts.\n(10) co3\nUNIT IV CO Mapping\noe [Priam the purpose of access control in organizational security.\n| Evaluate the role of Network Admission Control in enforcing A |\n| | endpoint compliance within enterprise networks, emphasizing its (10) ROS |\n| contribution to organizational defense.\n/Q9 ~~ Define intrusion detection. Contrast ISO/IEC 27001 and the NIST\n| Cybersecurity Framework in terms of scope, implementation (10) CO4\n| approach, and organizational applicability.\n© Scanned with OKEN Scanner"
+  }
+ ]
+}

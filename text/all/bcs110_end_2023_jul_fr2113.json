@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bcs110_end_2023_jul_fr2113.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.8,
+   "text": "Piease write your tnroliment Number) | 0D ee\nEnd-Term Examination\n(CBCS)(SUBJECTIVE rrpe)(offuine) ,\nCourse Name: IT/MAE/OMAM, Semester:\n(July, 2023)\nSubject Code: BCS 110 Subject: Programming /n Maximum Marks :60\nTime :3 Hours 1,1, 1) & IV.\nNote:Q. 1 Is compulsory. Attempt ¢ Attempt one ne question each from the Units\n« [Gremeeamenneenremenne [a\nExplain registers In terms of computer system.\na “What is the essence of using algorithm and flowchart in programming\nr language?\nRe What is the difference between Hinclude<...> and Hinclude”...”?\n{d) Consider the following program:\nint main()\n{\nfloat a;\nprintf(\"Enter a:”);\nscanf(\"%f\", &a);\nswitch(a)\n{\ncase 1: printf(“JK”);\nbreak;\ncase 2: printf(“Jenny”);\nbreak;\ndefault: printf(“Bye”);\n}\nreturn 0;\n}\nWhat is the output of the above program?\n(e) Is the name of the formal arguments or parameters in a function prototype\n/__ mandatory? Justify your answer with example.\n(fy Consider the following program:\nvoid main()\n{\nint i,j;\nfor(i=1,j=0;i<=5,j<3;i++)\n{\nprintf(“%d %d” i,j);\n}\nWhat is difference between the follow ng declarations?\nint(*a) (];\n= int *a[];\n| What is designated initialization of\ntru cture? Explain with example.\nUNiT-i\nExplain different types of finite storage class in C with example.\nb) Write short notes on: i) Batch Operating System _ ii)\nMultiprogramming Operating System iii) Time Sharing Operating\nSystem."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.2,
+   "text": "Qa\nQs\nQ6\nb)\na)\nb)\na)\nb)\n®) Differentiate between the oe Ak\n‘Random Access Ay.\n» Memory. How does cache MeEMory work? ®8$ Memory and Cache\n(Dy) Drew @ flowchart and write an algorithm to find the sum of digits of\n~ @ Number n.\nUNIT-1 gE\na) /txplain different data types in C with example,\na)\nExplain tail and non-tail recursive function with example.\nWAP in C to print the transpose of a matrix.\nWhat is array of pointers? Support your answer with example.\nDifferentiate between Call by Value and Call by Reference with\nsuitable example.\nHow does the structure differ from union in C? Take example and\nsupport your answer.\nCan we pass array as an argument to a function? Support your\nanswer with an example.\n\\\n5) How does the break statement differ from continue statement?\nSupport your answer with suitable example.\na) Explain logical operators in Cc with example.\nb) WAP inCto swap two numbers without using a third variable.\n's the working logic of while loop same as do-while loop? Justify =\nyour answer with suitable example.\nb) WAPinCto Print the following pattern as:\n1\n23\n456\n78910\n1112131415\na)\n(5)\n(5)\n(5)\n(5)"
+  }
+ ]
+}

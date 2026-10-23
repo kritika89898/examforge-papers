@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-1/BAI101_IS_MID_2023_JAN.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.0,
+   "text": "MID-TERM EXAMINATION\n(B.Tech CSE-AI/ECE-AI/Al BML)\nI*semester Uanuary, 2023)\nOFF LINE mode\n[ Subject Code: BAI-IO% [ Subjec Ulatelligent Systems\nTime : 2 “Hours Maximum Marks : 30\nQL Attempt all Parts (2.5°4)\n“ fab Formalize these sentences into propositional logic\n“ i) 1 you exercise and you take healthy drink, you'll become champion.\nii) ff you exercise and don't take healthy drink you wan't become champion\niii) Thus, if you exercise, either you take healthy drink and you'll become\nChampion, oryou don't take healthy drink and you won't become champion.\n46) Explain the Structure of an Agent.\n(c}What is Pattern Recognition? Discuss different phases in in?\n(d)Discuss any two intelligent applications along with thelr intetligent features which\nyouwould like to design for your University to improve its day to day tunchonality,\nQ2 (Attempt any Two Parts ) (5.5)\n{a)What is Knowledge Representation? Discuss various approaches and strategies of Knowledge\nrepresentation.\n(b) What are Inference Rules? Elaborate various rules of inference.\n(C) What do you mean by Reasoning in Intelligent Systems? Explain ¥\nwith example.\narious types of reasoning\nQ3 (Attempt any Two Parts) (5.5)\n(a) What are the different types of Data? Give examples for each type.\n(b) Explain the importance of Data in Machine Learning, What are the five V's retated to the\nData? Ss\n(C) What is the role of training, testing and validation in machine learning?\n‘\n\"<\nNid"
+  }
+ ]
+}

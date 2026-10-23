@@ -1,0 +1,11 @@
+{
+ "file_path": "papers/semester-2/BAI104_IDS_MID_2026.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "(Programme: B.Tech (CSE/ CSE-Al/ IT/ Al&ML/ ECE/ ECE-AI/ MAE/DMAM) (Semester: II)\n\n                                          (March 2026) OFF LINE mode\n\n\nSubject Code: BAI 103                                                Subject: Introduction To Data Science\nTime : 1 ½Hours                                                                       Maximum Marks :30\n\n\nNote: Ql is compulsory. Attempt any two parts of Q2 and Q3\n\n\n Ql                                                                                               (2.5*4=10)\n                                                             '\n\n        ~ n e data science. Write its applications_2.!lYJour.\n  - ~xplain indexing, advance indexing and slicing in NumPy arrays.\n             c) Describe the steps involved in data wrangling with its definition.\n\n         ~rite a python program to create NumPy array for 10, 2D and                 3D array.\n                                                UNITI\nQ2       Attempt any two parts                                                                    (5*2=10)\n         a) What is data exploration? Explain its steps and importance.\n\n       ~ a i n the life cycle of data science in detail.\n\n     .,, ~       prain the process of data filtering and data merging.\n         -                                     UNITII\nQ3       Attempt ~ny two parts\n                                                                                                 (5*2=10)\n\n  <... ~ e ' a python program to perform numerical operations like (add, subtract,\n       multiply and divide) on NumPy arrays.\n            ~-\n  ._~hat are ethics in data science? Explain the S Cs of data science\n                           '·(;>                 '                               •\n\n        c) Define data cleaning. Explain the steps involved in data cleaning process al~g\n        with advantages and disadvantages."
+  }
+ ]
+}

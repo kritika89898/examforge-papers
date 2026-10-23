@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai302_end_2026_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.4,
+   "text": "rr\n(Please wr\n| Subject Code: BAI 302 |\n| Time; 3 Hours = _ ; ——\nite your Enrollment Number) Enrollment No.______-\nEND-TERM EXAMINATION\nCBCS)(SUBJECTIVE TYPE)(OFFLINE)\nCourse Name:<B.Tech. (CSEAI)>, Semester: <6>\n(May, 2026)\n———————cubject: Natural Language Processing |\neel Maximum Marks :60\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\npar |\n|\n| d) Discuss Skip-gram model in details with suitable example.\nAnswer ‘the following - | (2.5*8=20) |\na) How does ambiguity in word forms affect the efficiency of\npemorphoogrcs™ analysis in NLP? —\nb) If cosine similarity between two documents is high but topics are different,\n| analyze possible reasons and suggest improvements. alee: at\n7 c) Identify the morphological type (Noun phrase, Verb Phrase, Adjective Phrase)\nof\nfollowing sentence segments\n| 1. Important to Bill\n|\n| 2. Looked up the tree Put\n| ae ee\n| e) How does NLTK support deep learning workflows?\n2\n;\n_Q2_ Attempt any two parts\n| f) What is smoothing and reordering in Statistical Machine Translation?\ng) Explain the role of deep learning models in NLP? |\nh) Explain why RNN is suitable for sequence data?\nUNIT I\n' a) Explain the levels of linguistic analysis in NLP: phonology, morphology,\nsyntax, and semantics with examples.\nb) Discuss syntactic parsing and its role in sentence understanding.\n| c) Construct the parse tree for the sentence. “The girl plucked the flower with a\n=i\n|\n___ long stick.” Discuss the ambiguity arises from the parse tree. |\na4\n7 ‘| c) Explain how GloVe captures multiple contexts and its limitation in this. case.\nbasic encoder-decoder models.\nUNIT II elec\nAttempt any two parts (S*2=10) |\na) Assume the sentence below, Create TF-IDF vectors using Term- document r |\nmatrix\n+“ | do not like Vanila Cake\n— : | da not like Vanila Icecream\nb) Explain at is Word2vec. Word2vec maps “king- man + woman=queen”.\nExplain mathematically and conceptually how such relationships are learned.\nUNIT Ill\n‘Attempt any two ‘parts poke =i\na) Compare rule-based, statistical, ~and neural machine translation by explaining\nhow each handles the sentence: ” “He gave her a ring”. _\nb) Explain the working g of the Anusaarka system and how it differs from fully\nautomatic machine translation,\nc) Explain the architecture ofa Neural Machine Translation (NMT) system and\nexplain how attention mechanism improves translation quality compared to\nCe Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.5,
+   "text": "— UNIT IV Pee deo FE\nQ5_ Attempt any two parts _ | (5*2=10) |\n| a) Compare RNN, LSTM, and GRU in terms of architecture and performance in 1\nNLP task.\naf b) Discuss the role of pre-trained models (like embeddings) in improving NLP\nperformance. Why does deep learning require large amounts of data in NLP\n| tasks?\n_¢)Asentiment analysis model fails on long reviews. Explain why basic RNN fails |\nand how LSTM and GRU improves performance. Also, explain how CNN can be\n. es\nused in NLP, especially for sentence classification.\nae\nCe Scanned with OKEN Scanner"
+  }
+ ]
+}

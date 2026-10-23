@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec202acs_mid_2025_oct_fr2143_p3.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.4,
+   "text": "(Please write your Enrolment Numper)\nMID-TERM EXAMINATION\n(Course Name B. Tech., ECE) (Semester:\n(October, 2025) OFF LINE mode\n3”)\nSubject Code: BEC 202 _ —_ “Subject; Analog Communication Systems |\nTime:1%Hours —— _ Maximum Marks :30 |\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n= r(2.54=10) |\n—_—.\n(a) If the probability of a bad reaction from medicine is 0.002, determine the |\nchance that out of 1000 person more than 3 will suffer a bad reaction from\nmedicine, using Poisson Distribution.\nlue of a random variable. Explain\nb) Define mean or average or expected va\nhow it is calculated for continuous and discrete random variables.\nc) Determine the percentage power saving when the carrier wave and one of\nthe side bands are suppressed in an AM wave modulated to a depth of (i)\n100% (ii) 50%.\nd) Describe VSB transmission. Give its applications. a |\n(5*2=10)\nAttempt any two parts\na) Explain the properties of Fourier analysis of continuous and discrete signal.\nb) Explain Uniform distribution and Gaussian distribution.\nc) Write short note on (i) Thermal noise (ii) White noise.\nUNIT II\nQ3 | Attempt any two parts (5*2=10)\na) Explain the working of Phase shift method of SSB with the help of block\ndiagram. List its advantages w.r.t. the other methods.\nLJ ‘b) Sketch and explain the working of QAM or Quadrature Carrier Multiplexing.\n“¢) With the help of block diagram explain the Envelop Detector method for\n| _ | AM generation.\na"
+  }
+ ]
+}

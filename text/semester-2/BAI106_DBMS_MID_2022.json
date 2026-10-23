@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-2/BAI106_DBMS_MID_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.4,
+   "text": "MID-TERM EXAMINATION\n(CBCS)\nB. Tech (CSE- Al), 2\"? Semester\n(June, 2022)\nSubject Code: BAI - 106 Subject: Database Management System\nTime: 1% Hours Maximum Marks : 30\nNote:Q. 1 is compulsory. Attempt any two questions from the rest.\n(2.5*4)\ni (4) Define & Discuss primary key, super key, candidate key, alternate key and foreign key\nby taking suitable examples.\n(b) What is referential integrity constraint?\n| | Xe) What are the different types of DBMS users? Discuss the main activities of each.\n| | Xd) Explain Three Tier architecture with suitable diagram\nConsider the following schema:\nSupplier {Sid, Sname, Address}\nParts {Pid, Pname, color}\nCatalog {Sid, Pid, cost}\nWrite the following queries in Relational Algebra:\na) Find the Pnames of parts for which there is some supplier.\nb) Find the Snames of suppliers who supply every part.\nc) For each part, find the Sname of the supplier who charges the most for that part.\nd) For the Sids of suppliers who supply a red part and a green part\n(a) Illustrate Group by and Having clauses with examples?\nra (b) What are the views? Give syntax and example of creating view.\n_ |\nPOM 5A) |\n| | (a) Distinguish between Specialization & Generalization in reference to ER Model.\n(b) How to represent recursive relationship type in a relational database? Explain with an example.\nweak entity set? [—EEE\n(d) Find the number of relations required for converting the following entity relationship diagram\ninto relational database? Draw the relational schema."
+  }
+ ]
+}

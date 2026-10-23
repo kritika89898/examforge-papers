@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-1/BAI103_COA_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.3,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B. Tech AI&ML and CSE-Al, semester: 1\n(December, 2023)\nchitecture\nee — rer organization & Architecture]\nFgubjack GoaarBAr= 103 Sect Computer organo orks 260\nTime :3 Hours\nprey Stion each from the Units |, I, Ht & IV.\n[ Note:Q. 1 is compulsory. Attempt one que\ntages. Give one\nExplain the working of SR flip flop with its disadvan\nexample of the use of S-R flip flop.\nExplain any five laws of Boolean Algebra.\nWrite the format of Memory Reference,\nReference Instruction.\nWhat do you mean by the following terms?\n—tiy AR «— m[AR]\n—tity— Micro-Operation\n‘tr US Explain Parallel processing.\nTY (i /_Define floating point representat\nWhat is the basic Characteristic of Cache M\nWhat is meant by Mapping ? Name three types O\n/O Reference and Register\nion with an example. Eas\nemory? | ae\nf Mapping procedures.\nUNIT-+I (10 Marks)\n| A)simplify using De Morgan’s Law:\niy((A’+C)(AB)’)’ ;\n(AB’y’ (B’+C) J\nLD) xplain the working of a 4-bit asynchronous binary counter with\nlogic diagram, timing diagram and truth table.\nImplement the following multiplexer :\nf (A,B,C) = AB+BC+AC\nDraw the block diagram also.\n(ii) What is a Counter ? State the two different types of\nCounters. Explain the working of any one type of a\ncounter\n(i)\na)A computer uses a memory unit with 256K words of 32-bits\neach. A binary instruction code is stored in one word of memory.\nThe instruction has 4 parts: an indirect bit, opcode, a register code\nto specify one of the 64 registers and an address part.\n(i) How many bits are there in the opcode, register code part and\naddress part. Justify your answer.\n(ii) Draw the instruction word format and indicate the number of\nbits in each part.\n(iii) How many bits are there in the data & address inputs of the\nmemory? Why?\nb) What are the 2 types of control unit? Explain any 1 of them in\ndetail with suitable diagré\nEvaluate x = (A+B) x (C+D) with the help of ONE-ADDRESS\ninstruction and ZERO—ADDRESS instruction.\noF,\n4"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.7,
+   "text": "iy ror a memory unit with size 4096«16, how many bits are\nwv used to specify an address?\nHow many bits _are available for the opera\n/ specif row many operations are possibley- ,\nsad (ifl) Explain ¢ diff erent phases of ‘an Instruction cycle.\nUNIT-IT (10 Marks)\nto process a task. The same\npipeline with a clock cycle\npeline for 100 tasks.\ndetail with suitable\ntion code ang\na J -\nf\na SK no pipeline system takes 50 ns\n/ task can be processed in 6 segment\nof 10ns, Determine the speedup ratio of pi\nb)) Explain branch instruction hazard in\nay ‘diagram.\ncY Show the step by step multiplication process using BOOTH\nalgorithm for: (+15) x (+13). Assume 5-bit registers that hold\nthe numbers and the multiplicand as +15).\nQ7\neline (5,5)\n(i) Explain the term pipelining and draw the pip\nstructure for :\nAi+Bi x Di for i=1,2.....6.\n(ii) Draw the hardware Algorithm for\nmagnitude data”.\nMultiply 10011 multiplicand with 10001 multiplier with\nsuccessive multiplication as well as hardware algorithm\nprocess.\n“multiplication of signed\nUNIT-IV (10 Marks)\nWrite short notes on:\n) Memory hierarchy in a computer system\nOF) Content Addressable Memory or Associative Memory\nQ9\n(i) Explain Virtual Memory Organization and Associative (5,5)\nMemory.\n(ii) What is meant by the terms.\ne Handshaking\nDestination—Initiated Transfer."
+  }
+ ]
+}

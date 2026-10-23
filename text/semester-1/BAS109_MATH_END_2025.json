@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-1/BAS109_MATH_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.5,
+   "text": "> End-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(Offline)\nCourse Name:<B.Tech. > Semester:<1* >\n(For 2025 admitted students)\nDecember, 2025\nSubject Code: BAS 101 Subject: Applied Mathematics\nTime :3 Hours Maximum Marks :60\nNote : Q1 is compulsory.\nAttempt any one question from the Units |, II, Ill & IV.\nCalculators are NOT allowed.\nco [CO Mapping |\na (a) Prove that the eigenvalues of the unitary matrix are rrr nee unit (sre\n22 1 cot\n(b) Two eigenvalues of the matrixA ={1 3 1)are equal to one each,\n12\nfind the eigenvalues of A~?.\n1\n(c) Find the n‘\" derivative of —>—-—_~-\n6x*-SX+1\nx3—y3\n(d) Test the function f(x,y) = aa (% y) * (0,0)\n0, (x,y) = (0,0)\nVaz—x? cO3\n(e) Evaluate fy” f° [2X 42-%\" dxdydz. lt |\n-| (f) Compute the Jacobian if x = u(1—v),y = uv.\n(g) Find the unit normal to the surface x2y + 2xz” = 8 at the point C04\nfor continuity.\n(1,0,2).\n|\" Prove that div Oo ee (grad 9). A+@.divd.\nco | CO Mapping |\n(a) Solve We homogeneous system co1\n3x +4y —z—-6w=0\n2x +3y+2z—-3w=0\n2x +y—14z-9w = 0\nx+3y+13z+3w=0.\n3 ge\n(b) For the matrix A= F 3 =} find the modal\nLT 3\naro, P;\n(a) Using Gauss-Jordan a a aS find inverse of a matrix\n1 Loe 3\n17 3: 3}.\n—2.-4 4\n(2)"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 72.7,
+   "text": "ioe\n1\n(b) For the matrix A= |-2 10 -4| find the modal\n2 ae\nmatrix P.\nco |_CO Mapping «&\nUNIT-II\n*\n(a) Expand tan™ (2) in Taylor series at (1,1) up to second | (5*2=10) £0 Mapping\ndegree terms.\n(b) Test the function f(xy) =* 3y?(6—x— —y) for\nmaxima and minima and_ hence, determine the\nmaximum/minimum value of f(x,y):\n(a) If x = rcos@ and y= rsin8, prove that (5*2=10) co2\n2 dazu du a7u\n4,2) | _—— = ——\nSaeed (Fe i) t 4Y Fy ay\n‘ aru | p ou 07u\nray azn?’\nar? \"ar ~ 96?\nwhere wu is any twice differentiable function of x and y.\n(b) Prove that if parameter ofa triangle is constant, then its\nFF a ee is maximum if the triangle is equilateral.\nco [CO Mapping |\na =10)\nz2— x?(a? — x”).\n(a) Trace the curve a zy\n“Y xydxdy and\n. a fd pe\n(b) Change the order of integration in f, Sj\nevaluate the integral.\n) Find the area enclosed by the curves y = 2—x and\n(a\ny? =2(2- x) using double integration.\n(b) Transform to polar coordinates and evaluate the integral\n(5*2=10) COs\n[g-x2\n2 Ye* x2y + y*)dxdy.\nif\nUNIT-IV co | CO Mapping _|\n(a) State Green's theorem and use it to evaluate $. [(x? - (5*2=10) CcO4\ny?)dx + axydy} where cl is the closed curve of the region\nbounded by y? = x and x?\n(b) Find the scalar potential and work done by applying the\nforce = (2xy + 23)E+ x7F + 3xz7k in moving an object\nfrom ee -2, 1) to (3, 1, 4).\n0 Verily Gauss divergence theorem for (5*2=10) we a\n== (x? —yz)i+ 0% - zx)j + (z* - xy)k taken over\nthe rectangle parallelepiped\nOsxsa,0sysb,0s7z86,\n(b) Explain the physical Interpretation of curl, Also, find\na,b,c If (x+y+az)i+ (bx +2y—z)j+(-xt\n+ 2z)k Is Irrotational."
+  }
+ ]
+}

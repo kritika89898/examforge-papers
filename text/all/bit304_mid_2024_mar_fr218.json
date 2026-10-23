@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bit304_mid_2024_mar_fr218.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.1,
+   "text": "- ae\". ia “11s P “Sear\nPlease write your Enrollment Number) Enrollment No. QIS$olv22\\\nMID-TERM EXAMINATION\n(Course Name: B.Tech. IT/ECE/CSE) (Semester: 6th)\n(February-March, 2024) OFF-LINE mode\n(\nject Code: BIT-304 Subject: Cloud Computing\nTime 1 “4Hours Maximum Marks : 30\nNote: Q. 1 is compulsory.\nDescribe the following terms and technologies using suitable illustrations. (2.5*4) |\nSe\n/ JG) Peer-to-Peer Computing Sd\nlc) softwere isotonic | |\nTa) Virtual Storage Containers SSCS\n| ti(s‘iaCS he |\n(Attempt any Two Parts) UNIT-1 (65)[ |\na) In a hyperconnected cloud-enabled IGDTUW environment, suggest a suitable Cloud\nomputing Architecture based on Load Balancing for the IGDTUW Examination portal\nrom the student’s perspective.\n(b) Categorically differentiate between Cloud and Grid Computing frameworks. Describe\nthe advantages and challenges of Grid Computing.\nc) Design a hybrid cloud deployment model for the “IGDTUW Taarangana” portal from\nhe frontend perspective. Incorporate the scalability and security compliance factors in the\ndesigned architecture.\n(Attempt any Two Parts) UNIT-2 6,5) ||\n(a) Regarding the Virtualization Reference Model, discuss the salient characteristics of\n( the Virtualization Layer along with a detailed reference model. Highlight the\nadvantages of virtualization and mention the limitations.\n(b) With reference to Infrastructure-as-a-Service in the Cloud Cube Model, discuss the\n~ _ significance of the Vendor Lock-In problem and its Operational Limitations with\nsuitable illustrations.\n(c) Regarding the Linthicum Deployment Model, discuss the significance of Process-as-\na-Service and Security-as-a-Service with suitable illustrations. Discuss the Cloud\nSecurity characteristics associated with Jericho Forum Cloud Cube and Linthicum\ncloud deployment models."
+  }
+ ]
+}

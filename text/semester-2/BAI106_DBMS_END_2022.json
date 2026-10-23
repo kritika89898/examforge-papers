@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-2/BAI106_DBMS_END_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.6,
+   "text": "END TERM EXAMINATION\n(CBCS)(SUBJECTIVE TYPE)\nB. Tech CSAI, 2™ Semester\n(AUGUST, 2022)\nSubject Code: BAI - 106 Subject: Database Management Systems\nTime :3 Hours\nNote:Q. 1 is compulsory. Attempt one [Note:Q. 4 is compulsory. Attempt one question each from the Units! 1m @iv. __| [Note:Q. 4 is compulsory. Attempt one question each from the Units! 1m @iv. __| from the Units I, Il, Il & IV.\nMaximum Marks :60\nfaa the importance of entity & referential integrity rules. How\nare these rules enforced in databases?\nHs eee nisk song ently set with weak enify se? | 3 Distinguish strong entity set with weak entity © Distinguish strong entity set with weak entity set?\n_(d)Convert the following SQL query into an equivalent relational\nalgebra expression:\nSelect A1,A2....An\nFrom ri, r2...\n{e)Consider the relation scheme R = {E, F, G, H, |, J, K, Ll, M, N} and the\nset of functional dependencies {{E, F} -> {G}, {F} -> {I, J}, {E, H} -> {K, L},\nK -> {M}, L-> {N} on R. What is the key for R?\neo CELSO Formulate a Concurrency Control Protocol based on Read and Write\neo CELSO\n(g) Differentiate between Primary Key, Candidate Key and Super Key\n] by taking examples.\nF—Lineetain te importance UN (h)Explain the importance of De\nfining Views.\ncn an tend Fampy nae | T\n(a) Why would one choose a database system instead of simply storing\ndata in regular files? When would it make sense not to use a database\nsystem?\n(b) Differentiate between Physical and Logical Data Independence\nDraw a labelled E-R diagram for creating a bank database, each bank\ncan have multiple branches & each branch can have multiple Accounts\nand Loans. Every customer of the bank must have at least one account\nbut is restricted to at most two loans at a time. State clearly any\nadditional assumption you make.\nConsider the following database and answer the queries in relational\nalgebra expression and SQL:\nStudent (roll no, name, address, father_name, dob, email_id. dno)\nDepartment (dno, dname, HOD)\nResult (roll no, subj 1_ marks, sub2_marks, sub3 _marks)\n_ay Retrieve name, address & email_id of students having less than 10\nmarks in sub2.\n6) Find the total number of students in each department.\n_¢) Find the rollno of students those have scored the same marks in sub3"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.9,
+   "text": "i”\nas scored by “ Pooja Seth\n4) Increment the marks of rollno 10 in sub2 by 3\n(a) Discuss the ACID properties of a Transaction? P eolain when we\n(b)What do you mean by Union of two Relations\nrelations are said to be Union Compatible?\nConsider the relational schema for published books. pricammAuthor-\nBOOKS (Book-title, Authorname, Book- type, £\nAffiliation, Publisher) ;\nSuppose the following dependencies exists\nBook-title ->Publisher, Book-type\nBook type ->list price\nAuthorname->Author-Affiliation a\nApply normalization and try to get highest normal form (which is\npossible)\nState the reason behind each decomposition.\nQ7 | What is a serializable Schedule? How it differs from a Serial Schedule? roa]\nExplain with an Example.\n8\n(a)Write short notes on following:\n_{i) What is Concurrency Control? Why it is Important?\n(iiy’ Various Measures of Query Cost?\n(b) What are the features of Object oriented Database Management (10)\nSystems? How they are different from RDBMS."
+  }
+ ]
+}

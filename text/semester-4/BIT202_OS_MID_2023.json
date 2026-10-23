@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-4/BIT202_OS_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 78.6,
+   "text": "_, RGR Pate eatin GE OP Re a “Bs Ei we\nyun’ MID-TERM EXAMINATION\na (Course Name B, Tech. CSE/IT/CSEAI) (Semester 4th)\n1a\n\\\nevo (February, 2023) OFF LINE mode\nof 3 Sa\n| Subject Code: BIT 202 aaa RS | Subject: Operating Systems i Bie a tis.\nPe Time: 1 %Hours r \"ae\n4S — sai ee SR + Ee, Si ae Maxirnurn Marks : 30\nsus? | Note: Q. Lis compulsory. a\nyse Ql (2.5*4)\nDefine system call and various types of system calls provided by operating systern with\navs examples.\né tb) Explain the concept of 'process'. Also, describe the contents of a process control block (PCB).\n=\nwe vas Differentiate between physical and logical memory address space with example,\nAe °\ne * Define Page fault. Explain Page replacement using demand paging with block diagrarn.\nbt cQz (Attempt any Two Parts ) (5,5)\nFor the following set of processes, find the average waiting time using Gantt chart for:\nme\nixPriority scheduling process:\nBurst time Priority\n5 5\nPe 3 4\nPs 8 3\nPy 2 4\"\nPs 1 z\nThe processes have arrived in the order P2, Pa, Pa, Ps and Ps\nFind the turn-around time and average waiting time for the following processes for Round\nRobin Scheduling:\nGiven : Time quantum = 2 secs\nProcess id Arrival time Burst time\nPy 0 >,\nP, 4 S\nP3 2 1\nPa 3 : 2\nPs 4 3\nn-around time\n(of For the following set of processes, find the average waiting time & average tur\nusing GANTT chart for:\nSJF preemptive algorithm\nProcess Arrival time (in sec) Burst Time (in sec)\nPy O 4\nP, 1 2\nPs 2 5\nP, 3 4\nQ3 (Attempt any Two Parts ) (5,5)\nsin the\n6,1, 7, 6,4, 2, 7, 2. the number of frame\nConsider a reference string: Ak,\nf page faults respective to:\nmemory is 3. Find out the number oO\n_ Optimal Page Replacement Algorithm\n2 LRU Page Replacement Algorithm\nJ) Consider the following page Eide ge\nS, 8; 2/8, 9,2, 6, 3,5 auits With HEG and LRU. ea Essa\npresent.\n(c) What is Deadlock? What are the characteristics of deadlock? Explain different methods\nfor handling it in detail."
+  }
+ ]
+}

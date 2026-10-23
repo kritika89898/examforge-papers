@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai302_mid_2026_mar_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.4,
+   "text": "(Please write your Enrollment Number) Enrollment No\nMID-TERM EXAMINATION\n(Programme: B. Tech. CSE-Al) (Semester: VI)\nSubject Code: BAI 302\nTime: 1 “Hours\nNote: Qi is compulsory. Attempt any two parts of Q2 and Q3\n(March 2026) OFF LINE mode\nSubject: Natural Language Processing |\nMaximum Marks :30\nAnswer the following\n(2.5*4=10)\n| a) Define Natural Language Processing (NLP). Discuss its various applications\nin real-world scenarios.\nb) Explain difference between derivational and inflectional morphology.\n> | c) What is Lemmatization, and how does it differ from Stemming? ae |\nd) Explain the importance of corpus in NLP. How does the size and quality of\na corpus affect the performance of the NLP systems?\n*9>—\nQ2 | Attempt any two parts (5*2=10)\n| a) What do you understand by Semantic Analysis in NLP, Explain with\nsuitable example?\n“The bank will not be open today,” determine\ng NLP techniques.\nJ Given the sentence\npossible ambiguities and how they could be resolved usin\ne different types of ambiguity in NLP with examples.\ncy List and explain th\nUNIT Il\nAttempt any two parts\na) Assume a corpus of two sentence. $1: | am working. $2: | am writing.\nPerform TF-IDF embeddings for these sentences.\nEa b) Write short note on any one: (i) Word2vec (ii) Glove\nc) Define a text corpus in NLP and list three different types of\ncorpora used\nin text processing.\n(@ 3 Scanned with OKEN Scanner"
+  }
+ ]
+}

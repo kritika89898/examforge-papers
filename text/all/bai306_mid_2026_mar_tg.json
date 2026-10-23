@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai306_mid_2026_mar_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.4,
+   "text": "{\n(Please write your Enrollment Number) Enrollment No._/ 14\nMID-TERM EXAMINATION\nProgramme: B.Tech (CSE-Al) (Semester: VI)\n(March 2026) OFF LINE mode\nSubject Code: BAI 306\nNote: Q1 is compulsory, Attem\nQl\nMaximum Marks :30\nSubject: Digital Image Processing\npt any two parts of Q2 and Q3\na) What is image sam\ndigital image?\nb) Explain with examples of contrast stretching and thresholding gray-\nc) Differentiate between Spatial do\nd) Explain ringing effect. Why it is\npling and quantization? How do these processes affect the quality of a\nlevel transformations.\nmain filtering and frequency domain filtering.\nobviously seen in the Ideal Lowpass Filter results?\nUNITI\nQ2__ Attempt any two parts\nA) Describe the fundamental steps in a typical digital image processing system. How does each\nstep contribute to the final output?\nb) Consider the following 5 x 5 binary image (0 = background, 1 = foreground object):\nFs QinO 4\nes a Noe\nSs 00100\n10 et 1 1G\n= Ure 0- Os\nLet the set of pixels be V={1}, and let the center pixel be P=(2,2). Answer the following:\nho 1. Give the 4-neighborhood and 8-neighborhood of P.\n2. Which pixels are m-adjacent to P?\nUsing 4-connectivity how many connected components are p\n4. Calculate the Dg distance from P(2,2) to A=(4,4).\n|\nCalculate the Dm distance from P(2,2) to A=(4,4).\nLe) Perform Histogram Equalization\nresent in the image?\n_Q3 | Attempt any two parts\n2\nf 238.24\nApply the following filters only at the center pixel C (2,2).\n1, Apply 3x3 Mean Filter\n2. Apply 3x3 Weighted (Gaussian) Filter\n3. Apply a median filter\n4, Apply a simple Laplacian Filter\nApply the Sobel Operator to compute Gx, Gy, and the gradient magnitude |G|\nb) Explain the concepts of Ideal Low-Pass Filter (ILPF), Butterworth Low-Pass Filter (BLPF), and\nGaussian Low-Pass Filter (GLPF) in the frequency domain,\nc) Explain the significance of the Fourier Transform in di\nconverting an image to the frequency domain help in filterin\ngital image Processing. How does\n8 Operations?\n(@ 2 Scanned with OKEN Scanner"
+  }
+ ]
+}

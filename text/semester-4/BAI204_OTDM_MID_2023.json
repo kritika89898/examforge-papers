@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-4/BAI204_OTDM_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.9,
+   "text": "(Please write your Enroliment Number) Enrollment No.OLGO\\ AZ ZA\nMID-TERM EXAMINATION\n(Course Name = B. Tech, CSE-Al, ECE-Al) (Semester - 4)\n(February, 2023) OFFLINE mode\nSubject Code: BAI 204 = :\nSubject: Optimization Technique and Decision\n= Making\nTime : 1 “Hours Le ee 7\nBos Maximum Marks : 30\n[ Note: Q. 1 is compulsory. ; — Ln\n(2.5*4)\nQi\nPal Discuss the statement of an optimization problem.\nbey Describe objective function and constraints with the help of an example.\n(c) Differentiate between linear programming problems and quadratic programming\nproblems\nted} What is optimization? Explain with an example.\nQ2 (Attempt any Two Parts ) <i\n__S¥ Discuss the general structure of the optimization problem with the help of a flowchart.\n(b) What are the various ways to classify optimization problems?\n4 Discuss five applications of optimization in engineering.\nQ3 (Attempt any Two Parts } (5,5)\n(a) Discuss integer programming using an example.\nhe factory produces 2 products p1 and p2. Each of the products p1 requires 2 hrs for\nmolding, 3 hrs for grinding, and 4 hrs for polishing, and each of the products p2 requires 4\nhrs for molding, 2 hrs for grinding, and 2 hrs for polishing. The factory has molding\nmachine available for 20 hrs, grinding machine available for 24 hrs, and polishing machine\navailable for 13 hrs. the profit is Rs. 5 per unit of pl and Rs. 3 per unit of p2, and the\nfactory can sell all that it produces. Formulate the problem as a linear programming\nproblem to maximize profit. Does an optimal solution exist for maximization? If yes, state\nthe values of design variables as well as the optimal solution.\n(c) Solve the following problem using the Simplex method\nMax Z=5X, +3X\nSubject to constraints:-\nX, + X)<=2\n5X1 + 2X2 <=10\n3X1+ 8X2 <=12\nX1 , X2 >= (@)"
+  }
+ ]
+}

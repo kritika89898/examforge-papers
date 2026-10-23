@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bas102_mid_2024_mar_fr237.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.3,
+   "text": "MID-TERM EXAMINATION\n(Course Name : B. Tech. cse/ a 'T/MAE/DMAM ) (Semester: 2nd)\n(March, 2024) OFF LINE mode\nSubject Code: BAS 102 Subject: Applied Mathematics -Il\nTime : 1 “Hours Maximum Marks : 30\nNote: Q. 1 is compulsory.\n(a) Find the equation of tangent plane to the surface x3 + y? + 3xyz=3 | UNIT-1\nat the point (1, 2,—1).\nUNIT-1\nUNIT-2\n(b) Determine the constant ‘a’ so that the vector f = (x + 3y)i +\n(y — 2z)j + (x +.az)k is solenoidal.\n(c) Lety, =sinx, y, =cosx & y3= e* be the solutions of\nhomogeneous differential equation. Using the concept of Wronskian,\ncheck whether these solutions are linearly independent or dependent.\n(d) Find out the particular integral of (D“ + 6D + 9)y = log5 + 4*.\n| Q2 | Attempt any Two Parts) UNIT-1 a:\nPy (a) Check whether V = (z? + 2x+3y)it+ (3x+2y+zj+Qr 2zx)k represent\n* the conservative vector field or not. If so determine the scalar potential.\n(b) Find the total work done in moving a particle in the force field\nF = (siny)t+x(1+cosy)j\nalong the circular path given by x? + y? = a’, z= 0.\n(c) Verify Green’s theorem for\nTr\nf.. [((y—sinx) dx + cosx dy] where C is triangle enclosed by y = 0, x =>\n(Attempt any Two Parts ) UNIT-2\n| *| (a)Solve (D? — 4D + 4)y = (1+x)*e**.\n2\nra (b)Solve (x?D* — xD +1)y = wee a\n(c) Using the method of undetermined coefficients, solve the differential equation\n(D* — 2D + 3)y =e*sinx."
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec204aew_mid_2025_oct_fr2143_p5.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.0,
+   "text": "TTT 8 OTP VIVETT WAAL TUN\nCourse Name: B. Tech.-ECE, ECE-Al, Semester: 3\"\n(October, 2025) OFF LINE mode\nSubject Code: BE am ————————— Workshop\nTime: 1 Hous —+— —_______ Subject: Advanced Electronic WorkshoP\n_ a ______ Maximum Marks :3°\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n(2.5*4=10) | CO Mapping\na) What is distortion in amplifiers? Explain with example.\nb) An amplifier has at its input a signal power of 100 uW and a\nnoise power of 1L,W. The amplifier has a power gain of 20 dB. The\nnoise contribution by the amplifier is 100 W. Find (i) The input\nCO2\nS/N ratio (ii) output S/N ratio (iii) noise power factor.\n|| c} An amplifier has an input power of 2uW and a power gain of cO1\n30dB. Calculate the output power.\n> | d) Compare positive feedback and negative feedback in amplifiers. —— | co. |\n| | CO Mapping\nfrequency (iv) Draw and explain its frequency response plot.\n| a) Determine trans-conductance and Trans-resistance Amplifier\nimpedance with feedback (iv) output impedance with feedback.\n| Q2 | Attempt any two parts (5*2=10) eee\n|| b) Explain the working of RC-coupled amplifier. What are the\nwith suitable diagrams.\nt Vac\na) In an amplifier, the maximum voltage gain is 2000 and occurs at\n2 kHz. It falls to 1414 at 10 kHz and 50 Hz. Find:\nCita\ncomponents of this circuit that affect the bandwidth?\nry c) Explain the block diagram of multistage amplifier.\nb) Figure shows the circuit of a negative voltage feedback\namplifier. If without feedback, Av = 10,000, Zin = 10 kf, Zout = 100\n(i) Bandwidth (ii) Lower cut-off frequency (iii) Upper cut-off\nUNIT II [| CO Mapping |\n| Q3 | Attempt any two parts /(5*2=10) |\nQ, find: (i) feedback fraction (ii) gain with feedback (iii) input\nc) Explain input-output resistance\namplifier with block diagram."
+  }
+ ]
+}

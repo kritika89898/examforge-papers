@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bam202_mid_2024_mar_fr294.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.2,
+   "text": "MID-TERM EXAMINATION\n(Course Name : B. Tech(AI&ML) ) (Semester : IV )\n(March, 2024) OFF LINE mode\nubject Code BAM-202 Subject: Machine Learnin\nTime: 1 %Hours - 7 7 Maximum Marks : 30\nNote: Q. 1 is co:\nfats What are the primary goals of machine learning, and how\nffer from traditional programming approaches?\nb) Use min-max and Z-transform normalization methods to\normalize the following group of data:\n200, 300, 400, 600, 1000\nio they\n(c)What is the predicted robability that a singla 20-year-old female\nwith an annual household income of Rs 10,000 responded to email\ncampaign. (Gender=1 coded for male and 0 for female , Married=1\nfor married and 0 O_for unmarried _) (Use tht following coefficients)\nTerms Estimate\nconstant 2 0682\nGender Som en 0.7179 eee |\n_ Married 0. 17\n— Income \\0 0, , 660 |\n— Age 20\n(a) Explain the importance of data veaalation in data exploration and es\nhat are some commonly used visualization techniques, and how do they aid in\ndentifying patterns and relationships in data?\n(by Explain the importance of data preprocessing in machine learning? How does data\npreprocessing contribute to improving the performance and reliability of machine learning\nodels?\n———————— C)Explain the concept of normalization and its significance in the context of feature\naling.\n[gente Teo Para) Attempt any Two Parts) UNIT-2\n(9¥ You are provided with a dataset containing information about the number of hours\nKtudents spend studying and their corresponding scores on a test. You plan to use linear\ngression to predict the test score based on the number of study hours.\nonsider the following subset of the dataset:\nStudy Hours (x) Test Score (y)\n2 65\n3 70\n5 75\n82\n88"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 93.6,
+   "text": "sing linear regression, determine the equation of the regression line that best tits the\ndata. Then, predict the test score for a student who studies for 6 hours.\nse\nompute R square?\nb )Consider a dataset with the following two-dimensional points for a binary\nlassification problem:\nlass 1 (Positive class):\noint A: (2, 3)\noint B: (4, 5)\noint C: (3, 1)\nlass 2 (Negative class):\noint D: (6, 5)\noint E: (7, 7)\nPoint F: (8, 3)\nou are tasked with implementing a k-NN classifier with k=3 and classifying a new data\nnoint G at coordinates (5, 4). Use the Euclidean distance metric for the calculations.\nExplain why choosing a different value for k (e.g., k = 5) might affect the prediction and\nhow it could potentially impact the overall performance of the KNN model.\ni i istic Regression for binary\nc) Compare and contrast Support Vector Machines with Logistic\nsification tasks. What are the strengths and weaknesses of each algorithm, and under\nhat circumstances might one be preferred over the other?\n="
+  }
+ ]
+}

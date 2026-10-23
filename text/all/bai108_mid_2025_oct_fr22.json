@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai108_mid_2025_oct_fr22.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.5,
+   "text": "MID-TERM EXAMINATION\n(Course Name: B. Tech.) (Semester: 1st)\n(October, 2025) OFF LINE mode\nSubject: IT Workshop\nSubject Code: BAI 102\nNote: Q1lis compulsory. Attempt any two parts of Q2 and Q3\nMaximum Marks :30\n(2.5*4=10) | CO Mapping\na2. | Attempt any two parts ceo\nTo begin programming in R, what are the two main software\nprograms you should install?\nSie ie\nUNIT II a CO Mapping\nWhat is a data type in R? Give one example of a numeric data\ntype and one example of a character data type.\nLoot\nWhat is R programming, and name two of its important features?\nWhat is a vector in R? Give an example of a numeric vector with\nthree numbers.\nWhat is a numeric vector in R? Provide a simple example using e\nc() function.\nWrite the R code for the following two calculations: i. Adding 15\nand 5. ii. Multiplying 4 by 6.\nWhat is a variable used for in R? Write a single line of code to\ncreate a variable named x and store the number 50 in it.\nWAP to print a series of squares and cubes from 1 to a given\nnumber (input from user).\nWhat is a matrix in R? Write the R code to create a 2x2 matrix\ncontaining the numbers 1, 2, 3, and 4."
+  }
+ ]
+}

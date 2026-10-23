@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai304_mid_2026_mar_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.3,
+   "text": "., os\n——\n(Please write your Enrollment Number) Enrollment No,\n-_—_orr\nMID-TERM EXAMINATION\n(Programme: B. Tech. CSE-Al) (Semester: VI)\n(March 2026) OFF LINE mode\n| Subject Code: BAI 304\n| Time: 1 %Hours\nSubject: Deep Learning-II\nMaximum Marks :30\nNote: Ql is compulsory. Attempt any two parts of Q2 and Q3\nQi ee enEEINN | (2.5°4=10) |\n- | a) Explain the effect of learning rate on the training of the Neural Network.\nb) Discuss the concept of bias and variance with example.\nc) Explain the sigmoid function along with advantages and disadvantages.\nd) Discuss the concept of saddle point in detail with example.\nUNITI\nQ2 | Attempt any two parts (5*2=10)\n|\n| | a) Explain the various strategies for weight initialization while training a\n}\n| neural network?\nb) Discuss the concept of MP-Neuron along with its mathematical formulation. |\n\\dentify the activation function used for this neuron.\n' c) Explain the concept of early stopping and batch normalization.\n|} UNITII\n‘ : *7-\nQ3 | Attempt any two parts a (5*2=10)\na) Explain the RMPprop algorithm in detail. How is it different from\nAdaptive Gradient descent?\nb) Differentiate the Stochastic Gradient Descent, Batch Gradient Descent,\nand Mini-Batch Gradient Descent methods. Discuss the mathematical\nformulation of each method,\nc) Explain the concept of dropout layer with example. How is it different\nfrom L1/L2- regularization?\nCe Scanned with OKEN Scanner"
+  }
+ ]
+}

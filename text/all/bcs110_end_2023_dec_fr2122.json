@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bcs110_end_2023_dec_fr2122.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 78.6,
+   "text": "End-Term Examination (Regular & Reappear )\n(CBCS)(SUBJECTIVE TYPE)(OfLine)\nCourse Name:<ECE-Al/ ECE/ CSE, Semester:<1>\n(Nov ember-December, 2023)\n[ Subject Code: BCS 110 | Subject: Programming in C Language ai\nTime :3 Hours Maximum Marks :60\n| Note:Q. Lis compulsory, Atfemptone question each from the Units 1, 1, IE & TV,\nQl (2.5*8=20)\n(a) What is an operating system? Explain its function 4\n| () Draw the flow chart of the following while and do while loop. — &\nl (c) Explain the concept ota break statement with the example. ——\n[~ (d) Write a program to convert a decimal number to an octal number 7\n(e) What will be the count's value after executing the given function\n/ at fun( 13)?\n| int fun (in¢ num)\n4\nint count = 0;\nwhile (num)\nt\ncount++;\nnum >>= 1;\n‘\n’\nreturn (count);\n| \\\n}\n| '(f) What is recursion? Explain with the help of an example | a |\n| (g)\nFind the output of the following code.\n#include<stdio.h>\nvoid f(int *p, int*q)\n{\np-q,\n*p=25\n}\nint i=0, j=1;\nint mainQ)\n{\nf(&i, &j);\nprintf(\"%d%d\\n\", i,j);\nreturn 0;\n(h)\nWhat are the differences between call by value and call by reference?\nExplain with an example.\na) Explain the following in detail: ALU and register.\nb) Explain the following in detail: main memory and\nsecondary memory.\na) Write the flow chart of the switch case and if-else\nPage 1 of 2\nScanned by TapScanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.9,
+   "text": "ladder statements.\nb) What are the differences between compiler and\ninterpreter?\nUNIT-II\nExplain the concept of any two logical operators\n(5+5)\nwith the help of an example. ' ,\nb) Explain getchar() and putchar() functions with\nexample.\na) What are the data types? ? Explain any two data types (5+5)\nwith examples.\nb) Write a c program to identify whether the given\near ee leap or not.\na) a rite a program for matrix multiplication in ¢ such that (5+5)\nthe order of the first matrix is 3x3 and the order of the\nsecond matrix is also 3x3,\nb) Write a program to print the following pattern;\nkK kkk xk & & &\n* *\na) What is the output of the following C code? Assume (5+5)\nthat the address of x is 1000 (in decimal) and an integer\nrequires four bytes of memory.\nint main()\n{\nunsigned int x[4][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8,9}, (10, 11,\n12}};\nprintf(\"%ou,%u, %u\", x+3, *(x+3),°(x+2)+3);\n}\nb) What are the differences between while and do while loops?\nExplain with the help of examples.\nUNIT-IV\nExplain the following library functions using an example\ni) strepy (),\nii) strrev()\nili) strcat()\niv strlen()\na) Write a program to take the input and print the\nrecord of 5 patients using structures. where the\nrecord contains the patient’s name, age, weight (in\ninteger), and height (in integer).\nb) Difference between union and structure with the\nhelp of example.\n(2.5*4)\n(S+5)\nPage 2 of 2\nScanned by TapScanner"
+  }
+ ]
+}

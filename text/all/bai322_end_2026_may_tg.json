@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai322_end_2026_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 79.2,
+   "text": "/ LA\no2/\n(Please write your Enrollment Number) Enrollment No. Zoo\\| 2 3\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE) (Offline)\nCourse Name: B. Tech, (CSEAI), Semester: 6\"\n(May, 2026)\n| Subject Code: BAI 322 _ Subject: Data Warehousing & Business intelligence\nea a a Maximum Marks: 60\n| Time :3 Hours\nNote: Quis is compulsory. Attempt one question each from the Units |, I, Il & Iv.\nToa enmiyeypes «byes retire ae (4*5=20)\n: a. \"| identify whether the following systems are DBMS or Data Warehouse, and\n| justify:\n(i) Supports frequent updates and transactions 4\n(ii) Stores historical, time-variant data\n| (iii) Optimized for query and analysis\n| (iv) Used for day-to-day operations\nb. | identify the following as Fact or Dimension, and justify: a\n(i) Sales Amount\n| (ii) Time\n(iii) Customer\n(iv) Quantity Sold\nCc Explain the concept of Dimensional Data Modelling. Explain how Data Cube Een\n\\ support multidimensional analysis.\nd. Given the following dataset:\nai 2a | a 3a ess ta\nfsa | ene # ee | Cem\nreve Emery\nee cess a\nClassify the point (4,5) using KNN (k = 3) with Euclidean distance.\nShow all steps and determine the final class.\ne, Given the following transactions:\nTi; {Milk, Bread}\nT2: {Milk, Bread, Butter}\nT3: {Bread, Butter}\nT4: (Milk, Bread}\nCalculate using Apriori Algorithm:\n(i) Support of {Milk, Bread}\n(ii) Confidence of rule Milk > Bread\n(iii) Calculate the final rules with support value 60%\nand confidence 80%,\nsl\n(@ 2 Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.9,
+   "text": "a ie <tr UNIT! ea ~~ | €O Mapping\nQ2 I Describe the three-tier architecture of a data warehouse. Explain\n| | the role of each tier and how this architecture supports efficient (10) col\n| | data analysis,\n| Q3 An onganization integrates data from multiple operational systems\n| into a centralized repository, The data is first loaded Into the\n“system end then transformed within the database engine to (10) col\nsupport large-scale processing. Identify the approach used and\n|\nexplain its working and advantages. ?\nUNIT = II CO Mapping\n- — phe EOE oS”\nQ4 | Explain and compare the following schemas:\n* Star Schema\n* Snowflake Schema (10) co2\n* Fact Constellation Schema\nDiscuss their advantages and limitations.\nQS | Explain the following OLAP operations with examples:\ne Drill-down\na (10) co2\ne Slice and Dice\n© Pivot\nUNIT ill CO Mapping |\nQ6 Explain Data Mining in detail. Discuss the role of KDD process in\nSusinéss decision-making and various application areas. Explain (10) co3\neach phase and its significance in extracting useful knowledge.\nnem eee a\nQ7\n_ Explain the concept of Classification and Prediction with suitable\n| examples. Discuss the Decision Tree approach in detail. | co |\nLe Retinal aie Da ie\nUNIT IV indie CO Mapping |\n28 Explain the K-means algorithm in detail. Given the following ae\npoints: (2, 2), (3, 3), (8, 8), (9, 9)\nApply K-means clustering (k = 2) with initial centroids as (2,2) and 0}\n(8,8), Find the final Clusters,\nExplain the following: .\n¢ Neural Networks and Genetic Algorithms\n¢ Agglomerative and Divisive Clustering\nQC Scanned with OKEN Scanner"
+  }
+ ]
+}

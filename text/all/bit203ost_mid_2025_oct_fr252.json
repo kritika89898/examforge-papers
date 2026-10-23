@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bit203ost_mid_2025_oct_fr252.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.9,
+   "text": "(Please write your Enrollment Number) Enrollment No. CZ47010 42024\nMID-TERM EXAMINATION\n(Course Name B.Tech IT, AIML ) (Semester 11\"?)\n(October, 2025) OFF LINE mode\n| Subject Code: BIT 203 | Subject: Open Source Technologies)\nTime : 1 “Hours Maximum Marks : 30\nNote: Q.1is compulsory.\na |e 2570\nJv (a) What did you understand by Free Software Forum? List down various licenses supporting\npen Source Technology projects\nJ (b) Expt in any one license from below a\nApache\n(ii) BSD\nos Ope sub-folders that exist under linux root folder\nYo\nWA (d)Write short note on any one of the following.\n/ (1) Git Version Control System\n(2) PostgreSQL\n| Q2 | Attempt any Two Parts )\n(a) What do you understand by Github Trunk & Bran\nstrategies.\nEJ (b) Explain GitLab and its Key features.\n2’) Explain following commands in SQL\n(i) ROLLBACK “\n(ii) SAVEPOINT” ¢*~\n(iii) COMMIT “\n(iv) GRANT - o¥\n(v) INSERT -™\nch? Explain any two Git branching |\nUNIT-2\n.Q3 | (Atte pt any Two Parts )\nExplain what is Jenkin. List and explain the various build triggers available in Jenkin.\n—G Explain Docker and its Architecture."
+  }
+ ]
+}

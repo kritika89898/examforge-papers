@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BCS303_TOC_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.5,
+   "text": ". —\n(Please write your Enrollment Number) Enrollment No [fy\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B.Tech>, Semester:<5>\n(December, 2025)\n_ Subject: . Theory of Com putation\nMaximum Marks :60\nSubject Code: BCS 303\nTime :3 Hours lala\nNote: Qi is compulsory, Attempt one question each from the Units 1, Il, Il] & IV.\nCa a\n3 hat is €-closure of a state? What are the differences among DFA, NFA and\ne-NFA\n| b)What is regular grammar and what are the properties of regular languages EY\n__&) Give the Formal definition of CFG and what is parse tree\n_A@))What is useful and useless symbols in a grammar? Give examples |\n_&) What is Linear Bounded Automata? How it is different from Finite\nj Automata.\n4) Give the formal definition of Turing Machine\n| gyGive the formal definition of Mealy Machine. How Mealy machine is\n| different from Moore machine\nWhat is halting problem\nUNIT I\nQ2 | Convert the following NFA to optimized DFA (10)\n| oF Show that the following language is not regular using pumping lemma (10)\n: @\nL=f{ak'/k= 1}\n: UNIT II\npepe normal form grammar equivalent to the following CFG: (10)\nA> SS|1\nDesigna PDA for the language (10)\nel Bey\nL= any3nc3n 2” | mn>l}\n'@ 3 Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 68.1,
+   "text": "aerate eae eS CER ttt et ARCS ANN Niet\nUNIT HT\nDa ica = se alam ae i\nQé | Design a Turing Machine for the language: (10)\n|\nL= {a\"b\"c™ /n2 Lt\nQ7 J Show that the folk owing languase isnot Col . eee Te (10)\n| De 02g /ioe 1\nUNIT IV\n| Qs (a) Explain about P and NP, NP complete & NP Hard Problems with (5,5)\n_examples.\n| (b) Explain Post correspondence Problem with suitable example.\n/Q9 | Design a Moore machine for the following process: for input from (O+1)*, if (10)\n_ the input ends in 101, out A; if the input ends in 110, output B; otherwise\noutput C,\na\nCac?\nCc Scanned with OKEN Scanner"
+  }
+ ]
+}

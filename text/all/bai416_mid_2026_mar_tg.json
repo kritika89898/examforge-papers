@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai416_mid_2026_mar_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.0,
+   "text": "{\n(Please write your Enrollment Number) Enrollment No._O U801)720 2 Bos\nMID-TERM EXAMINATION\n(Programme: B. Tech. CSE-Al & ECE-Al) (Semester: VIII)\n(March 2026) OFF LINE mode\nSubject: Alin Healthcare\nMaximum Marks :30\nSubject Code: BAI 416\nTime : 1 %Hours\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\ng7 xa} What is time-series medical data? Give one example. fee\nae b} Define data enrichment. Give suitable examples.\nSt Explain data sourcing and challenges in healthcare data\ncollection.\ney | Ud} Define Clinical Decision Support System (CDSS).\nUNIT | ss CO Mapping\na2 Attempt any two parts (5*2=10) ara:\n<3) Explain the historical evolution of Al in healthcare with Epc\nkey milestones.\nb) A patient’s respiratory rate (breaths/min) recorded every\nhour:\n18, 20, 22, 24, 26, 30, 28\nQuestions:\n1) Compute 3-point moving average.\n2) Identify trend (increasing/decreasing).\n3) Explain why moving average helps in time-serias sm\n4) Mention one limitation of moving average in ICU monitoring.\nanalyze the impact of geographic and demographic\nvariation on Al-based medical models.\nco —\n— 10)\nCal Attempt any two parts\n2 Feplain different machine learning techniques used in\ndisease detection using tabular medical data.\nb) Explain classification, regression, and clustering\ntechniques in healthcare.\nA Analyze challenges in implementing Al-driven CDSS in\nreal clinical settings."
+  }
+ ]
+}

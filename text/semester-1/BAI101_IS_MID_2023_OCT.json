@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-1/BAI101_IS_MID_2023_OCT.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.1,
+   "text": "iia nme\nMID-TERM EXAMINATION\nB.Tech CSE-Al/ ECE-Al/ AI&ML, 15* Semester\n(October, 2023) OFF LINE mode\nSubject Code: BAI-101 Subject: Intelligent systems\nTime : 1) YaHours _ Maximum Marks : 30\nNote: Q. 1 is compulsory. |\n6 How do recommendation systems, like those used by Netflix and Amazon, work to\n| pest content or products to users?\na ib) ‘What is knowledge representation in Al, and why is it essential for intelligent\nsystems?\n\\heeVelopm are the ethical considerations and challenges associated with May\nelopment and deployment of intelligent systems?\n4) What are public datasets, and where can one find them for various domains and\nresearch purposes? /\nEy =a\n| Q2_[atteynptanyTwoParts) UNITAS)\nove) hat are some key milestones in Al and what do they signify for Al progress? ras\nme Write short note on Agent Types and Agent Program. ae\noP ceaapianepansioaisn sweet eee (Gf Differentiate between Deductive and Inductive reasoning using suitable examples. ae\na\nAa) Why is it important to split a dataset into training, testing, and validation sets, and\nwhat are the typical ratios used for this split?\n(c) Differentiate between Classification, Regression and Clustering with suitable\nexamples,"
+  }
+ ]
+}

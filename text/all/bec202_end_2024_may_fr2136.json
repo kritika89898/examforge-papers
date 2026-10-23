@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec202_end_2024_may_fr2136.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.0,
+   "text": "_o2to1o2202>\n(Please write your Enrollment Number) Enrollment No.\nEnd-Termfxamination\n(CNCS)(SUDIECTIVE TYPE)(OffLine)\nCourse Name:f. Tech. (ECE, ECE-Al), Semester: 4th\n(May, 2024)\n| Subject Code: REC.202\nTime : 3 Hours\nits (LIC) - a\n| Subject: Linear Integrated CE aimurn Marks 60\n| Note-Q. Lis Compulsory. Attompt one question each from the Units 1, Ht, It & IV.\nQ1 (2.5*8=20) | :\n(a) Why an emitter follower has hi\nah input impedance? At what stage it Is\nconnected\nin internal circuit of Op-amp?\n(b) What is thermal drift in Op-amp? What are different factors contributing to\na —__thermal draft? a\n| (c) Give the Output waveforms when the following inputs are given to a\naw ____differentiator:- (i) Sine waveform (ii) Square waveform —\n| (d) ___What are the conditions for Barkha 7?\nusen criterion? _ —— r\nons using OTA given below in Fig 1(a) and\nf your answer.\nOV, |\nOV, |\n; .\n-\n|\n. (e) Identify the type of circuit realizati\nFig. 1(b). Give reasons in support o\n> Fig. 1(b)\n}\nWhat causes cross-over distortion? How it can be eliminated?\nWhat is damping coefficient? Give its significance in filter design.\n| (h) Define the following terms:\n.\nI. Lock-in range\nI. Capture Range e\nUNIT-I\nExplain the following characteristic\nsupporting diagrams:-\nI. Input offset current\nHl. Input offset voltage\nlll. Total output offset voltage\nIV, CMRR\nV. Slew Rate\nGive comparative analysis of different frequency compensation\ntechniques for their frequency response curves along with their respective\nadvantages and disadvantages.\nQ.2\nparameters of an op-amp with\n(10) a\nExplain the operation of triangular waveform generator with the help of\nCircuit diagram and i/o waveforms. Also, derive the expression for its\nfrequency of oscillation. = :\nExplain the operation of logarithmic amplifier. Give detailed circuit\ndiagram and mathematical analysis for the same."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 94.6,
+   "text": "Find out the transfer function of circuit given below in Fig. 2,\nWhat is the purpose of push-pull amplifier? Explain the operation of Class\nA push-pull amplifier with detailed circuit. List some advantages and\nlimitations of a Class A push-pull amplifier?\nDesign a first order active wide band pass filter having fj =\n2 kHz and pass band gain of 4. Give fully labeled circuit d\ncomponents attached. Find the value of ‘Q’ of the filter.\nExplain the operation of 555 Timer when it is connected for monostable\nOperation. Draw functional diagram of monostable operation and its\ninput, output and Capacitor timing pulse waveforms.\n400 Hz and fh =\niagram with all"
+  }
+ ]
+}

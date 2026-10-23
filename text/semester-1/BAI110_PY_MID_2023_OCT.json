@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-1/BAI110_PY_MID_2023_OCT.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.0,
+   "text": "f MID-TERM EXAMINATION wr a\n(Course Name ; BTECH AI&ML/CSE-Al) (Semester f) Vs AY\n(October, 2023) OFF-LINE mode Le)\n| Subject Code: BAI-110 | Subject: Programming with Python\n“Time tl MHours\nMaximurn Marks : 30\n| Note: G2 ts computeory, TIS a Ci gaits Oi esa\n5) Explain the following built-in exceptions in python with example: -\nie AttributeError\n#~ ImportError\nsii NameError\n/ValueError\naig (b Write a python program to swap two tuples with three items defined in each tuple. pe\n((<f) hat are sets in python? Write a python program to check if two sets have any)\n‘élements in common. If yes, display the common elements,\nSs Explain the following built-in functions and methods with syntax, description and\nilustrations: pene\ni, extend(\n~, items()\nfi. count() ina tuple\niy’ range()\nA read()\noye (Attempt any Two Parts) UNIT-1 ss) | |\n(a) Write a python program to print even length words in a string “Indira Gandhi Delhi\nTechnical University for Women” |\nf with\nxplain the purpose and working of loops. Discuss Continue and Pass statement\nexample.\n(a) Python program to find unique numbers in a given tuple -\nT1=(1, 9, 1, 6, 3, 4, 5, 1,1, 2,5, 6, 7, 8, 9, 2)\nHs}-How to declare and call functions in Python programs? Illustrate with an example\nscript.\nCompare list and dictionary data structure with suitable example, Explain the\nconcept of list comprehension."
+  }
+ ]
+}

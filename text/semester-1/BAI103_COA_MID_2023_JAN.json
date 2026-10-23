@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-1/BAI103_COA_MID_2023_JAN.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 72.5,
+   "text": "trientervent Mee\nWHEEL pik Erretenerit Peurnber)\nMID-TERM EXAMINATION\n(B.Tech, CSE-AI/AI MA)\nL*semester\n(lanuaty, 2023) OFF LINE mode\n[Sehics Cone: eas-t0ox_____T subiect Compu ‘Rosters\nBinet Code: HAL105 Subject; Computer Organisation and Architectura\nTire: & Perea Mm\nanirmum tarks. 20\nQi Atternget atl Parte\n. (2.574)\npy\" Slanplify the following capression wing Doolean Algebra\nAlle AICO + OC)\nJn Conweest O77 hoand CLOL LOLOL) to ite equivelent octal number\n(c) A eystem(A) contains twe identical carouits which are operating in parallel. As\nlong as both Mlentical citeuits are productng same output, A is producing high\noutput, However, if one of the identios! circuits fails, the output of Avall be\noutput Considering the identical circuit as a block, design\nopposite to the previous\nrarn of A which can monitor and detect thats failure\nthe combination circuit diag\nhas occurred in one of the identical circuits\n(4) Explain the different components of instruction format\n{5,5}\nQ2 {Attempt any Two Parts} UNIT-1\nf truth table the validity of the following expressions:\npentose by the means © c\na) A(A+B)+ (B+ AA)A+ 48)\n=A+s\n(ii) As ABH A+8\n(i) Whether NOT logic gate supports associative law or not? Justify.\n(ii) Write the algebraic expression for X for the given circutt:\nLo a Leh x\nel\nut states of S-R flip flop, J-K flip-flop, D-fip\n(c) Identify the imp flop & T-flip flop, which\nmake them act as a bufler/memwry flip-flop,\nQ3 [Attempt any Two Parts) UNIT-2 (5.5)\nsodes in the instruction code with an example,\n(a) Describe the different addressing 1\nreference instructions with an example\n(c) Consider a hypothetical computer architecture design where 5 different operations ate\nt und the memory is having 8192 different addresses. Identify the number of\nton code in the single address instruction? Also, calculate the\ness in the indirect mode.\n(b) Explain the different\nfo be dciince\nhits mequired for ne instruct\nnumber of bits required for opcode and operand memory addr"
+  }
+ ]
+}

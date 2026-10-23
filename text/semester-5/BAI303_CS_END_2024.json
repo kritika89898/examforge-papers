@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BAI303_CS_END_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 93.4,
+   "text": "(Please write your Enrollment Number) Enrollment No. 1001) 72022—\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech., Semester:Sth\n(December, 2024)\nSubject Code: BAI 303 Subject: Cyber Security\nMaximum Marks 60\nNote: Q1 is compulsory. Attempt one question each from the Units |, Il, Ill & IV.\nDefine vulnerabilities. Discuss how they are exploited in insider threats, with an\nexample from an organizational context,\nDiscuss the Lollipop Model and its significance in designing secure systems.\nUNIT I\nExplain the goals of cyber security in detail. Discuss three types of malicious\nsoftware—worms, ransomware, and backdoors—explaining their attack\nmethodologies, impacts, and defense mechanisms.\nPhishing is one of the most prevalent cyber threats. Discuss its various types, such\nas spear phishing, smishing, and vishing. Suggest detailed prevention techniques\nthat organizations and individuals can implement to counter these threats\neffectively.\nUNIT Il\nCyber terrorism is a growing threat to national and global security. Define cyber\nterrorism, explain its impact on critical infrastructure, and provide a detailed\nanalysis of one documented cyber terrorism incident.\nWhat is identity theft? Discuss in detail the various methods used by\ncybercriminals to carry out identity theft, its impact on individuals and\norganizations, and strategies for prevention, including technological and legal\nmeasures.\nWhat are hash functions? Explain their properties in detail and discuss the role of\nthe Secured Hash Algorithm (SHA) in data integrity and authentication, including\nan example of its use in digital signatures."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.8,
+   "text": "eee\nEe\nExplain SSL/TLS protocols in detail, focusing on thelr working mechanisms, the\nhandshake process, and how they ensure secure communication in e-commerce\nand online banking environments,\nUNITIV\nerstone of cyber security. Define risk management,\nexplain its process in detail, and describe its importance in protecting sensitive\nOrganizational data with an example. ae Sa\nDiscuss the Indian IT Act comprehensively. Highlight its key provisions for\ncombating cybercrime, its relevance in today’s digital world, and challenges in its\nImplementation. Provide examples wherever applicable.\nRisk management is a corn"
+  }
+ ]
+}

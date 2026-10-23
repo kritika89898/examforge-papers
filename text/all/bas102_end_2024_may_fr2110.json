@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bas102_end_2024_may_fr2110.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 80.4,
+   "text": "(Please write your Enroliment Number) Enrollment wo, 220) 022, or 3\nEnd-Termexamination\n(CBCS)(SUBECTIVvE TYPEN Offline)\nCourse Name:<B.Tech- >\n(For students admitted on and after 2022)\nSemester:<2\"> 2023-24\nSubject Code: BAS 102 Subject: APF lied Mathematics ll\nMaximum Marks :60\nTime :3 Hours\nNote:Q1 is compulsory. Attempt one question each from the Units 1, Ui, Ht & IV.\n(a) Find the directional derivatives of @ = XY\nthe direction of the vector f + 27 + 2k.\n(b)Evaluate J. Pd? along the parabola y? = x between the points (0,0) and (1,1)\nwhereF = x?i + xy.\narticular integral of the differential equation\nd*y dy ¥\n——+3—+2y=e*.\ndx? dx y\n(e) Find the Laplace transform of the function t? cos at. a\n(d) Find the p\na> | (f)Evaluate L\n. ™ :\n(h)Expand f (z) = sin Zina Taylor's series about Z = -\" and determine the radius + |\nof convergence of this series.\n(a) Verify Stoke’s theorem for the vector field (5*2=10)\nF = (2x-y)i- yz7j = y?zk over the upper half surface of\nxy 2 4 72 = 1, bounded by its projection on xy-plane.\n(b) Evaluate {Jj F. fidS where F = 3yt + 22) + x’yzk and Sis the\nsurface y? = 5. in the positive octant bounded by the planes X =\n3and z= 4.\n(a) Using Stoke’s theorem, evaluate\ntis [(x + y)dx + (2x — z)dy + (y+ z)dz), where 'C ts the\n(2,0,0), (0,3,0) and\noat). My\n0\nboundary of the triangle with vertices\n(0,0,6).\n(b) Evaluate J iF F.7idS using Gauss Divergence theorem where"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 72.1,
+   "text": "F =2xyit+ yz*j+ axicond ithe wrfecs of the ‘alot\nbounded byx= 0,y = 0, z= 0,9 = 3,x+4+2z=6.\n(a) Solve y\"” — 2y’ + 2y = €* CaN by method of variation of\nparameters.\n(b)Solve \"\nd* Sk\n(2x + 3° - (2x + ore 12y = 6x;\n3\nBay\n(a) Solve the differential equation\nhy th 4 Se2* using method of undetermined\ncoefficients.\n(b) Solve the simultaneous equations\n(D—1)x+(D+))y= 1\nr Lf’ (t)]. it LUF(.)) = FCs).\n(a) Derive the formula fo\nd’'y | dy _ 43\n(b) Using Laplace transform, solve ark ae. = t* + 2twhere\n= 4and y’ = —2whent = 0.\nBs $s\n(a)FindL 1 [aol using Convolution theorem. .\n(b)Solve +2y+ fy ydt =sint, y(0) = 1.\n(a) Prove that for the funct on\n3 ij- Sis\nf(z) = eG+0-7 a z#0, and f(0)=0, the\nx?+y?\nCauchy’s Riemann equations are sutisfied at the origin, butf’(0)\ndoes not exist.\nb) Evaluate $ 32°+2 az, where Cis the circ\n(b) Evaluate CG g3o4 , where ;\n|jz—1)=1.\n1\nE z) = ———— ina Laurent series valid for 0<\\|z-\n(a) Expand f ( ) (=) (2-3) |\n1] <2.\ndz\n(b)Using the residue theorem, evaluate f, 23(2+4) ,» where C is the\ncircle|z + 2] = 3."
+  }
+ ]
+}

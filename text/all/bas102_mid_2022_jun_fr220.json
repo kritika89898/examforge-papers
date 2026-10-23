@@ -1,0 +1,11 @@
+{
+ "file_path": "papers/all/bas102_mid_2022_jun_fr220.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "(PltUt writt yGur EMollmtnl Numbtr)                                EnrollmtntNo.   ri'.?:>aoro I da4I\n                                      MID TERM EXAMINATION\n                                                {CBCS}\n                                                       nd\n                                   B. Tech (CSE/ECE), 2 Semester\n                                             (June, 2022)\n\n Sub ct Code: BAS 1oz                               SubJect: A /ltd Mathem.ttlcs II\n Timt : l Y, Hours\n                                                                             MailmumM.trks 30\n Note: Q . 1 is compulsory. Attempt .tny two questions from the rest.\n\n Q1\n                                                                                             I       11•1+4=101\n\n          (a ) Solve bv the method of variation of parameters ( D2 - 2D + t )v = xie\"'\n          (b) Evaluate   f'\" ,-•\n                               11 1\n                                 \" t   de using Laplace Tansforms\n          (cl find the inverse Laplace transform of : ~-•1 in terms of unit step· function .\n\n\n\n Q2                                                                                      I            (6+4=10)\n          (a) Solve the equation (x 2D1 + x D + 4)y = Sln(2 log::r) us ing operator method\n\n          (b) Apply Convolution Theorem to evaluate I_.-__,'{\"-,_'-'\"'\"''••e,»e,;'L\n                                                                                }--------1\n\n1-'a~•+ ~ ~ ~ ~ - - - ~ ~              ~ ~- - - --~~-'.L. 1s+s=101\n         (a) Solve the equation (tO 1 + ZD + 1)y = cost given that y(O) = 1 using lapl.tce\n              Transforms.\n          (b) Solve the equ.ttion (D 3 + 2D 1 + D)y - e 2\"' + x 2 + Sin x using operator method.\n\n\n Q4                                                                                                  (6•4-:10)\n          (a) Solve y\" - 3y ' + Zy = x 2 + e\"' by the method of undetermined coefficients.\n          (b) FindtheinversetaplaceTransformof ;-;;;,                                            -    --"
+  }
+ ]
+}

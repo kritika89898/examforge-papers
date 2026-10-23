@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BAI305_DL1_MID_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.3,
+   "text": "(Please write your Enrollment Number) Enrollment No. YFO 1172022\nMID-TERM EXAMINATION\n(October 2024) OFF LINE mode\n(Course Name : B. Tech.) (Semester : 5\" )\nSubject Code: BAI-305 Subject: Deep Learning-|\nTime : 1 %Hours Maximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nCava\n|_| a¥ Identify the type of problems s solvable fs\n\"b)Explain the perceptror leaping algarit!\nIn an ANN, which proces\nExplain with example.\ndentify whether f(x) = x* — 23 42 is suitable for Gradient Descent?\nJustify with suitable reason.\n(2.5*4=10) | CO Mapping\nae col a,\nee aete\nber\nea sa\na2 Attempt any two parts a 10) a Mapping\nVW\na) In a two-input sigmoid neuron, each edge with weights (w1, w2) col\nare initialized as (0.1,-0.2) and bias as 0.1 with cost function as (y?-\ny*)?, where ‘y’ is the target output and ‘y*’ is the estimated output. |\nOn applying gradient descent algorithm with learning rate as 0.2 on\nthis neuron, what are the vaiues of {wi, w2) after two iterations on\na dataset with two data samples as (1,2) and (0,5) with output labels\nas O and 1, respectively.\n“bywhy can’t we use a single equation to update the weights for positive co1\nand negative samples in the perceptron learning algorithm? Justify with Pelee\nproof.\n.¢) PErceptron is suitable for linear problem only’. Justify this statement COL\nLee orale\na (Rama pa 03 | [Attemptanytwoparts Cid any two parts aa 10) —— Mapping\nga Sp an ee a — network comprising a single hidden layer capable of co2\n“ffectively representing and solving all possible Boolean functions where\nER\nhy y MP- Neuron?\nbtain the network output?\nnumber of Boolean inputs are quite high? Justify your answer with\nappropriate reason\nb) Consider the following artificial neural network, each neuron in the\nhidden layer and output layer has a bias of 0.1. The activation function\nused is the sigmoid function, and the cost function is the squared error"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.6,
+   "text": "function. The input sample values are (3, 0.6), and the output label is 0.5.\nThe weights are initialized for two scenarios:\n(i) (w1,w2,w3,w4,w5,w6) = (0.1,0.5,1,1,0.2,0.5)\n(ii) (w4,w2,w3,w4,w5,w6) = (0.2, 1, 0.5, 1, 0.1, 0.1).\nAccording to gradient descent algorithm, what are the updated weights\nafter performing a single backpropagation step for the weight initialization\nscenarios (i) and (ii)?\neer\nwa .\nAccording to gradient descent algorithm, compute the weight updation\nequation for w1 and w4 for the ANN (illustrated in Q3. (b)), where cost\nfunction as squared error function and activation function as tanh(x)\nwhose derivative is (1-(tanh(x))*)."
+  }
+ ]
+}

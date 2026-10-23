@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bcs102_mid_2024_oct_fr2145.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.1,
+   "text": "MID-TERM EXAMINATION\n(Course Name : B. Tech. ) (Semester : 1** )\n(October 2024) OFF LINE mode\nSubject Code: BCS-102\nTime : 1 “Hours\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\na) What is XML and how does it differ from HTML?\n(2.5*4=10) co\n—\nb) Give the difference between frames and iframes?\nr c) Explain the box model in CSS? ==\nri d) What is combo box. Explain with suitable example? ———— |\nco\nMapping\nAttempt any two parts (5*2=10) re\"\na) Define multimedia. How do HTML audio and video elements\nenable seamless multimedia integration on the web? Include\nCc) Discuss how Python can be used for building web |\nhighlighting key frameworks.\nexamples supporting the same.\nUNIT Il —)\nsea\nQ3 | Attempt any two parts\na) Describe the different ways to add CSS to a web page. en\nexamples.\nb) Explain the different form elements in HTML, such as text\nboxes, password fields, checkboxes, radio buttons, list boxes, text\nareas, submit button and reset buttons by designing a suitable form.\nb) Discuss the purpose of XML and its differences from HTML in\nterms of structure and usage.\nc) Explain the concept of cascading in CSS. How does it determine\nthe final style of an element? Also, What are the advantages of\ngrouping styles in CSS? Provide an example."
+  }
+ ]
+}

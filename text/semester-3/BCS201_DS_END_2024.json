@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-3/BCS201_DS_END_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.2,
+   "text": "{Please write your Enroliment Number) Enrofiment No. bob 7 a\nEnd-Term Examination\n(CBHCS)(SUBIECTIVE TYPE)(OffLIne)\nCourse Name: B.TECH, Senvester: 3°\n(December, 2024)\n| Subject Code: BCS 201 Subject: OATA STRUCTURES |\n[Time :3 Hours Maximum Marks :60\nNote; Qi fs computsory. Attempt one question each from the Units |, tl, Hl & IV.\n(2.5*8\na) What isa time-space trade-off? Provide an example. _\nee eee ed\n» How Is a two-dimensional array represented in memory?\n=< d} Explain circular linked lists with their applications.\nea #) Describe the concept of binary search trees with an example.\nco Mapping\nWrite an algorithm to count inversions in an array. An inversion in an\n_array is a pair of indices(i,j ) such that i<j and arr[i]>arr[j].\nDescribe the sorting of arrays using insertion sort, Write a\nprogram/algorithm to sort an array using this method.\nUNIT Il\nWhat are queues? Discuss the difference between\ncircular queues with examples,\nExplain the representation of stacks using linked lists. Write an\nalgorithm to perform push and pop operations.\nUNIT It\nConstruct an AVL tree by inserting the following elements\n100,50,150,25,75,125,175,10,30,60. After constructing the tree delete\nthe node with value 75. Show the rebalanced tree after deletion.\nExplain B-trees. Discuss their advantages and write the steps for\ninsertion in a B-tree,\nlinear queues and\n= UNIT IV\n(28 | What is Dijkstra’s algorithm? Explain its working with an example. (10)\nGiven a complete graph with 5 vertices (1,2,3,4,5) and weighted edges (10)\nwhere weight between two vertices i and j is equal to |i-j|. Find the\nminimum spanning tree for this graph using Prim’s and Kruskal’s\nalgorithms,\nihe amc\nCO Mapping\n(CO2)\nCO Mapping\n(CO3)\nidee 2\nCO Mapping _\n(C04)"
+  }
+ ]
+}

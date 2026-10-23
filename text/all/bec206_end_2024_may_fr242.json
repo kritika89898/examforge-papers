@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec206_end_2024_may_fr242.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.7,
+   "text": "Derive the boundary conditions for a dielectric dielectric (10)\ninterface.\n— Py\n00220\n(Please write your Enrollment Number) Enrollment No._0270102202 ——\nEnd-TermExamination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:B.Tech, Semester: 3\n(May, 2024)\n| Subject Code: BEC206.——=SOS~S«*S Code: BEC 206 Subject: Electromagnetic Field Theory -\nTime :3 Hours Maximum Marks :60\na\nNote:Q. 1is compulsory. Attempt one question each from the Units |, Il, II] & IV.\noh | SS ieqineeseT | (2575-20)\n| —_[{a)_ Explain equipotential surfaces with their significance |\nEJ (b) Explain divergence theorem and evaluate the dot product of the ae |\nvectors 2i + 5j - 3k and-i + 4j — 2k.\nEJ (c) Derive the relation between electric field Intensity and current EJ\ndensity.\nrile\n; Derive electric field on the point ‘a’ meter apart laterally from the\nend of the uniform linear continuous charge distribution.\n| [e) | oars |\nState ampere’s circuit Law.\n(f) Explain continuity equation and define relaxation time.\nAn air line has a characteristic impedance of 702 and a phase\nconstant of 3rad/m at 100MHz. Calculate the inductance per\nmeter and capacitance per meter of the line.\nGiven the electric field intensity, E = (10/r2)ar+sin@cos@a+\n2c0s2aQ@. Find the divergence and curl of E at (2,7¢/2,0). ‘ea\nWrite the equations for the conversion of spherical\ncoordinates to the cartesian coordinates.\n| Qa | Demonstrate the Gauss’s law with its applications.\n(a)Discuss Biot-Savart’s Law.\n(b) A circular loop located on x? + y?2 = 9,2=0 carries a\ndirect current of 10 A along a@. Determine H at (0, 0, 4) and\n(0, 0, -4).\n(a)Discuss about Maxwell’s field equations in differential\nand integral andform and explain their significance.\n(a) State and derive the poynting theorem.\n(b) In a nonmagnetic medium,\nE = 4 sin (27 X 10’t - 0.8x) azV/m\nFind\n(i) Er,n\n(j) The time-average power carried by the wave\n(k) The total power crossing 100 cm’? of plane 2x+y=5\n(a) Explain equivalent circuit of transmission line and\nhighlight the line parameters, characteristic impedance\nand propagation constant.\n(b) Discuss lossless and distortion less transmission lines."
+  }
+ ]
+}

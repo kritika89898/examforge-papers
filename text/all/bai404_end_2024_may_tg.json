@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai404_end_2024_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.6,
+   "text": "(please write your eee u : i icaiigg ak\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<BTech>, Semester:<8th>\n(May, 2024)\nSubject Code:BAl-404 Subject: SOCIAL MEDIA ANALYTics\nTime :3 Hours imum Marke se\nNote:Q. 1 is compulsory. Attempt one question each from the Units 1, Wl & ty rks :60\n(a) Define Social Media Analytics (SMA) and explain its significance in\ntoday's digital landscape.\n(b) Describe how social network and web data are analyzed using\ngraphs and matrices. Provide examples of basic measures S used\nfor individuals and networks.\n(c) Explain how online surveys are designed, deployed, and analyzed\nto gather insights into user preferences and behaviors in web\nanalytics and user feedback collection\n(d) Explain the concept of random graphs and their role in modeling\nnetwork evolution.\nha (e) Describe the process of planning and executing social compaigns\non Facebook with examples,\n(f) Describe the process of setting up Google Analytics for a website.\nExplain how businesses can use Google Analytics to gain insights\ninto website traffic, user demographics, and behavior patterns\nwith examples °\n(g) Explain the role of game analytics in the gaming industry. Discuss\nhow game analytics techniques such as player profiling and 9\nbehavior analysis used for game analytics.\n(h) Explain the roles and the techniques for data cleaning,\ntransformation, and aggregation using in Analytics. ¥\nExplore the various areas where SMA can be applied to\nderive insights and drive business outcomes. Provide\ndetailed examples of SMA applications in marketing,\ncustomer service, product development, and _ crisis\nmanagement.\nExamine the challenges and opportunities associated with\nanalyzing social network data. Discuss how factors such as\ndata quality, scale, and privacy impact the analysis process,\nand propose strategies for overcoming these challenges.\nUNIT-II\nDefine link analysis and its significance in understanding\nrelationships within networks. Provide examples of how link\nanalysis is used in social media analytics to uncover patterns\nand connections between entities.\nExplain the process of web crawling and indexing in data\ncollection for web analytics. Provide examples of how web\ncrawling is used to gather information from websites and\nhow indexing organizes this data for searchability.\nUNIT-III\nEvaluate the role of Facebook Analytics and other web\nanalytics tools in informing marketing strategies and\ndecision-making for businesses, Discuss the benefits and\nlimitations of using these tools and propose strategies for"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.2,
+   "text": "“fF\nre PS ae,\n) Fhe lh a\nr\nS.\n—— eir effectivenes:\naximizing th rk analysis in the context of social media\nwo\nike Linkedin, Instagram, YouTube, and Twitter.\nplatforms | twork analysis tools can be used to identify.\nne\nexplain ny analyze, audience demographics, andj track.\ninfluencers,\nment metrics.\nengege UNIT-IV\nExplain the principles of data visualization. Discuss different\n| 8 types of charts, graphs, and dashboards used for visualizing\ndata, Provide examples of effective data visualizations and\ntheir impact on decision-making.\nExplain the concept of link prediction in network analysis.\nDiscuss algorithms and techniques used to predict future\nconnections or relationships between nodes in a network.\nProvide examples of real-world applications of link\nprediction in social networks and recommendation systems.\n|\n| |\n|\nm\nDefine net"
+  }
+ ]
+}

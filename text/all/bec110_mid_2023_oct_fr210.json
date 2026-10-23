@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec110_mid_2023_oct_fr210.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.3,
+   "text": "mip-TERM EXAMINATION\np.tech (CSE/ECE/ECE-pl)\n4tsemester (October, 2023)\nOFFLINE mode\n| Subject Code: BEC-110 _\nTime: 1% Hours\n; ti Maximum Marks: 30\n| Note: Q. Lis compulsory. Attempt any tw? questions from the rest.\n(b) Three resistors 69, 15Q and 180 are Connected in star. Determine the\nresistances for an equivalent delta connection?\n{c) For the given circuit, find the current through all resistances,\ni fe\nB 162 77\n=1.62 <:\nA t+ :\n/ 40v]~\nfo)\n1,\n/The equation of an alternating CUrrent j js j=42.42 sin628t. Find\n(i)Maximum value of current (ii)frequency & (iii) form factor.\nACS)\n(Attempt any two Parts) UNIT-1 iss) 1.\n(a) State & Prove Superposition theorem. Also, calculate the current flowing in the\nbranch xy,\n22 x 12\n———\n1.33 AJ1.33 A\n+ «<\n———— 201 32\n$\n12 rae.\nState and Prove Maximum Power Transfer Theorem.\n| Le 7a\na err ae |\n}o3 | (AttemptanytwoParts)uNIT-2 SS)\n(a) Aseries circuit consists of a resistance of 6, an inductance of SOOmH and a variable\ncapacitance connected across a 100V, 50Hz supply. Calculate\n(i) The capacitance required to produce a series resonance condition\n(ii) The voltages generated across both the inductor and the capacitor at the point of\nresonance.\n(iii) Bandwidth\nQuality Factor\nPower Consumed in the circuit.\nA pure resistance of 50 9 is connected is in series with a pure capacitor of 100 pF,\nThe series combination is connected across 100 V, 50 Hz supply. Find (a) Impedance\n(b) Current (c) Power Factor (d) Voltage across R and C,\nDescribe Bandwidth, Impedance, Q-factor and reson\nance in R-L-C series circuit.\na ae\nScanned by TapScanner"
+  }
+ ]
+}

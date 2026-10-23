@@ -1,0 +1,40 @@
+{
+ "file_path": "papers/all/bma110_end_2023_jul_fr259.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.0,
+   "text": "(Please write your Enrollment Number) Enrollment No._02.10\\0 22.022\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B.Tech CSE/ECE>, Semester:<II>\n(July, 2023)\n[ Subject Code: BMA 110 Subject: Engineering Mechanics\nTime :3 Hours Maximum Marks :60\nNote: Q. Lis compulsory. Attempt one question each from the Units |, Il, Ill & IV.\nA. Write the correct option in your answer sheet. (1 mark each)\na, For analysis purposes, a body can be regarded as rigid if\ni, It has continuous distribution of mass,\nii, It is characterized by some preferred configuration of its\nown\niii, Relative motion between its parts is negligible\niv. Its dimensions are small as compared with the co-ordinates\nof its own\nb. A body in equilibrium is subjected to only two forces, then the\nonly requirement is that\ni. the forces must be of equal magnitude\nii. the forces must be equal in magnitude and opposite in\ndirection\niii. the forces must be collinear, equal in magnitude and\nopposite direction\niv. the forces must be equal in magnitude and perpendicular to\neach other\nThe three coplanar and concurrent forces can never be in\nequilibrium if their magnitudes are\ni. 3,4,5N\nii. 4,7,12N\niii. 1,1,1N\niv. 1,2,3.N\nThe number of members in a simple plane truss cannot be\n1.3\nii. 4\niii. 5\niv. 13\ne. In this case, 1kg I kg\ni. both w= 02 n=03\nthe\nblocks 4\nwill\nslip : | -\nii, only 0.2 kg\nleft\nblock will slip\nPage 1of 5"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 92.8,
+   "text": "ee\naan\nRaa\niii. only right block will slip\n‘y. none of the blocks will slip\nf Three blocks A, B, C each of 1 kg mass are resting on a rough\ntable. The contact area of each block is a square. The contact areas\nof the blocks are 1 cm2, 2 cm2, 3 cm2 respectively. The blocks are\nof the same material and their contact forces have same surface\nroughness. When the same forces are applied on the blocks, the\nmagnitude of friction forces in descending order will be\ni. A,B,C\nii. C,A,B\niii, A, C,B\niv. friction forces on all blocks will be equal\ng. A particle is moving in a circular path with non-uniform speed.\nThen,\ni. Its velocity is necessarily tangential to the path and\nacceleration is normal to the path.\nii. Its velocity is necessarily tangential to the path, but the\nacceleration has normal and tangential compact.\niii. Its velocity has normal and tangential compact.\niv. Its acceleration is tangential\n_ The following statement is incorrect for a rigid body in plane\nrotational motion:\ni. All points on the body have the same angular displacement.\nii. All points on the body have the same angular velocity.\niii. All points on the body have the same linear velocity.\niv. All points on the body have the same angular acceleration.\ni. The angular speed of a seconds’ hand of a clock is\ni. mrad/sec\nii. 7/6 rad/sec\niii. 7/15 rad/sec\niv. 7/30 rad/sec\nj. Which of the following can be considered a rigid body:\ni. A 300mm diameter and Im long axial rod of mild steel\nsubjected to 1N force. '\nii. water\niii. Air\niv. Anelastic rubber band\nB. Answer the following. (2 marks each)\na. State Pappus’s Theorems.\nThe methods used to solve truss problems are and\nIf a body is thrown up with a velocity of 9.8m/s, what will be the\nmaximum height attained by it?\nd. Ifacar is taking a turn, how many accelerations are acting on the car?\nName them."
+  },
+  {
+   "page": 3,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.4,
+   "text": "eat e. A horse pulling a cart exerts a steady norizuiivat pull ui 300 NY ang weirs\nat the rate of 4:5 km/h. How much work is done by the horse in 5\nminutes?\ne external loads shown.\nlane is vertical.\nThe 500-kg uniform beam is subjected to the thre\nCompute the reactions at the support point O. The x-y P\nFig: Q.2\nDetermine the distance s to which the 90-kg painter can climb without causing\nthe 4-m ladder to slip at its lower end A. The top of the 15-kg ladder has a small\nroller, and at the ground the coefficient of static friction is 0.25. The mass\ncenter of the painter is directly above her feet.\nDanna 3 fee"
+  },
+  {
+   "page": 4,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 92.0,
+   "text": "Fig: Q.4\nDetermine the y-coordinate of the centroid of the shaded area,\nRace car A follows path a-a while race car\ntrack. If each car has a constants\n(normal) acceleration of 0.8g, determine the time\nNegotiate the turn as delimited by the line C-C.\nB follows path b-b on the unbanked\npeed limited to that corresponding to a lateral\ns tA and tB for both cars to\nFig: Q.6,\nIf the coefficients of static and kinetic friction be- tween the 20kg block A and\nthe 100-kg cart B are both essentially the same value of 0.50, determine the\nacceleration of each part for (a) P=60 N and (b) P =40 N.\nPage 4of 5"
+  },
+  {
+   "page": 5,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 92.4,
+   "text": "Determine the angular velocity of the telescoping link AB for the position shown | (10)\nwhere the driving links have the angular velocities indicated.\nrotation of link OB about O. For the instant represented, vA= 2 m/s and OB is\nhorizontal. Determine the angular velocity of OB for this instant .\nDimensions\nin millimeters\nHorizontal motion of the piston rod of the hydraulic cylinder controls the\nBl\nFig. Q.9.\nMARINATE —\nOmm O"
+  }
+ ]
+}

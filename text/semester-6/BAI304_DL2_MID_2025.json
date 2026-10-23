@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BAI304_DL2_MID_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.7,
+   "text": "ey\n72022\n(Please write your Enrollment Number) Enrollment wo 048 OLD Ue\nMID-TERM EXAMINATION\nrse Name: B. Tech.) (Semester: vi)\n(Cou\n(March 2025) OFF LINE mode\nSubject Code: BAI304____ “J : “Subject: Deep Learning |\nTime : 1 %Hours = Maximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nan | ~ (2.5*4=10) | CO Mapping _|\nbaie. 97 Explain the bias-variance trade-off of the Neural? col\ndescent and Stochastic col\nb) Differentiate between Batch gradient\ngradient descent. Identify the scenarios\nfl applicable.\nc) Explain the RMSprop algorithm in detail?\n{ow to identify saddle point. Discuss this concept in detail.\nUNITI\n[ a2 Attempt any two parts\n¥Consider a single neuron that takes two inputs and weights are\n| initialized as (0.1, 0.1,0.1) with squared error as loss function and\nlearning rate as 0.01. What will be the updated values of weights\n| after single iteration of batch gradient descent algorithm for\nfollowing data samples:\nSr. No. x1\neS ae aw ee\neer es ae ee\n—s ed a ee ee\nlow bias and high variance?\nkle this scenario in detail.\nin which they are\nWhich scenario is depicted by\nplain the three approaches to tac\nerent weight initialization strategies for ANN?\nempt any two parts\n3yExplain the Adagrad algorithm in detail, How\nSfadient descent with momentum?\n| byA four hidden-layer neural network is used for binary\nclassification problem. There are 20 neurons in each hidden layer\nwith input layer of 10 neurons which is trained over 10 epochs.\nThe dataset consists of 30 samples wherein each sample occupies\nthe memory space of 5MB. If the computer memory has a\ncapacity of 23 MB. Which will be the optimal batch size for\ntraining and how many iterations will be executed in single\nepoch. Also, reason out the suitable optimizer for this scenario\nPass explain it in detail.\nox plain the following concepts of ANN in\nd¥vantages and disadvantages:\n(i) Dropout,\n(ii) Batch normalization\nis it different from\ndetail along with their\n.\na a ee Se"
+  }
+ ]
+}

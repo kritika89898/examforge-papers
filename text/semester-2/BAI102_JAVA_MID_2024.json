@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-2/BAI102_JAVA_MID_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 71.6,
+   "text": "Errellment Ne,\nMID-TERM EXAMINATION\n(Course Name: 6. Vech ) (Semester : 2nd)\nA\n(March, 2024) OFFLINE mode yry®\n_ Subject Code: BAIL02 . ve Subject: Object oriented Programming using Java |\nTime : i “Hours Maximum Marks 4\nL NoteG. Als compulsory, -Atternet any two parts from Q. 2 and Q, 3, é.\nee epee ee Eee o——\n(5*2)\ni\nat pict licattncashdi tn\nA freien the he role of saa i)Constr onstructors\nU\n©\nSe program. explair Multilevel inheritanc\nifference between instance\nvariable, refien reference variables os and dobjects\nAttempt any Two Parts } SP:\nLal Explain use of }) adhoc polymorphism ij abstract methods\n———_______§\n(b)Create a Java‘ program that calculates area and_perimeter, of square and rectangle\nprogram should use function ov loading and each function should take as input a S\nuired arguments and return bath eryint perimetersAlso take required input from\nsers,\ne. Use getter\n7)Create a class IgdtuwBooks which describes its Book_title and Book pric _ vs ‘ gene\n| t & set the Books description. Create obj a\nre Seana is description. Create at least 5 objects of the u\nwith its . “ast\n«J@Explain the use of super and final keywords in java,\npare: kage\nfined and user defined pac\npo : eivate and protected access specifiers"
+  }
+ ]
+}

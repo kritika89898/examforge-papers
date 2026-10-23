@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-2/BAS108_PS_MID_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.3,
+   "text": "MID-TERM EXAMINATION\n(cBCS)\nB. Tech (CSAI/ECEAI), 2\"* Semester\n(June, 2022)\nSubject Code: BAS 108 Subject: Probability and Statistics\nTime :1% Hours Maximum Marks : 30\nNote:Q. 1 is compulsory. Attempt any two questions from the rest.\n= 3, E[X*] = 25, E(Y] =\n“a) Let X and Y be independent random variables with [X]\n10, E[Y?] = 164. Find E[2X — 3Y + 7]and Var[2X — 3Y + 7].\n_/ (b) In a certain college, 25% of boys and 20% of girls are studying mathematics. The girls\nconstitute 60% of the student body. If a student is selected at random and is found studying\nmathematics, find the probability that the student is a girl?\n_ (c) The joint distribution function of X and Y be\n1\nf(x,y) = [<., x = 1,2,3,.....,.nand y = 1,2,3,.......1\nFind the marginal density for Y.\n¢ (d) Prove that Cov(ax + b,cY + d) 2 actan(%,¥) for constants a, b,c, d.\n_f{a) The joint density for (X,Y) is given as .\n_ (15x 0<x<y<l\nfy) ={ sd elsewhere\nFind E[XY].\n(b) Let X be a discrete random variable that assumes the values -2, -1, 0, 1 and 2.It is given that:\n— P(X =-—2) = P(X = -1) = P(X = 1) = P(X = 2) and P(X <0) =P(X=0)=\nP(X > 0) =x. Determine the probability mass function and the cumulative distribution\nfunction of X.\nfa) Acontinuous random variable X has density function\n. _ {2e-** x>0\nfey) = 0, elsewhere\nFind the expected valueof X. |\n(b) The joint density for (X,Y) is given as\n60x°y O<x,y<landxt+y<1\nx,y)=\nfey) 0, elsewhere\nFind the conditional probability density function of X given Y (i.e. f(x|y)).\n(a) Let X denote the length in minutes of a long distance telephone conversation. The density\nfor X is given by\n1\nf(x,y) = {—e-*/0 ,2>0\nFind the moment generating function of X.\n(b) Let the joint pdf of X and Y be\n_(K(x+y); x>0,y>0,3x+y<3\nfay) = {RO TY\n: : otherwise\nFind the value of the constant K."
+  }
+ ]
+}

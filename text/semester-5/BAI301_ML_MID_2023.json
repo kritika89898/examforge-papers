@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BAI301_ML_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.6,
+   "text": "Enroliment Na, LIC OW eo &\n(Please write your Enrollment Number)\n: mip-TERM EXAMINATION\n(Course Name : B.Tech CSE-Al/ EcE.Al ) (Semester 5)\n(OCTOBER, 2023) OFF LINE mode, <Subjective>\nrd margin and @ $0 margin in Support cr\n3) explain difference between 4\nector Machine (SVM).\np)Suppose that we have alrea\neighbors, and logistic regression. WwW\nhan one million points), which one 0\nin the context of data preprocessing. Why Is |\nining and testing sets before model training?\nprocessing, and how does it\ndy trained a classification tree, K-Nearest\nhen the data Is relatively large (e-g., larger\nf the techniques is slower in making a\nA\nd) What role does standardization play in data pre\nimpact the training of machine learning models?\nate various techniques employed in data pre-\n(b) Enumerate and elucid\nthe context of machine\nprocessing, highlighting the significance of eachin\nc) Describe the role of Exploratory Data Analysis (EDA) in the context of\nachine Learning and explain why it is considered a crucial step in the machine\nUNIT-2\na) Suppose you are building a logistic regression model to determine whether\nor not a person has diabetes. Predicted probabilities(P(Diabetes)) of for 10\npatients are given below\nYes 0.04\nNo 0.41\nYes 0.55\nNo\nPage lof 2"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.1,
+   "text": "Assuming that you chose a cut-off value of 0.4, wherein if a probability Is\nzreater than 0.4, you would conclude that the corresponding patient has\niabetes. If it is less than or equal to 0.4, then you would conclude that they do\not have diabetes.\naiculate Accuracy, Precision, Recall, Specificity and F1 Score based on the\nb)A dataset of patients who have tested positive or negative for COVID-19\nfollows. Their symptoms are cough (C), fever (F), difficulty breathing (B), and\nTiredness | Diagnosis\n(1)\nDifficulty\nbreathing\nyess | Sick »\nPatient 2\nPatient 3\nPatient 4\n| ting >\nryes__{_lyes yes [no _—i| Sick _*\nPatient5 [yes J [no |no. - |yes __. | Health\nPatient6 [no + yes _jyes ___—|noy __| Healthy\nPatient? |no_+ yes [no no? | Healthy\nPatient8 [no \" [no [no ____—ifyes~ | Healthy _|\nsing the Gini impurity index, build a decision tree of height 1 that classifies\nDiagnosis) this data. What is the accuracy of this classifier on the dataset?\n‘Consider the simplified data set given below.\nsing least square method to find the equation of the regression model fitted\non this data (X independent and Y is dependent variable), Calculate R square\nalue of this model.\nPage 2 of 2 ah Pa"
+  }
+ ]
+}

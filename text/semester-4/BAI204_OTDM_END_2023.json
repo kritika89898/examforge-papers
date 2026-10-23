@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-4/BAI204_OTDM_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.8,
+   "text": "Pac Term tiamination\n(CHCS) (SUBJECTIVE TYPE)(Off Line)\nCourse Names, Tech, CSE-AI/NCE-Ale, Semestarlye\n(April May, 2024)\ni Subject Code; BAL 204 Subject Optimization Techniques and Dede\n| Mating 3\nTime 3 Hours wes: Marinurn thats A\n_Note: QL is compulsory, Attempt one question each from the Units 1, I, M4 IV,\nQi (2,5° 0229)\ner What is the most important step in an optimization algorithm? W/hy?\nly Discuss one application of optimization in the field of i) Computer Science\nEngineering, and ii) Electronics Communication and Engineering.\ncum Write a short note on Semi-Definite Programming\ntay What is Graphical Optimization? Discuss its importance in detail.\nae Discuss similarities between Particle Swarm Optimization algorithm and Ant\nColony Optimization algorithm.\n__lf~ State and discuss two real world applications of Genetic algorithms.\n“What are content-oriented methods?\nbey Discuss advantages and disadvantages of using Decision Trees in Decision\nMaking process.\nUNIT-I\nr Or] Discuss constraint surface in a hypothetical two-dimensional design space (10)\nalong with a diagram.\nQ3 Elaborate — Classification of optimization problems based on nature of the (10)\nequations involved.\nUNIT-II\nUM Attempt any one of the following — (10)\nSolve using graphical method - A factory manufactures two types of\nitems, A and B, each type requiring the use of two machines, an automatic\nand a*hand operated. It takes 4 minutes on the automatic and 6 minutes on\nhand operated machines to manufacture a package of item A, while it takes\n6 minutes on automatic and 3 minutes on the hand operated machines to\nmanufacture a package of item B. Each machine is available for at the most\n4 hours on any day.\nThe manufacturer can sell a package of item A at a profit of Rs. 7 and item B\nat a profit of Rs 10. Assuming that he can sell all the items he manufactures,\nhow many packages of each type should the factory owner produce in a\nday in order to maximise his profit? Determine the maximum profit.\n(b) Solve using Simplex method - Niki holds two part-time jobs, Job | and\nJob Il. She never wants te work more than a total of 12 hours a week. She\nhas determined that for every hour she works at Job |, she needs 2 hours of\npreparation time, and for every hour she works at Job Il, she needs one\nhour of preparation time, and she cannot spend more than 16 hours for\npreparation. If shé makes S40 an hour at Job |, and $30 an hour at Job ll,\nhow many hours should she work per week at each job to maximize her\nincome?\nQs What is integer programming problem? Discuss Knapsack problem in (10)\nreference to integer programming problem.\nUNIT-II\n4 Write the algorithm for Particle Swarm Optimization. Discuss the (10)\ninitialization step in detail. State its advantages, disadvantages and two\napplications.\nPTO"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.1,
+   "text": "oO\ngiven strings p1 and P2? State and (10)\nyr, do the following on\ncrossover operate\n9100110110, and P2- 4010111000011 110\nafter 5 point.\nQ7. *t\na i\nn crossover operator be used on the\nean the reason. If yes, using\ngiven two strings = Pl = 110110\ni Single Point crossover\ni) Two Point Crossover after 5 point each.\nUniform Crossover\nQs Discuss the steps j UNIT-IV\nMaking and Ades ihdveds in Decision Making with a diagram. Are Decision (10)\necision Analysis the same? Why or Why not?\n(10)\nve Compare a\nnd contrast Group Decision Making methods."
+  }
+ ]
+}

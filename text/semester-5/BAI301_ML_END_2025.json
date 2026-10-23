@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BAI301_ML_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.7,
+   "text": "(Please write your Enrollment Number) Enrollment No,\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech (CSE Al) , Semester:5\n(December, 2025)\nSee er er ea Subject: Machine Learreng E\nee oe Maxirnum tharts 46 j\nSubject Code: BAI 301_\nTime 33 Hours\niiss atiainaiA lie\nNote: Qi is compulsory. Attempt one question each from the Units |, HW, 1 & tV,\nTS Bhan | CO aoe\n| BPG | 60 oping |\n| | a) What role do evaluation metrics play in assessing model (4\nperformance? ee | mr A\n| b) What are Data Objects and Attributes?\n| c) How does the choice of kernel affect model performance in |\n| non-linear classification? a\n| d) Compare Ridge and LASSO regression in terms of | co2 |\nregularization and feature selection. =\ne) How can PCA help improve clustering performance? = :\nf) How does reducing the number of features impact model =\n|\n| accuracy and computation time?\ng) Explain the concept of k-fold cross-validation with an example. co4\nh) What is the purpose of a /earning curve In machine learning? | co4\n| CO Mapping\n(10) coi\nUNIT I\nDiscuss the importance of data preprocessing in Machine\n| Q2\n| | | Learning. Describe the steps involved in Data Cleaning, |\ni | Integration, and Feature Extraction.\n[a3 | Compare supervised and unsupervised learning with suitable (10) co1\n| | examples.\n| UNIT II CO Mapping\nQ4 | Discuss the working of Support Vector Machines. Explain how (10) co2\nkernel functions enable SVMs to handle non-linear classification.\nQ5 | Acompany wants to predict whether a new employee will leave (10) co2\nor stay, based on past data. The dataset is as follows:\nEmployee Salary Experience Leaves Company\nHigh Senior No\nEy High —_ Junior No\nYes\nLow Junior\nLow Senior Yes\nYes\nNo\nLow Junior\nHigh\nSenior\nYou are asked to classify a new employee with:\nSalary = Low, Experience = Senior.\nCG: Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.9,
+   "text": "CO Mapping |\nUNIT Ill\nQ6 | Two classes of data points are given as follows:\n| | | Project all samples from both classes onto the line using Linear | i\n| Discriminant Analysis.\nQ7 | The following table shows 2 dataset consisting of five observatio ns | ]\n| and two features: i\n(10)\n|\nObservation xX 2\nanch i, ata int,\nTransform the original data into the new coordinate system Using |\nPrincipal Component Analysis. i\n| \\\nUNIT IV\n| Discuss the concept of statistical h\neee\n| hypothesis testing and its use in 10\n| comparing machine learning models. -\n| Explain the\n[9 | ps ie concept of Ensemble Classification. Describe how | (10)\n| semble methods like Random Forest and AdaBoost achi eve | |\n|__| higher accuracy through diversity.\nMica\n'@3 Scanned with OKEN Scanner"
+  }
+ ]
+}

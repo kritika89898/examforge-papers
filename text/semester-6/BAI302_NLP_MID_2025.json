@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BAI302_NLP_MID_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.9,
+   "text": "‘ r)\n(Please write your Enrollment Num Enrollment No.4 go [17 92h.\nMID-TERM EXAMINATION\nber)\nCourse Name: B. Tech (Al & DS) semester:6\n(March 2025) OFF LINE mode\nSubject Code: BAI302_—|__ x ‘Subject: Na ct: Natural Language Processing\n. mT rn ae = Maximum Marks :30\n| Time : 1 %Hours\nand Q3\nNote: Q1 is compulsory. Attempt any two parts of Q2\nee Mapping\nete | CO Mapping |\nGain how tokenization works in NLP with an example.\npret is the role of a lexicon in language processing?\nL sia is the formula for TF-IDF?\nA4ow does syntactic parsing help in understanding sentence\nstructure?\nate\nUNIT I\n—\n5\nQz Attempt any two parts\n= ae <7 -\nDifferentiate between phonology,\n| semantics.\n| b) Identify syntactic ambiguity\n| with the telescope.\" What are\n| parsing in real-world applications?\nmorphology, syntax, and\nin the sentence \"He saw the girl\nthe limitations of syntactic\nist and explain the different types of ambiguity in NLP with\nexamples\nbee) OSTe\n| Attempt any two parts\n[geo how JSON and XML are used for storing and\ng text data. What are their key differences?\nUNIT Il\n| exchangin\n:\nbUsing BoW, represent the sentences:\n\"NLP is great”\n\"NLP is fun\"\n| Vocabulary: {NLP, is, great, fun}\n| c) Define a text corpus in NLP and list three different types of\n| corpora used in text processing.\n| os EERE ES. ee"
+  }
+ ]
+}

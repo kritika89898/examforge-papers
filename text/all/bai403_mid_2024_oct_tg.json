@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai403_mid_2024_oct_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.3,
+   "text": "(Please write your Enrollment Number) Enroliment No,___\nMID-TERM EXAMINATION\n(Course Nam: B. Toch,) (Semester: 7\")\n(October 2024) OFF LINE mode\ntates Salis as —— al Subject: Computer Vision\nSubject Code: BAI 403 disanbi :3¢\n[a 31 4Hours ay - - _— Maximum Marks :20\nNote: Q1 Is compulsory. Attempt any two parts of Q2 and Q3\n(2.5*4=10)\n2.5\nco Mapping\n| What is batch normalization?\n“Why we use regularization?\nWhy we do parameter sharing?\n| Q2 | Attempt any two parts\nWhat is computer vision? Why is vision so difficult? Provide\ntwo real world examples.\ncoe SUT\nHow gradient descent as an optimization algorithm used in\ncomputer vision?\nHow weights are updated in Stochastic Gradient Descent\nalgorithm?\nHow does KNN algorithm work and how do we choose the\nfactor 'K’?\nCc\nUNIT II\nAttempt any two parts\nHow feature learning is performed in CNN?\nHow transfer learning be effectively utilized for domain-\nspecific task?\nExplain VGG-16 architecture."
+  }
+ ]
+}

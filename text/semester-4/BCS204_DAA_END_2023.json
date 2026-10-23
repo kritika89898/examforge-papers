@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-4/BCS204_DAA_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.8,
+   "text": "(F\n(Please write your Enrollment Number) Enroliment No. o. 60\\\\)\" 7020 ‘\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B.Tech CSE/IT/CSE-Al >, Semester:<4>\n(April -May, 2023) f bs\n4\n| Proce\n| Subject Code: BCS 204\nSubject: Design an ths\nFre Soon | si ject Jesign and Analysis of Algorithms |\n| Note:Q. 1is | ______ Maximum Marks :60 Privsic.\n— compulsory. Attempt one question each from the Units |, TA eee ‘ 4 b\nSs oneeisnancemamaett Pag\n(5*4=20) |\nAlgorithms A and B spend exactly Ta(n) = S-n:logio n and Ta(n) = 25-n .s\nmicroseconds, respectively, for a problem of size n. Which algorithm is B or.\nbetter in the Big-Oh sense? For which problem sizes does it outperform |\nQi\nthe other? 1\n@ Given an array of N integer, we have to maximize the sum of arr[i] * i, |\nwhere i is the index of the element (i = 0, 1, 2, ..., N). Design a greedy\nalgorithm to rearrange the position of the integer in the array to maximize\ne sum. What is the complexity of the algorithm |\nue ae the backtracking approach of algorithm design with n-queen\n: problem as an example\nFind the first occurrence of the pattern xyz in the text axbyxyzcaxyz\nusing KMP algorithm\nUNIT-I\nQ2 fa Work out the computational complexity of the following piece of (5+5=10)\ncode: 3\nfor(inti=n;i>O;i/e2}\n{ for(intj=1;j<n;j*=2)\n{ for( intk=0;k<n;k+=2)\n{ ... // constant number of operations } } }\nwet Solve the recurrence T(n) = 2T(Vn) + log n.\nQ3 (a) Given a sequence of n numbers such that the difference (6+4=10)\nbetween the consecutive terms is constant. Design a divide and\nconquer algorithm for finding the missing term. Assume that the\nfirst and last elements are always part of the input sequence and\nthe missing number lies between index 1 to n-1.\n13, 16], Output: The missing term is\n4\nFor example, Input: [1, 4, 7, 23,\n10\n(b) Analyse the complexity of the algorithm\nUNIT-Il\na4 Se Explain the Greedy algorithm for generating Huffman code (4+4+2=10)\nwith an example.\n(bY Write the pseudo code and analyse the complexity.\nQ5 (a) Explain the Dynamic Programming algorithm for (4+4+2=10)\nconstructing optimal binary search tree\n(b) Write the pseudo code and analyse the complexity.\nUNIT-II\n(OF (ayFind the shortest path from vertex.a to all other vertices in (4+4+2=10)\nthe following graph using Bellman Ford algorithm.\nPTO"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.5,
+   "text": "a aa »yvr™.\nL operating\na process\nce with\nne wail\nUNE\nKcr\n~\n4\n; wey Write the pseudo code and analyse the complexity.\nQ (a) Find the minimum spanning tree of the following graph (4+4+2=10)\nusing Kruskal’s algorithm\n28\nPH\n(b) Write the pseudo code and analyse the complexity.\nUNIT-IV\nQ8 ay Explain the Robin Karp algorithm for string matching with an (4+4+2=10)\nxample.\nWrite the pseudo code and analyse the complexity.\nQs (a) What are NP-complete problems. (4+6=10)\n‘(b) Prove that set cover problem is NP-complete."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bai308_end_2026_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.5,
+   "text": "/\nft )\n(Please write your Enrollment Number) Enrollment No. 4 Y ‘!\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(Offline)\nProgramme: <B, Tech,(CSE-AI/ECE-Al), Semester: <6'\">\n(May, 2026)\n| Subject Code: BAI 308 c\n| Time :3 Hours” as: : Maximum Marks: 60\nSubject: Cloud Computing\nNote: Q1is compulsory. Attempt one question each from the Units |, II, Ill & IV.\nCG ._.. ~~ | (2.5°8=20) |\n| a. | Discuss the benefits and challenges of cloud computing in detail. ae 2.5\njb. | Analyze the impact of cloud computing on modern IT infrastructure. can 2.5 Loe\nc. | Identify the cloud service model (SaaS, PaaS, laa) in each of the following cases| 2.5 |\n| and justify your answer briefly:\ne Gmail\ne Google App Engine\ne Amazon EC2\nid. Distinguish between front-end and back-end components of cloud architecture 2.5\nwith suitable examples.\n-e. | Explain Software Defined Networking (SDN). 2.5\n| f. | Distinguish between full Virtualization and paravirtualization based on working 2.5\nmechanism.\ng&. | Arrange the following in correct order of execution in container-based 2.5\n| deployment and explain briefly: \\\n| Application > Container -> Host OS > Hardware\n| A. | A system ensures immutability and transparency of transactions without a 2.5\ncentral authority. Identify the technology used and state one key feature.\n| UNIT I\nExplain different cloud deployment models in detail. Compare these cloud (10)\nmodels based on Cost, Security, Scalability and Control.\nExplain the trends in computing that led to the emergence of cloud computing.\nA company is planning to migrate its IT infrastructure to the cloud. Discuss which\ndeployment model would be most suitable under the following conditions: (10)\ne High security requirements\ne Cost constraints\nNeed for scalability\nUNIT = II\nExplain the three cloud service models—SaaS, PaaS, and laaS—in detail,\nm with respect to functionality, control, and application scenarios.\nCompare the :\n| over computing resources, including\nAn organization needs complete contro\nvirtual machines, storage, and operating systems. it also requires flexibility to\ninstall and manage its own software environment. Identify the most suitable\ncloud service model and explain its features and advantages.\nfe ary lea» are te Suid ee |\n‘Os Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 80.2,
+   "text": "Discuss the role of major cloud service providers such as Amazon EC2, Google\nApp Engine, and Microsoft Azure. Explain the services Offered by each, Explain\nthe challenges and risks associated with cloud computing adoption.\nUNIT III seems\nClient of a data center wants to run multiple Operating systerns On # single |\nphysical server to improve hardware utilization and reduce Costs. Identify the\nconcept being used and explain how it works along with its advantages\nQ7_ | Explain Network Function Virtualization (NFV), How does it differ from tr:\nnetworking approaches?\nUNIT IV\nZ ——— ; =\n/ Q8 | Explain containerization and Docker in detail. Discuss how they improve\n_ application deployment and scalability, (10)\n| Q3__ Discuss emerging trends in cloud computing. Explain how technologies like\n| | . . .\nj Slockchain are transforming cloud environments. Discuss its architecture, | (10)\n_ working mechanism, and advantages.\ni da A a hk ke ah eS\n(@ 2 Scanned with OKEN Scanner"
+  }
+ ]
+}

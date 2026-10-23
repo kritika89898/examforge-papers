@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BCS303_TOC_END_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 84.1,
+   "text": "(Please write your Enrollment Number) Enrollment No._|\\ 07 | 1 2022\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B.Tech>, Semester:<5>\n(December, 2024)\nSubject Code: BCS 303 Subject: Theory of Computation\nTime :3 Hours Maximum Marks :60\nNote: Q1 is compulsory. Attempt one question each from the Units |, Il, Wl & IV.\n.\nfaa] o> —CC CNC _(2.5\"8=20)__| CO Mapping\nWhy a® b* is regular but not a” b\"? col\nDefine Deterministic Finite Automata (DFA)? How is it different from Non\nDeterministic Finite Automata (NDFA).\nét is Derivation Tree and its types? Discuss with an example.\n| PBetine Context Free Grammar. Create aCFGfor{a'b\":nzo) | CO\n| __ ef Define the term ambiguity and explain with the help of an n example grammar?\n| Lat Define Unrestricted Grammar (UG). Write about the machine that accepts the UG.\ng) What is halting problem, discuss about it briefly?\nLuby With neat diagram discuss about Linear Bounded Automata.\nDesign a DFA for the Language accepting strings starting with ‘aba’ and (10) cO2&CO3\nending with ‘bb’ over the alphabet = = {a, b). Check whether the DFA\naccepts the strings: abaabb, abbbaab, ababa.\nQ Discuss the step by step procedure followed in minimization of cO2\nDeterministic Finite Automata and minimize the following finite\nautomata.\nFind out whether the minimized DFA accepts the following strings:\n0010, 1101, 10010.\nUNIT II CO Mapping\nDefine a Pushdown Automata (PDA) (describe each tuple), Design a PDA (10) col ae ol CO2\nwhich accepts the Language L = {0\"1°/n > 1) over = = {0, 1).\nWhat is Chomsky Normal Form (CNF)? Convert the following Context Se rad 3\nFree Grammar to CNF? (where € is epsilon)\nS>ABa / BBb/0B/DA\nA>aab/bba/a\nB>Ac/C/b “>\nC>c/d/F/H !\nDDd/e"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 77.6,
+   "text": "|__| cO Mapping\n| Define pumping Lemma for Context Free Language. And check whether cO1&CO2\nthe language L = { 0°1\"2\"3\"/ n>1) is context free or not,\nDesign a TM for the Language L = {a\"b\"c\"/ n>1).\nCO Mapping |\nco1&CO3\ner? Explain.the step by step procedure\nWhat is Finite state Transduc\nConvert the\nfollowed for converting a Mealy Machine to Moore Machine.\nfollowing Mealy Machine to Moore Machine.\nPresent\nstate [Tmputad | imputed\nstate [output [State | output\nSa te lo le 2 |e el\na aE [aa [oe lon | Oe\nee ae\nco1&CcO3\nQ9 | Discuss about Complexity classes P and NP. Define a Moore Machine\n(using tuples), Convert the following Moore Machine to Mealy Machine.\nPresent Next state Output"
+  }
+ ]
+}

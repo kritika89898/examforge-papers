@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-6/BAI306_DIP_MID_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.9,
+   "text": "(Please write your Enrollment Number) Enrollment No.\nMID-TERM EXAMINATION\n(Course Name: B. Tech.) (Semester: 6)\n(March 2025) OFF LINE mode\nSubject Code: BAI 306 | Subject: Digital Image Processing\nTime : 1 “Hours | Maximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nQi | Attempt all the following: (2.5*4=10) | CO Mapping\na) Describe the process of image sampling and quantization. 2.5 col\nExplain with the necessary diagrams.\nb) Define the following pixel relationships: | Neighbors, 2.5 col\nConnectivity, Adjacency, and Distance Measures.\nc) What are the key differences between spatial and frequency 2.5 co2\ndomain filtering in terms of their techniques, applications, and\neffects on image enhancement?\nd) What is the Fourier Transform, and how is it useful in image 2.5 CcO2\nprocessing? Also, explain the Butterworth Low-pass filter.\nUNIT I CO Mapping\nAttempt any two parts (5*2=10)\na) Explain the fundamental steps involved in a digital image 5 col\nprocessing system. Give a diagram or flowchart to explain.\nb) An image segment is given below. Let V be the set of gray-level 5 col\nvalues used to define connectivity in the image. Compute the\nshortest De, D4, D8, and Dm distance between pixels ‘p’ and ‘q’\nfor:\n(i) V = {1, 4}\n(ii) V = {1, 5}\nGiven Image Segment:\nl(p)) 2 Le 3s\nc) Given the 5x5 grayscale image matrix. Assume that the intensity\nvalues range from 0 to 255 wherever required.:\n23 45 6\n3.4 5 6 7\nI=|4 5 6 7 8\n5 6 f 8 9\n62°38 8 10\nPerform the following point operations on the matrix:\n1. Apply contrast stretching rmin=2, fmax=10, Smin=O and Smax=50.\n2. Apply Power-Law (Gamma) Transformation with c = 1 and y =\n0.5.\n3. Apply Thresholding using a threshold value 6."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 92.8,
+   "text": "UNIT II CO Mapping\nQ3 | Attempt any two parts (5*2=10)\na) Discuss different smoothing and sharpening filters in both the 5 cO2\nspatial domain and Frequency Domain with supporting\nequations and an example of a 3x3 image matrix.\nb) Perform Histogram Equalization on the given 3x3 grayscale 5 co2\nimage matrix, where pixel intensities range from 0 to 7. Given\nImage Matrix:\n20 39\nI=|4 5 6\n6% 7\nFind the equalized image for the above matrix.\nc) Given the 5x5 grayscale image matrix: 5 CcO2\n10 20 30 40 50\n20 30 40 50 60\nT= }30 40 50 60 70\n40 50 60 70 80\n50 60 70 80 90\nApply the following filters on the above matrix at position (2,2) and\ncompute the new intensity value. Assume row and column index\nstarting at (0,0)\n1. Apply the 3x3 averaging filter for the center pixel value 50\nat (position (2,2)).\n2. Apply the 3x3 Gaussian Blur filter for the center pixel value\n50 at (position (2,2)).\n3. Apply the Sobel Filters Sx and Sy separately on the image\nmatrix and compute the gradient magnitudes and edge\ndirection for the center pixel value 50 at (position (2,2))."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-1/BAS109_MATH_END_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.8,
+   "text": "End-Term Examination\n(cacs)(B. Tech CSE_Al SUBJECTIVE TYPE)\n(April, 2022)\nSubject Code: BAS 109 Subject: Applied Mathematics\nTime : 3 Hours Maximum Marks : 60\nNote: Q. 1 is compulsory. Attempt one question each from the Units I, Il, Ill & IV.\nW = {(a,,a>,3):@, + Ap +43 =0, Q;,d,,a3 ER}is a subspace over the field of real\nnumbers.\nmar c) Ifu=cos™? (=), show that x= + y= + =cotu = 0,\n(d) ‘Sketch the region of integration for the integral gp Sa vii f(x,y) dy dx and write an equivalent\nintegral with the order of integration reversed.\n(ay Define the rank of a matrix. Reduce the matrix\n2 -2 0 6\nalr 0 2\nA451 0 3\n1-212\nto the normal form by means of elementary operations and hence,\ndetermine its rank.\n8-.— % 2\n46) Find the characteristic roots of the matrix’ A =| —6 - —4 |\n(a) State Cayley Hamilton Theorem. Use Cayley Hamilton Theorem to find\nthe inverse of the matrix\n2 -2\na=(-1 0980 |\n0 - 1\n(b) For what values of A and uw, do the following system of equations\nx+y+z=6,\nx+2y + 3z = 10,\nx+2y+Az=p\nhave (i) a unique solution (ii) no solution (iii) an infinite number of\nsolutions. ,\n(a) Define a basis and dimension of a vector space over a field F, Let V =\nR*(R) and W = {(a,b,c,d) € R*:a=b+c,c=b +d} be a subspace\nof V. Exhibit a basis of W. What is dimpW?\n(b) Use the method of Laplace transform to solve by initial value problem\n—\\_ y\" + 9y = 18t, y(0) = 0, y'(0) =\n(@) Let T:R? > R2 be a linear transformation such that 7(1,1) = (1,3),\n—*T(-1,1) = (3,1). Find T(a, b) for any (a,b) € R?.\nlb} Use the convolution theorem to find the inverse Laplace transform of\n46 (s?+a2)2 a\nx? +y? #0,f(0,0) =0. Prove or disprove\n(a) Let f(x,y) = ae\nfry (0,0) = fyx (0, 0).\n(b) If y=sin(msin=+x), show that (1 —x?)yns2 = (2n +1) x Ynii +"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 78.9,
+   "text": "a) Using the method of Lagrange’s multiplier, find the maximum and\nminimum values of the function f(x,y) =3x+4y on the circle\nx?+y2=1.\n_{b) Find the nth derivative of y = (ax + b)7?.\n(a) A vector field Fis given by F = sinyit+x(1+ cosy) j. Using Green’s\ntheorem, evaluate the line integral { F.d7 taken along the closed circular\npath given by x2 + y? =a?.\n(b) Find the area bounded by the curves y = sinx,y = cosx and the line\nx = 0.\nAa) Evaluate {[(x + y)dx + (y —x)dy)] along the parabola y? =x from\n(1,1) to (4,2).\nLo Evaluate oie pol (Bey + =) dx dy dz by applying the\n2x- Zz : :\ntransformation u= 5 yiv = Ww =— and integrating over an\nappropriate region in wvw- space."
+  }
+ ]
+}

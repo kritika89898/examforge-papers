@@ -1,0 +1,11 @@
+{
+ "file_path": "papers/semester-2/BAI108_ITW_MID_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "(Please write your Enrollment Number)                    Enrollment No. l6 30|192 04\n                                     MID-TERM EXAMINATION\n\n\n                                 (Course Name: B. Tech. )(Scmester: 1 )\n                                     (October 2024) OFF LINE mode\n\n\n Subject Code: BAl102             Subject: IT WORKSHOP\n                                                                               Maximum Marks :30\n Time: 1½Hours\n\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n Q1   Discuss:                                                            (2.5*4=10)   CO Mapping\n      (a)      Write about vectors in R, also apply two arithmetic\n               operations on vectors\n      (b)      Explain advantages in R in comparison to other\n               languages.\n      (c)      WAP to find average of 3 numbers\n      (d)      WAP to calculate mode of elements in a vector\n                                   UNIT I                                              CO Mapping\nQ2    Attempt any two parts                                                (5*2=10)\n         a) Define data structure with different types of data\n               structure in R.\n            b) Implement sorting in Rwithout using the sort\n               function.\n            c) WAP towhether the given number is Armstrong or\n               not(user input)\n                                   UNIT II                                              cOMapping\nQ3    Attempt anytwo parts                                                 (5*2=10)\n            a) Explain operation or,matrices\n               b) WAP to print a series of squares and cubes from 1\n                  to a given number (input from user)\n               c) WAP to find number of vowels in a given\n                  string(user input)"
+  }
+ ]
+}

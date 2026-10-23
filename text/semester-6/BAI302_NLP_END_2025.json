@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BAI302_NLP_END_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.4,
+   "text": "(Please write your Enrollment Number) Enrollment No. Ugoll)2024\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: <B. Tech.>, Semester:<VI>\n(May, 2025)\nSubject Code: BAI 302\nTime :3 Hours\nao Subject: Natural Language Processing\nNote: Q1 is compulsory. Attempt one question each from the Units I, II, Ill & IV.\nMaximum Marks :60\nx >\nOZ\npr\n4 &\nCO Mappin\nco1\nia\nalee cos\naaa ee COZ\nPal Lake cos\n[7 ; *\n; Mention two differences between CNN and RNN in the context of co4\nf NLP.\nz Write the formula for calculating Inverse Document frequency co4\n(IDF). Why it is called so?\n| Ss |, CO Mappin\n| O37 Explain the components of Natural Language Processing with suitable coi\nexamples. How do these components work together in a typical NLP\nysystem?\n= Fl\n(3 5) What is parsing in NLP? Deseribe different parsing techniques and the (10) col\nITH | S| «CO Mappin\n| 9 Compare and contrast word2vec, doc2vec, ar nd GLoVe word (10) co2\nembedding techniques. Discuss their working principles and\n7A applications in NLP tasks.\nWhat is Ne rap achine Translation (NMT) and state two\ndifferent from phrase-based MT?\nLm | Explain the different formats used for representing a text corpus. How co2\ndo these formats influence text preprocessing and model training?\nA UNIT IH | | ~COMappin\n/ Q6* | Describe various approaches to Machine Translation. Compare rule- co3\nP | based, statistical, and neural methods with examples.\nCa Explain the architecture of the Anusaraka system. How does it handle CO3\ntranslation using the interlingua approach?\nA UNIT IV } | ~COMappin\niy Explain the working of LSTM and GRU models. Highlight how they (10) cO4\nA overcome the limitations of standard RNNs in language modeling.\n| 98 Discuss the use of the Natural Language Toolkit (NLTK) for (10) co4\nimplementing deep learning-based NLP tasks with examples."
+  }
+ ]
+}

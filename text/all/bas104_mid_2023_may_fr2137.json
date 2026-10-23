@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bas104_mid_2023_may_fr2137.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.2,
+   "text": "MID-TERM EXAMINATION\n(Course Name:B.Tech IT/MAE/DMAM) (Semester: Second)\n(May, 2023) OFF LINE mode\nSubject Code: BAS-104 Subject: APPLIED PHYSICS-II\nTime: 1 %Hours Maximum Marks: 30\nee ———— sss\nNote:Q. 1 is compulsory.\n(a) Explain Poynting's Theorem. Discuss the physical significance of the Poynting\nvector.\n(b) Calculate the skin depth for silver if the frequency ofincident EM wave is\ngiven as10®°TH2 and o = 6 x 10’S/m.\nUse: wy = land uw, = 4m x 10°7N/A?\n(c) A Bravais lattice is specified by the primitive lattice vectors:\n~ mi 1 v3 -\na=aiz, b=>akt+— ay, é=2ak\nWhere 2 , 9 and Zare the unit vectors along the x, y, and z axes respectively,\nand a is the lattice distance.\nDraw the Wigner-Seitz primitive cell for the lattice in the x — yplane.\n({d) Assuming a simple cubic lattice with lattice constant a = 1. Draw the\ncrystal planes corresponding to the (021), (123)and (202) Miller indices?\nAttempt any Two Parts) UNIT-1\n(a) Discuss the propagation of EM waves in a conductor. Briefly describe why we get very low\nmobile signal in a lift?\n(b) Prove that in free space, the electromagnetic waves are transverse waves.\n(c) A parallel plate air-gap capacitor is made up of two plates of area 10cmeach kept at\nadistance of 0.88mm. A sine wave of amplitude 10V and frequency 50Hz is applied across\nthe capacitor as shown below. Find the amplitude of the displacement current density.\n(eae\nee (Attempt any Two Parts) UNIT-2\n(a) What are Fermions and Bosons? Describe and Sketch their respective distribution 1 BAH\nfor temperatures 7; = OK and7T2 > 7;.\nUsing the Fermi-Dirac Distribution function, explain the concept of Fermi Energy.\n(b) The density of copper is 8940 kg/m°* and atomic weight is 63.55amu. Determine the\nFermi energy of copper.\n(c) Discuss Kronig-Penney model. Using the model show the energy spectrum of electrons\nconsisting of a number of allowed energy bands separated by forbidden bands."
+  }
+ ]
+}

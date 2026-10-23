@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec208_mid_2024_mar_fr225.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 92.1,
+   "text": "Enrollment No.\nPI ;\n(Please write your Enrollment Number)\nMID-TERM EXAMINATION\n(Course Name : B, Tech. ECE/Reappear) (Semester : 4)\n(March, 2024) OFF LINE mode\n[ Subject Code: BEC-208\n| Subject: Communication System |\nTime : 1 ¥Hours q Maximum Marks : 30\nNote: Q. lis compulsory.\n(a) Given that, fy (x)=ae?!*!, where x is a continuous random variable.\nFind the relation between a and b.\nconcept.\n(c) Name and explain the two primary communication resources. Also,\nexplain the objective pertaining to those.\n(d) For a signal amplitude modulated to a depth of 100% by a sinusoidal\nsignal, how much is the power required for the modulated signal in\nterms of the power of the unmodulated carrier?\nAttempt any Two Parts) UNIT-1\ngiven Random Process is Wide Sense Stationary or not?\n(b) Fora given function x(t) = Acoswot , find ACF, PSD and power.\ndetail.\n(Attempt any Two Parts) UNIT-2\nfrequencies where Y(f) has spectral peaks?\nBalanced\nModulator\n(b) Discuss the concept of under-modulation, critical-modulation, and over-\nincluding their respective waveforms in the time domain.\n(c) Explain the working of the Square law modulator along with its block diagram\n(a) A random process is given by X(t) = A cos(Zo t +@), where A and lo are constants and @ is a\nrandom variable, which is uniformly distributed in the interval (0, 2m). Find whether the\nLe What are ergodic random processes? Explain ensemble averages and time averages in\n(a) Consider a system as shown in figure. Let X(f) and Y(f) denote the fourier transforms of x(t)\nand y(t) respectively. The ideal HPF has cutoff frequency 10KHz. What are the positive\nmodulation,"
+  }
+ ]
+}

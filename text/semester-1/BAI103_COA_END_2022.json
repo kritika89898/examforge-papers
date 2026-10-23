@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-1/BAI103_COA_END_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.9,
+   "text": "i Number)\nEnd-Term examination\nh CSE a-cBcs)(SUBJECTIV\n(April, 2022)\n(Please write Your enrollmen\nE TYPE)\n(B. Tec\n‘Computer Organization And\n————— ray Subject:\ncoger BAI103 Architectule um F\nSubject —_——— Maximum Marks : 60\n\"Ble ——~ ign each from the | — —— --—\nTime : 3 Hours attom tone question each from the Units |, I, Il & IV.\note:Q. 1 is. com :\n(2.5°8=20)\nboolean expression :\n)(A +B)\n(a) Simplify the\n= [(A +B\nupt?\ndeg of data transf\n(9) What is an interr\n/—_| (h) What are the mo\ner?\ntable the validity of De-morgan's theorem for\nof truth\n(a) Determine by the means\nthe three variables. (4marks)\n(ABC) = A‘'+B'+C\"\n(b) Simplify the following expression using Boolean Algebra. (2marks)\nAB+A (CD+DC’)\nand truth table of a 2 to 4 decoder with NAND Gate\n(c) Draw the logic Diagram\n4marks\n(a) Describe decoder Expansion an\n(8marks)\n(b) Draw the block diagram of 4 to 1 line multiplexer and explain its operation by\nmeans of a function table.\nDescribe the types of instructions on the basis of addres i\n| instruction with example. tian | Coearin a\nEvaluate the arithmetic statement X = (A+B) * (C+ i\n= D) using a general regi\ncomputer with three address, two address, one address instruction format to\nevaluate the expression.\nd draw 3 x 8 decoder from 2 x 4 decoder. (10marks)\n«) wet is parallel processing? (2mark\n(b) What is Array Processing & explain the two types of array processors:\n; 5m\n(c) Draw the hardware for signed- magnitude addition and sbieation 4\n3marks\n(a) Dra j\n) Draw the hardware for multiply operation for signed-magnitude data.\n(10marks)\nQ7.\n(b) Show with successi i (3marks)\nnumbers: ssive shift method, the multiplication of two- fixed point binary\n10110 > multiplicand\n10010 > multiplier, 3\nmarks)\nc) Draw the flow chart for multiply o\n(a) Explain Handshakin\n(4marks)\nb) Explain the workina\ng with block diagram,\nof DMA controller with the block diagram. (6marks\n(a) What is an associati\n. ssociative\n(b) Give a bri memory? 2mark\n(c) Explain with the re of the peripheral devices. Carks)\ndevices, p of the diagram the connection of I/O bus to input-output\n4marks\n—"
+  }
+ ]
+}

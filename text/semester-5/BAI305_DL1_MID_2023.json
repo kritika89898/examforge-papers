@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-5/BAI305_DL1_MID_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.3,
+   "text": "(Please write your Enrollment Number) Enrollment No. 16h t | 20 H\nMID-TERM EXAMINATION\n(Course Name: B.Tech, CSE-Al) (Semester; 5\")\n(October, 2023) OFF LINE mode\nSubject Code: BAI-305 Subject: Deep Learnin\nTime : 1 MHours e s___\nr Maximum Marks ; 30\nNote: Q. 1 is compulsory, aa ee a\nay Explain the purpose of thresholding logic in a MP-Neuron?\n. b) Differentiate between MP-Neuron and Perceptron.\ncy Explain the relationship between partial derivative and\ncxample.\nay Consider the following curve of Loss (L) against weight parameter (w). There are\nWO points on the curve which are highlighted as A and B. What will be the sign of\n¢ slope at these points? What changes do we need to make in the weight updation\nquation, if we apply gradient descent algorithm at points A and B?\ni ou iat\nAttempt any Two Parts) UNIT-1 5,5)\na) Proof that perceptron learning algorithm will converge to an optimal solution?\n(b) Consider a three-input neuron with sigmoid function whose weights (wl, #2,\nw3) are initialized as (0.2, 0,5, 0.8) with objective function as squared error and\nbias as 0.3. What are the values of (wl, w2, w3) on applying, gradient descent\nalgorithm after two iterations with learning rate as 0.6 for followiog two data\nsamples as (1,0,1) and (0,1,1) with output labels as 0 and 1, respectively.\n| + ¢) Is single-hidden neural network sufficient to solve all the Boolean functions with\nn Boolean inputs? If so, then what is need of using multi-layer neural network?\n(Attempt any Two Parts) UNIT-2 |\nsxplain the under-fitting and over-fitting with help of a diagram. Why over-\nfitting is a matter of concern in comparison to under-fitting?\n(b) Consider the foliowing artificial neural network of single hidden layer with\ninitial values of (wl, w2, w3, w4, w5, w6) as (0.5, 0.2, 0.8, 1, 0.5, 0.5). The bias\nvalue to cach neuron of hidden layer is 0.2 and to neuron of output layer is 0.3. The\nactivation function is sigmoid and cost function is squared error function with\ngradient descent algorithm. Input sample values are (0.4, 0.8) with output label as 1.\nFor the given weights and input, what is the predicted value by this network after\napplying the forward pass? What are the updated weights of these network after\nperforming single backpropagation?\ning techniques in detail;\narization"
+  }
+ ]
+}

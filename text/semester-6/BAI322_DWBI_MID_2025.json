@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BAI322_DWBI_MID_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 75.8,
+   "text": "Seek. *\n(Please write You\nn 1.\nTollment Number) Enrollment No._ Livy 128 2\nMID-TERM LXAMINATION\n(Course Namo; g, Tech.) (Semester: 6)\n(March 2025) OFF LINE mode\n| Subject Code BAIS\n[ Time : 1 kHoy 22 WE Ory __ Subject: Data Warehousing and Bu Businoss intelllce nee\nome ~— Maximurn | marks '\nSN Sara eae Manin\nNote: Q1 ls co :\nMPulsory, Attempt any tWo parts of QZ and Q3\n, “ie ar eae 7 > appl\nQu ul. (2.5°4210) | cOMapPIng\nafFiow does a data: warehouse a\nenh ‘enhance decision-making and\nbusiness INellige\nnee? on\nof What are the key advantages of using a data warehouse over a 7; cos\ntraditional database system for analytical processing?\nWhy is data pre- processing important in the ¢ data warehousing\nProcess, and what key techniques are Involved?\nhat are the primary objectives of dimensional modeling, and\nhow does it t contribute to effective data analysis?\nUNITI\nco2\nCo Mapping\nQ2 | Attempt any two parts (5*2=10)\nN) What are the key components of a data warehouse, and how\ndo Go they ¢ contribute to its overall functlonality?\nb) W What are information packages | in data warehousing, a and how\ndo they support business intelligence and decision-making?\nee\nWhat are the different types of ‘metadata, and how do they\nfacilitate data management and decision-making processes?\nUNIT II co Mapping -\nLLL SS\nQ3: | Attempt any two parts ~ (5*2=10) | co2\now do OLAP models vary, and and what are the key differences\nbetween MOLAP (Multidimensional OLAP) and ROLAP (Relational\nOLAP)?\nb) What are the key OLAP operations, such as drill-down, roll-up,\nslice-and-dice, and pivot, and how do they enhance data\nanalysis? ==\ngf How do the STAR schema and Snowflake schema differ in the\n6 [emt anit nate Si\nww"
+  }
+ ]
+}

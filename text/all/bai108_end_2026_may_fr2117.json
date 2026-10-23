@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai108_end_2026_may_fr2117.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.9,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OFFLINE)\nCourse Name:<B.Tech(AI&ML/ECE/ECE-Al/M&C) (Reappear ECE/ECE-Al/DMAM)>, Semester:<ll>\n(May, 2026)\nSubject Code: BAI 102 Subject: IT Workshop\nMaximum Marks :60\nNote: Q1 is compulsory. Attempt one question each from the Units I, Il, II] & IV.\nQl\nfa) | What are the features and applications of R- Programming language? (2.5)\nWhat are the steps to install R-software? Compare R- Programming and Python. (2.5)\na [Wrataretienrnior resins wading mreewee? | 2\nDefine T- Test and what are the types of T-tests in R.\nf) | List the differences between uniform distribution and exponential distribution. (2.5)\nje) | Write a R-program to create line and bar charts. Draw a neat | Write a R-program to create line and bar charts. Draw aneat diagram. | (2. } (2.5) |\nSe ee sent neaniter ders Ones nae a is the importance of scatter plot in R- language? Write the syntax for scatter er 5)\nplot.\non |\nQ2 | (i) Write a short notes on objects, getting R and running R. (10)\n(ii) Explain the packages in R-language.\n(i) How R is used as a calculator?\n(ii) Write a R- code for complex, character and integer data types.\nExplain in detail any two data structures in R with an example. (10)\nQ5_ | (iii) Write a short notes on Environment in R- language. (10)\n(i) Explain in detail loading, editing and saving data in R.\na as |\n(i) List the summarizing functions in R. (10)\n(ii) What is data cleaning in R. Write any 5 steps with description.\n(i) Explain linear model with an example.\n(ii) List the differences between T-test and ANOVA.\nUNIT IV\n08 | Explain the importance of histogram in R with an example.\n(i) What are the properties of bar chart in R- language?\n(ii) Write a short notes on Pie-Chart."
+  }
+ ]
+}

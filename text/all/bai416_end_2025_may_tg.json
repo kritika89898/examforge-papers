@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai416_end_2025_may_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.7,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B.Tech>, Semester:<8>\n(May, 2025)\nSubject Code; BAI 416 Subject: Al in Healthcare\nMaximum Marks :60\nNote: Q1 is compulsory. Attempt one question each from the Units |, Il, Ill & IV.\na) What are the differences between structured and unstructured\nhealthcare data? Provide an example of each.\nb) Why is data preprocessing essential in healthcare Al applications?\nMention two key steps involved.\n(2.5*8=20) | CO Mapping\nco1\nc) What are Clinical Decision Support Systems (CDSS), and how do co2\nthey assist healthcare professionals?\nd) Discuss one ethical concern associated with Al-powered co2\ndiagnostic tools in healthcare.\ne) What role does Natural Language Processing (NLP) play in\nElectronic Health Record (EHR) analysis?\n|_| f) Describe one predictive modeling technique used in healthcare for\n4\npatient risk assessment. 4\n&) How HIPAA compliance ensures the privacy and security of patient ae\n|_[Sswnsetne\nh) Identify one emerging trend in Al-driven healthcare and discuss its co4\npotential impact. as\nDescribe the importance of data preprocessing in Al-driven healthcare | (10) coi\napplications. Illustrate with an example of data cleaning and\ntransformation.\nExplain the key techniques used for extracting meaningful insights in a oy\nstep-by-step hands-on analysis of a healthcare dataset.\nUNIT ———\nDiscuss the ethical considerations involved in Al-driven clinical\ndecision support, including biases and patient safety concerns.\nWhat are the key challenges faced when implementing Al in medical co2\nimaging? Discuss real-world limitations and possible solutions limenoneresstsnnsin reser | OT |\nDiscuss various predictive modeling techniques used in healthcare. (10) co3\nBainter |\nExplain the process of validating and evaluating predictive models in\nhealthcare Al applications. Discuss key performance metrics used to\nevaluate the models.\nUNIT IV CO Mapping\nDiscuss the ethical guidelines that govern Al applications in\n[raters norenareneseneaemrrtessiecet? | [nn\na Analyze the impact of Al on patient data security. What are the major (10) co4"
+  }
+ ]
+}

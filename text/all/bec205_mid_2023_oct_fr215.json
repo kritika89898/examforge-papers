@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec205_mid_2023_oct_fr215.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.9,
+   "text": "ai ected on a | Oy or YT Sy ay\nmoet\nMID-TER |NATION\n(Course Name Breen ce) (Semester- 3rd)\n(October, 2023) OFF LINE mode\nSubject Code: BEC 205\n- : ubject: Network Analysis And Synthesis J\nTime :1 “%Hours [subi Maximum Marks : 30\nNote: Q. 1 is compulsory,\n(a). Using source tr\nInto equivalent cur\nansformation technique covert the voltage source shown in fig-1\nrent source. ¥!\n(d). Write down the €xpression for Thevenin’s Voltage and Thevenin’s Resistance given\nby Millman’s Theorem\n02 (Attempt any Two Pans) ua ——S—~dB\n(a). For the ckt shown | fig-2, determine the current | through the 10 ohm resistance\nusing Norton’s Theorem\n(b). For the ckt shown | fig-2, determine the current | through the 10 ohm resistance\nusing Mesh Analysis Method\n(c). For the ckt shown | fig-2, determine the current | through the 10 ohm resistance\n1 using Supper- Position Theorem\n(10)\n| Q3 | (Attempt any one Parts) UNIT-2 (ao ||\n(a) Consider the RLC series ckt shown in fig-3, Vs=2V: R=6 ohms : L=2 H ; C=0.25 F.\nDetermine i(0) ; di(O)/dt ; d’i(0)/dt* ; i(t)\ni itor initially charged to a voltage of 1V as\nj ies RLC ckt with the capaci ° t \\\n(b). conse eid Find the expression for i(t). Also draw the S-domain\nindicate :\nrepresentation of the ckt.\nplease tusn Over,\nFox Fi 4 Ure ,"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 180,
+   "confidence": 36.2,
+   "text": "5, “ ape G (Ss)\nt\nrn a4\nOG AF Dg ot Le el\nota\na ty\na\n| [a | ie EAN\n—u- OLS\n—~ — 5\nMoke? ag z [* ~~.\nsa ——oW o = VAAN ———\noO o\\\nA\nt\n+"
+  }
+ ]
+}

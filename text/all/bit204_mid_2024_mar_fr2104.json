@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bit204_mid_2024_mar_fr2104.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.7,
+   "text": "(Please\nwrite your Enrollment Number)\nEnrollment No.\n(B. Tect MID-TERM EXAMINATION\né 1 CSE/IT/MAE/DMAM/ECE-Al/Reappear ) (Semester: 4th )\n(March, 2024) OFF LINE mode\n[ Subject Code: BIT 204 —\n“Time : 1 wHours a= | Subject: Object Oriented Programming |\nMaximum Marks : 30\nNote: Q. 41 is compulsory.\nQi |\npeso [|\n(a) Explai 3\n) Explain the concept of dynamic memory allocation in C++.\n(b) What are [UNIT-1 |\n) hat are default arguments and how they are used in function call? | uNit-1 |\nag EI]\nc) Whatis Ts\n(c) ‘ld is the difference between base class and derived class? How base\na | (a) E = members can be accessed by derived class?\nxplain the polymorphism and data hiding features of C++.\nQ2\n(Attempt any Two Parts) UNIT-1\n(a) Write a program using class to implement the basic function\n(b) Explain any 2 usage of the keyword static through suitable programs for each.\nOR\nEnlist the difference between memory allo\nheap in C++.\n(C) How does a friend function diff\nwap private data members of class\ns of a calculator.\ncated on the stack and memory allocated on the\ner from a member function ina class? Write a Program to\nes named as class1, class2 using friend function.\nQ3 | (Attempt any Two Parts) _UNIT-2\n(a) Write a program that calculates the area of rectangle or circle and\noverloading concept.\n(b) Write a Program to designas\n(derived class of student) representing t\n(derived class of student) representing t\ninherited by a result class having the functionality to add th\ntudent.\n(c) Write a program to demonstr\nprint the area using\nnt roll no. and a test class\ntwo subjects and sports class\nand test class should be\nd display the result for a\ntudent class representing stude\nhe scores of the student in\nhe score in sports. The sports\ne scores an\nate the usage of virtual base class."
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-1/BAS109_MATH_MID_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 78.6,
+   "text": "MID-TERM EXAMINATION\n(Course Name: B. Tech.) (Semester: ‘l)\n(October, 2025) OFF LINE mode\nFor Batches 2024 and 2025\nSubject Code: BAS 101\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\neee evo Parts of QZ a\na) Using Cayley-Hamilton Theorem, find A° if A -(¢ al\nb) For what values of x, the rank of matrix\n3-x 2 Z\n2 4-—x 1 | not equal to 3.\n—2 —4 S—] —x\nc) Ifx* y¥z% =k, then show that\na2\naa = —(x log(ex))~? at x=y=z.\nd) Findall the stationary points for the function\nf(x, y) = (x4ty2}e— ay\nUNIT 1.\n| Q2 | Attempt any two parts\na) For what values of A and p, the system of equations\n2x + 3y +5z2=9, 7x +3y -2z =8, 2x+3y+Az=u\nhave (i) No solution (ii) A unique Sol (iii) Infinite solutions.\n1 ot 3\nb) Find the modal matrix for m1 5 i| if it exists. If not,\ney i Ul\ngive reasons.\nc) Are the vectors (1, 2, 4), (2, -1, 3), (0, 1, 2) and (-3, 7, 2)\nAttempt any two parts\na) If y = sin(log(x* + 2x + 1)), prove that\nQ3\nSubject: Applied Mathematics\nlinearly dependent? If so, find the relation between them.\nMaximum Marks :30\n(2.5*4=10) | CO Mapping\n| | at |\nwie\nee\nEas\nean |_|\ncol\ncol\n(5*2=10)\nco2\n(1+ x*)yng2 + (2n+1)(1 + x)¥nai + (n? + 4) yp = 0.\nb) Expand xY in powers of (x-1) and (y-1) upto the second\ndegree terms and hence evaluate (1.1)?°,\nc) If u= x3y* sing} (*) 4+ xt/By-V/2 siq-t (%), find x?\nOne gy? eu\nexy ax dy dy?\"\ni co2\na7u co2\nOx?"
+  }
+ ]
+}

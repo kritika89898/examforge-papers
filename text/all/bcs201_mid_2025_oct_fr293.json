@@ -1,0 +1,11 @@
+{
+ "file_path": "papers/all/bcs201_mid_2025_oct_fr293.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "text-layer",
+   "confidence": 100,
+   "text": "(Please write your Enrollment Number)                       Enrollment No.DRoloR2024\n                                  MID-TERM EXAMINATION\n\n                     Course Name: B.Tech (CSEAI, ECEAI, IT, AI&ML, Semester: 3d\n                                  (October, 2025) OFF LINE mode\n\n                                                            Subject: Data Structures and Algorithm\n Subject Code: BIT 201\n                                                                              Maximum Marks :30\n Time : 1AHours\n\n\n Note:Q1 is compulsory. Attempt any two parts of Q2 and Q3\n\n Q1                                                                                    (2.5*4-10)\n\n       a) Writea function to return the second largest element from a sorted\n       array.\n\n        b) What is the time complexity for the following code segment\n       Void func( int n){\n          For( int i =0; i <n;i=i+2 ){\n                Cout<<\" \"<<i;\n\n\n        c) Convert the expression to prefix using stacks\n         (A*B+C/D-E)\n        d) Write a function to return 'n'th element from a doubly linked list.\n                                         UNIT I\n\n  Q2    Attempt any two parts                                                           (5*2-10)\n        a) For a 2D array of 5 x 10 elements stored at location starting at 1000,\n        having 2 bytes as the size of each element., What is the row major and\n\n        column major addresses for the element arr[3][81.\n        b) Write afunction to checkwhether a given string is palindrome or not?\n       c) For an array of N elements, hoW many recursive calls willthe binary\n       search algorithm take? Justify.\n                                         UNIT II\n Q3    Attempt any twoparts                                                              (5*2-10)\n       a) Implement Singular queue using arrays (insert() and delete() operations),\n       what is the problem in this implementation and how can it be resolved?\n       b) Write a program to reverse a circular linked list.\n\n       c) Convert the following expression to postfix and evaluate using stacks.\n        (5+2)*(8-6)/(2+4/2-3)"
+  }
+ ]
+}

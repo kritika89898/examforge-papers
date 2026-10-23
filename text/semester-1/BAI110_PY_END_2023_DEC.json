@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-1/BAI110_PY_END_2023_DEC.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.7,
+   "text": "End-Term Examination (Regular & Reappear)\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<BTECH Al & ML/CSE-Al>, Semester: <1st Sermester>\n(December, 202 3)\nSubject: Programming with Python\nSubject Code: BAI 110\nMaximum Marks -60\nTime :3 Hours\nNote:Q. 1 is compulsory. Attempt one question each from the Units 1, I, Hl & Iv.\nFak. a program to print a string str = ‘Programming’ in reverse order using range({)-\nZ hat Is a set. Write a python program to converta string str=“Fruitful” to a set 4\nn the index at the 3rd\nWrite a program to find the index of an element of 10 in betwee\nposition and ending with second last position\nal line?\nWhat are the functions used in matplotlib to plot a vertical and horizont\nExplain any two with syntax to call these functions.\n‘SO’ of a list inside the\n€\nGiven a nested tuple. Write a program to modify the first item\nfollowing tuple to “100”.\nImportError\nOError\nameeError\nZeroDivisionError\nWrite a Python GUI program to import Tkinter package and create a window. Set its\ntitle and add a label to the window.\nUNIT-I\nDefine python list. How to add an elementina list. Explain with a suitable\nexample.\nExplain the use of join() and split() string methods with examples.\nDescribe why strings are immutable with an example.\nExplain Arbitrary Positional argument and Arbitrary Keywords argument with\nexamples using a function."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.3,
+   "text": "function called most_frequent that takes a (10)\necreasing order of frequency. Use\nWrite Pythonic code to create a\nstring and prints the letters in d\ndictionaries.\n(10)\n0 and 1.0. if the score is out\nWrite a program to prompt for a score between 0.\nif the score is between 0.0\nof range, schedule an exception handling process,\nand 1.0, print a grade using the following table.\nScore. Grade\n>=0.9. A\n>=0.8. B\n>=0.7. Cc\n>=0.6. D\n< 0.6.\nWhat is exception handling? Given below is a code. Find the exceptions\ngenerated when the input of denominator entered is\na. O,\nb.5010;\nc. ‘Hello’ and\nprovide the statements to be printed while executing exceptions.\nprint (\"Handling exception using try...except...else\")\ntry:\nnumerator=50\ndenom=int(input(\"Enter the denominator: \"))\nquotient=(numerator/denom)\nprint (\"Division performed successfully\")\nexcept :\nPrrere eee\nPree\nprint (\"The result of division operation is \", quotient)\nUNIT-IV\nWhat are the different types of data structures in Pandas. Write a program to} (10)\ncreate data frame using a list, L1=[‘Hello’,’/world’].\n19 | What are the key differences between Module and Package in Python.\na -_"
+  }
+ ]
+}

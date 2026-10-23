@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec106_end_2022_aug_fr2134.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.5,
+   "text": "(Please write your enrolment Number) Enrollment No.\nEND TERM EXAMINATION\n(CBCS)(SUBJECTIVE TYPE)\nB. Tech (ECE-Al), 2\" Semester '\n(AUGUST, 2022) \\\n| Subject Code:BEC 106\nTime :3 Hours Maximum Marks :60\n[ Note:Q. 1 ls compulsory. Attempt one question each from the Units |, Il, Ill & IV.\n(a) Explain the three properties of Convolution,\n(b) Distinguish between Deterministic and random signals along with\nexamples.\nJe} What ts odd symmetry? How does it help in simplification of\ncalculations in Fourier series?\nAdy Distinguish between Fourier series and Fourier transform.\n(e) State and prove Modulation theorem for Discrete Time Fourier\nTransform\ncm | if} Differentiate between phase delay and group delay.\nft | (e) When does aliasing occur? How it can be avoided.\n_(b) What is ROC for Z-transform? Write any four properties of ROC.\nt\na) Determine the response of the relaxed system characterized by the\nimpulse response h(n) and input signal x(n) given below:\nh(n) = (5) u(n)\nx(n) = 2\" u(n)\nb) Find the even and odd components of the following signal:\nx(t) = 1424307440\"\n4) Determine whether the following system is time-invariant or not:\ny(n)= x(n)+nx(n-2)\nAlso, comment on its stability.\nby What are basic operations on signals? Illustrate each with an example.\njw\na) Find the inverse Fourier transform of X(w) = Qt jw ,\ngiven F [te “u(t)]= cts Biotest F is the Fourier transform.\n(a+ jwy\nb) Find the Fourier transform of x(f) = f(t—2)+ f(t+2)."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 73.5,
+   "text": "—— - ot— es. eset sie ee - a a\nbe, ree |\nQs\nFind complex exponential Fourier series and the trigonometric Fourier\nseries of unit impulse train. J, (¢) with fundamental time period T\nx(t) = 6, (t)\n“27. =f 0 T 2T\nUNIT-IIl\n@) Using the property of convolution for DTFT find the output y(n), when\nmn)=(+) u(n) and x(n)-(5] u(n).\n4\nvw\nb) Find the frequency response of the following causal system:\n3\ny(n) — x(n) — y(n—-1) + 5 x(n—1)+ < y(n 2)=0\na) The impulse response of a system is\ni} forO<n<N-l\nh(n) =< :\n(0 otherwise\nFind the transfer function, frequency response, magnitude and phase\nresponse,\n>]\nb) Find DTFT of x(n) -(;) u(n—2).\nz\nra UNIT-IV\n2) Determine Nyquist rate and Nyquist interval for\nx(t) =1+cos5000zt + sin 400021 + cos 7000z1\n| b) State and prove sampling theorem.\na) Find the Z-transform and ROC of x(n) =a\"u(—n).\nb) Find the inverse Z-transform of the following function\n> ;\n-* -\nEa) sat Soe\nfor ROCs (a) |zl>3, (b)|z\\<l, (cd) 1dz\\<3"
+  }
+ ]
+}

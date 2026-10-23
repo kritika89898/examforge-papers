@@ -1,0 +1,33 @@
+{
+ "file_path": "papers/semester-6/HMC306_FM_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 89.7,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech. (IT/CSE/MAE/DMAM), Semester:6\n(April-May, 2023)\nSubject Code: HMC 306 | Subject: Financial Management |\nTime :3 Hours Maximum Marks :60\nNote: Q. 1 is compulsory. Attempt:one question each from the Units I, Il, Il & IV. |\nof | (2.5*8=20)\naa Why do firms hold inventories?\nwi) Explain any 2 long term sources of finance.\n4) Explain operating cycle in short.\n06) A company is selling a debenture which will provide annual interest payout of\nRs 1200 in indefinite number of years. Should the debenture be purchased if it is\nbeing quoted in the market for Rs S,500 and the required rate of return is 12% ?\nVW Write a short note on ABC analysis of inventory management.\n74 Explain investing decisions\nWE “An inverse relationship exists between carryin\n8 Costs and ordering costs”,\nexplain.\nath) An investment proposal requires an initial cash outflow of Rs 50,000 and\nexpected to generate Rs 12,500 annually for 5 years. Calculate payback period."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.7,
+   "text": "VONIT-I\nQ2 A) “Financial Management is concerned with solution of (5+5=10)\nthree major decisions a firm must make.” Explain this\nstatement by highlighting the inter-relationship\namongst these decisions.\nB) Mr. C purchased a house under a housing scheme\nvalued at Rs.24 lakhs. Under the provision of scheme, C\nagreed to pay a part of the amount through 10 equal\nannual instalments of Rs.2,50,000 involving 12% rate of\ninterest. Find the cash down payment required to be\nmade by C to pay the total price of the house.\nTable values: r-12%, n-10\nPVIFA - 5.650 PVIF- 0.322\nFVIFA- 17.549 FVIF- 3.106\n03/, On what grounds profit maximisation was criticised? (3+7=10)\nAssume that a Rs 20,00,000 plant expansion is to be\nfinanced as follows: the firm makes a 15% down\npayment and borrows the remainder at 9% interest\nrate. The loan is to be repaid in 8 equal annual\ninstalments beginning 4 years from now. What is the\nsize of the required annual loan payments.\nTable values:\nWhen r-9%, n-8\nPVIFA - 5.535 PVIF- 0.502\nFVIFA- 11.028 FVIF- 1.993\nWhen r-9%, n-3 — FVIF- 1.295 FVIFA- 3.278\nWhen r-9%, n-4— —-FVIF- 1.412 FVIFA- 4.573\nUNIT-II\nQ4 Explain the different types of cost of capital: (10)\n\\X Average cost and marginal cost.\n\\% Future cost and historical cost.\nx3. Explicit cost and implicit cost.\n4. Specific cost and Combined cost\nQS What is the meaning of optimum capital structure? Also (10)\nhighlight some of the relevant factors in determining the\ncapital structure?"
+  },
+  {
+   "page": 3,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 91.7,
+   "text": "CuMIT-It\nwi A company is considering to purchase two machines A and (10)\nhs B. CFAT (cash flow after tax) are expected to be as follows:\nYear Machine A Machine B\n0 100,000 100,000\n1 10,000 50,000\n2 20,000 40,000\n3 30,000 20,000\n4 45,000 10,000\n5 60,000 10,000\nYou are required to calculate NPV (net present value\nmethod) at 10% discount rate and Profitability Index at 10%\ndiscount rate for both the machines.\nTable values:\nPVIF @ 10%- 0.909, 0.826, 0.751, 0.683, 0.621\nPVIFA @ 10%-0.909, 1.736, 2.487, 3.170, 3.791\nQ7 A) Amachine requires an initial outlay of rs 100,000, having (7+3=10)\na life of 5 years. It generates year ending profits before\ndepreciation and tax of Rs 50,000, Rs 30,000 , Rs 20,000 E\nRs 30,000 and Rs 40,000 from the end of first year to the\nend of fifth year. The tax rate is 40%. Use SLM method for\ndepreciation with salvage value as nil. Compute the\nfollowing:\n1. Pay back period\n2. Average rate of return\nB) Write a note on capital rationing,\nbasin cited ee"
+  },
+  {
+   "page": 4,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 90.5,
+   "text": "LONIT-IV\nOF AS Write a short note on liquidity versus profitability (3+7=1\nconsiderations in working capital management.\n) Prepare an estimate of networking capital requirement\nof Zero company from the data given below:\nEstimated Cost per\nUnit of Production Amount per unit (Rs)\nRaw Materials 100\nDirect Labour 40\nOverheads 80\n220 [\nThe following is the additional information:\nSelling price per unit Rs 240\nLevel of activity 1,04,000 units p.a.\naw Materials in stock average 4weeks (.OUN\nWork in progress [Assume\n100% stage of completion\nof materials and 50% for\nlabour and overheads] average 2weeks l) | f\nFinished Goods in Stock average 4 weeks i. oS\nCredit allowed by Suppliers average 4 weeks rg\nCredit allowed to Debtors average 8 weeks ;\nLag in payment of Wages average 1.5 weeks hog WOKLA\nCash at Bank is expected to be 25,000.\nQ9 = A) XYZ buys an item costing Rs 125 each in lots of 500 (5+5=1\nboxes which is a 3 month supply and the ordering cost\nis Rs 150. The inventory carrying cost is estimated at\n20% of unit value. What is the total annual cost of the\nexisting inventory policy? How much money could be\nsaved by employing the economic order quantity\n(EOQ)? wee\nB) What are different approaches to financing of working\ncapital requirements? Explain."
+  }
+ ]
+}

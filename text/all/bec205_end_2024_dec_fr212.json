@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec205_end_2024_dec_fr212.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 74.5,
+   "text": "(Please write your Enrollment Number) Enrollment No,\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nB.Tech:<>, Ill Semester:<>\n(December, 2024)\nSubject Code: : BEC 205 —$— a — Subject: Network Analysis and Synthesis\nTime :3 Hours _ : sl Maximum Marks :60\nNote: Q1lis compulsory. Attempt one question each from the Units |, 1, 1 & Iv,\n: Malhicyohete dl hiiag had dos aetieiaes a —<$—$____—\n1 2.5*8=20 CO Mapping |\n02 | igs ab es ___| (2.5*8=20) | co Mapping |\na) What is source transformation technique? ‘Explain ‘by transforming a col\nvoltage source toa current source and vice versa.\n|_| 5) Explain KCL and KVL, ; a eo :\ncO1\nc) In the circuit t shown in Figure, the: switch s is closed at t=0 then determine co2\nthe steady state value of the current.\nin\nS\n-)h\nAy\nL=7H\nna d) What do you understand by time constant of a circuit? o A, me\ne) If Z= (4+j6) Ohm then find the value of Conductance G and Susceptance co2\nB?\n| f) Derive the condition of symmetry in terms of Z -parameters pee rh COZ aa\na -| g) What do you understand by positive real function? ere COL\na h) What are the necessary conditions for driving point functions? Ea: Cot\nUNIT I | CO Mapping\nis deli ing i 1} (10 co2 x\nProve that maximum power is delivered from a source having interna aa ll ox\nb ds\ni d load impedance ZL, when ZL=Zs*.\nimpedance Zs, to a connected lo p a as as\n6\n. , =\n; Be\ni\n3 a\nUsing nodal analysis, find the power dissipated in the 4 ohm resistor of the\n1\nnetwork shown in Figure.\nof\nte"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 77.2,
+   "text": "as a ae\n= — ee Ell\n—\nUNIT We 7 n co Mapping |\nQa (10) ~ C03\nQ5 | What is graph theory? Explain its applications ‘with one example. (10) CO3\n. UNIT II | CO Mapping\nQ6 | Find T parameters of the circuit shown in figure below: (10) co4\nae. CO Mapping\ngerd ape\nQ7_ | What do you understand by h-parameters? Derive h- Saales fora two (10) co2\nport network and clearly explain the procedure. Draw the equivalent circuit\nmodel.\nDiscuss restrictions on pole and zero\nExplain concept of poles & zeroes.\nlocations for driving point functions.\nSynthesize a network using Foster-l and Foster -ll forms for the Pe rat\nimpedance function:\n.2\ns(s* +9\n(s? + 5)(s? + 13)\nQ8\nQ9"
+  }
+ ]
+}

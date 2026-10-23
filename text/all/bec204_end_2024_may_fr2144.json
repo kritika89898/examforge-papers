@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bec204_end_2024_may_fr2144.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.2,
+   "text": "End-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name:<B.TECH ECE>, Semester:<4>\n(May, 2024)\nSubject Code: BEC-204 ; ol ign\nSubject Code: BEC 204 : Subject: Digital System Desig .\nTime :3 Hours weet Oe y Maximum Marks :60\nNote:Q. 1 is compulsory. Attempt one question each from the Units I, Il, III & IV.\n(3c)\n— | (a) What are the various Delay Mechanisms in VHDL? i...\nEc 3 (b) What is the role of Library and Entity in VHDL?\n(c) What is a transition matrix and how is it related to a state Diagram. 8\n(d) Inthe design of digital circuits, what factors should be considered when\nde and fundamental mode of operation.\n(e) ) What is the role of Design for testability in VHDL Designing?\n(f) List the Capabilities and limitations of FSM in digital logic design.\n(g) Differentiate between ROM, PLA and PAL.\n(h) What are Finite State Machines? Give some applications of the same. | ee |\n| ee |\nQ2 Write the VHDL code for full Subtractor and 4x1 MUX in (10)\nData Flow and Behavioral modeling. co |\n) Explain the role of test benches in VHDL Design. What are Se\nthe data types and data objects in VHDL.\nie UT i | a\n(10)\nchoosing between pulse mo\nDefine the concept of secondary state assignment. Describe\nthe steps involved in realizing a state table from a verbal\ndescription and provide an example to illustrate your\nexplanation.\n(a) Draw the state diagram and state table for D, T, S-R and J-\nK flip flop.\n(b) Explain the method (steps) which is used to reduce the\nflow tables of completely and incompletely specified\nsequential machines?\nUNIT a\nQ6 What are the race and hazard problems that occur in the (10)\nasynchronous sequential machines*-and how can they be\n4 mitigated through circuit design techniques.\nQ7 Differentiate between Mealy and Moore model machines.\nDraw a state diagram, state table and transition table for a\nsequence 1010 (non-overlap) by using Mealy model.\nWhat is RTL synthesis in VHDL and how is it different from\nbehavioral synthesis? What is the role of simulation tools |"
+  }
+ ]
+}

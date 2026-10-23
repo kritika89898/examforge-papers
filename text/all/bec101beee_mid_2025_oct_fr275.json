@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bec101beee_mid_2025_oct_fr275.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.7,
+   "text": "MID-TERM EXAMINATION\n(Course Name: 8. Tech. (Semester: l)\n(October 2025) OFF LINE mode\nSubject: Basics of Electrical and Electronics Engineering |\n| Subject Code; BEC 101\nMaximum Marks :30 |\n| Time : 1 “Hours : _\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nQi | Attempt all parts. (2.5°4=10) ]\n~~) a) Define Active, Reactive and Apparent Power. Also show them on the Power\nTriangle.\nb) Explain ideal voltage source and real voltage source.\nc) Why power is not directly calculated by Superposition theorem?\nd) A coil having an inductance of SO mH and resistance 20 Q is connected in\nseries with a 35 AF capacitor across a 100 V ac supply. Calculate\n(1) resonance frequency of the Circuit\n(2) current flowing at resonance\n(3) value of Quality Factor.\n/Q2 | Attempt any two parts. (S*2=10)\nobo a) Explain the concept of Resonance in series RLC circuit. Also draw the oe |\nResonance curve.\nb) Find the value of total current and total impedance for the circuit in figure\n2.a\n/ —_—\na. , wa\n\\y h hy J\n» Bowe Fe\na= i103 -j20 | {\nSue -j8.66E\n|\n|\nFigure 2.a\nc) A 20-Q resistor is connected in series with an inductor, a capacitor and an\nammeter across a 25-V variable frequency supply. When the frequency is 200-\nHz, the current is at its\nmaximum value of 0.5 A and the potential difference across\nthe capacitor is 150 V. Calculate R, L and C for the circuit shown in figure 2.c"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 80.7,
+   "text": "AO.SA\n25 V\nFigure 2.c\nQ3 | Attempt any two parts\na) Find Thevenin equivalent circuit for the network shown in Figure. 3.a\n4 wy 2\n[AW <0\nBoy\nvi\n|\n43 Yoo\n~~ — ++\nFigure. 3.a\nc) Using any method, find the value of current and voltage mention in the\nnetwork as shown in figure 3.c\n5\nNWA ~——\nhe\nFigure 3.c"
+  }
+ ]
+}

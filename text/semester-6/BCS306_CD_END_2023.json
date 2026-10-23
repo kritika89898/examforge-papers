@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-6/BCS306_CD_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.6,
+   "text": "(Please write your Enrollment Number)\nEnrollment No.\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech. (CSE/IT), Semester:6\"\n(April -May, 2023)\nSubject Code: BCS 306 | Subject: Compiler Design\nTime : 3 Hours Maximum Marks :60\nNote: Q. i is compulsory. Attempt one question each from the Units 1, U1, WI & IV.\nQi (2.5*8=20)\nWhat is the first phase in Compiler? How a token is recognized, explain with an\nexample?\n) What is left factoring in a Grammar? Remove left factoring from following\ngrammar:\nSPiEtS/ iEtSeS/a\nEb\nJ Eliminate left recursion in the following grammar:\nA> ABd | Aal|a\nB>Be|b\nvi) Define Context Free Grammar (CFG)? Write about Derivation trees and Parse\ntree.\n\\ Define FIRST and FOLLOW functions, explain with an example Grammar.\nWit Discuss about bootstrapping with a neat diagram?\nBI Define Ambiguity? Check whether the grammar S>aAB, A> bC/cd, C>cd,\noe B>c/d, is Ambiguous or not?\nh)\nWhat is the second phase in Compiler? How grammar is useful in second phase?\nUNIT-I\noh Explain in detail about various phases of a compiler with a neat diagram (10)\nand suitable example for each phase?\nQ3 Discuss in detail the uses of Finite automata, Regular expression and its (10)\napplications in lexical analysis with an example?\nUMNIT-II\ncad, Construct LR(O) items and SLR Parsing table for the grammar SDL=R/R, (10)\nL>*R/id, ROL\nQ5 Construct the LALR parse table for the following grammar. (10)\nSaB/aC/Sd/Se\nB>bBc/f\nC3g\nUNIT-III\nQ6\nDefine what Syntax directed\nwith example,\n(i). Bottom-up evaluation of S- attributed Definitions\nova (ii). Bottom-up evaluation of inherited attributes.\ni}\nWrite about differe i\nnt Source Language Issues, and explai\nallocation Strategies? ¥ ta ce\npial\nwe MY\nink \\p a\nUNIT-I\nQ8 Describe and ex i\nPlain about the following with suitable e\nxample:\n(i). Abstract syntax tree and Polish notation fe oe\n(ii). Three Address code\n(iii). Quadruples\nFos a (iv). Triples.\nWhat is code opti\nPrincipal sources\ndefinitions is, and explain about following (10)\n(10)\nmization? Explain\nin details with exa\nof Optimization. ena\n(10)"
+  }
+ ]
+}

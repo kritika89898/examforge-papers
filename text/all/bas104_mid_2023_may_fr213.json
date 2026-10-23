@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bas104_mid_2023_may_fr213.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.1,
+   "text": "a)\nas ae ao — . “ .\n— your Enrollment Number) Enroliment No. O270'72 25232. _\nMID-TERM EXAMINATION\n(Course Name:B.Tech CSE/ECE) (Semester: Second)\n(May, 2023)OFF LINE mode\nSubject Code: BAS-104 Subject: APPLIED PHYSICS-II\nSubject Code: BAS . :\n“Time: 1 YHours Maximum Marks: 30\nNote: Q. 1 is compulsory.\n|| (a) State Gauss’s Law. Derive the differential form of Gauss’s Law.\n(b) In Free space, the electric field is given as\nE = 20 cos[wt — 50x]? V/m\nCalculate (i) Angular frequency, w (ii) Displacement Current, J\nha | (c) Explain Bloch theorem for one dimensional periodic potential. all\n(d) The number density of conduction electrons is equal to 18.1 x 1078m7>i ‘e\n|Q2_ {Attempt any Two Parts )\naluminium. Calculate its Fermi Energy?\nUse: Planck's Constant, A = 6.626 x 10-34 Js\n(a) Using Maxwell's Equations, show that the velocity of EM waves in a dielectric medium will\nalways be less than the velocity of light.\nMass of electron, m, = 9.1 x 10732 kg\n(b) Derive the equation of continuity. Explain how Maxwell corrected and presented the\nAmpere’s law in its generalized form.\nc)A plane electromagnetic wave Propagating in free space has magnetic field\n— k\nB(x, y,z,t) = 8. sin|(x + + we]\nWhere k is the wave number andi, J and & are Cartesian unit vectors in x, y and z directions\nespectively. Find the Electric field E(x, y,z, t).\n(Attempt any Two Parts )\n(a) Discuss the Kronig-Penney model for the motion of electrons ina periodic potential. Explain\nthe formation of allowed and forbidden energy bands using the EF — K Diagram.\n(b) What are Miller Indices? Give their significance. 7\n(i) Draw the crystal planes corresponding to the miller indices (2 20) and (321).\n(ii) Assuming a simple cubic lattice, determine the Miller indices of the plane given below.\n(c) A Bravais lattice is specified by the primitive lattice vectors:\n. See wk}\n@=a% b= =at+—af, C=2ak\nWhere 2, 9 i : '\n-¥ and 2 are the unit vectors along the x, y\n» aNd Z axes respect\n. . cti\nlattice distance. Find the primitive reciprocal latt ~\n. Fy 3\nice vectors a*, Brande ly nd a is the"
+  }
+ ]
+}

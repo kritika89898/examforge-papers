@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-4/BIT202_OS_END_2023.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.1,
+   "text": "(Please write your Enrollment Number) Enrollment No.0 |o0%t T=\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE) (Offline)\nCourse Name: B. Tech CSE, CSE-Al, IT>, Semester:4™\n(April -May, 2023)\nSubj aE ma Svs\n[subject Code: Biv-203 Subject: Operating Systems __ ———\nime :3 Hours Maximum Marks :60\n| Note:Q, 1 is compulsory. Attempt one question each from the Units |, II, Il & WV.\nQl (4*5=20)\nat How does RAID structure guarantee improvement of reliability and performance?\ner When does context switch occur? Describe the actions taken by the OS when a context\nswitch occurs.\na3) When does race condition arise? Can we guard against this condition? How?\nSa How can paging and segmentation be combined together?\nUNIT-I\n92 Consider the following: set of processes with the CPU burst & arrival time\ngiven in milliseconds:\n(10)\nProcess Arrival Time Burst Time Priority\nBa 0 9 3\nP2 1 1 1\nPS 2 2 3\nP4 3 : 4 4\n| PS 4 5 pike\nart & calculate average waiting time & average turnaround\nDraw the Gant\ntime for each of the following scheduling algorithms:\nJz Shortest Job First\nws Shortest Remaining Time First\ni Round Robin (Time Quantum=3ms) scheduling algorithm.\ni Non Preemptive priority scheduling\nsider the following set of processes with the length of CPU burst time (10)\nQ3 Con\ngiven in milliseconds:\n[Process\nArrival Time Burst Time Priority\nPTO"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 82.1,
+   "text": "Dr n r cu he avera\naw the Gantt chart & cal late t ge waiting tim &\n6 a\nturnaround time for the following scheduling algorithms: ia\nc\nsc i) Shortest Job First ii) Sh\nfi ortest Remaining Time First, ili) R j\n, ou {\nQuantum=3ms), iv) Non Preemptive Priority scheduling Ma ~\n— ta UNIT-I\n2 Consider th\n?- . r there are 3 frames allocated to a process and the reference string is. (10)\nson » 2, 1,5, 6, 2, 1, 2, 3, 7, 6, 3, 2, 1, 2, 3, Calculate the number of page faults\nfor the following page replacement algorithms:\n(i) FIFO (ii) LRU (iii) Optimal (iv) LEU. (v) MEU subj\nj »U\nKel Consider there are 4 frames allocated to a Process and the reference string is: (10)\n4 3,.2,1,%, 8, 5,M,'3,%, 1, 5. Calculate the number of page faults for the tim\nfollowing page replacement algorithms: tou\n. on wey.\nHT FIFO Margit ieen gortfu {QMFU P\npy UNIT-IIl\n6 Consider the following snapshot of the system: (10)\nProcess Allocation Max Available ]\nABCD ABCD ABCD\nea :\n) Ex PO 0012 0012 1520\nar 1000 \"1750\nL ee Ik De\nP2 1354 2356\nUae ane |\nP3 0632 | 0652 m\nP4 | 0014 0656\nQ\n2 L |\nGan What is the content of the NEED matrix? © _\nliv’ Is the systemina safe state? Explain.\nhalal the current snapshot of the system, if a request from P11 arrives for (0,\n4, 2, 0), can the request be granted immediately? :\nQ7 Suppose a disk drive has 3000 cylinders (0 to 2999). The drive is currently (10)\nserving a request at cylinder 125 and the previous request was at cylinder\n145. The queue of pending request is 233, 456, 125, 91, 789, 1600, 2345, 13.\nStarting from the current head position, what is the total distance (in\ncylinders) that the disk arm moves to satisfy all the requests?\n1, Elevator 2.LOOK 3.C-SCAN 4. C-LOOK\n- UNIT-IV\nDee What is a directory? What are the different ways of implementing a (10)\ndirectory? Explain the allocation schemes that exist for allocating secondary\nstorage to files.\nQg Write short notes on the following: (10)\n(i) Disk management\n(ii) Free space management\n(iii) Swap space management\n(iv) Disk Structure"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-3/BCS203_DSTR_END_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 85.5,
+   "text": "(Please wri\nrite your En neat QAe02\nroliment Number) Enrollment No.__° J Ao\\l game\nEnd-Term Examination\n(CBCS)(SUBJECTIVE TYPE)(OffLine)\nCourse Name: B.Tech , Semester: 3 Sem.\n(December, 2024)\nSubject Code: BCs 203\nTime :3 Hours\nSubject: Discrete Structures\nMaximum Marks : 60\nNote: i\nQlis compulsory. Attempt one question each from the Units |, Il, Ill & IV.\nL—————— rae)\na) Identify the nature of the proposition S, whether it is Tautology/\nContingency/ Contradiction.\nS: ((PAQ)>R)>((PAQ)>(Q>R))\n*| b) Draw the Hasse Diagram of the following: Dyos, and D72 —\n| ¢) Prove that group G is an Abelian group if and only if (ab)! = a~1b1,\nVab eG.\nd) The chromatic number of the following graph is\nFig\\b)\nUNIT | \\ 5\nQ2 a) Letp,q,r,s represent the following propositions.\np: x€{8,9,10,11,12}\nq: x is a composite number\nr: X is a perfect square\ns: x is a prime number\nThe integer x22 which satisfies: -((9=>q)A(-rV-s)) is ;\nb) The binary operator # is defined by the following truth table.\nIdentify the nature of the binary operator #, whether it is associative,\ncommutative, or both?\na) Translate the following into propositional logic: i) not all rainy days are\ncold ii) None of my friends are perfect. Note: Where the variables ares\nrainy(x), cold(x), f(x): friend, p(x): perfect."
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.7,
+   "text": "b) Identi\nntif TOPE\n\" y the following Boolean expressions which is/are NOT tautology?\nhia — PSS 1 ; -_ tS we UEQSO\nj Ka +b) A(b + c)) —> (a ~ €) ates\no. ak ye ij ;\nai tbc) 9 (~ b+ (a Ac) |\nvv. (cr PAN L fi «) > {cu Vv a)\nDa->(b >a)\na) Using the princi an :\nSho P nciple of mathematical induction, (5+5)\nw that 22”- 1 is divisible by 3.\nb) Find the total number of relation on a set R wit\nantisymmetric but not reflexive.\nQs a) Prove that the relation congruence\nis an equivalence relation.\nb) Explain the following Sets wit\nd) Uncountable.\nhnelements which is\nmodulo m on the set Z of all integers\nh example: a) Finite b) Infinite, c) Countable |\nUNIT Ill\n(5+5) |\nintegers 211 with addition and\na) Define a Field. Prove that the set of\nmultiplication is a Field.\nb) State and prove Lagrange’s theor\nQ6\nem for finite groups.\n(5+5)\nme order p is cyclic.\nnumbers and * be the binary\n: ¥\nQ7 a) Prove that a group of pri\nb) Let G be the set of all positive rational\ndas\noperation on G define\nateb= @ ,Va,b €G. Prove that (G,*) be an abelian group:\nUNIT IV\n© Euler’s formula for connected planar graphs: V-E+R= 2,\nertices, edges, and region, respectively-\n-weight spanning trees in the following\nQs } a) State and prov\nwhere V, E, and F represent v\nb) The number of distinct minimum\ngrapn is\n3\nx a,\nrected simple graph in which each edge has a distinct |\narticular edge of G. Which of the following statements\ning trees (MSTs) of G is/are TRUE?\nsome cycle in G, then every MST of G includes\n/Q9 a) G=(V,E)isan undi\nweight, and e is a p\nabout the minimum spann\n|. If eis the lightest edge of\ne.\nIl. Ife ist\nexcludes e.\nb) Prove that: Any planar\ncolors such that no two a\nhe heaviest edge of some cycle in G, then every MST of G\nd using at most five\ngraph can be colore\nare the same color.\ndjacent vertices sh"
+  }
+ ]
+}

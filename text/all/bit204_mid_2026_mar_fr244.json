@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bit204_mid_2026_mar_fr244.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 87.9,
+   "text": "cYWhat is the use of static member variable in OOP? Explain with co2\nsuitable example.\nees\nEnrollment No. (Lee leh oy?\nMID-TERM EXAMINATION\n(Please write your Enrollment Number)\n(Programme: B. Tech. AI&ML / IT) (Semester: Ii)\n(March 2026) OFF LINE mode\nSubject Code: BIT 102 Subject: Object Oriented Programming\nMaximum Marks :30\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\n4) Differentiate between Reference and Pointer in C++ with\nsuitable examples.\nb) Consider the following code:\n#include<iostream>\nusing namespace std;\nint main(){\nint a[S] = {7,5,76,9,54};\nint *p;\np=a;\ncout<<*p<<endi;\ncout<<*p++<<endl;\ncout<<*(++p);\n}\nWhat is the output of the above program?\nd) Consider the following code:\n#include <iostream>\nusing namespace std;\nclass A{\npublic:\nA() { cout << “Constructor\\n\"; }\n~A() { cout << “Destructor\\n\"; }\n};\nint main() {\nAobj1;\n{\nA obj2;\n}\nreturn 0;\n}\nWhat is the output of the above program? Also explain the steps\nof execution.\n————————"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.3,
+   "text": "co oes\nUNIT!\n(G2 [Attemptanytwoparts any two parts\na) Are Encapsulation and Data Abstraction the same concepts in |\nFerman |\nby What is the use of inline function in C++? How |s it different from col\na function with default arguments? Explain with suitable\nexamples.\nc) Write a C++ program to print whether a given number ‘ | ae |\npalindrome or not.\nUNIT Il eo CO Mapping\na) Write a C++ program to overload the unary increment operator cO2\n|\nb) What is a constructor? Differentiate between default and CcO2\nID ewrnecet smarucer hate ean, amet || cl\nc) Write a C++ program to implement a class EMPLOYEE having the cO2\nfollowing members:\n1. Member variables:\ne Name of employee\ne Salary\ne Static variable to count total number of employees\n2. Member functions:\n® assign() —to assign employee details\ne display() — to display employee details\ne showCount() - to display total number of employees\nUse appropriate access specifiers and data types to justify the\noutput of the program."
+  }
+ ]
+}

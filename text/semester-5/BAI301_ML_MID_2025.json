@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-5/BAI301_ML_MID_2025.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 81.5,
+   "text": "(Please write your Enrollment Number) Enrollment No \\ 4 |\nMID-TERM EXAMINATION\nCourse Name: B, Tech, Semester: 5\n(October, 2025) OFF LINE mode\nSubject Code: BAI 301 Learning |\nerr Subject Machine Learning |\nie a lala lla sinha aximum Marks :30 |\nNote: Q1 is compulsory. Attempt any two parts of Q2 and O3\n1 i ( TT\n= | seal (2.5*4=10) | co Mapping |\na) What are Data Visualization techniques? col |\nb) Explain the concept of K-Fold Cross Validation using |\nie asteichiiacl - os\njoa COL\nexample. |\n—— 3 |\n(ie Ae\nc) Differentiate between Ridge Regression and LASSO co2 |\nRegression.\na) Explain the working principle of Support Vector a co2\nMachines. How do kernels help in handling non-linear\nt data?\nCO Mapping |\nme UNIT | ¢\nQ2 | Attempt any two parts (5*2=10) co1\n| a) A binary classification model is evaluated ona test set of |\n190 samples. The confusion matrix obtained from the {\nmodel's predictions is as follows: \\\n| P Predicted Positive | Predicted Negative\nActual Positive 80 20 |\n| Actual Negative 15 55 |\n(i) Construct the confusion matrix and label its\ncomponents (True Positives, True Negatives, False\nPositives, and False Negatives).\n(ii) Calculate the following metrics for the model:\ne Accuracy\ne Precision |\n«Recall\n* Fi Score\nb) Explain the importance of data cleaning and integration in\nmachine learning. What are the common techniques used for\n?\nhandling missing or inconsistent data eae ls\ni ith a total dataset of N=25,000\nc) A researcher is working W\ngeological samples.\n© Scanned with OKEN Scanner"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 77.2,
+   "text": "(i) 5-Fold Cross Validation\n(ii) Stratified 5-Fold Cross Validation\nCalculate how many samples will be in the training and testing\nsets for each fold. KS\n_ UNIT Nn CO Mapping |\nQ3 Attempt any two yparts (5*2=10) .\nm a) Explain Decision Tree Learning with a neat diagram. ~\nDiscuss its advantages and limitations. \\\n| b) ‘The following dataset shows the ud hours of students a\n‘Student Study Hours (Grade\na ts gee 2 |l0 |\nfoe\na ee —\npm\n4 bs is F) a |\nGel\n| Classify a new student who studies for 5 hours using the\nKNN algorithm with k=3. Use Euclidean distance and 4\nshow all steps. -\nc) Given a dataset with two features (X1 and X2) anda\nbinary classification Label (A or B).\nJ ‘pat a\neo we X1 le Laber|\nPoint\nrae bee bee hae\nwoo\nPa 4\nUse the KNN algorithm with K=3 and the Euclidean Distance\nmetric to classify a new data point Phew at coordinates (5,5).\n'@ 3 Scanned with OKEN Scanner"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/semester-4/BCS204_DAA_MID_2024.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 79.8,
+   "text": "= \" SS\nitment No. i) th esie\n(Please write your Enrollment Nurnber) Enro\nMID-TERM EXAMINATION re\n(B. Tech. CSE/CSE-AI/AI&ML/Reppear y (Semester : 4°\")\n(March, 2024) OFF LINE mode\nSe oraigoranms |\n—— —-— Se ect and Analysis ———\nSeeman a rer . Py | na\nTime = 1 “Hours TS\n| Note: Attempt all questions\nLat | Attempt all parts\n“ay Solve ‘T(n) = T(n'/*) +T(n\n; in c i : j iptication, Assume\n(a)-A ssume that n is a power of 3 in case of Strassen’s Matrix Multiptication, Asst\nthat there is a way 0 multiply 2 matrices of size 3 * 3 with 25 scalar multiplications\nand 50 scalar additions. What is the complexity ofa recursive algorithin that ts based\n2/3) + log3n\non this method?\nGiven 10 activities along with their start and finish time as :\nonapute a schedule where the largest number of activities takes place.\nuffman encoding of N symbols with frequencies f;, fa, fa:\nd possibly be? Justify your answer,\n2-(Attempt any Two Parts ) UNIT-1 {5,5}\n(ay Prove that, if T(N) = xT (~) + N? where x> 1,y 2>landz>\nrecurrence is as follow\n0 then the solution to the\n(O(N'?8y “ ,x> y*\nT(N) ci 0(N7 logy N) my\nO(N?) (em Ye\nLZ —— re\nLéi an array A[1:N] having integer variables only. A{1: NJ is said to have a majority\nelement if more than half of its entries are the same. The task is to design an efficier\nalgorithm with asymptotic complexity of O(N log N) using divide and conquer strategy t\ntell whether the array has a majority element, and, if so, to find that clement.\n(c) Consider a modified binary search algorithm so that it splits the input not into two sets o\nalmost equal sizes, but into three sets of sizes approximately one third. Write th\nalgorithm and find the asymptotic com lexity of this algorithm.\n—\n(5,5)\n| (Attempt any Two Parts ) UNIT-2\nllowing instance of the knapsack problem for the\n(ay State Knapsack problem and solve the fo\ncapacity = 30.\noe i\n| Profit 60 40 {20 | 50 10 5{ 30 2\n. Weight 30 I | iQ 8 100 8\n(b) Find an optima! parenthesis of a matrix chain product whose sequence of dimensions is:\n__(A=2x3, B =3x4, C=4x5, D=5x6, E=6x7)\n(2¥ Write an algorithm to find longest common subsequence (LCS) and then determine LCS of"
+  }
+ ]
+}

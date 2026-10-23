@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai416_mid_2025_mar_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 88.8,
+   "text": "MID-TERM EXAMINATION\n(Course Name: B. Tech.ECE Al) (Semester: 8)\n(March 2025) OFF LINE mode\nSubject Code: BAI 416 Subject: Al in Healthcare\nTime : 1 “Hours Maximum Marks :30\nNote:Q1 is compulsory. Attempt any twoparts of Q2 and Q3\ni | a) Define Al in healthcare and discuss its historical evolution. a |2 oo\nb) What are the key milestones in Al development for healthcare\napplications? ;\nc) Discuss the limitations and challenges faced in implementing Al Ce]\noo ||\nae a\nCcO3\na\nCie]\nin healthcare.\nhic and demographic variations impact Al-\nd) How do geograp\nbased healthcare solutions?\n| a2 | Attempt any two parts\na) Discuss the advantages and challenges associated with\nobservational medical data.\nb) Differentiate between time series and non-time series data in\nmedical applications\nc) Explain the process of data enrichment and its importance in\nhealthcare Al.\n08 | Attempt any two parts\na) Whatis a Clinical Decision Support System (CDSS), and how does\nAl enhance its functionality?\nb) Explain how disease detection is performed using tabular\nmedical data.\nc) What are the ethical considerations in Al-based clinical decision\nsupport systems?"
+  }
+ ]
+}

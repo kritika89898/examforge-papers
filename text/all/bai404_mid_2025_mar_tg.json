@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bai404_mid_2025_mar_tg.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 93.4,
+   "text": "MID-TERM EXAMINATION\n(Course Name: B. Tech.) (Semester: 8'\")\n(March, 2025) OFF LINE mode\nSubject Code: BAI-404 Subject: Social Media Analytics\nTime : 1 “Hours Maximum Marks : 30\nNote: Q. 1 is compulsory.\nCc (a) Explain the purpose of nodes, ties, and influencers in social networks.| UNIT-1\n(c) How does clickstream analysis help’s to understand user behavior on UNIT-2\nwebsites? Provide examples of metrics that are regularly examined\nusing clickstream data.\n(d) What is link analysis in the context of social media analytics, and how UNIT-2\ndoes it support in identifying links between entities in a network?\n(b) Describe the function of graphs and matrices in interpreting social UNIT-1\nnetwork data. Give instances of basic metrics used on persons and\nnetworks.\nCO2\n| Q2 \\Attempt any Two Parts) UNIT-1 (CO:) _ (5,5) |\n(a) Identify future trends and improvements in Social Media Analytics.\nHow do emerging technologies like artificial intelligence and machine learning affect the\ndevelopment and implementation of SMA methodologies?\n(b) Describe the significance of information visualization techniques in SMA.\nHow do visual representations like node-link diagrams and heatmaps help with analyzing\nand understanding of complex social media data?\n(c) How can Social Media Analytics (SMA) turn raw social media data into actionable\ninsights? How does this method influence organizational decision-making?\n| Q3 | (Attempt any Two Parts) _UNIT-2 (CO2)\n(a) Explain the importance of random graphs in modeling network evolution.\nHow can random graphs help us understand the structure and dynamics of social\nnetworks over time? Provide real-world examples of the use of random graphs in social\nmedia analytics.\nDiscuss the use of online surveys in web analytics. How are online surveys planned, —\nimplemented, and analyzed to collect user input and insights?\nGive scenarios of how online surveys are used to improve website performance and\nusability.\nExplain an overview of NLP techniques for micro-text analysis in social media analytics.\nHow does NLP algorithms extract information from short-form text data, such as social\nmedia postings and comments?"
+  }
+ ]
+}

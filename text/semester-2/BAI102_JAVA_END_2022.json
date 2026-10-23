@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/semester-2/BAI102_JAVA_END_2022.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 93.6,
+   "text": "END TERM EXAMINATION\n(CBCS)(SUBJECTIVE TYPE)\nB. Tech (CSAI) , 2\"? Semester\n(AUGUST, 2022)\nTime :3 Hours Maximum Marks :60\nNote:Q. 1 is compulsory. Attempt one question each from the Units 1, Hl, WN & IV.\n(a)\nGive the output of the following code\npublic class XYZ{\npublic static void main(){\nString s1 = “abc”;\nString s2 = “def”;\nString s3 = s2;\nSystem.out. printIn(s1+s2+s3);\n}\n~Write a function to print Floyd’s triangle.\n1\n23\n456\n78910 —\n{b) Create a class Shapes (color, area), Derive in class Circle (radius) and\nSquare (side). Create 2 covsiructors in each class to initialize the\nvariables to 1) initial values and 2)juser entered values. Show\nconstructor chaining within the same class and in different classes.\nfc) Declare an interface INTER_A with a method area(Double d).\nimplement the same for finding the area of a circle anda square using\n2 different classes. Print the areas.\nExplain the various access modifiers used in Java. What is a package\nand what is its use in Java?\nExplain how java is a Robust and architecture neutral language?Write a\nprogram to print the Fibonacci series {0 1 1 235 2 13 21...) till ‘n’ numbers\nusing 1) recursion and 2) iteration. Which is a better method and why?\nDifferentiate between a class variable, instance variable and local variable.\nWAP to create a class Students having RollNo, Name, Stream, Address. Use\nclass variables to automatically assign unique roll nos whenever a new\nstudent object is instantiated. Create the records for 3 students by reading\nthe details from the user and print them. Find out the class/instance/local\nvariables in your program.\nDifferentiate between early binding and late binding. Create a super class\nVehicle( Company, color, price, readV(), print()), derive classes 1) Cars( Name,\nModel, readC(), print()) and 2) Bike( Name, readB(), print()). Override the print\nfunctions of derived classes to print the details of 2-2 objects of Car and Bike\ntype each.\nWhat are the various forms of inheritance in Java? Explain each with example.\nWhy is multiple inheritance not allowed in java? Give example. How can it be\nimplemented in java? Give example"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 94.9,
+   "text": "UNIT-III\nWhat are the two ways to use Checked Exceptions in java? WAP to read 5\nintegers in an array. Print the max and min in the array. Write a single try\nblock that can handle ArrayOutOfBoundsException and a\nNegativeNumberException (User defined exception that should be thrown if a\nnegative number is entered in the array). Write a finally block to print the\narray contents along with maximum and minimum elements.\nWhat is serialization and deserialization? WAP to create a class Employee with\nEmpNo, Name, Designation and Salary. Create an array of 10 objects of type\nEmployee. Read the details from keyboard and store them in a file. Also, read\nthe details from the same file and print them on the screen.\nQ7\nExplain different stages in the life cycle of a thread. WAP to calculate the\naverage of 1000 integers stored in an array using 4 thread running in parallel.\nPrint the final result.\nWhat are the different stages in the life cycle of an applet? Create an applet\nthat has 1) A greeting message “Hello all at IGDTUW”, 2) Label Name,\nfollowed by text field to enter it, 3) Label Phone, followed by text field to read\nmobile no, 4) Submit button that prints “thank You” when pressed."
+  }
+ ]
+}

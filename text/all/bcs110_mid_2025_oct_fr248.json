@@ -1,0 +1,12 @@
+{
+ "file_path": "papers/all/bcs110_mid_2025_oct_fr248.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 83.3,
+   "text": "MID-TERM EXAMINATION\n(Course Name B,Tech,, Semester: - 1\")\n(October 2025) OFF LINE mode\nTime :1 Hours _ Maximum Marks :30\neppless Code: BCS 101 — 4j——— a ; ae Subject: Programming with C |\nNote: Q1 is compulsory. Attempt any two parts of Q2 and Q3\nQa (2.5*4=10) | CO Mappin;\na) Explain the concept of type conversion and type casting with col\n_examples.\nb) Write an expression to find smallest between two numbers co1\nusing ternary operator.\n¢) Write a program to print even numbers from 1 to 15 using a co2\nwhile loop.\ni | d) What is the purpose of the break statement? ee | coz\nUNIT ee\nAttempt any two parts (5*2= | (5*2=10) |\na) Compare relational operators and logical operators with co1\nexamples.\nb) Analyze the following C expression and explain the order of coi\nexecution based on operator precedence:\ninta=13/3+4*5-7%3;\nPrintf(\"%d\", a);\neo verators wich camels umes al | |S?\noperators with examples\nRE Ll ‘i‘é‘aié‘i‘iéiéi‘i(;é‘sét rx; Ti ——————£=£=E:E&K___»» _‘ _ ‘(Url lll CO Mappin\n| Q3 | Attempt any two parts\na) Write a C program to print sum of all elements of a matrix of\nsize 3x3 using two-dimensional arrays.\nb) Consider the following C program and explain the output:\n#include <stdio.h>\nint main() {\nint sum = O, i;\nfor (i = 1; i <= 7; i++) {\nif (i % 3 == 0) continue;\nsum+ = i;\n}\nprintf(\"Sum = %d\", sum);\nreturn O;\n}\nc) Write a C program to find the length of a string without using\nlibrary function strlen().\nco2\nco2\nco2"
+  }
+ ]
+}

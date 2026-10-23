@@ -1,0 +1,19 @@
+{
+ "file_path": "papers/all/bas203_end_2024_dec_fr223.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 65.3,
+   "text": "9320\\19)°3\n. me PNY\n(Please write your Enro Mber) Enrollment No:\n(Cou, End-Term Examination\nSe Name: B.Tech, CSE/IT/CSE-Al/Al-ML)\n(Semester: 3\") OFFLINE mode\n(December, 2024)\n——————— ? ; ee cee srical Methods\n[Subject Code: BAS 203 | Subject Name: Num ee TT wail\n————— Se Ee ———— Maximum Marks: 60\nTime: 3 hours aa Pos dealt a\n————————— ——— Sie j ——\nNote: Q1 is compulsory. Attem\nWed in the exam.\n—*\nQt |(Attempt al arts) ————=———— atest ~— (2.5\"8=20) CO”\n| QL | (Attempt all the parts.) | i,\n|\ncomes)\n' SHR : = :\n, A ; i ts n,4-bits\na. Represent (- 96), in floating point representation with 8-bits.(1-bit for en ed\n= = i roximate\nfor exponent, 3-bits for mantissa). If the number Tt = 4 pm *\nusing five decimal digits, find the percentage relative error due\nrounding, __ a bs \"\n——_* es\n| ing the method\nsD Compute one real of e\" — 3x = (correct to two decimal places using t |\nof bisection,\nC | 3\n= Sree cel ae\nLegendre 3-points formula.\nae x - aeaaere with partial 3\n| ¢ Solve the system of equations using the Gauss Elimination method Pp\npivoting. 2x, +3y =8; 4x, +7x, =19. | |\n| e. |The following table gives the measured output voltage (y) of an electronic a\n' raight-li |\naS a function of the applied input vo tage (x) _ Find the least-squares straight-line fit |\nfor the given data: ; ae ] |\n[03 |04 105 06 |07\n| _xinv Jo2 03\nre \" ii 030 | 036 | 0.39\n0.16 | 0.21 0.23\neS\nf. Find the function g(x) whose first difference is x° + 4x” + 9x +12. Also, compute\nits successive differences in factorial notation.\n7 dy/dx =x—y? with y(l)= 2. | ) |\nh. Using Pleatd’s method find first approximate values of vy and z Siesponding \" 5 |\na Jdyaxtz ldv=x-y\".\nx = 0.1 given that y(0)=2, 2(0)=1and dy |dx =x+z and dz; y | |"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 65.3,
+   "text": "lk ie on ee q\nDescribe the\nd,\nF process of th the fixed-p Point iteration Methog ve .. tn! an\n> Tre 0 ' a\nernie the real root of the equation cos(x)- 2» 4 2. q Usi tery\n4. LSOTKeCt to three decimal Places, Rhi' i\n— F ive\nQ3 Find the | approximate value fort the real root of x logigx = Ty rect 60 fi\n‘ Mecimal Places using the Newton-Raphson method ie a\nSPR tid $i atin in\n| UNIT-2 — | Mapping\na —T 3\ntxnlain tha a eINAIE cuchant Af ee eee oe\nQ4 [Explain the diagonally dominant system of equations Find the solun ato the system} 10\n6x; — xX, +2x, =2 eu\nX1 + 5X2 +x, = 10\n2x, +x +7x, = ~3 =—\n= _by Using the Gauss- “Seidel method upto five iterations, 10. | 3\nQ5 Determine pe smallest eigenvalue and the: corresponding ¢ eigenvector of th +he atin] :\n. :\n: Considering the initial eigenvector Y) = [lua],\n: ; oa\nSS ae Cc\naa UNIT-3 - Mapping |\n= —_—______ ———— — mene eT 4\n. a\nQ6 Findthe polynomial of the lowest possible degree, which takes the valyos as follows:\nx 3 2 1\nf(x) — |\nAlso, calculate the Plies ), F(4) and F(5 ): an =\n————— T S\n0)\nQ7 Derive the Newton. -cote’s quadrature la using Lagrange’s interpolation 1\nmethod. Evaluate the value of the integral lg ai by Simpson’s. \"1/3\" rule and |\nSimpson's '3/8' rule.\nco\nUNIT-4 | Mapping |\nst ial equation dy/dx =x+y, with 10 | 5\nQ8 Apply Euler’s method to the ordinary differential equation dy/dt =x+y, wi\neat. Je*|\nion i =-l1—) Le y\ny(0)= | using increments of size h = 0.2. If the exact solution is y=gl-x+ |\nthen determine the error and percentage error at each step.\n—_—_—_—\ntee\n|Q9 [Use the Taylor series method to compute the values of y(0.1) and i Se ;\nVee ey ith y(0)=O0an\n| following system: dy/dx=1+x and dt/dx=y ren with | |\n(0) = 0. Compute only the first five terms of the Taylor series. |\n2"
+  }
+ ]
+}

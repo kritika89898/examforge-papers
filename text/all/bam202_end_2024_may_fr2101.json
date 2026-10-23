@@ -1,0 +1,26 @@
+{
+ "file_path": "papers/all/bam202_end_2024_may_fr2101.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 86.0,
+   "text": "8=20\n2) Suppose a hospital by; n classification algorithm to classify |\nwhether a Patient has cance moet ae lab values. Here, the class ‘Yes\nindicates that a Person has ca “ed oF the class ‘No’ indicates that they do not\nthe se cs ves’ is the”class of interest. Here Ts the\nCancer detestion model.\nUnder some strong 8ssumptions, one can imagine that a delayed cancer diagnosi\nS# mote severe disease). In contrast a false |\n— 6. Cost and potentially anxiety. Weighing these\nfo outcomes, oné may conclide that in this case the Fost of false negatives is\nmuch higher than the cost of false POsitives, Releet 7 padadte\nCompute the misclassification cost for the above model, assuming that the cost of\nmisclassifying an actual cancer patient is <1 000\nand that for a non-cancer patient\nm the population. What is the Probability that the\nches but shorter than 69.5 inches?\nith reference to logistic regression, if you will travel along with ROC curve,\nhow cutoff value will chang €? Explain?\nhypothetical split in a tree has resulted in two children, one with 10\nCA hot (8 being “Hi Risk” and 2 being “Low Risk\") and the other with 20\nobservations (15 being “Low Risk” and S being “Hi Risk”). What is the goodness\nof this hypothetical split? Use accuracy as the metric for goadness of each node.\nDiscuss the impact of choosing different initial centroid positions on the\nconye i :\nPlications for Machine learning\n‘asks, reduction techniques mitig ate this issue?\nwZ)A boosted strong learner L is formed by three weak learners, L1,12, and 3.\nTheir weights are 1, 0.4, and 1.2, respectively. For a Particular po int, Ll and 2"
+  },
+  {
+   "page": 2,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 77.6,
+   "text": "] predict that its label is positive *\"~ “° Predicts that it’s negative:\nPredict that its label is Pooks ON this voint? rie Whats\n* arne :\nfinal on meee e between hard ang soft voting classifiers?\niS\n(a)Discuss common statistical Me2SUFES Used for data exploration, such as\nMean, median, standard deviation, and Correlation coefficient. How are\nthey used to understand the characteristics of 3 dataset?\n(b) Discuss the trade-offs between feature extraction and feature\nreduction techniques. How do they impact model interpretability and\ncomputational efficiency?\n(a)Describe the concept of feature extraction versus feature selection in\ndimensionality red\nuction, Provide examples of techniques for each\n@Pproach,\n(b) Describe k-Foig Cross Validation and its advantages over a simple\ntrain-t\nlit\nEst Split. How does it address the limitations of a single train-test\n?\nPatients who have tested Positive or negative for COVID-19\nfollows, Their sym\nptoms are cough (C), fever (F), difficulty breathing (B),\nand tiredness (T),\nTabel-1\nCough (C)\nDifficulty\nreathing\nf) (B) ie ds:\nPatan fo ps aes\n|Patient2 [yes | no Tes <7 | Sick]\n| Patient 3 | yes - Cs a eC\nparents Tyee 7 fyes yes po Tick J\nPatientS [yes *|no yes Healthy\njPatient6 [no yes yes]\nwt\nBuild a naive Bayes model that predicts the dia\n—— nosis from the symptoms,\nUse the naive Bayes algorithm to find the follo\nwing Probabilities.\nNote: For the following questions, the symptoms that are NO mentioned\nare completely unknown ta.us. For €xample, if we know that the patient\nhas a cough, but nothing is said about their fever, jt does not mean the\n-_——_\npatient doesn’t have a fever.\n—_ EE\na. The probability that a patient is Sk given that the Patient has a cough\nb. The probability that a patient is “k given thar the patient is not tired"
+  },
+  {
+   "page": 3,
+   "method": "ocr",
+   "rotated": 0,
+   "confidence": 76.5,
+   "text": "Q7\nity?\nP4(3,3), PS(3,4), P6(4,2), P7(4,3)\nFations of\n|\nNthe following\n+9), P3(3 2)\nCo ll iteratio ° k-means Clustering for K=2 with initial Clusters\nCen = (2,3) and 9. (3, 4),\nM Write down the N€cessary distances (Euclidean distance),\ni Steps you follow, ang to describe the resulting clusters\n(centroig and Points) at the End of each iteration,\n(b) Discuss the Challenges ®5S0ciateg with unsupervised learning\nCOMpared to SUPerviseg learning How does the absence of labeled data\naffect Mode} training ang valuation?\n(a)Describe the purpo of dime ‘ality reduction techniques in\nMachine learning. How do they hel\ninterpretabiyi\n(b)é\na\n) Su se a\nConcept of explained vari\nne the\nD-19, indicating whether\na ited vom the table provided\nT sym + IS derived\never (F), difficulty\nand Ptoms are cough (C), fever {\nedness\nNdex ae fheight1 that -\ni + builg 3 decision tree o I\n3ENosis) this data\n.\nracy of this classifier o\n* What is the accu\nSet of Points.\n‘Sty\nPin improving mode} Performance and\nlance ratio in PCA, How can it be\nnumber of incipal components to retain?\nN"
+  }
+ ]
+}
