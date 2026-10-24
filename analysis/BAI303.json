@@ -1,0 +1,25 @@
+{"code":"BAI 303","name":"Cyber Security",
+"topics":[
+["Security Fundamentals: CIA Triad, Threats and Attack Types",["What is the CIA triad? Explain the goals of cyber security and the classification of security threats.","Differentiate between active and passive attacks; explain vulnerabilities and insider threats with an example."]],
+["Malware: Viruses, Worms, Rootkits, Backdoors, Ransomware",["Explain the different types of malware (worms, ransomware, backdoors) with their attack methods, impact and defences.","Discuss the functioning of rootkits and their types, and suggest defensive mechanisms; differentiate viruses and worms."]],
+["Advanced Persistent Threats and the Cyber Attack Lifecycle",["What is an Advanced Persistent Threat? Explain its characteristics, working cycle and defence mechanisms.","Explain the cyber attack lifecycle and the role of reconnaissance (email harvesting, port scanning, vulnerability scanning)."]],
+["DoS/DDoS, Session Hijacking, MITM and Spoofing",["Explain the levels of denial-of-service attacks, the difference between DoS and DDoS, and their countermeasures.","Describe session hijacking, man-in-the-middle and ARP spoofing attacks and their prevention."]],
+["Phishing and Social Engineering",["Discuss the types of phishing (spear phishing, whaling, pharming, smishing, vishing) and prevention techniques.","Analyse a phishing case: the attack chain, credential harvesting and long-term defences; explain social engineering."]],
+["Password Attacks, Identity Theft and Financial Fraud",["Explain the types of password attacks (including rainbow tables) and countermeasures; differentiate password guessing and cracking.","What is identity theft? Discuss its methods, impact and prevention; explain credit card skimming and digital payment fraud."]],
+["Cyber Crime, Cyber Terrorism and the Dark Web",["What is cyber crime? Classify cyber crimes and compare cyber warfare, cyber terrorism and hacktivism.","Explain the architecture of the dark web: Tor anonymity, onion routing and exit nodes, and how criminals use them."]],
+["Cryptography: Symmetric and Asymmetric Encryption",["Differentiate between symmetric and asymmetric key encryption with examples; explain DES and RSA.","Encrypt the given text using a transposition cipher with the given key."]],
+["Hash Functions, MAC and Digital Signatures",["What are hash functions? Explain their properties and the role of SHA (vs MD5) in integrity and digital signatures.","Explain message authentication codes, their properties and limitations, and the birthday attack."]],
+["Secure Protocols: SSL/TLS, IPSec, SSH and VPN",["Explain SSL/TLS, its handshake and how it secures e-commerce; compare SSL/TLS, IPSec and SSH.","What is a VPN and its types? Explain proxy servers and SSH tunnels."]],
+["Wireless, Mobile, Cloud and Social Network Security",["Explain Wi-Fi security, the significance of SSID and measures for secure Wi-Fi; discuss security in laptops and smartphones.","What are the security challenges in cloud services and social networking sites? Discuss M-commerce security issues."]],
+["Defence Models, Access Control, Risk Management and Cyber Law",["Compare the lollipop and onion models of defence; explain access control, NAC and intrusion detection.","Explain risk management, ISO 27001 vs NIST CSF, and the key provisions of the Indian IT Act."]]
+],
+"papers":{
+"papers/semester-5/BAI303_CS_END_2022.pdf":{"1":10,"2":10,"3":2.5,"4":12.5,"5":2.5,"7":10,"8":10,"9":2.5,"10":20},
+"papers/semester-5/BAI303_CS_MID_2022.pdf":{"0":2.5,"3":7.5,"5":12.5,"6":2.5,"9":5,"10":5},
+"papers/semester-5/BAI303_CS_END_2023.pdf":{"3":10,"4":2.5,"5":2.5,"6":10,"8":2.5,"11":10},
+"papers/semester-5/BAI303_CS_MID_2023.pdf":{"0":5,"1":5,"3":5,"7":5,"8":5,"9":5,"10":5},
+"papers/semester-5/BAI303_CS_END_2024.pdf":{"0":15,"1":10,"4":10,"5":10,"6":10,"8":10,"9":10,"11":20},
+"papers/semester-5/BAI303_CS_MID_2024.pdf":{"0":2.5,"2":5,"3":5,"4":2.5,"7":10,"8":5},
+"papers/semester-5/BAI303_CS_END_2025.pdf":{"3":8,"4":10,"5":4,"6":10,"7":4,"8":10,"9":10,"10":20,"11":24},
+"papers/semester-5/BAI303_CS_MID_2025.pdf":{"0":5,"1":5,"2":10,"3":5,"5":2.5,"6":5,"10":7.5}
+}}

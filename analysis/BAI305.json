@@ -1,0 +1,26 @@
+{"code":"BAI 305","name":"Deep Learning I",
+"topics":[
+["McCulloch–Pitts Neuron and Thresholding Logic",["Explain the MP-neuron model with its thresholding function, advantages and limitations; implement AND, OR and NOT with MP units.","For the given MP-neuron with threshold, find the outputs for the given input vectors and draw its architecture."]],
+["Perceptron and the Perceptron Learning Algorithm",["Describe the perceptron learning algorithm and prove its convergence. Why are there separate weight-update rules for positive and negative samples?","Differentiate between the MP-neuron and the perceptron; why do both fail on non-linearly separable functions?"]],
+["Linear Separability and Single vs Multi-Layer Networks",["Explain linearly separable and non-linear data with diagrams, and how non-linear data can be transformed.","Is a single hidden layer sufficient to represent all Boolean functions? Why do we use multi-layer networks? Explain the MLP architecture."]],
+["Gradient Descent on a Sigmoid Neuron",["For the given sigmoid neuron with initial weights, bias and learning rate, compute the weights after two iterations of gradient descent on the given samples.","Explain gradient descent; what is the sign of the slope at the given points on the loss curve and how does the update change?"]],
+["Forward Pass and Backpropagation",["For the given network with initial weights and biases, compute the forward-pass output and the updated weights after one backpropagation step.","Draw the computational graph for the given expression and find all partial derivatives."]],
+["Activation Functions",["Compare ReLU, sigmoid and tanh (and softmax), and explain when each is preferred; compute softmax for the given outputs.","Why are activation functions needed in hidden layers? Justify 'ReLU suits CNNs while tanh suits RNNs'."]],
+["Loss Functions",["Explain at least three loss functions with equations; compute cross-entropy loss and MAE for the given predictions.","Explain how loss is computed in logistic regression as the basic unit of a neural network."]],
+["Overfitting, Regularization, Dropout and Data Augmentation",["Explain overfitting and underfitting using learning curves and the bias–variance trade-off; how do you recover from each?","Differentiate L1 and L2 regularization; explain dropout and data augmentation for numeric, image and text data."]],
+["Weight Initialization, Batch Normalization and Hyperparameter Tuning",["Is initializing all weights to zero a wise decision? Explain weight initialization techniques and batch normalization.","Explain hyperparameter tuning with a concrete example and the feature scaling techniques for numeric data."]],
+["Recurrent Neural Networks and BPTT",["Explain RNNs with all equations, the role of hidden states, and backpropagation through time.","What are the application areas of RNNs and how do they differ from feedforward networks? Explain RNN for named entity recognition."]],
+["LSTM and GRU",["Explain the architecture of LSTM with its gates and equations, and how it differs from a standard RNN.","Explain GRU and how it differs from LSTM."]],
+["Convolutional Neural Networks: Convolution, Pooling and Parameters",["Perform the convolution of the given image with the given filter for the stated padding and stride.","For the given CNN configuration, find the output feature-map sizes after each layer and the number of learnable parameters; explain 1×1 convolution."]],
+["CNN Architectures and Transfer Learning",["Explain VGG16, ResNet and InceptionNet with their architectural differences; differentiate AlexNet and VGG.","Explain transfer learning with an example and its techniques; is CNN better than RNN for image classification?"]]
+],
+"papers":{
+"papers/semester-5/BAI305_DL1_END_2022.pdf":{"2":10,"4":5,"5":2.5,"6":20,"8":10,"9":15,"10":10,"11":15},
+"papers/semester-5/BAI305_DL1_MID_2022.pdf":{"0":2.5,"1":5,"4":10,"6":5,"5":2.5,"7":10,"8":2.5},
+"papers/semester-5/BAI305_DL1_END_2023.pdf":{"0":8,"1":7,"3":2.5,"4":10,"5":5,"7":10,"8":2.5,"9":7.5,"10":10,"11":10,"12":10},
+"papers/semester-5/BAI305_DL1_MID_2023.pdf":{"0":2.5,"1":7.5,"2":5,"3":7.5,"4":7.5,"7":5},
+"papers/semester-5/BAI305_DL1_END_2024.pdf":{"0":5,"1":15,"3":10,"5":10,"7":10,"10":10,"12":20},
+"papers/semester-5/BAI305_DL1_MID_2024.pdf":{"1":10,"2":10,"3":7.5,"4":10},
+"papers/semester-5/BAI305_DL1_END_2025.pdf":{"0":10,"1":12.5,"2":5,"4":10,"5":10,"7":12.5,"8":5,"9":5,"10":5,"11":7.5,"12":7.5},
+"papers/semester-5/BAI305_DL1_MID_2025.pdf":{"0":2.5,"1":12.5,"2":7.5,"3":2.5,"7":2.5}
+}}

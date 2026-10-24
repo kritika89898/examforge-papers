@@ -1,0 +1,25 @@
+{"code":"BCS 303","name":"Theory of Computation",
+"topics":[
+["DFA Design and Finite Automata Basics",["Design a DFA that accepts strings starting with 'aba' and ending with 'bb' (or the given language) and check the given strings.","How many tuples define a finite automaton? Differentiate DFA, NFA and ε-NFA and explain ε-closure."]],
+["NFA to DFA Conversion and DFA Minimization",["Convert the given NFA (or ε-NFA) to an equivalent optimised DFA.","Explain the steps of DFA minimisation and minimise the given finite automaton."]],
+["Regular Expressions and Arden's Theorem",["Obtain the regular expression for the given finite automaton using Arden's theorem.","Construct an NFA for the given regular expression and convert it into a DFA with reduced states."]],
+["Pumping Lemma and Properties of Regular Languages",["State the pumping lemma for regular languages and prove that {aⁿbⁿ | n ≥ 1} is not regular.","Why is a*b* regular but aⁿbⁿ not? State the properties of regular languages and regular grammar."]],
+["Grammars, Chomsky Hierarchy and Derivations",["Explain the Chomsky hierarchy of grammars and languages with examples.","Explain leftmost and rightmost derivations and draw the derivation tree for id+id*id using the given grammar."]],
+["Context-Free Grammars, Ambiguity and Simplification",["Construct a CFG for the given language (e.g., aⁿbⁿcᵐdᵐ or wwᴿ).","Check whether the given grammar is ambiguous; simplify the given CFG by removing null, unit and useless productions."]],
+["Normal Forms: CNF and GNF",["Convert the given context-free grammar into Chomsky normal form.","What is Greibach normal form? Convert the given grammar to GNF and differentiate CNF and GNF."]],
+["Pushdown Automata",["Design a PDA that accepts {aⁿb²ⁿ | n > 0} (or 0ⁿ1ⁿ) and show the instantaneous descriptions for the given string.","Define a PDA using tuples; why is a stack used as its memory?"]],
+["Pumping Lemma for CFLs",["Using the pumping lemma for CFLs, show that {aⁿbⁿcⁿ | n ≥ 1} (or the given language) is not context-free.","Discuss the closure properties of context-free languages."]],
+["Turing Machines and Linear Bounded Automata",["Design a Turing machine that accepts {aⁿbⁿcⁿ | n ≥ 1} and show the IDs for the given string.","Give the formal definition of a Turing machine; explain linear bounded automata and unrestricted grammars; design a TM transducer for 1's complement."]],
+["Mealy and Moore Machines",["Design a Moore machine that outputs A if the input ends in 101, B if it ends in 110, otherwise C.","Convert the given Moore machine to a Mealy machine (and vice versa)."]],
+["Decidability, Halting Problem, PCP and P vs NP",["What is the halting problem? Explain the Post correspondence problem with an example.","Explain the complexity classes P, NP, NP-complete and NP-hard with examples."]]
+],
+"papers":{
+"papers/semester-5/BCS303_TOC_END_2022.pdf":{"0":5,"1":10,"2":5,"4":2.5,"5":12.5,"6":10,"7":10,"9":12.5,"10":10},
+"papers/semester-5/BCS303_TOC_MID_2022.pdf":{"0":7.5,"1":5,"2":7.5,"3":2.5,"5":7.5,"6":10},
+"papers/semester-5/BCS303_TOC_END_2023.pdf":{"0":5,"1":10,"4":7.5,"5":7.5,"6":7.5,"7":10,"8":7.5,"9":7.5,"10":5,"11":7.5},
+"papers/semester-5/BCS303_TOC_MID_2023.pdf":{"0":5,"1":5,"3":5,"4":2.5,"5":10,"6":7.5},
+"papers/semester-5/BCS303_TOC_END_2024.pdf":{"0":12.5,"1":10,"3":2.5,"4":2.5,"5":5,"6":10,"7":10,"8":5,"9":7.5,"10":15,"11":7.5},
+"papers/semester-5/BCS303_TOC_MID_2024.pdf":{"0":2.5,"1":5,"3":5,"4":7.5,"6":2.5,"7":5},
+"papers/semester-5/BCS303_TOC_END_2025.pdf":{"0":2.5,"1":10,"3":12.5,"5":5,"6":10,"7":10,"8":10,"9":15,"10":12.5,"11":12.5},
+"papers/semester-5/BCS303_TOC_MID_2025.pdf":{"0":7.5,"1":5,"3":10,"4":5,"5":7.5,"7":2.5}
+}}

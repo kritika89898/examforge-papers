@@ -1,0 +1,27 @@
+{"code":"BAI 301","name":"Machine Learning",
+"topics":[
+["ML Basics, ML Cycle and Supervised vs Unsupervised",["Explain the machine learning cycle with an example; compare supervised and unsupervised learning.","What are data objects and attribute types and their similarity measures?"]],
+["Data Pre-processing, EDA and Feature Engineering",["Discuss data exploration and pre-processing: data cleaning, integration, handling missing values and outliers, and feature extraction.","Explain one-hot vs label encoding, standardization, and how feature engineering improves model performance."]],
+["Validation: Train-Test Split and K-Fold Cross-Validation",["Explain k-fold cross-validation; for the given dataset size, find the training and test samples per fold for 5-fold and stratified k-fold CV.","Why use a separate validation set instead of only a train–test split? What is a learning curve?"]],
+["Evaluation Metrics: Confusion Matrix, ROC and AUC",["For the given confusion matrix, calculate accuracy, precision, recall, specificity and F1 score.","Plot the ROC curve for the given probabilities at the given thresholds and find the AUC; which metric is appropriate for a medical screening classifier?"]],
+["Linear Regression and Regularization (Ridge, LASSO)",["Fit a least-squares regression line to the given points and calculate R².","Compare Ridge and LASSO regression; explain regularization and the bias–variance trade-off."]],
+["Logistic Regression",["Explain logistic regression and how it is used for binary classification; how does the cut-off change along the ROC curve?"]],
+["Naive Bayes Classifier",["Using the given COVID-19 symptom dataset, build a naive Bayes model and compute the required probabilities.","Explain the naive Bayes classifier, class-conditional independence and its use in text classification."]],
+["k-Nearest Neighbours",["Classify the new point using KNN with k = 3 and Euclidean distance for the given dataset.","Why is KNN called a lazy learner? Discuss the choice of k and distance metric."]],
+["Decision Trees (ID3, CART, Gini)",["Using the Gini index (or information gain), choose the root node and build a decision tree for the given dataset.","Explain decision tree learning with its advantages and limitations."]],
+["Support Vector Machines and Kernels",["Explain the working of SVM, the maximum-margin hyperplane and the significance of the margin.","Explain the kernel trick and how kernels allow SVM to handle non-linear data; differentiate hard and soft margin."]],
+["Clustering: k-Means, Hierarchical and EM",["Cluster the given points into k clusters using k-means with the given initial centroids, showing each iteration.","Cluster the given points using agglomerative clustering and draw the dendrogram; explain the EM algorithm."]],
+["Dimensionality Reduction: PCA and LDA",["Transform the given data into the new coordinate system using PCA.","Project the given two-class data using linear discriminant analysis; what are the motivations and drawbacks of dimensionality reduction?"]],
+["Ensemble Learning: Bagging, Boosting, Random Forest",["Contrast bagging and boosting; explain how Random Forest improves accuracy over a single decision tree.","Explain AdaBoost; given weak learners with weights and predictions, find the final prediction; differentiate hard and soft voting."]],
+["Hypothesis Testing for Comparing Models",["Discuss statistical hypothesis testing and its use in comparing machine learning models."]]
+],
+"papers":{
+"papers/semester-5/BAI301_ML_END_2022.pdf":{"0":5,"2":12.5,"3":15,"4":10,"5":2,"6":2,"7":2.5,"8":2,"9":2,"10":22.5,"12":12.5},
+"papers/semester-5/BAI301_ML_MID_2022.pdf":{"3":2.5,"4":10,"6":2.5,"7":10,"8":5,"9":5},
+"papers/semester-5/BAI301_ML_END_2023.pdf":{"1":20,"3":5,"4":5,"5":2.5,"6":10,"7":5,"8":5,"10":10,"11":10,"12":10},
+"papers/semester-5/BAI301_ML_MID_2023.pdf":{"1":10,"3":5,"4":5,"7":2.5,"8":5,"9":2.5},
+"papers/semester-5/BAI301_ML_END_2024.pdf":{"0":5,"1":12.5,"2":7.5,"3":2.5,"4":2.5,"5":10,"6":5,"9":2.5,"10":12.5,"11":10,"12":12.5},
+"papers/semester-5/BAI301_ML_MID_2024.pdf":{"1":7.5,"2":7.5,"3":5,"4":7.5,"5":5,"6":5,"9":2.5},
+"papers/semester-5/BAI301_ML_END_2025.pdf":{"0":12.5,"1":12.5,"2":2.5,"3":2.5,"4":2.5,"6":10,"9":12.5,"11":25,"12":10,"13":10},
+"papers/semester-5/BAI301_ML_MID_2025.pdf":{"1":10,"2":7.5,"3":5,"4":2.5,"7":10,"8":5,"9":2.5}
+}}
