@@ -1,0 +1,17 @@
+{"code":"BIT 304","name":"Cloud Computing",
+"topics":[
+["Cloud Models: SPI vs Traditional IT, Cloud vs Grid, Web 3.0",["Differentiate the SPI model of cloud computing from the traditional IT model with schematic illustrations.","Differentiate cloud and grid computing; analyse the benefits and limitations of distributed and decentralised computing in Web 3.0."]],
+["Cloud Architecture Design: SOA, EDA, Hybrid and Load Balancing",["Design a hybrid cloud architecture (front end and back end) for the IGDTUW ERP/Taarangana portal incorporating scalability and security.","Suggest a service-oriented / event-driven / load-balanced cloud architecture for the IGDTUW examination portal."]],
+["Cloud Cube and Linthicum Models, Vendor Lock-in and Multi-tenancy",["Discuss the four dimensions of the Jericho Forum Cloud Cube model and the Linthicum deployment model.","Discuss the vendor lock-in problem, data lock-in, data segregation and multi-tenant security in cloud computing."]],
+["Virtualization, Hypervisors and Containers",["Differentiate Type-1 and Type-2 hypervisors and explain the virtualization reference model.","Differentiate virtualization and containerization in terms of isolation, deployment, OS and storage; compare server, network, desktop and application virtualization."]],
+["Cloud Security, IAM and SLAs",["What is the role of IAM in cloud security? Explain 'role-per-group' and 'least privilege'.","Explain cloud information security objectives and design principles, and the significance and characteristics of SLAs."]],
+["Load Balancing and Cloud Optimization",["Differentiate static and dynamic load balancing in cloud computing.","Explain cloud optimization and how it improves performance and cost savings; explain green cloud computing."]],
+["Cloud Services and Concepts (XaaS, Fog, Testing)",["Explain BPaaS, IDaaS, fog computing, cloud analytics and network virtualization.","Differentiate internet-based software testing and cloud testing with examples."]],
+["Cloud in Government and Education (Case Studies)",["Discuss MeghRaj, the Government of India's cloud initiative, and the architecture for an e-healthcare system.","Examine the impact of cloud computing on education with a case study of Moodle or BYJU's."]]
+],
+"papers":{
+"papers/all/bit304_end_2023_may_fr296.pdf":{"0":10,"3":12.5,"4":12.5,"5":20,"6":12.5,"7":20},
+"papers/all/bit304_mid_2023_feb_fr243.pdf":{"1":10,"2":10,"3":10},
+"papers/all/bit304_end_2024_may_fr226.pdf":{"0":10,"2":10,"3":20,"4":20,"6":10,"7":10},
+"papers/all/bit304_mid_2024_mar_fr218.pdf":{"0":10,"1":10,"2":10,"3":10,"6":5}
+}}

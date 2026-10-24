@@ -1,0 +1,23 @@
+{"code":"BAI 322","name":"Data Warehousing and Business Intelligence",
+"topics":[
+["Database vs Data Warehouse and Need for DW",["Differentiate between an operational database system and a data warehouse; identify whether the given systems are DBMS or DW.","Why is there a compelling need for data warehousing? How does a data warehouse enhance decision-making and BI?"]],
+["DW Architecture, Components and Metadata",["Explain the three-tier architecture of a data warehouse and the role of each tier and metadata.","What are the components of a data warehouse? Explain the types of metadata and data marts (dependent vs independent)."]],
+["Building a DW: Top-down vs Bottom-up, Requirements and Information Packages",["Compare the top-down and bottom-up approaches for building a data warehouse with merits and demerits.","Explain the lifecycle of defining business requirements and how information packages support dimensional design."]],
+["ETL, ELT and Data Cleaning",["What is ETL? Explain each component and why transformation is the most complex step.","Data is loaded first and then transformed inside the database engine. Identify the approach (ELT) and explain it; explain data cleaning steps and anomalies."]],
+["Dimensional Modelling: Star, Snowflake and Fact Constellation",["Explain and compare star, snowflake and fact constellation schemas with diagrams.","Design a star schema for the given e-commerce scenario; identify facts and dimensions; explain data cubes."]],
+["OLAP Operations and MOLAP vs ROLAP",["Explain the OLAP operations drill-down, roll-up, slice and dice, pivot, drill-across and drill-through with examples.","Differentiate MOLAP and ROLAP models; what is a hypercube in OLAP?"]],
+["Data Mining, KDD and Applications",["Define data mining and explain the KDD process and data mining architecture.","Discuss the applications of data mining in business and biotechnology; write a note on outlier analysis."]],
+["Classification and Prediction: Decision Trees, KNN, Confusion Matrix",["Differentiate classification and prediction; explain decision tree induction with an example.","Classify the given point using KNN; interpret the given confusion matrix in terms of accuracy, precision, sensitivity and specificity."]],
+["Clustering: k-Means and Hierarchical",["Apply k-means clustering with the given initial centroids to the given points and find the final clusters.","Explain agglomerative and divisive clustering."]],
+["Association Rule Mining and Apriori",["Using the Apriori algorithm, find the frequent itemsets and association rules for the given transactions with the given support and confidence.","What are the benefits of association rule mining? Explain affinity analysis."]],
+["Other Techniques: Genetic Algorithms, Neural Networks, Link Analysis, MBR",["Discuss the operations of genetic algorithms and neural networks in data mining.","What is memory-based reasoning and link analysis?"]]
+],
+"papers":{
+"papers/semester-6/BAI322_DWBI_END_2023.pdf":{"0":10,"1":2.5,"2":10,"4":10,"5":12.5,"7":15,"8":5,"6":10,"9":10,"10":5},
+"papers/semester-6/BAI322_DWBI_END_2024.pdf":{"0":12.5,"3":10,"4":12.5,"5":2.5,"6":22.5,"7":12.5,"9":12.5,"10":12.5},
+"papers/semester-6/BAI322_DWBI_MID_2024.pdf":{"0":5,"1":5,"2":10,"4":7.5,"5":7.5},
+"papers/semester-6/BAI322_DWBI_END_2025.pdf":{"0":2.5,"1":10,"3":12.5,"4":12.5,"5":12.5,"6":7.5,"7":20,"8":10,"9":12.5},
+"papers/semester-6/BAI322_DWBI_MID_2025.pdf":{"0":5,"1":10,"2":5,"3":2.5,"4":7.5,"5":10},
+"papers/all/bai322_end_2026_may_tg.pdf":{"0":4,"1":10,"3":10,"4":14,"5":10,"6":10,"7":14,"8":10,"9":4,"10":5},
+"papers/all/bai322_mid_2026_mar_tg.pdf":{"1":10,"2":5,"3":7.5,"4":12.5,"5":5}
+}}

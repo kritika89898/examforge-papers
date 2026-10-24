@@ -1,0 +1,24 @@
+{"code":"BAI 306","name":"Digital Image Processing",
+"topics":[
+["DIP Fundamentals, Sampling and Quantization",["Explain the fundamental steps of a digital image processing system with a block diagram.","Differentiate between sampling and quantization and explain how they affect image quality."]],
+["Pixel Relationships: Adjacency, Connectivity, Distances",["Explain the types of adjacency (4, 8, m) and connectivity with examples.","For the given image segment and set V, compute the De, D4, D8 and Dm distances between p and q."]],
+["Point Operations and Intensity Transformations",["Perform contrast stretching, thresholding, intensity-level slicing, negative and bit-plane slicing on the given image.","Explain log and power-law (gamma) transformations and how different γ values affect the output."]],
+["Histogram Equalization and Matching",["Perform histogram equalization on the given image and obtain the final image.","Perform histogram matching/specification to modify the given histogram to the desired histogram."]],
+["Spatial Filtering: Smoothing, Sharpening and Edge Operators",["Apply 3×3 mean, Gaussian, median and Laplacian filters and the Sobel operator at the given pixel and compute the gradient magnitude.","Why is the median filter better than the mean filter for salt-and-pepper noise? Discuss the problems of the Roberts cross operator."]],
+["Frequency Domain: Fourier Transform, DFT/DCT and Filters",["Compute the 2-D DFT (or DCT) of the given image and its inverse; check whether the DFT matrix is unitary.","Explain ideal, Butterworth and Gaussian low-pass and high-pass filters, the ringing effect and the convolution theorem; smooth the given image in the frequency domain with D₀ = 0.5."]],
+["Image Restoration: Noise Models, Inverse and Wiener Filtering",["Define noise and its sources; explain four noise models with their PDFs.","Explain the degradation/restoration model; compute the restored image using inverse and Wiener filtering for the given G(u,v), H(u,v) and noise spectra."]],
+["Colour Image Processing",["Explain the RGB, CMY and HSI colour models and pseudo-colour processing.","Convert the given RGB value to CMYK and grayscale."]],
+["Image Segmentation: Thresholding, Edges, Region Growing",["Apply region growing (or region splitting and merging with a quad tree) to the given image with the given seed and threshold.","Explain edge detection and the Canny edge detector; list the types of thresholding in segmentation."]],
+["Image Compression: Redundancy, Huffman and Run-Length",["Construct Huffman codes for the given gray levels/probabilities and find the coding efficiency and compression ratio.","Explain coding, spatial and temporal redundancy; differentiate lossy and lossless compression; compute compression using run-length coding."]],
+["Morphological Image Processing",["For the given binary image X and structuring element B, compute dilation, erosion, opening and closing.","Explain morphology, structuring elements and morphological algorithms."]],
+["Representation, Description and Object Recognition",["Explain boundary and regional descriptors with examples; compute the 4-chain code of the given boundary; explain PCA for image description.","Explain the steps of object recognition, pattern classes, and compare structural and decision-theoretic (Bayes) methods."]]
+],
+"papers":{
+"papers/semester-6/BAI306_DIP_END_2023.pdf":{"0":2.5,"1":2.5,"2":10,"3":10,"5":12.5,"6":10,"8":12.5,"9":12.5,"10":12.5,"11":12.5},
+"papers/semester-6/BAI306_DIP_END_2024.pdf":{"1":2.5,"2":12.5,"3":10,"4":5,"5":20,"6":2.5,"8":15,"9":10,"10":12.5,"11":7.5},
+"papers/semester-6/BAI306_DIP_MID_2024.pdf":{"0":10,"1":5,"2":5,"3":5,"4":2.5,"5":5,"6":5},
+"papers/semester-6/BAI306_DIP_END_2025.pdf":{"2":10,"3":10,"4":5,"6":20,"7":7.5,"8":5,"9":12.5,"10":12.5,"11":17.5},
+"papers/semester-6/BAI306_DIP_MID_2025.pdf":{"0":7.5,"1":7.5,"2":5,"3":5,"4":10,"5":5},
+"papers/all/bai306_end_2026_may_tg.pdf":{"0":12.5,"1":7.5,"3":5,"4":5,"5":12.5,"6":12.5,"7":7.5,"8":5,"9":12.5,"10":5,"11":17.5},
+"papers/all/bai306_mid_2026_mar_tg.pdf":{"0":7.5,"1":5,"2":2.5,"3":5,"4":5,"5":10}
+}}

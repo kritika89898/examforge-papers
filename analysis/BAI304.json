@@ -1,0 +1,26 @@
+{"code":"BAI 304","name":"Deep Learning-II",
+"topics":[
+["Neurons, Perceptron, MLP and Activation Functions",["Explain the MP-neuron and perceptron and how thresholding affects the output; describe the structure and advantages of an MLP.","Why is ReLU the most commonly used activation? Discuss the problems of sigmoid (vanishing gradient) and how to mitigate them; compute outputs with sigmoid, tanh and ReLU."]],
+["Forward Propagation and Backpropagation",["For the given network with initial weights and MSE loss, find the prediction and error in the first forward pass and the updated weights after one backpropagation step.","Discuss the working of feed-forward and backpropagation in a neural network."]],
+["Gradient Descent Variants and Learning Rate",["Differentiate between batch, stochastic and mini-batch gradient descent with their formulations; what are epochs and iterations?","Explain the effect of high and low learning rates; for the given memory constraints, choose the batch size and iterations per epoch."]],
+["Optimizers: Momentum, NAG, Adagrad, RMSprop, Adam",["Explain the Adam optimizer and how it differs from RMSprop and gradient descent with momentum.","Explain Adagrad and RMSprop in detail; how do they help avoid getting stuck in local minima?"]],
+["Saddle Points and Learning vs Optimization",["What is the saddle point problem and how do you identify a saddle point?","Explain learning vs optimization in deep learning and why they should not be treated as the same."]],
+["Bias–Variance, Overfitting and Regularization",["Explain the bias–variance trade-off; what does low bias and high variance indicate and how do you tackle it?","Training accuracy is 100% but test accuracy is 42%. Explain strategies to reduce this gap; differentiate L1 and L2 regularization."]],
+["Dropout, Batch Normalization and Early Stopping",["Explain dropout, DropConnect and batch normalization with their advantages; is dropout active during testing?","Explain early stopping and its relationship with dropout; is it beneficial to use both?"]],
+["Weight Initialization",["Explain the different weight initialization strategies; does zero initialization with dropout lead to symmetry?"]],
+["CNN Parameters and Feature-Map Calculations",["For the given CNN configuration, compute the output feature-map size after each layer and the depth of each kernel.","How many weights are learned for the given CNN filters / pooling layer? Calculate total parameters and training time for the given network."]],
+["Performance Metrics and Confusion Matrix",["For the given confusion matrix, calculate accuracy, precision, recall, specificity and F1-score.","Is accuracy suitable for imbalanced classes? Why are different metrics and baselines needed?"]],
+["Hyperparameter Tuning",["Differentiate parameter tuning and hyperparameter tuning; explain grid search vs random search.","How is the number of neurons in a layer tuned? Discuss manual vs automatic tuning and practical tips for training DNNs."]],
+["Autoencoders and Representation Learning",["Explain the architecture of autoencoders, their types (undercomplete, regularized, convolutional) and applications.","What is the relationship between autoencoders and PCA? Explain representation learning and greedy pre-training."]],
+["Generative Adversarial Networks",["Explain the GAN architecture, its generator and discriminator, and its loss functions.","How does a GAN distinguish fake data from real data? Discuss applications of GANs."]],
+["Transfer Learning and Explainability",["Explain transfer learning with a diagram and its advantages.","What is explainability in deep learning and why is it important in sensitive applications?"]]
+],
+"papers":{
+"papers/semester-6/BAI304_DL2_END_2023.pdf":{"0":2.5,"1":10,"3":5,"5":7.5,"6":10,"8":15,"9":12.5,"10":10,"11":12.5,"12":10,"13":2.5},
+"papers/semester-6/BAI304_DL2_END_2024.pdf":{"0":10,"2":2.5,"3":10,"5":5,"6":10,"7":5,"9":10,"10":10,"11":10,"12":10},
+"papers/semester-6/BAI304_DL2_MID_2024.pdf":{"0":5,"2":10,"3":5,"5":5,"6":5,"7":2.5},
+"papers/semester-6/BAI304_DL2_END_2025.pdf":{"0":20,"1":10,"3":10,"5":10,"8":5,"9":10,"10":10,"11":10,"12":10,"13":5},
+"papers/semester-6/BAI304_DL2_MID_2025.pdf":{"2":10,"3":7.5,"4":2.5,"5":7.5,"6":5,"7":5},
+"papers/all/bai304_end_2026_may_tg.pdf":{"2":2.5,"3":12.5,"4":12.5,"5":7.5,"6":10,"7":2.5,"9":12.5,"10":12.5,"11":10,"12":5,"13":10},
+"papers/all/bai304_mid_2026_mar_tg.pdf":{"0":7.5,"2":7.5,"3":5,"4":2.5,"5":2.5,"6":7.5,"7":5}
+}}

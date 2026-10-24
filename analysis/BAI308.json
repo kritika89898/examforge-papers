@@ -1,0 +1,21 @@
+{"code":"BAI 308","name":"Cloud Computing",
+"topics":[
+["Evolution, Trends, Benefits and Challenges of Cloud",["Explain the trends in computing that led to cloud computing and the key milestones in its evolution.","Discuss the benefits and challenges of cloud computing and its impact on modern IT infrastructure; compare cloud, grid and distributed computing."]],
+["Service Models: SaaS, PaaS, IaaS",["Explain SaaS, PaaS and IaaS in detail with features, control and business applications; identify the model for Gmail, Google App Engine and Amazon EC2.","An organisation needs full control over VMs, storage and OS. Identify the most suitable service model and explain its features."]],
+["Deployment Models: Public, Private, Hybrid, Community",["Explain the cloud deployment models and compare them on cost, security, scalability and control.","Which deployment model suits a company with high security needs, cost constraints and scalability needs? Explain the principles for designing public, private and hybrid clouds."]],
+["Cloud Architecture and Cloud Service Providers",["Explain the layers of cloud architecture and front-end vs back-end components with a diagram.","Discuss the services offered by Amazon EC2 (CloudWatch), Google App Engine and Microsoft Azure; explain third-party cloud services."]],
+["Virtualization, Hypervisors and VM Provisioning",["Explain virtualization, virtual machines and hardware support for virtualization; differentiate full virtualization and paravirtualization.","Discuss the properties of Type 2 hypervisors, the steps of VM provisioning and the features of a virtual infrastructure manager."]],
+["Containers and Docker",["Explain containerization and Docker and how they improve deployment and scalability.","How do containers differ from traditional virtualization in resource isolation, management and scalability?"]],
+["Scalability, Migration, Serverless, Fog and Utility Computing",["What is dynamic scalability? Discuss its types; explain the need for and steps of cloud migration.","Write notes on serverless computing, fog computing, utility computing and web services."]],
+["SDN and NFV",["How does software-defined networking redefine network control and forwarding? Illustrate with an architecture diagram.","Explain network function virtualization and how it differs from traditional networking."]],
+["Cloud Security, Monitoring and Incident Response",["What are the security challenges in cloud computing at different levels? Discuss them from an organisational view.","Explain security monitoring and incident response in the cloud."]],
+["Blockchain and Smart Contracts in Cloud",["Explain how blockchain transforms cloud environments: its structure, working and advantages.","Explain what a smart contract is and how it works."]]
+],
+"papers":{
+"papers/semester-6/BAI308_CC_END_2024.pdf":{"0":2.5,"1":12.5,"2":12.5,"3":7.5,"4":22.5,"6":12.5,"8":20},
+"papers/semester-6/BAI308_CC_MID_2024.pdf":{"0":2.5,"1":2.5,"2":2.5,"4":15,"6":5,"8":5},
+"papers/semester-6/BAI308_CC_END_2025.pdf":{"0":15,"1":2.5,"2":10,"4":5,"5":10,"6":22.5,"7":20,"8":2.5,"9":12.5},
+"papers/semester-6/BAI308_CC_MID_2025.pdf":{"0":12.5,"1":7.5,"2":5,"3":5,"8":5},
+"papers/all/bai308_end_2026_may_tg.pdf":{"0":15,"1":22.5,"2":20,"3":12.5,"4":12.5,"5":12.5,"7":12.5,"9":12.5},
+"papers/all/bai308_mid_2026_mar_tg.pdf":{"0":10,"1":5,"2":5,"3":15}
+}}

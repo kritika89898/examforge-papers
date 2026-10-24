@@ -1,0 +1,25 @@
+{"code":"HMC 301","name":"Professional Ethics and Human Values",
+"topics":[
+["Morals, Values, Ethics and Work Ethics",["Define morals, values and ethics and explain their relationship with examples.","Explain work ethics including caring, sharing, honesty, valuing time, cooperation, commitment, empathy and self-confidence."]],
+["Religion, Vedas, Spirituality and Indian Values",["Explain the concept of religion and human values with examples; can the world have one religion?","Explain Indian values in the framework of the Vedas, spirituality, purushartha and nishkama karma."]],
+["Professional Ethics and Work–Life Balance (Case-based)",["'Professional ethics and human values are highly relevant today.' Support this with an example of a company that promotes work–life balance.","Analyse the given workplace case (e.g., employee caring for an ill parent, accountant discovering fraud) and explain how you would act ethically."]],
+["Moral Dilemmas and Ethical Decision Making",["What is a moral dilemma? Enumerate the steps in confronting a moral dilemma with examples.","Analyse the given situational dilemma (beggar snatching a wallet / reporting corruption) and justify your action."]],
+["Theories of Moral Development: Kohlberg and Gilligan",["Explain Kohlberg's theory of moral development and its limitations/critiques.","Explain Gilligan's theory; differentiate justice-based and care-based morality."]],
+["Ethical Theories and Feminist Ethics",["Explain rights-based and duty-based ethical theories and differentiate them with examples; outline the history and classification of ethical theories.","Why is feminist ethics important in the 21st century? Explain feminist consequentialism."]],
+["Profession, Professionalism and Codes of Ethics",["Differentiate between profession and professionalism; explain the responsibilities and expectations of a professional.","Explain the code of ethics for engineers and unethical practices in engineering; explain training and skill sets of engineers."]],
+["Engineering as Experimentation, Safety and Risk",["Explain 'engineering as social experimentation' and engineers' responsibility for safety and risk; explain risk–benefit analysis.","Discuss the ethical issues, causes and lessons of the Bhopal gas tragedy / Challenger / Fukushima / Three Mile Island disasters."]],
+["Rights: IPR, Human Rights and Employee Rights",["What are intellectual property rights? Why are they necessary? Illustrate how IPR protects a product.","Explain human rights and employee rights and the right to professional judgement."]],
+["Corporate Social Responsibility",["Define CSR and explain two models (e.g., Carroll's model); evaluate the CSR initiatives of a company.","Is CSR evolving to meet new needs? Discuss its role in integrated social growth."]],
+["Computer, Business, Environmental and Research Ethics",["Describe computer ethics, its significance and related issues.","Write short notes on business ethics, environmental ethics and research ethics."]],
+["Empathy, Knowledge Sharing and Time Management",["Write notes on sympathy vs empathy, sharing and caring, and normative enquiry.","What is knowledge sharing and how would you create such an environment? Explain techniques of time management."]]
+],
+"papers":{
+"papers/semester-5/HMC301_PEHV_END_2022.pdf":{"1":10,"2":10,"3":2.5,"4":2.5,"5":20,"6":2.5,"7":12.5,"8":12.5,"9":10,"10":12.5,"0":2.5},
+"papers/semester-5/HMC301_PEHV_MID_2022.pdf":{"1":5,"3":5,"4":5,"6":7.5,"11":10},
+"papers/semester-5/HMC301_PEHV_END_2023.pdf":{"0":2.5,"2":20,"4":10,"5":10,"6":5,"7":20,"8":5,"9":10,"10":12.5,"11":2.5},
+"papers/semester-5/HMC301_PEHV_MID_2023.pdf":{"0":2.5,"1":10,"3":7.5,"4":5,"6":5,"11":2.5},
+"papers/semester-5/HMC301_PEHV_END_2024.pdf":{"0":2.5,"1":2.5,"2":20,"4":12.5,"6":12.5,"7":12.5,"8":12.5,"9":12.5,"10":12.5},
+"papers/semester-5/HMC301_PEHV_MID_2024.pdf":{"0":2.5,"1":5,"3":7.5,"4":7.5,"6":5,"7":5,"11":7.5},
+"papers/semester-5/HMC301_PEHV_END_2025.pdf":{"0":5,"1":10,"4":5,"5":10,"6":10,"7":12.5,"8":10,"9":10,"10":12.5,"11":10},
+"papers/semester-5/HMC301_PEHV_MID_2025.pdf":{"0":5,"1":10,"3":2.5,"4":5,"5":5,"6":7.5}
+}}
