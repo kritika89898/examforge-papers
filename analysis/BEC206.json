@@ -1,0 +1,16 @@
+{"code":"BEC 206","name":"Electromagnetic Field Theory",
+"topics":[
+["Vector Analysis and Coordinate Systems",["Derive the relation between spherical and Cartesian coordinates; convert the given vector into Cartesian form.","State the divergence and Stokes' theorems; find the divergence and curl of the given field at the given point."]],
+["Electrostatics: Coulomb, Gauss's Law and Charge Distributions",["State Gauss's law in differential form and give its applications; find D at the given point due to the given point and line charges.","Derive E due to a line charge; differentiate line, surface and volume charge density; explain the conservative nature of the electrostatic field."]],
+["Potential, Laplace and Poisson Equations",["Derive the relation between E and V; find D from the given potential; explain equipotential surfaces.","Derive Laplace's and Poisson's equations and find ∇²V for the given field."]],
+["Current, Continuity and Boundary Conditions",["Derive the relation between E and current density; explain the continuity equation and relaxation time.","Derive the boundary conditions at a dielectric–dielectric interface; prove the tangential E is continuous."]],
+["Magnetostatics: Biot–Savart and Ampère's Law",["State Biot–Savart's law and derive H for line, surface and volume currents; find H at the given point for the given loop.","State Ampère's circuital law; explain conservation of magnetic flux and why magnetic monopoles don't exist."]],
+["Maxwell's Equations and Displacement Current",["Write Maxwell's equations in differential and integral form and explain their significance.","Explain displacement current; find the loss tangent of the given lossy material."]],
+["EM Waves and Poynting Theorem",["State and derive the Poynting theorem.","For the given wave in a nonmagnetic medium, find εr, η, time-average power and power through the given area."]],
+["Transmission Lines",["Explain the equivalent circuit, line parameters, characteristic impedance and propagation constant; discuss lossless and distortionless lines.","For the given air line, find the inductance and capacitance per metre; give two applications of transmission lines."]]
+],
+"papers":{
+"papers/all/bec206_end_2024_may_fr242.pdf":{"0":7.5,"1":12.5,"2":2.5,"3":15,"4":12.5,"5":10,"6":10,"7":12.5},
+"papers/all/bec206_mid_2024_mar_fr276.pdf":{"0":12.5,"1":10,"2":7.5,"3":5},
+"papers/all/bec206_end_2025_may_fr2133.pdf":{"0":2.5,"1":12.5,"2":12.5,"3":5,"4":12.5,"5":7.5,"6":10,"7":10}
+}}

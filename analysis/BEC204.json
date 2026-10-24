@@ -1,0 +1,14 @@
+{"code":"BEC 204","name":"Digital System Design",
+"topics":[
+["Combinational Design with Decoders and MUX",["Design the given combinational circuit using a decoder and external gates.","Implement the given Boolean function using an 8:1 MUX; differentiate positive and negative logic."]],
+["Latches, Flip-Flops and Excitation Tables",["Draw the NOR-gate RS latch and the edge-triggered RS flip-flop with truth tables; differentiate level and edge triggering.","Give the excitation tables and state diagrams of D, T, SR and JK flip-flops."]],
+["Counters and Shift Registers",["Design a 3-bit ripple down counter using T flip-flops and a synchronous MOD-5 counter using JK flip-flops.","Write notes on ring and Johnson counters and shift registers with timing diagrams."]],
+["Finite State Machines: Mealy and Moore",["Differentiate Mealy and Moore machines; draw the state diagram and tables for the 1010 sequence detector.","List the capabilities and limitations of FSMs; explain the transition matrix and secondary state assignment."]],
+["State Reduction and Asynchronous Sequential Circuits",["Explain the steps to reduce flow tables of completely and incompletely specified machines.","Explain races and hazards in asynchronous machines and how to avoid them; compare pulse mode and fundamental mode."]],
+["VHDL Modelling and Synthesis",["Write VHDL code for a full subtractor and a 4×1 MUX in dataflow and behavioural styles.","Explain delay mechanisms, library and entity, data types/objects, test benches, design for testability and RTL vs behavioural synthesis."]],
+["Programmable Logic: ROM, PLA, PAL",["Differentiate ROM, PLA and PAL.","Implement the given functions using a PLA."]]
+],
+"papers":{
+"papers/all/bec204_end_2024_may_fr2144.pdf":{"1":10,"3":17.5,"4":17.5,"5":25,"6":2.5},
+"papers/all/bec204_mid_2025_oct_fr2143_p6.pdf":{"0":10,"1":10,"2":12.5,"3":2.5}
+}}

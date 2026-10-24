@@ -1,0 +1,15 @@
+{"code":"BEC 207","name":"Digital Electronics",
+"topics":[
+["Codes and Number Systems",["Differentiate weighted and non-weighted codes, and reflective and self-complementing codes; justify that Excess-3 is self-complementing.","Convert the given Gray code to binary."]],
+["Boolean Algebra and K-Map Minimisation",["Prove the given Boolean identities and convert expressions to canonical SOP/POS.","Minimise the given function with don't-cares using K-maps in SOP and POS and implement with NAND/NOR gates only."]],
+["Decoders, Multiplexers and Combinational Design",["Realise the given functions using the 74154 4-to-16 decoder; draw a 2-to-4 decoder using NOR gates.","Implement an 8:1 MUX using 4:1 MUXes; design an equality detector using NAND gates."]],
+["Flip-Flops",["Realise an SR flip-flop using NOR and NAND gates; design a master–slave JK flip-flop with NAND gates.","Give the excitation tables of JK and T flip-flops."]],
+["Counters and Shift Registers",["Construct a 3-bit ring counter with JK flip-flops; explain a MOD-8 down ripple counter with waveforms.","Design a self-correcting synchronous counter for the given sequence; find the SIPO register state after 3 clocks."]],
+["Logic Families",["Compare CMOS and TTL logic families.","Explain the characteristics of logic families."]],
+["DAC and ADC",["For the given 5-bit DAC, find the resolution, step size, output and full-scale voltage.","Explain the performance characteristics of ADCs and the dual-slope or successive-approximation ADC."]],
+["Memories and PLDs",["Differentiate ROM, PAL and PLA with internal circuits.","Implement the given functions with a PLA; write a note on content-addressable memory."]]
+],
+"papers":{
+"papers/all/bec207_end_2023_dec_fr229.pdf":{"0":2.5,"1":12.5,"2":12.5,"3":10,"4":20,"5":2.5,"6":10,"7":12.5},
+"papers/all/bec207_mid_2023_oct_fr238.pdf":{"0":7.5,"1":12.5,"2":7.5,"3":2.5}
+}}

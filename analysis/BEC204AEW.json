@@ -1,0 +1,8 @@
+{"code":"BEC 204 (AEW)","name":"Advanced Electronic Workshop",
+"topics":[
+["Amplifier Gain, Noise and Distortion",["Find the input and output S/N ratio and noise factor for the given amplifier.","Find the output power for the given input and dB gain; explain amplifier distortion."]],
+["Frequency Response and Bandwidth",["For the given gain readings, find the bandwidth and cut-off frequencies and draw the frequency response.","Explain the RC-coupled amplifier and the components affecting its bandwidth."]],
+["Multistage Amplifiers",["Explain the block diagram of a multistage amplifier.","Explain the input and output resistance of a multistage amplifier."]],
+["Feedback Amplifiers",["For the given negative-feedback amplifier, find the feedback fraction, gain and input/output impedance with feedback.","Compare positive and negative feedback; explain transconductance and transresistance amplifiers."]]
+],
+"papers":{"papers/all/bec204aew_mid_2025_oct_fr2143_p5.pdf":{"0":7.5,"1":7.5,"2":5,"3":10}}}

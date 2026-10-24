@@ -1,0 +1,14 @@
+{"code":"BEC 211","name":"Communication System",
+"topics":[
+["Random Variables and Probability",["Find the second moment of X and the mean of Y = −6X + 22; find the pdf of Z = X + Y for the given independent variables.","For the given joint pdf, check independence and find P(X<0, Y<0); find statistical averages of the uniform variable on (−10, 10)."]],
+["Random Processes",["Differentiate SSS and WSS processes; prove Y(t) = X(t)cos(ω₀t + θ) is WSS.","Find the mean output of the given LTI system for a stationary input; prove |Rxy(τ)| ≤ √(Rxx(0)Ryy(0))."]],
+["Amplitude Modulation and Power",["Find the modulation index and sideband amplitudes for the given AM wave; find the power saving when carrier and one sideband are suppressed.","Derive the power content of single-tone AM and draw its time and frequency representation; define modulation and its need."]],
+["AM Generation and Detection: Square-Law, Balanced, Ring Modulators, Envelope Detector",["Explain AM generation using a square-law modulator; explain DSB-SC generation with balanced/ring modulators.","Derive the envelope-detector condition to avoid diagonal clipping; analyse the given square-law demodulator."]],
+["SSB, VSB and Superheterodyne Receiver",["Describe SSB generation by the phase discrimination method; compare SSB-SC, DSB-SC and VSB.","Explain the superheterodyne receiver with a block diagram."]],
+["FM Generation and Detection",["For the given Armstrong transmitter, find the second multiplier, LO frequency and Carson bandwidths.","Explain direct FM generation, the balanced slope discriminator and the ratio detector vs Foster–Seeley; explain capture and threshold effects."]],
+["Noise: Figure, Temperature and Figure of Merit",["Find the effective noise temperature and operating noise figure for the given amplifier; find the thermal noise of the given resistors.","Derive the figure of merit of DSB-SC; define band-limited white noise; explain pre-emphasis and de-emphasis."]]
+],
+"papers":{
+"papers/all/bec211_end_2024_dec_fr270.pdf":{"0":10,"1":15,"2":2.5,"3":15,"4":7.5,"5":17.5,"6":12.5},
+"papers/all/bec211_mid_2024_oct_fr271.pdf":{"0":10,"1":5,"2":10,"3":5,"4":5}
+}}

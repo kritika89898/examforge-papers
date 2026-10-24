@@ -1,0 +1,21 @@
+{"code":"BEC 205","name":"Network Analysis and Synthesis",
+"topics":[
+["Circuit Basics: KCL/KVL, Source Transformation, Star–Delta",["State KCL and KVL; derive the current division rule and explain source transformation with an example.","Derive the delta-to-star conversion; find the equivalent resistance / the two resistances from the given series and parallel values."]],
+["Mesh and Nodal Analysis",["Using nodal analysis, find all branch currents / the power in the 4 Ω resistor of the given network.","Find the current through the 10 Ω resistor using mesh analysis."]],
+["Network Theorems",["Find the current through the 10 Ω resistor using superposition, Thevenin's and Norton's theorems; give Millman's Vth and Rth.","Prove that maximum power is delivered when ZL = Zs*; find RL for maximum power and the power transferred."]],
+["Transient Response of RL, RC and RLC Circuits",["Find i(0⁺), di/dt(0⁺) and i(t) for the given RLC circuit after the switch operates.","For the given RC/RL circuit with DC source, find the time constant, current growth/decay and charge; why can't inductor current change instantly?"]],
+["Laplace Transform in Circuit Analysis",["Using Laplace transforms, find i(t) for the given RLC circuit with sinusoidal input / RL circuit with a pulse.","State the initial and final value theorems; define step, ramp and impulse signals."]],
+["Network Graph Theory",["What is graph theory? Draw the graph of the given network and write its incidence matrix.","Explain the applications of graph theory in network analysis."]],
+["Two-Port Networks: Z, Y, h and ABCD Parameters",["Find the h/T parameters of the given network; derive h-parameters in terms of Z-parameters.","Derive the symmetry and reciprocity conditions; show that H = H₁ + H₂ for series–parallel connection and give the cascade parameters."]],
+["Network Synthesis: Positive Real Functions, Foster and Cauer Forms",["What is a positive real function? State the conditions for driving-point functions and the restrictions on poles and zeros.","Synthesise the given LC impedance in Foster I/II and Cauer I/II forms."]]
+],
+"papers":{
+"papers/all/bec205_end_2022_feb_fr262.pdf":{"1":5,"2":7.5,"3":5,"6":10},
+"papers/all/bec205_end_2023_dec_fr2105.pdf":{"0":2.5,"1":10,"2":5,"3":5,"4":20,"6":22.5,"7":15},
+"papers/all/bec205_mid_2023_oct_fr215.pdf":{"0":2.5,"1":5,"2":12.5,"3":10},
+"papers/all/bec205_end_2024_dec_fr212.pdf":{"0":5,"1":10,"2":10,"3":7.5,"5":10,"6":15,"7":15},
+"papers/all/bec205_mid_2024_oct_fr2139.pdf":{"0":7.5,"1":5,"2":10,"3":5,"4":5,"5":5},
+"papers/all/bec205_end_2025_may_fr239.pdf":{"0":5,"1":10,"2":10,"3":20,"4":5,"6":15,"7":15},
+"papers/all/bec205_mid_2025_mar_fr278.pdf":{"0":10,"2":7.5,"3":10,"4":5},
+"papers/all/bec205_mid_2026_mar_fr255.pdf":{"2":15,"3":15}
+}}
