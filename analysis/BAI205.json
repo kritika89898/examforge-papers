@@ -1,0 +1,15 @@
+{"code":"BAI 205","name":"Neural Networks and Artificial Intelligence",
+"topics":[
+["AI Foundations and Intelligent Agents",["What are intelligent agents? Describe simple reflex and goal-based agents and their role in AI architecture.","Explain the approaches to AI and its applications in various fields."]],
+["Problem Solving: State Space and Means–End Analysis",["Explain the state-space representation of an AI problem with an example.","Explain the means–end analysis technique with an example."]],
+["Uninformed and Informed Search, Heuristics and A*",["Compare informed and uninformed search strategies with examples.","Define heuristics and explain the A* algorithm in detail on the given graph."]],
+["Game Playing: Minimax and Alpha–Beta Pruning",["Analyse how alpha–beta pruning improves minimax.","Apply alpha–beta pruning to the given game tree."]],
+["Constraint Satisfaction Problems",["Explain constraint satisfaction problems.","Solve a real-world problem such as Sudoku using CSP techniques."]],
+["Knowledge Representation: Logic, Semantic Nets, Conceptual Dependency",["How does predicate logic extend propositional logic for knowledge representation?","Explain conceptual dependency graphs and reasoning with semantic networks; compare forward and backward chaining."]],
+["Neural Networks: Perceptrons, Activation Functions, RBF, Backpropagation",["Compare single-layer and multi-layer perceptrons and explain backpropagation.","Explain the role of activation functions and radial basis function networks."]],
+["Learning Paradigms",["Describe supervised, unsupervised and reinforcement learning with real-world examples.","Compare the three learning paradigms."]]
+],
+"papers":{
+"papers/all/bai205_end_2024_dec_fr2120.pdf":{"0":7.5,"1":2.5,"2":15,"3":2.5,"4":10,"5":17.5,"6":15,"7":10},
+"papers/all/bai205_mid_2024_oct_fr273.pdf":{"0":7.5,"1":5,"2":12.5,"3":5}
+}}

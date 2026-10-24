@@ -1,0 +1,17 @@
+{"code":"BAM 102","name":"Fundamentals of Data Structures",
+"topics":[
+["Data Structure Basics and Algorithm Complexity",["Define data structure; differentiate linear and non-linear data structures and discuss two in detail.","Explain the complexity of algorithms and the time–space trade-off; give the time complexity of the given code segment."]],
+["Arrays: Memory Representation and Operations",["How is an array represented in memory? Differentiate row-major and column-major order and find the address of the given element.","Write an algorithm for insertion at the end and deletion at the front of an array; list merits and demerits of array implementation of lists."]],
+["Linked Lists",["Write an algorithm to insert a node at the end of a singly linked list; compare singly and circular linked lists.","Write a program to reverse a circular linked list / return the nth element of a doubly linked list; list advantages and applications of linked lists."]],
+["Stacks and Expression Conversion",["Implement PUSH and POP on a stack using an array and analyse the complexity; list stack applications.","Convert the given infix expression to prefix and postfix, and evaluate the given postfix expression using a stack."]],
+["Queues and Priority Queues",["Differentiate a queue and a priority queue; implement a priority queue using linked lists.","Implement a linear queue using arrays; what is the problem with it and how is it solved?"]],
+["Trees: BST, Traversals, AVL and Threaded Trees",["Insert the given keys into an empty BST and show the result of deleting the root; write the BST search/insert algorithm.","Construct the expression tree for the given expression and give its preorder, inorder and postorder traversals; explain AVL and threaded binary trees."]],
+["Searching and Sorting",["Write insertion sort / selection sort with an example and analyse its complexity.","Explain binary search and the best and worst cases of merge sort with examples."]],
+["Hashing and Collision Resolution",["Define hashing and explain why it is needed.","Discuss collision resolution techniques with examples."]],
+["Graphs: Representation, Shortest Paths and Spanning Trees",["Give two representations of graphs and define in-degree and out-degree; illustrate Dijkstra's algorithm with an example.","What is a minimum spanning tree? Explain Prim's and Kruskal's algorithms with examples; illustrate topological sort."]]
+],
+"papers":{
+"papers/all/bam102_end_2023_jul_fr285.pdf":{"0":12.5,"1":12.5,"2":7.5,"3":15,"4":2.5,"5":15,"6":7.5,"7":5,"8":17.5},
+"papers/all/bam102_end_2024_may_fr214.pdf":{"0":10,"1":10,"2":5,"3":10,"4":7.5,"5":15,"6":10,"7":5,"8":15},
+"papers/all/bcs201_mid_2025_oct_fr293.pdf":{"0":5,"1":10,"2":10,"3":7.5,"4":5,"6":5}
+}}

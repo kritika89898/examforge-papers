@@ -1,0 +1,15 @@
+{"code":"BEC 104","name":"Digital Electronics",
+"topics":[
+["Number Systems and Codes",["Convert the given Gray code to binary; differentiate binary code and BCD.","Explain the given number-system conversions and code types with examples."]],
+["Boolean Algebra and K-Map Minimisation",["State De Morgan's theorems; convert the given expression to sum of products.","Minimise the given four-variable function using a K-map and realise it using only NAND or only NOR gates; implement the given expression with XOR and AND gates."]],
+["Combinational Circuits: Adders, Decoders, Encoders, MUX",["Draw the block diagram and truth table of a full adder.","Construct a 4×16 decoder from two 3×8 decoders and a 16:1 MUX from 4:1 MUXes; explain an encoder with a circuit diagram."]],
+["Flip-Flops and Excitation Tables",["Realise an SR flip-flop using NOR gates and explain with a truth table; differentiate logic gates and flip-flops.","Derive the excitation tables of SR, JK, D and T flip-flops."]],
+["Sequential Circuit Analysis and Counters",["Analyse the given sequential circuit using a state diagram.","Design a synchronous 3-bit up/down counter using JK flip-flops; design a pulse-train generator for the given waveform."]],
+["Shift Registers",["What is a shift register? List its types and applications.","Explain a serial-in serial-out shift register with a truth table and circuit."]],
+["D/A Converters",["Write notes on R-2R ladder and binary-weighted DACs with diagrams.","Find the output of the given DAC for the given input."]],
+["Memories and Programmable Logic: ROM, RAM, PLA, PAL",["Differentiate SRAM and DRAM; write short notes on ROM, RAM, PLA and PAL.","Implement the given functions with a PLA having 3 inputs, 3 product terms and 2 outputs."]]
+],
+"papers":{
+"papers/all/bec104_end_2023_jul_fr2119.pdf":{"0":2.5,"1":7.5,"2":2.5,"3":12.5,"4":15,"5":10,"6":10,"7":12.5},
+"papers/all/bec104_mid_2023_may_fr27.pdf":{"0":2.5,"1":5,"2":10,"3":7.5,"4":5}
+}}

@@ -1,0 +1,15 @@
+{"code":"BEC 201","name":"Analog Electronics",
+"topics":[
+["Diodes, Rectifiers and Wave-Shaping Circuits",["Differentiate transition and diffusion capacitance of a diode; explain the Zener diode as a voltage regulator and the effect of temperature on its V–I curve.","Sketch the output of the given clipper/clamper networks for the given input; why must the PIV of a full-wave rectifier diode be 2Vm?"]],
+["BJT Configurations and Characteristics",["Analyse the input and output characteristics of a CB configuration and its regions of operation.","Explain base-width modulation and channel-length modulation."]],
+["Transistor Biasing and Thermal Stability",["What is biasing and why is it needed? Name common BJT biasing techniques.","Identify the biasing techniques in the given circuits and compare their thermal stability using the stability factor S."]],
+["Small-Signal Analysis of Amplifiers",["Analyse the given amplifier using small-signal modelling and find its voltage gain.","Derive Rin, Ro, Avo, Av and Gv for the small-signal CE configuration; relate small-signal base and emitter resistances."]],
+["Multistage Amplifiers: Darlington, Cascade, Cascode, RC Coupled",["Explain the Darlington pair and why it is called a 'super-β' configuration.","Differentiate cascade and cascode amplifiers; explain the emitter follower and the advantages of RC coupling over transformer coupling."]],
+["Negative Feedback Topologies",["Explain the four negative feedback topologies with block diagrams.","Compare their effect on distortion, noise, bandwidth and input/output impedance."]],
+["FETs and MOSFETs",["Explain the working of an n-channel JFET and compare its drain characteristics with BJT collector characteristics; why does a JFET have high input impedance?","Sketch a p-channel enhancement MOSFET and explain its characteristics; how is gm found graphically and how does it vary with VGS in a depletion MOSFET?"]],
+["SCR",["Explain the voltage and current operation of an SCR.","Discuss the V–I characteristics of an SCR."]]
+],
+"papers":{
+"papers/all/bec201_end_2023_dec_fr2100.pdf":{"0":15,"1":2.5,"2":10,"3":10,"4":7.5,"5":10,"6":17.5,"7":10},
+"papers/all/bec201_mid_2023_oct_fr25.pdf":{"0":7.5,"1":5,"2":2.5,"3":12.5,"4":7.5}
+}}

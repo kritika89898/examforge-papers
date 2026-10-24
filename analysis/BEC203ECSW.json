@@ -1,0 +1,8 @@
+{"code":"BEC 203 (ECSW)","name":"Electronic Circuit Simulation Workshop",
+"topics":[
+["h-Parameter Model and Analysis",["Explain the h-parameter model of a transistor at low frequency.","For the given CE amplifier and h-parameters, compute Ai, Ri, Av and Ro by exact and approximate analysis."]],
+["Hybrid-π Model",["Draw the hybrid-π equivalent circuit of a CE amplifier and explain each element.","Explain the significance of Cπ and Cμ at high frequency."]],
+["Transistor Configurations and Darlington Pair",["Compare CB and CE configurations in input resistance and current gain.","Explain the Darlington pair amplifier with diagrams."]],
+["UJT, SCR and TRIAC",["Find the parameters of the given UJT relaxation oscillator.","Explain the thyristor and the characteristics and applications of TRIAC and DIAC."]]
+],
+"papers":{"papers/all/bec203ecsw_mid_2025_oct_fr2143_p4.pdf":{"0":10,"1":7.5,"2":7.5,"3":10}}}

@@ -1,0 +1,16 @@
+{"code":"BEC 202","name":"Linear Integrated Circuits",
+"topics":[
+["Op-Amp Internal Structure and Basic Concepts",["Draw the internal block diagram of an op-amp and explain each stage; why is an emitter follower used there?","Explain open-loop and closed-loop operation and the virtual-ground concept."]],
+["Op-Amp Parameters: Offset, CMRR, Slew Rate, Drift",["Explain input offset voltage/current, bias current, total output offset, CMRR, SVRR, output swing and slew rate.","Find the slew rate for the given output change; explain thermal drift and methods to improve CMRR."]],
+["Frequency Compensation",["Explain pole–zero compensation and compare it with dominant-pole compensation using gain–frequency plots.","Compare frequency compensation techniques with their merits and demerits."]],
+["Linear Applications: Integrator, Differentiator, Log Amplifier, Precision Rectifier",["Draw an integrator/differentiator and give its output for sine, step and square inputs; design a differentiator for the given fmax.","Explain the logarithmic amplifier and the precision full-wave rectifier with circuits and waveforms."]],
+["Comparators, Multivibrators and Waveform Generators",["List comparator types with waveforms and define hysteresis width.","Explain the op-amp astable/monostable multivibrator and triangular-wave generator and derive their frequency / pulse width; explain the RC phase-shift oscillator and Barkhausen criterion."]],
+["Active Filters",["Design a first-order wide band-pass filter / fifth-order Butterworth low-pass filter for the given specifications.","What is the damping coefficient? Why are active filters preferred over passive ones?"]],
+["Power Amplifiers and OTA",["Explain the Class A push-pull amplifier, crossover distortion and Class A efficiency.","Identify the given OTA circuits and give OTA limitations; find the transfer function of the given circuit."]],
+["555 Timer and Phase-Locked Loop",["Explain the 555 timer in monostable mode with its functional diagram and waveforms.","Draw the PLL block diagram; define lock-in and capture range and the phase detector types."]]
+],
+"papers":{
+"papers/all/bec202_end_2024_may_fr2136.pdf":{"0":2.5,"1":12.5,"2":10,"3":10,"4":12.5,"5":12.5,"6":17.5,"7":12.5},
+"papers/all/bec202_mid_2024_mar_fr2109.pdf":{"0":5,"1":10,"2":5,"3":10,"4":7.5},
+"papers/all/bec202_end_2025_may_fr274.pdf":{"0":7.5,"1":12.5,"3":12.5,"4":15,"5":12.5,"6":12.5,"7":12.5}
+}}

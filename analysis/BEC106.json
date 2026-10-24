@@ -1,0 +1,17 @@
+{"code":"BEC 106","name":"Signals and Systems",
+"topics":[
+["Signal Classification and Basic Operations",["Classify continuous-time signals; distinguish deterministic and random signals and check periodicity of the given signals.","Explain the basic operations on signals; sketch the given step/ramp waveforms and find the even and odd components of the given signal."]],
+["System Properties: Linearity, Time-Invariance, Stability",["Check whether the given system is linear / time-invariant and comment on its stability.","Explain BIBO stability; find the range of a and b for which the given LTI system is stable."]],
+["Convolution and LTI Response",["Perform the linear convolution of the given sequences graphically; state three properties of convolution.","Find the response of the relaxed system for the given impulse response and input; relate step and impulse responses; solve the given differential equation for the complete response."]],
+["Fourier Series",["Find the exponential and trigonometric Fourier series of the unit impulse train / half-wave rectified sine wave.","How does odd symmetry simplify Fourier series calculations?"]],
+["Continuous-Time Fourier Transform",["Find the Fourier transform of the given signals; state the Dirichlet conditions and two FT properties with proof; explain Parseval's theorem.","Find the response / convolution of the given signals using the Fourier transform; find the given inverse Fourier transform."]],
+["DTFT and Frequency Response",["Using the DTFT convolution property, find y(n) for the given x(n) and h(n); find the DTFT of the given sequence.","Find the frequency, magnitude and phase response of the given system; differentiate phase delay and group delay; state the DTFT modulation theorem."]],
+["Sampling Theorem and Aliasing",["State and prove the sampling theorem; when does aliasing occur and how is it avoided?","Find the Nyquist rate and interval for the given signal."]],
+["Z-Transform and ROC",["Find the Z-transform and ROC of the given sequence; state four properties of the ROC.","Find the inverse Z-transform of the given function for each ROC."]],
+["Filters",["Draw and explain the ideal characteristics of LPF, HPF and BPF.","Explain the energy density spectrum."]]
+],
+"papers":{
+"papers/all/bec106_end_2022_aug_fr2134.pdf":{"0":12.5,"1":7.5,"2":12.5,"3":12.5,"4":12.5,"5":22.5,"6":12.5,"7":12.5},
+"papers/all/bec106_mid_2023_may_fr2130.pdf":{"0":5,"1":5,"2":5,"4":15},
+"papers/all/bec203_mid_2025_oct_fr224.pdf":{"0":7.5,"1":7.5,"2":7.5,"3":10,"4":2.5,"8":5}
+}}

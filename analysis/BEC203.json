@@ -1,0 +1,15 @@
+{"code":"BEC 203","name":"Signals and Systems",
+"topics":[
+["Signal Classification and Waveform Sketching",["Differentiate even/odd and continuous/discrete signals; check whether the given signals are periodic.","Sketch the given step/ramp signals such as u(t−2), u(−2t+1) and u(t)−2u(t−1)+u(t−3); describe the properties of periodic signals."]],
+["System Properties",["Check whether the given systems are static/dynamic, causal/non-causal, linear and time-invariant.","Explain homogeneity, superposition and BIBO stability; describe the properties of LTI systems."]],
+["LTI Response and Differential Equations",["Find the complete response of the given system from its differential equation and initial conditions.","State the relationship between step and impulse responses."]],
+["Fourier Series",["Find the Fourier series of the half-wave rectified sine wave.","Find the Fourier series of the given waveform."]],
+["Fourier Transform and its Properties",["Find the Fourier transform of t e^{−at}u(t) / cos(ω₀t)u(t).","Prove the linearity, time-shifting, frequency-shifting and time-reversal properties; explain Parseval's theorem."]],
+["Phase, Group Delay and All-Pass Systems",["Explain group delay and phase delay; differentiate linear and non-linear phase.","What is an all-pass system? Explain with diagrams; draw ideal LPF, HPF and BPF characteristics."]],
+["Sampling, Aliasing and Laplace Transform",["Explain sampling, interpolation and aliasing.","Find the Laplace transform and ROC of the given signal; state the ROC properties."]]
+],
+"papers":{
+"papers/all/bec203_end_2023_dec_fr288.pdf":{"0":25,"1":7.5,"4":12.5,"5":12.5,"6":17.5},
+"papers/all/bec203_mid_2023_oct_fr256.pdf":{"0":10,"1":12.5,"4":12.5},
+"papers/all/bec203_mid_2025_oct_fr224.pdf":{"0":7.5,"1":7.5,"2":7.5,"3":10,"4":2.5,"5":5}
+}}

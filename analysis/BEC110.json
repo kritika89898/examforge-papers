@@ -1,0 +1,20 @@
+{"code":"BEC 110","name":"Basic Electrical Engineering",
+"topics":[
+["DC Circuits: Kirchhoff's Laws, Series–Parallel, Star–Delta",["Explain Kirchhoff's laws; find the currents through all resistors in the given circuit and verify KVL/KCL.","Convert the given delta network to star (and star to delta) and derive the conversion formulas."]],
+["Network Theorems: Superposition, Thevenin, Norton, Millman, Maximum Power",["State and prove the maximum power transfer theorem and find the load and maximum power for the given circuit.","Find the current in the given resistor by superposition; find the Thevenin/Norton equivalent of the given circuit."]],
+["AC Fundamentals: RMS, Average, Form and Peak Factor",["For i = 42.42 sin 628t, find the maximum value, frequency, RMS, average value and form factor.","Find the average and RMS values, form factor and peak factor of the given waveform / half-wave rectified wave."]],
+["AC Circuits, Impedance and Power",["A 50 Ω resistor in series with a 100 µF capacitor across 100 V, 50 Hz: find the impedance, current, power factor and voltages.","Explain true, reactive and apparent power with the power triangle; find the equivalent impedance of the given parallel impedances; find the coil parameters from DC and AC readings."]],
+["Resonance in RLC Circuits",["For the given series RLC circuit, find the capacitance for resonance, voltages across L and C, bandwidth, Q-factor and power.","Derive the impedance, current, resonant frequency and Q-factor of a series RLC circuit with a phasor diagram."]],
+["Three-Phase Systems and Two-Wattmeter Method",["Explain the two-wattmeter method for a three-phase star load and derive the power factor from the readings.","Find the line current for the given balanced star load; what is the significance of power factor?"]],
+["Measuring Instruments",["Explain the construction of a PMMC instrument; derive the expressions for a shunt and a multiplier.","Why can't a moving-coil instrument measure AC while a moving-iron one can? Explain the induction-type instrument."]],
+["Transformers and DC Machines",["Find the efficiency of the given transformer at half load and unity power factor; draw its equivalent circuit and phasor diagram; why is it rated in kVA?","Draw the construction of a DC machine and explain each part; classify DC machines by excitation; state Fleming's rules."]]
+],
+"papers":{
+"papers/all/bec110_end_2022_aug_fr292.pdf":{"0":5,"1":22.5,"2":10,"3":15,"5":12.5,"6":10,"7":17.5},
+"papers/all/bec110_mid_2022_jun_fr251.pdf":{"0":7.5,"1":10,"2":2.5,"3":7.5,"4":10},
+"papers/all/bec110_end_2023_dec_fr2121.pdf":{"0":5,"1":20,"2":10,"3":2.5,"4":10,"5":12.5,"6":12.5,"7":12.5},
+"papers/all/bec110_mid_2023_oct_fr210.pdf":{"0":5,"1":10,"2":2.5,"3":5,"4":10},
+"papers/all/bec110_mid_2023_jan_fr249.pdf":{"0":5,"1":12.5,"2":5,"3":2.5,"4":7.5},
+"papers/all/bec110_mid_2023_jan_fr2115.pdf":{"0":10,"1":12.5,"2":5,"3":7.5,"4":2.5},
+"papers/all/bec110_mid_2024_mar_fr277.pdf":{"0":2.5,"1":12.5,"2":5,"3":7.5,"4":5}
+}}

@@ -1,0 +1,9 @@
+{"code":"BEC 202 (ACS)","name":"Analog Communication Systems",
+"topics":[
+["Probability and Random Variables",["Using the Poisson distribution, find the chance that more than 3 of 1000 people react badly to the given medicine.","Define the expected value of a random variable; explain the uniform and Gaussian distributions."]],
+["Fourier Analysis of Signals",["Explain the properties of Fourier analysis of continuous and discrete signals.","Apply the Fourier properties to the given signal."]],
+["Noise",["Write short notes on thermal noise and white noise.","Explain the sources of noise in communication systems."]],
+["Amplitude Modulation: DSB, SSB, VSB and QAM",["Find the percentage power saving when the carrier and one sideband are suppressed for the given modulation depth.","Explain the phase-shift method of SSB generation, VSB transmission and QAM with block diagrams."]],
+["AM Detection",["Explain the envelope detector with a block diagram.","Discuss its limitations."]]
+],
+"papers":{"papers/all/bec202acs_mid_2025_oct_fr2143_p3.pdf":{"0":10,"1":5,"2":5,"3":12.5,"4":5}}}
