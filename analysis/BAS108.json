@@ -1,0 +1,24 @@
+{"code":"BAS 108","name":"Probability and Statistics",
+"topics":[
+["Probability, Conditional Probability and Bayes' Theorem",["Boxes A, B, C, D contain fuses with given defect rates. A fuse selected at random is defective; find the probability that it came from box D.","Prove that if A and B are independent then A and B' are also independent; solve the given problem on alternate throws of dice."]],
+["Descriptive Statistics: Mean, Median, Mode, Dispersion, Moments",["Calculate the mean, median and mode of the given frequency distribution, and the standard deviation and coefficient of variation.","Calculate the first four moments about the mean and hence β₁ and β₂; find moments about the mean from moments about a point."]],
+["Random Variables, PMF/PDF and CDF",["A random variable X has the given probability distribution. Find k, the required probabilities and the smallest value of x for which P(X ≤ x) > 1/2.","Find the constant and the cumulative distribution function of the given density, and the distribution of Y = g(X)."]],
+["Expectation, Variance and Covariance",["Find E[2X − 3Y + 7] and Var[2X − 3Y + 7] for independent X and Y with the given moments.","Prove that Cov(aX + b, cY + d) = ac·Cov(X, Y), and find the covariance between X + Y and X − Y."]],
+["Moment Generating Functions",["Derive the moment generating function of the Poisson / normal / exponential distribution and find its mean and variance.","Prove that the MGF of a sum of independent random variables equals the product of their MGFs; find the MGF of Y = aX + b."]],
+["Joint, Marginal and Conditional Distributions",["For the given joint pdf, find the constant c, the marginal density of X and the conditional density of Y given X.","Three balls are drawn without replacement from a box; find the joint probability distribution of the numbers of white and red balls drawn."]],
+["Discrete Distributions: Binomial, Poisson, Geometric",["Out of 800 families with 4 children, how many are expected to have 2 boys and 2 girls, no girl, at most 2 girls?","Power failures follow a Poisson distribution with a given average; find the probability of at most one failure in a week."]],
+["Continuous Distributions: Normal, Exponential, Uniform and CLT",["The resistance of resistors is normal with mean 100 Ω and SD 2 Ω; what percentage lie between 98 and 102 Ω?","A part's lifetime is exponentially distributed with mean 10 years; find the probability it lasts between 9 and 11 years. State the central limit theorem."]],
+["Correlation and Regression",["Estimate the regression line of Y on X from the given data and predict Y for the given X.","Compute the rank correlation coefficient; prove that if one regression coefficient exceeds unity the other must be less than unity."]],
+["Hypothesis Testing: Large Samples (Z-test)",["Is there a significant difference between the proportions favouring a plan in two cities at 5% level?","Explain null and alternative hypotheses, critical region, Type I and II errors, and one-tailed vs two-tailed tests."]],
+["Small Sample Tests: t-test and F-test",["Test whether the given sample of 9 items differs significantly from an assumed mean of 47.5.","Two independent samples are given; test whether their means/variances differ significantly at 5% level."]],
+["Chi-Square Test",["Test whether the production of bad parts is independent of the shift at 5% level using the chi-square test.","In 120 throws of a die the given frequencies were observed. Can the die be regarded as biased?"]]
+],
+"papers":{
+"papers/semester-2/BAS108_PS_END_2022.pdf":{"0":2.5,"1":5,"2":12.5,"3":5,"4":5,"5":12.5,"6":2.5,"7":5,"8":10,"9":2.5,"10":10,"11":10},
+"papers/semester-2/BAS108_PS_MID_2022.pdf":{"0":2.5,"2":10,"3":7.5,"4":5,"5":15},
+"papers/semester-2/BAS108_PS_END_2023.pdf":{"0":5,"1":5,"2":12.5,"3":7.5,"4":2.5,"5":15,"6":7.5,"7":5,"8":5,"9":5,"10":10,"11":5},
+"papers/semester-2/BAS108_PS_MID_2023.pdf":{"0":7.5,"2":10,"3":5,"4":2.5,"5":12.5},
+"papers/semester-2/BAS108_PS_END_2024_MAY.pdf":{"0":7.5,"1":5,"2":7.5,"3":5,"4":5,"5":15,"6":5,"7":5,"8":10,"9":10,"10":5,"11":5},
+"papers/semester-2/BAS108_PS_END_2024_DEC.pdf":{"0":5,"1":22.5,"2":2.5,"4":7.5,"5":10,"6":15,"7":10,"8":7.5,"9":12.5,"10":5,"11":5},
+"papers/semester-2/BAS108_PS_MID_2024.pdf":{"0":5,"1":10,"2":5,"3":2.5,"4":2.5,"5":10}
+}}

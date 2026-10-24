@@ -1,0 +1,26 @@
+{"code":"BAS 109","name":"Applied Mathematics",
+"topics":[
+["Rank of a Matrix and Echelon/Normal Form",["Define the rank of a matrix. Reduce the given matrix to normal (or echelon) form and find its rank.","For what values of x is the rank of the given matrix not equal to 3?"]],
+["Systems of Linear Equations and Consistency",["For what values of λ and μ does the given system have (i) no solution, (ii) a unique solution, (iii) infinitely many solutions?","Solve the given homogeneous / non-homogeneous system of linear equations, or check its consistency."]],
+["Eigenvalues, Eigenvectors and Special Matrices",["Find the eigenvalues and eigenvectors of the given matrix, and find the modal matrix P.","Show that the eigenvalues of a Hermitian/skew-Hermitian/unitary matrix are real/purely imaginary/of unit modulus."]],
+["Cayley–Hamilton Theorem and Matrix Inverse",["State the Cayley–Hamilton theorem and use it to find the inverse of the given matrix.","Find the inverse of the given matrix using the Gauss–Jordan method."]],
+["Vector Spaces, Subspaces, Basis and Dimension",["Check whether the given set of vectors is linearly independent; if dependent, find the relation between them.","Define basis and dimension of a vector space. Show that the given set W is a subspace and find a basis and its dimension."]],
+["Linear Transformations",["Determine whether the given map T is a linear transformation and find T(a,b) from given images.","For the given linear transformation, find a basis for its null space and its rank."]],
+["Laplace Transforms and Convolution",["Use the convolution theorem to find the inverse Laplace transform of the given function.","Solve the given initial value problem using Laplace transforms."]],
+["Fourier Series",["Find the Fourier series of the given function on the stated interval.","Find the Fourier coefficient aₙ of the given rectangular pulse function."]],
+["Successive Differentiation and Leibnitz Theorem",["Find the nth derivative of the given function.","If y = sin(m sin⁻¹x), prove the given recurrence relation using Leibnitz's theorem."]],
+["Partial Differentiation, Euler's Theorem and Jacobians",["If u is homogeneous, use Euler's theorem to prove the given relation.","Compute the Jacobian for the given transformation, and change variables to show the given PDE identity."]],
+["Limits, Continuity and Taylor Series in Two Variables",["Test the given function f(x, y) for continuity at the origin; check whether fxy(0,0) = fyx(0,0).","Expand the given function in a Taylor series about the given point up to second-degree terms."]],
+["Maxima, Minima and Lagrange Multipliers",["Test the given function f(x, y) for maxima and minima and find the extreme values.","Using Lagrange's multipliers, find the maximum and minimum of the given function subject to the constraint."]],
+["Multiple Integrals and Change of Order",["Change the order of integration in the given double integral and evaluate it.","Find the area bounded by the given curves using double integration, or evaluate by transforming to polar coordinates."]],
+["Vector Calculus: Line Integrals, Green's and Gauss Theorems",["State Green's theorem and use it to evaluate the given line integral.","Verify the Gauss divergence theorem for the given field over the rectangular parallelepiped, and find the work done by a force field."]],
+["Gradient, Divergence, Curl and Directional Derivatives",["Find the unit normal to the given surface at the given point and prove the given vector identity.","Explain the physical interpretation of curl and find a, b, c so that the given field is irrotational."]]
+],
+"papers":{
+"papers/semester-1/BAS109_MATH_END_2022.pdf":{"0":10,"2":2.5,"3":5,"4":12.5,"5":5,"6":10,"8":7.5,"9":2.5,"10":5,"11":5,"12":10,"13":10},
+"papers/semester-1/BAS109_MATH_END_2023.pdf":{"0":5,"1":5,"2":7.5,"3":5,"4":2.5,"5":12.5,"6":10,"7":10,"8":5,"9":5,"10":7.5,"11":5,"12":5,"13":15},
+"papers/semester-1/BAS109_MATH_MID_2023.pdf":{"1":5,"2":7.5,"3":5,"4":7.5,"5":5,"6":7.5},
+"papers/semester-1/BAS109_MATH_MID_2024.pdf":{"0":2.5,"1":5,"2":2.5,"3":10,"8":2.5,"9":10,"10":2.5},
+"papers/semester-1/BAS109_MATH_END_2025.pdf":{"1":5,"2":12.5,"3":5,"8":2.5,"9":7.5,"10":7.5,"11":10,"12":22.5,"13":15,"14":10},
+"papers/semester-1/BAS109_MATH_MID_2025.pdf":{"0":2.5,"1":5,"2":5,"3":2.5,"4":5,"8":5,"9":7.5,"10":5,"11":2.5}
+}}

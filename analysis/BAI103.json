@@ -1,0 +1,22 @@
+{"code":"BAI 103","name":"Computer Organization and Architecture",
+"topics":[
+["Boolean Algebra and De Morgan's Theorem",["Simplify the given Boolean expression using Boolean algebra and verify De Morgan's theorem for three variables with a truth table.","Explain any five laws of Boolean algebra with examples."]],
+["K-Map Minimisation and Combinational Design",["Simplify F(A,B,C,D) = Σm(0,2,3,5,6,7,10,11,14,15) using a K-map and draw the logic circuit.","Design a combinational circuit for a given problem statement from its truth table."]],
+["Decoders and Multiplexers",["Draw the logic diagram and truth table of a 2-to-4 decoder and build a 3×8 decoder from 2×4 decoders.","Draw the block diagram of a 4-to-1 multiplexer and implement f(A,B,C) = AB + BC + AC using a multiplexer."]],
+["Adders and Number Representation",["Explain how a full adder is obtained from half adders with a block diagram.","Perform the given additions and subtractions using 2's complement representation, and define floating-point representation."]],
+["Flip-Flops and Counters",["Explain the working of an SR flip-flop and its disadvantages, and compare JK, D and T flip-flops.","Explain the working of a 4-bit asynchronous binary counter with logic diagram, timing diagram and truth table."]],
+["Instruction Formats and Address Instructions",["Describe the types of instructions based on the address field. Evaluate X = (A+B)*(C+D) using three-, two-, one- and zero-address instructions.","A memory unit has 256K words of 32 bits with an indirect bit, opcode, register code and address part. Find the number of bits in each part and draw the instruction format."]],
+["Addressing Modes",["Describe the different addressing modes of an instruction with examples."]],
+["Registers, Instruction Cycle and Micro-operations",["List the registers of the basic computer and explain the phases of the instruction cycle with a flowchart.","Write the formats of memory-reference, register-reference and I/O-reference instructions, and explain micro-operations."]],
+["Control Unit and CISC vs RISC",["What are the two types of control unit? Explain one in detail with a diagram.","List the differences between CISC and RISC architectures."]],
+["Parallel Processing and Pipelining",["Explain parallel processing and array processors.","A non-pipelined system takes 50 ns per task; a 6-segment pipeline has a 10 ns clock. Find the speedup for 100 tasks, and explain branch hazards in pipelines."]],
+["Computer Arithmetic: Multiplication Algorithms",["Draw the hardware and flowchart for multiplication of signed-magnitude data and multiply two given binary numbers step by step.","Show the step-by-step multiplication of (+15) × (+13) using Booth's algorithm."]],
+["Memory Hierarchy, Cache and Associative Memory",["Explain the memory hierarchy, cache mapping techniques and associative (content-addressable) memory.","Explain virtual memory organisation."]],
+["I/O Organisation: Interrupts, DMA and Handshaking",["Explain handshaking and destination-initiated transfer with block diagrams.","Explain the working of a DMA controller and the connection of the I/O bus to peripheral devices."]]
+],
+"papers":{
+"papers/semester-1/BAI103_COA_END_2022.pdf":{"0":8.5,"2":20,"5":10,"9":5,"10":20,"11":2.5,"12":12.5},
+"papers/semester-1/BAI103_COA_END_2023.pdf":{"0":7.5,"2":5,"3":2.5,"4":15,"5":15,"7":5,"8":5,"9":15,"10":10,"11":12.5,"12":5},
+"papers/semester-1/BAI103_COA_MID_2023_JAN.pdf":{"0":7.5,"1":2.5,"3":2.5,"4":5,"5":7.5,"6":5,"7":2.5},
+"papers/semester-1/BAI103_COA_MID_2023_OCT.pdf":{"0":5,"1":2.5,"2":5,"3":7.5,"5":5,"7":7.5,"8":2.5}
+}}

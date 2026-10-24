@@ -1,0 +1,21 @@
+{"code":"BAI 201","name":"Artificial Intelligence",
+"topics":[
+["Intelligent Agents, PEAS and AI Applications",["Explain the architecture and characteristics of an intelligent agent; define simple reflex and goal-based agents with PEAS descriptions.","Explain the term artificial intelligence and discuss five real-world applications of AI and the AI code of ethics."]],
+["Uninformed Search: BFS, DFS, DLS, IDS",["For the given state space, list the order in which nodes are visited by BFS, depth-limited search (limit 3) and iterative deepening search.","Give an example where BFS works better than DFS; compare uninformed and informed search strategies and explain how search strategies are evaluated."]],
+["Heuristic Search: Best-First and A*",["Explain A* search and prove its optimality. Find the most cost-effective path in the given graph using A*.","What is the role of heuristics in guiding search? Suggest two heuristics for the 8-puzzle and explain best-first search."]],
+["State Space Search and Problem Formulation",["Explain the water jug problem using state-space search and write its production rules."]],
+["Game Playing: Minimax",["Apply the minimax algorithm to the given game tree and find the backed-up values and the best move for MAX.","What is the minimax algorithm? Explain its steps, advantages and disadvantages."]],
+["Propositional Logic",["Determine whether the given propositional formula is valid or contradictory, and check whether two statements are logically equivalent.","What are the limitations of propositional logic in representing a knowledge base?"]],
+["First-Order Logic, Clause Form and Resolution",["Translate the given sentences (John likes all kinds of food...) into predicate logic, convert to clause form and prove 'John likes peanuts' using resolution.","Explain quantifiers in predicate calculus and Skolemization; explain the syntax and semantics of first-order logic."]],
+["Knowledge Representation",["Define knowledge representation in AI, describe its techniques and the advantages of each."]],
+["Uncertainty: Probability, Bayesian Networks and Fuzzy Logic",["How do AI systems deal with uncertainty? Explain Bayesian belief networks and their applications.","What is a membership function of a fuzzy set? Find the α-cut of the given fuzzy set and state where fuzzy logic is applied."]],
+["Learning: Decision Trees, Entropy and Perceptrons",["Define entropy and information gain. Use the ID3 algorithm on the given dataset to find the best attribute for the first split.","What is a multilayer perceptron? What is feature extraction, and how do rule-based and learning-based AI differ?"]],
+["NLP: Bag of Words, TF-IDF and Word Embeddings",["What is NLP? Explain its components and any five applications.","Explain the bag-of-words model and why TF-IDF is preferred; describe approaches to obtain word embeddings."]],
+["Expert Systems",["What is an expert system? Explain its components and characteristics, and describe the MYCIN expert system.","Explain the steps for development of an expert system along with its participants."]]
+],
+"papers":{
+"papers/semester-3/BAI201_AI_END_2022.pdf":{"0":5,"1":5,"2":7.5,"3":5,"6":12.5,"5":5,"8":7.5,"9":17.5,"10":10,"11":10},
+"papers/semester-3/BAI201_AI_MID_2022.pdf":{"0":2.5,"1":12.5,"2":10,"5":5,"6":10},
+"papers/semester-3/BAI201_AI_END_2023.pdf":{"4":20,"6":10,"8":20,"9":5,"10":12.5,"11":10},
+"papers/semester-3/BAI201_AI_MID_2023.pdf":{"0":7.5,"1":10,"2":7.5,"6":5,"7":5,"10":5}
+}}

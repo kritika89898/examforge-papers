@@ -1,0 +1,22 @@
+{"code":"BAI 102","name":"Object Oriented Programming using Java",
+"topics":[
+["Java Basics: JVM, JRE, JDK and Features",["Explain JVM, JRE and JDK with a diagram. Why is Java robust and architecture-neutral?","Find the errors in the given Java code and give the output of the given code with reasons."]],
+["Basic Programs: Strings, Patterns and Arrays",["Write a Java program to remove all vowels from a string entered by the user / print a reverse pyramid pattern.","Write a Java program to find the minimum, maximum and average of elements in an array."]],
+["Classes, Objects and Variables",["Differentiate between class, instance and local variables. Write a program where a class variable auto-assigns unique roll numbers to Student objects.","Create a class with getters and setters (e.g., IgdtuwBooks) and create an array of objects."]],
+["Constructors, Overloading and Chaining",["Differentiate between constructor overloading and constructor chaining with a Box class example.","Create a class Complex with constructors and a method to add two complex numbers."]],
+["Inheritance and the super/final Keywords",["What are the forms of inheritance in Java? Why is multiple inheritance not allowed and how is it achieved using interfaces?","Explain the use of this, super and final keywords with examples."]],
+["Polymorphism: Overloading, Overriding, Binding",["Differentiate between ad-hoc and pure polymorphism, and between early and late binding.","Create a superclass Vehicle and derived classes Car and Bike that override print(), and demonstrate method overloading and overriding."]],
+["Abstract Classes and Interfaces",["What is an abstract class? Create an abstract class Animal and inherit it in Cat, Dog and Duck.","Declare an interface with an area() method and implement it for a circle and a square; compare interfaces and abstract classes."]],
+["Packages and Access Modifiers",["Explain the access modifiers in Java. What is a package and how is it used?","Define a class Tour in package pack1 and use it from a class in package pack2."]],
+["Exception Handling",["Explain try, catch, throw, throws and finally with examples.","Write a program that handles ArrayIndexOutOfBoundsException and a user-defined NegativeNumberException, with a finally block."]],
+["I/O Streams, Files and Serialization",["What is serialization and deserialization? Write a program to store Employee objects in a file and read them back.","What is an I/O stream? Write a program to read and write a file and handle exceptions."]],
+["Multithreading",["Explain the life cycle of a thread. Why do we use the Runnable interface? Write a program using multiple threads.","Write a program to compute the average of 1000 integers using 4 threads running in parallel."]],
+["Applets, AWT and Event Handling",["Explain the life cycle of an applet and create an applet with labels, text fields and a submit button.","Explain event, event source and event listener in the delegation model; create a container with five components and handle events."]]
+],
+"papers":{
+"papers/semester-2/BAI102_JAVA_END_2022.pdf":{"0":7.5,"1":2.5,"2":10,"3":5,"4":10,"5":10,"6":5,"7":5,"8":10,"9":10,"10":10,"11":10},
+"papers/semester-2/BAI102_JAVA_MID_2022.pdf":{"0":5,"1":10,"3":5,"4":2.5,"5":5,"6":5},
+"papers/semester-2/BAI102_JAVA_MID_2023.pdf":{"0":7.5,"1":5,"2":5,"3":5,"5":10,"6":2.5},
+"papers/semester-2/BAI102_JAVA_END_2024.pdf":{"1":10,"2":5,"3":10,"4":2.5,"5":10,"6":2.5,"7":10,"8":10,"9":10,"10":12.5,"11":12.5},
+"papers/semester-2/BAI102_JAVA_MID_2024.pdf":{"2":10,"3":2.5,"4":5,"5":7.5,"6":2.5,"7":5}
+}}

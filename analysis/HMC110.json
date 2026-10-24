@@ -1,0 +1,24 @@
+{"code":"HMC 110","name":"Communication Skills",
+"topics":[
+["Communication Process and Feedback",["Describe the process of communication. Why is the communication cycle incomplete without feedback?","Explain encoding and decoding of messages, the role of the channel/medium, and the impact of emotions on them."]],
+["7 Cs of Effective Communication",["Comment on the importance of the 7 Cs of effective communication with relevant examples.","Explain clarity and concreteness among the 7 Cs, and how courtesy and consideration create a supportive atmosphere."]],
+["Barriers to Communication",["Barriers can be minimised but not completely removed. Discuss intrapersonal barriers and suggest remedies to overcome them.","Differentiate between barriers such as emotional outburst, communication selectivity, fear of superiors and negative tendencies with examples."]],
+["Non-Verbal Communication: Kinesics, Proxemics, Paralanguage",["'Kinesics is more powerful than words.' Justify with its sub-types and examples.","Explain proxemics and its zones, chronemics, and the role of paralanguage in communicating meaning beyond words."]],
+["Listening Skills",["What are the different types of listening? How is listening different from hearing? Discuss barriers to listening and their remedies.","'Speech is silver and silence is gold.' Elaborate with reference to listening skills and the do's and don'ts of listening."]],
+["Ethics, Plagiarism, Netiquette and Gender-Sensitive Language",["Discuss ethics in communication and plagiarism. What are the do's and don'ts of ethical communication?","Explain netiquette and how gender-sensitive language creates an inclusive environment."]],
+["Presentations",["What should a presenter keep in mind while delivering a presentation? Suggest ten tips and audience-engagement strategies.","Discuss how to organise ideas in a presentation, the role of audio-visual aids, and why one should not read from slides."]],
+["Group Discussions and Interviews",["Are group discussions merely a showcase of communication skills? Discuss the parameters on which participants are evaluated.","Differentiate between a dominant and a collaborative participant in a GD, and list the do's and don'ts; discuss interview answering techniques."]],
+["Resume and Cover Letter Writing",["Draft a resume for an internship at your dream company, highlighting achievements, academics and skills. Invent the necessary details.","Draft a cover letter for the post of Software Developer addressed to the HR manager, highlighting relevant skills."]],
+["Business Letters and E-mails",["Draft a letter of enquiry (e.g., to a publisher or university) and a suitable e-mail reply. Invent the necessary details.","Write a formal e-mail requesting security arrangements for the annual fest; list five advantages of e-mail communication."]],
+["Writing Skills: Paragraphs and Formal vs Informal Writing",["Discuss formal and informal writing styles and the characteristic features of informal writing.","Rearrange the given sentences into a meaningful paragraph / write paragraphs underlining the topic and concluding sentences."]],
+["Telephonic Communication",["Suggest ten actionable steps to improve the quality of telephonic communication.","What points should be remembered while making a telephone call (telephonic etiquette)?"]]
+],
+"papers":{
+"papers/semester-1/HMC110_CS_END_2022.pdf":{"0":10,"1":10,"2":2.5,"3":5,"4":10,"6":10,"7":2.5,"8":12.5,"9":12.5,"10":2.5,"11":10},
+"papers/semester-1/HMC110_CS_END_2023.pdf":{"1":5,"2":10,"3":12.5,"4":10,"5":10,"6":5,"7":10,"8":10,"9":10,"10":10,"11":5},
+"papers/semester-1/HMC110_CS_MID_2023_OCT.pdf":{"0":2.5,"1":5,"2":5,"3":2.5,"4":5,"5":10},
+"papers/semester-1/HMC110_CS_MID_2023_JAN.pdf":{"0":2.5,"1":5,"2":5,"3":7.5,"6":5,"7":2.5,"10":10,"11":2.5},
+"papers/all/hmc110_mid_2023_jan_fr63_p12.pdf":{"1":2.5,"2":5,"3":7.5,"4":7.5,"5":7.5,"7":5,"10":5},
+"papers/semester-1/HMC110_CS_MID_2024.pdf":{"0":2.5,"1":5,"2":7.5,"5":5,"6":7.5,"7":5,"8":7.5},
+"papers/semester-1/HMC110_CS_MID_2025.pdf":{"0":2.5,"1":2.5,"2":5,"5":10,"6":7.5,"7":7.5,"8":5}
+}}

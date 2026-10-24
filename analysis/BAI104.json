@@ -1,0 +1,21 @@
+{"code":"BAI 104","name":"Introduction to Data Science",
+"topics":[
+["Data Science Process, Life Cycle and Applications",["Explain the life cycle / different phases of a data science project. How do you define goals in a data science project?","Give examples of applications of data science in healthcare, finance, education and other industries."]],
+["Types of Data and Big Data V's",["Describe the various types of data in data science with examples.","Explain the V's of big data. Is veracity related to the accuracy of data? Justify."]],
+["Data Ethics, Privacy and the C's of Data",["Define data science ethics and describe ethical issues and the consequences of unethical practices.","Explain the C's to be followed while handling data and the aspects of privacy with sensitive data."]],
+["Data Cleaning, Missing Values and Outliers",["How should missing values be imputed for numeric and categorical variables? Should imputation be done before removing outliers?","Find the outliers in the given dataset using the interquartile range (IQR), showing the steps."]],
+["Data Wrangling: Combining, Merging and Filtering",["Explain different ways of combining data from different sources, and the process of filtering and merging data.","What are dummy variables? Explain data wrangling steps with an example."]],
+["NumPy Arrays, Indexing and Operations",["Explain indexing, advanced indexing and slicing in NumPy arrays with examples.","Write NumPy programs to create, reshape, split and stack arrays and perform row/column-wise operations on them."]],
+["Pandas Series and DataFrames",["Write a Pandas program to create a DataFrame from given lists and add a computed column.","Write the output of the given Pandas code snippets with explanation."]],
+["Pandas Analysis: GroupBy, Filtering and Pivot",["Using the given HR/Superstore DataFrame, write Pandas code to group, filter and answer the given business questions.","Write an equivalent Pandas program for the given pivot_table without using pivot, and write each year's data to a separate Excel sheet."]],
+["Data Visualisation with Matplotlib",["Write Matplotlib code to plot a line chart with given style properties, a pie chart, a bar chart and a histogram for the given data.","Which chart would you use to check the association between height and weight, and to find outliers in marks? Write the code."]],
+["Tableau: Calculated Fields, Filters and Pareto Charts",["Write a Tableau calculated field that labels orders as 'profit' or 'loss', and one to compute profit margin.","What is a Pareto chart? Describe the steps to create one in Tableau using the Superstore dataset; explain filters vs parameters."]]
+],
+"papers":{
+"papers/semester-2/BAI104_IDS_END_2022.pdf":{"3":20,"6":20,"7":10,"5":10,"8":20,"9":20},
+"papers/semester-2/BAI104_IDS_MID_2022.pdf":{"3":5,"6":12.5,"7":7.5,"9":5},
+"papers/semester-2/BAI104_IDS_END_2023.pdf":{"0":2.5,"1":10,"2":2.5,"3":2.5,"4":10,"5":12.5,"7":10,"8":25,"9":17.5},
+"papers/semester-2/BAI104_IDS_MID_2023.pdf":{"0":5,"1":5,"2":7.5,"5":7.5,"6":10},
+"papers/semester-2/BAI104_IDS_END_2024.pdf":{"0":15,"2":5,"3":10,"5":2.5,"6":5,"7":20,"8":17.5,"9":22.5},
+"papers/semester-2/BAI104_IDS_MID_2026.pdf":{"0":10,"2":5,"3":5,"4":10,"5":10}
+}}

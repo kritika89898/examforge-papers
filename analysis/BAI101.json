@@ -1,0 +1,24 @@
+{"code":"BAI 101","name":"Intelligent Systems",
+"topics":[
+["Propositional Logic and Formalisation",["Formalize the given English sentences into propositional logic and prepare the truth table for the compound proposition.","Are (P∨Q)→R and (P→R)∨(Q→R) logically equivalent? Write the converse, contrapositive and negation of a given conditional statement."]],
+["Knowledge Representation",["What is knowledge representation? Discuss various approaches and strategies of knowledge representation in intelligent systems.","Why is knowledge representation essential for reasoning in intelligent systems?"]],
+["Reasoning and Inference Rules",["What is reasoning in AI? Explain the various types of reasoning with examples.","Differentiate between deductive and inductive reasoning, and explain the main rules of inference."]],
+["Data, Data Types and Pre-processing",["Why is data crucial in machine learning? Explain the types of data, the five V's of data and the need for pre-processing.","How do the quality and size of a dataset affect the performance of machine learning algorithms?"]],
+["Training, Testing and Validation Split",["What is the role of training, testing and validation sets? What ratios are typically used to split a dataset?","Write Python commands to split a given dataset into training and testing sets and train a model on it."]],
+["Classification, Regression and Clustering",["Differentiate between classification, regression and clustering with suitable examples.","Explain the stages of experimentation when applying a classification algorithm to a dataset, with a diagram."]],
+["Agents and Agent Structure",["Explain the structure of an intelligent agent.","Write a short note on agent types and agent programs."]],
+["Pattern Recognition",["What is pattern recognition? Discuss its phases and real-world applications."]],
+["History and Milestones of AI",["How did the concept of artificial intelligence emerge, and what were its key early achievements and milestones?"]],
+["Robotics, Drones and Autonomous Navigation",["Explain the interaction of localization, mapping and path planning (SPLAM) in autonomous navigation of mobile robots.","Discuss the applications of mobile robots and drones in logistics, agriculture, surveillance and disaster response."]],
+["Autonomous Vehicles and Transportation",["Discuss the applications of intelligent systems in autonomous vehicles. Is it feasible to deploy self-driving cars in India? Justify."]],
+["NLP, Speech Recognition and Computer Vision Applications",["Discuss the working of well-known speech recognition applications and the models used in them.","What are the key challenges in NLP and how is it applied in chatbots and translation? How does computer vision help healthcare, manufacturing and security?"]],
+["Applications in Healthcare, Education and Agriculture",["How can AI improve medical facilities in India? Discuss the benefits and challenges for stakeholders.","How are intelligent systems used in education and in precision agriculture?"]],
+["Recommendation Systems and Big Data",["How do recommendation systems like those of Netflix and Amazon work?","How are intelligent systems used to analyse big data for business decision-making?"]],
+["Automation, Ethics and Web Applications",["Differentiate between automation and intelligent automation with a real-life example.","What are the ethical considerations and challenges in developing and deploying intelligent systems?"]]
+],
+"papers":{
+"papers/semester-1/BAI101_IS_END_2022.pdf":{"0":12.5,"2":10,"3":2.5,"4":10,"5":12.5,"9":10,"10":10,"11":10,"12":10,"14":5},
+"papers/semester-1/BAI101_IS_END_2023.pdf":{"0":5,"1":10,"3":12.5,"7":10,"8":10,"9":20,"10":2.5,"11":5,"12":20,"13":10},
+"papers/semester-1/BAI101_IS_MID_2023_JAN.pdf":{"0":2.5,"1":5,"2":10,"3":10,"4":5,"6":2.5,"7":2.5,"12":2.5},
+"papers/semester-1/BAI101_IS_MID_2023_OCT.pdf":{"1":2.5,"2":5,"3":2.5,"4":5,"5":5,"6":5,"8":5,"13":2.5,"14":2.5}
+}}

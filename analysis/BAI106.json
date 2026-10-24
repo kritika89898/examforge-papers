@@ -1,0 +1,19 @@
+{"code":"BAI 106","name":"Database Management Systems",
+"topics":[
+["DBMS vs File System, Architecture and Data Independence",["What are the advantages of a DBMS over file processing systems? When would it make sense not to use one?","Draw and explain the detailed system architecture (three-tier) of a DBMS, and differentiate physical and logical data independence."]],
+["Data Models, Schema and DBMS Users",["Write short notes on hierarchical and network data models. What is a schema?","What are the different types of DBMS users and the roles of a database administrator?"]],
+["Keys and Integrity Constraints",["Define primary, super, candidate, alternate and foreign keys with examples.","Explain entity and referential integrity rules and how they are enforced."]],
+["ER Model: Entities, Attributes, Relationships",["Draw an E-R diagram for the given application (bank / supplier–parts), stating any assumptions.","Distinguish strong and weak entity sets, generalisation and specialisation; find the minimum number of tables for a given ER diagram."]],
+["Relational Algebra",["Write the given queries on the Supplier–Parts–Catalog schema in relational algebra.","Convert the given SQL query into an equivalent relational algebra expression; when are two relations union-compatible?"]],
+["SQL Queries, DDL/DML and Views",["Write SQL queries for the given schema using joins, GROUP BY and HAVING.","Explain the differences between UPDATE vs ALTER and DELETE vs DROP, list DML commands, and explain views with syntax."]],
+["Functional Dependencies and Normalization",["What is normalization? Explain 1NF, 2NF and 3NF with examples.","Given relation R and its functional dependencies, find the key and decompose it into 3NF/BCNF; check if the decomposition is lossless and dependency preserving."]],
+["Transactions and ACID Properties",["What is a transaction? Explain the ACID properties.","Explain serial and concurrent schedules, and COMMIT and ROLLBACK with examples."]],
+["Serializability, Concurrency Control and Deadlocks",["What is a serializable schedule and how does it differ from a serial schedule? Explain conflict serializability.","Explain the two-phase locking protocol and how deadlocks occur and can be prevented."]],
+["Query Processing, Triggers and OODBMS",["Explain the steps of query processing with a diagram, and the measures of query cost.","What is a database trigger? Explain the features of OODBMS and how they differ from RDBMS/ORDBMS."]]
+],
+"papers":{
+"papers/semester-2/BAI106_DBMS_END_2022.pdf":{"0":10,"2":5,"3":12.5,"4":7.5,"5":12.5,"6":12.5,"7":5,"8":12.5,"9":5},
+"papers/semester-2/BAI106_DBMS_MID_2022.pdf":{"0":2.5,"1":2.5,"2":5,"3":10,"4":10,"5":10},
+"papers/semester-2/BAI106_DBMS_END_2024.pdf":{"0":10,"1":5,"3":12.5,"4":5,"5":10,"6":10,"7":12.5,"8":5,"9":15},
+"papers/semester-2/BAI106_DBMS_MID_2024.pdf":{"0":5,"1":7.5,"2":5,"3":5,"5":5}
+}}

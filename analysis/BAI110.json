@@ -1,0 +1,33 @@
+{"code":"BAI 110","name":"Programming with Python",
+"topics":[
+["Data Types, Variables and Operators",["Explain the different types of operators in Python, including identity and membership operators, with examples.","Discuss the built-in data types in Python and differentiate between mutable and immutable types."]],
+["Conditional Statements and Loops",["Explain if, if-else and if-elif-else statements with a flow diagram and an example where if-elif-else is necessary.","Explain break, continue and pass statements with examples, and state when a while loop is preferred over a for loop."]],
+["Pattern and Series Programs",["Write a Python program using nested loops to print the given number/alphabet pattern.","Write a Python program to print the Fibonacci series (or a given series) up to n terms."]],
+["Output Prediction (Code Tracing)",["Write the output of the given code snippet with an explanation of each step.","Predict the output of the given loop/list-comprehension code and justify your answer."]],
+["Strings and String Methods",["Explain string slicing with positive and negative indices, and why strings are immutable.","Write a Python program to reverse a string / check whether a string is a palindrome, and explain join() and split()."]],
+["Lists, Tuples and Sets",["Differentiate between list, tuple and dictionary with suitable examples.","Write a Python program to check whether two lists/sets have any common element and display the common elements."]],
+["Dictionaries",["Write a program to store student roll numbers and marks as key-value pairs in a dictionary and display the highest and lowest scorers.","Explain aliasing and copying of dictionaries, and how to delete a key-value pair from a dictionary."]],
+["Functions, Arguments and Scope",["Explain default, keyword, arbitrary positional (*args) and arbitrary keyword (**kwargs) arguments with examples.","What is a local variable and how is it different from a global variable? Illustrate with a function."]],
+["Recursion",["Explain recursion and the importance of the base case with an example program.","Compare loops and recursion. For which problems is recursion a better choice?"]],
+["Exception Handling",["Explain exception handling using try, except, else and finally with an example.","Write a program to raise an exception if the user's password does not contain an uppercase letter, a lowercase letter and a digit."]],
+["File Handling",["Write a program to copy the content of one file to another, skipping lines that start with a special character.","Differentiate between read() and readline(), and write a program to append text to a file while handling a missing-file error."]],
+["Object-Oriented Programming",["Create a class Car with attributes and methods to store and display details of three cars.","Explain abstraction and inheritance with method overriding using example code."]],
+["NumPy Arrays",["Explain the different types of indexing of NumPy arrays with examples.","Create a NumPy array and compute its transpose, column-wise sum, mean, median and standard deviation."]],
+["Pandas DataFrames",["Create a DataFrame of students' marks and compute total marks, percentage and the top 3 students.","Explain the difference between Series and DataFrame in pandas, and create a DataFrame from a dictionary."]],
+["Matplotlib and Tkinter GUI",["Write a program to plot a pie chart / histogram for the given data using matplotlib.","Design the given GUI using the Tkinter library (window, labels, entry fields and a button)."]],
+["Modules, Packages and Command-Line Arguments",["What are the key differences between a module and a package in Python?","What are command-line arguments in Python? Explain their purpose with an example program."]],
+["Algorithms and Problem-Solving Programs",["Define an algorithm and compare it with a program. Write an algorithm to find the sum of two numbers.","Write a Python program to print all pairs of primes whose sum equals a given even number n."]]
+],
+"papers":{
+"papers/semester-1/BAI110_PY_END_2022.pdf":{"0":2.5,"2":12.5,"4":5,"6":5,"7":2.5,"8":5,"9":17.5,"10":10,"12":2.5,"13":10,"14":12.5},
+"papers/semester-1/BAI110_PY_END_2023_MAR.pdf":{"1":5,"2":10,"3":10,"4":5,"5":5,"6":5,"9":22.5,"10":2.5,"12":10,"13":10,"14":5},
+"papers/semester-1/BAI110_PY_END_2023_DEC.pdf":{"4":10,"5":10,"6":5,"7":5,"9":12.5,"13":5,"14":5,"15":5},
+"papers/semester-1/BAI110_PY_MID_2023_OCT.pdf":{"1":5,"4":5,"5":7.5,"6":5,"7":5,"9":2.5},
+"papers/semester-1/BAI110_PY_MID_2023_JAN.pdf":{"0":7.5,"1":5,"2":10,"4":2.5,"5":5,"7":5},
+"papers/all/bai110_end_2024_dec_fr233.pdf":{"0":5,"2":5,"3":5,"4":2.5,"5":10,"6":5,"7":5,"8":5,"10":10,"11":12.5,"12":5,"13":7.5},
+"papers/semester-1/BAI110_PY_MID_2024.pdf":{"1":15,"3":10,"5":5,"16":5},
+"papers/all/bai110_mid_2024_oct_fr284.pdf":{"1":5,"3":2.5,"4":12.5,"5":5,"8":5,"11":7.5,"16":2.5},
+"papers/all/bai110_end_2025_dec_fr263.pdf":{"0":2.5,"1":5,"2":5,"5":10,"6":5,"7":2.5,"8":2.5,"10":10,"11":12.5,"12":10,"14":10,"15":5,"16":7.5},
+"papers/semester-1/BAI110_PY_MID_2025.pdf":{"0":7.5,"1":5,"2":5,"3":7.5,"5":5,"6":5,"12":5},
+"papers/all/bai110_mid_2025_oct_fr264.pdf":{"0":2.5,"1":7.5,"4":2.5,"5":10,"6":5,"9":2.5,"11":5}
+}}
