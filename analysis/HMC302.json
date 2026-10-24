@@ -1,0 +1,14 @@
+{"code":"HMC 302","name":"Principles of Management",
+"topics":[
+["Management: Concept, Nature, Levels and Skills",["Explain the concept, nature, process and significance of management. Discuss the managerial levels and the skills required at each.","Define management and mention its important characteristics."]],
+["Evolution of Management Thought",["Critically compare the classical, neo-classical, behavioural, systems and contingency approaches to management.","State the contributions of F.W. Taylor and the Hawthorne studies; 'Contingency approach is a common-sense approach.' Comment."]],
+["Planning and MBO",["What is planning? Explain its nature, objectives, types of plans and the planning process with an example.","'Planning is a bridge between the present and the future.' Comment; explain MBO."]],
+["Organizing: Principles, Structure, Span of Control, Departmentation",["Define organizing and explain its principles, span of control and types of organization; design a structure for a growing start-up.","What is matrix organization and when is it useful? Define departmentation and its forms; differentiate formal and informal organization."]],
+["Staffing",["Explain the concept, nature and importance of staffing and the steps in the staffing process."]],
+["Directing: Motivation and Leadership",["Discuss the types of motivation (intrinsic vs extrinsic), the meaning of leadership and the traits of an effective leader."]],
+["Controlling and Control Techniques",["What is controlling? Explain its nature, scope, types and process, and the characteristics of an effective control system.","Differentiate between traditional and modern control techniques and evaluate their usefulness."]]
+],
+"papers":{
+"papers/all/hmc302_end_2026_may_tg.pdf":{"0":12.5,"1":12.5,"2":12.5,"3":15,"4":12.5,"5":12.5,"6":22.5},
+"papers/all/hmc302_mid_2026_mar_tg.pdf":{"1":15,"2":7.5,"3":10}
+}}

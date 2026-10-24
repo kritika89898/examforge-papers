@@ -1,0 +1,19 @@
+{"code":"HMC 306","name":"Financial Management",
+"topics":[
+["Nature, Scope and Goals of Financial Management",["'Financial management is concerned with three major decisions.' Explain the investment, financing and dividend decisions and their inter-relationship.","Why is wealth maximisation a superior goal to profit maximisation? Is the modern approach an improvement over the traditional approach?"]],
+["Time Value of Money: Present Value, Annuities, Perpetuities",["Find the cash down payment for a house bought partly through equal annual instalments at the given rate using the given table values.","Compute the present value of a perpetuity / the annual savings needed to accumulate a target sum; explain why individuals have a time preference for money."]],
+["Sources of Finance: Shares, Debentures and Bonds",["What is an ordinary share and how does it differ from debentures? Highlight the features of preference shares.","Explain long-term sources of finance and the difference between bonds and debentures."]],
+["Cost of Capital and WACC",["Explain the types of cost of capital: average vs marginal, future vs historical, explicit vs implicit, specific vs combined.","Calculate the WACC for the given capital structure and tax rate; define the cost of equity and preference shares."]],
+["Capital Structure and Risk",["What is an optimum capital structure? Discuss the factors determining capital structure for a new start-up.","Differentiate business risk and financial risk; should a firm with high business risk use more debt?"]],
+["Capital Budgeting: Payback, ARR, NPV, PI, IRR",["Calculate the NPV and profitability index at 10% for machines A and B with the given cash flows and choose the better one.","Compute the payback period and average rate of return for the given machine with straight-line depreciation and tax; can NPV and IRR rank projects differently?"]],
+["Capital Rationing and Mutually Exclusive Projects",["Write a note on capital rationing and mutually exclusive investment projects; what are the limitations of the payback period?"]],
+["Working Capital Management",["Prepare an estimate of the net working capital requirement from the given cost, activity and credit-period data.","Explain the operating cycle, temporary vs permanent working capital, liquidity vs profitability and approaches to financing working capital."]],
+["Inventory Management: EOQ and ABC Analysis",["Calculate the EOQ and the total annual inventory cost; how much could be saved by switching to EOQ?","Why do firms hold inventories? Explain ABC analysis and the relationship between carrying and ordering costs."]]
+],
+"papers":{
+"papers/semester-6/HMC306_FM_END_2023.pdf":{"0":7.5,"1":12.5,"2":2.5,"3":10,"4":10,"5":15,"6":5,"7":12.5,"8":12.5},
+"papers/semester-6/HMC306_FM_MID_2023.pdf":{"0":5,"1":12.5,"2":2.5,"3":10,"4":7.5},
+"papers/semester-6/HMC306_FM_END_2024.pdf":{"0":12.5,"1":10,"2":2.5,"3":10,"4":10,"5":22.5,"6":5,"7":5,"8":22.5},
+"papers/semester-6/HMC306_FM_MID_2024.pdf":{"0":5,"1":12.5,"2":2.5,"3":10,"4":7.5},
+"papers/semester-6/HMC306_FM_MID_2025.pdf":{"0":5,"1":5,"2":2.5,"3":10,"4":2.5}
+}}

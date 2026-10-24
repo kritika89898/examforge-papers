@@ -1,0 +1,19 @@
+{"code":"BCS 306","name":"Compiler Design",
+"topics":[
+["Phases of a Compiler and Bootstrapping",["Explain the various phases of a compiler with a neat diagram and an example for each phase.","Discuss bootstrapping with a neat diagram; what is the importance of semantic analysis?"]],
+["Lexical Analysis: Tokens, Finite Automata, Input Buffering",["What is the first phase of a compiler? How is a token recognised? Explain with an example.","Explain the role of the lexical analyser, specification of tokens using regular expressions, finite automata and input buffering."]],
+["CFG, Derivations, Parse Trees and Ambiguity",["Define CFG and explain derivation trees and parse trees with an example.","Define ambiguity and check whether the given grammar is ambiguous."]],
+["Left Recursion, Left Factoring and FIRST/FOLLOW",["Eliminate left recursion from the given grammar and remove left factoring from S → iEtS | iEtSeS | a.","Define FIRST and FOLLOW and compute them for the given grammar."]],
+["Top-Down Parsing: Recursive Descent and LL",["What is top-down parsing? Design a recursive descent parser for the given grammar.","Differentiate top-down and bottom-up parsing."]],
+["Bottom-Up Parsing: Shift-Reduce, Operator Precedence, SLR, LALR",["Construct LR(0) items and the SLR parsing table for S → L = R | R, L → *R | id, R → L.","Construct the LALR parse table for the given grammar; parse the input using a shift-reduce parser and explain operator precedence parsing."]],
+["Syntax-Directed Translation",["Define syntax-directed definitions and explain bottom-up evaluation of S-attributed definitions and inherited attributes."]],
+["Runtime Environment: Source Language Issues and Storage Allocation",["Discuss the source language issues and the various storage allocation strategies."]],
+["Intermediate Code: Three-Address Code, Quadruples, Triples, AST",["Explain three-address code, quadruples, triples, abstract syntax trees and Polish notation with examples."]],
+["Code Optimization",["What is code optimization? Explain the principal sources of optimization with examples."]]
+],
+"papers":{
+"papers/semester-6/BCS306_CD_END_2023.pdf":{"0":12.5,"1":12.5,"2":5,"3":5,"5":20,"6":10,"7":10,"8":10,"9":10},
+"papers/semester-6/BCS306_CD_MID_2023.pdf":{"0":5,"1":5,"2":5,"3":5,"5":10},
+"papers/semester-6/BCS306_CD_END_2024.pdf":{"0":12.5,"1":5,"2":10,"3":2.5,"4":2.5,"5":20,"6":12.5,"7":10,"8":10,"9":12.5},
+"papers/semester-6/BCS306_CD_MID_2024.pdf":{"0":10,"1":2.5,"2":7.5,"3":2.5,"4":2.5,"5":10}
+}}

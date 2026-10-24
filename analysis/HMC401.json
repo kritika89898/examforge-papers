@@ -1,0 +1,20 @@
+{"code":"HMC 401","name":"Creativity, Innovation and Entrepreneurship",
+"topics":[
+["Creativity and Creative Thinking Techniques in AI",["Define creativity in AI and explain three techniques for fostering creativity in AI projects with real-world examples.","What is innovation through creative thinking and concept grouping? Compare creative and innovative thinking in problem solving."]],
+["Problem Solving: Algorithms and AI Methods",["How do algorithms help in problem solving? Name AI-based problem-solving methods and compare graph and tree methods.","Explain the constraints in solving AI-based problems and the role of creativity in solving software issues (e.g., Tower of Hanoi)."]],
+["Brainstorming and Creative Problem-Solving Frameworks",["Discuss the importance of brainstorming in generating AI business ideas and give three strategies for effective sessions.","Outline a structured creative problem-solving framework used in AI projects."]],
+["Innovation: Types, Process and Disruptive AI",["Define innovation and its types; explain how the AI innovation process differs from traditional innovation.","Explain disruptive AI technologies and their impact on business functions and industries, with examples."]],
+["Creativity vs Innovation and Entrepreneurship",["Differentiate between creativity and innovation and explain their impact on entrepreneurship."]],
+["Ethical AI, Bias and Responsible AI",["Define ethical AI development principles and how they reduce bias and ensure fairness and transparency, with examples.","What is AI bias? Discuss two approaches to address it; explain responsible AI and AI for social good."]],
+["IPR in AI: Patents, Copyrights and Licensing",["Explain the importance of IPR in AI; differentiate patents and copyrights and the role of licensing in protecting AI innovations."]],
+["AI Entrepreneurship, Business Models and Lean Startup",["What are the key elements of AI entrepreneurship and how does identifying AI opportunities differ from traditional ventures?","Explain the lean startup methodology, market validation and the business model canvas for an AI startup."]],
+["Scaling and Global Expansion of AI Startups",["Discuss the challenges of developing and scaling AI startups and strategies to overcome them.","Discuss the opportunities and challenges of international expansion of AI startups."]]
+],
+"papers":{
+"papers/all/hmc401_end_2024_may_tg.pdf":{"0":10,"2":12.5,"3":10,"5":22.5,"7":15,"8":12.5},
+"papers/all/hmc401_mid_2024_mar_tg.pdf":{"0":5,"1":10,"3":5,"4":5,"5":5},
+"papers/all/hmc401_end_2025_may_supp_tg.pdf":{"0":12.5,"2":12.5,"3":12.5,"5":22.5,"6":5,"7":15,"8":10},
+"papers/all/hmc401_mid_2025_mar_tg.pdf":{"0":10,"1":10,"3":5,"4":5,"5":5},
+"papers/all/hmc401_end_2026_may_tg.pdf":{"0":12.5,"3":12.5,"5":12.5,"6":12.5,"7":15,"8":25},
+"papers/all/hmc401_mid_2026_mar_tg.pdf":{"0":10,"1":10,"3":5,"4":5,"5":5}
+}}

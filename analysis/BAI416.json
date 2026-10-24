@@ -1,0 +1,20 @@
+{"code":"BAI 416","name":"AI in Healthcare",
+"topics":[
+["AI in Healthcare: Evolution, Types, Benefits and Trends",["Define AI in healthcare and discuss its historical evolution and key milestones.","Explain the types of AI in healthcare and the jobs/benefits of AI; identify emerging trends such as AI-driven telemedicine and genomics."]],
+["Healthcare Data: Types, Sourcing, Enrichment and Pre-processing",["Differentiate structured and unstructured healthcare data and time-series vs non-time-series data, with examples.","Why is data pre-processing the most critical step in healthcare AI? Explain data cleaning, enrichment and the challenges of data sourcing."]],
+["Healthcare Data Analysis Workflow",["Describe the workflow of a healthcare data analysis project from data collection to deployment.","Compute the 3-point moving average for the given vital-sign series and discuss its use and limitations in ICU monitoring."]],
+["Clinical Decision Support Systems",["What is a CDSS? Describe its types and how AI enhances it; are CDSS life-critical systems?","What factors affect CDSS implementation and what are its known weaknesses and real-world challenges?"]],
+["Medical Imaging and Disease Detection",["How can AI be used in medical imaging to advance precision medicine? Explain segmentation vs classification for early disease detection.","Explain disease detection with tabular medical data using ML techniques, and the challenges of using deep networks in healthcare."]],
+["Predictive Modelling and Model Evaluation",["Describe the process of developing a predictive model for patient risk assessment and common techniques.","Explain how predictive models in healthcare AI are validated and evaluated, and the key performance metrics."]],
+["NLP and Electronic Health Records",["What is an EHR? How does NLP extract value from EHRs and what specific NLP tasks are involved?","State the uses of NLP in healthcare and the NLP techniques used."]],
+["Ethics, Bias and Geographic/Demographic Variation",["Discuss the ethical guidelines and dilemmas in AI-driven diagnosis and CDSS, including bias and patient safety.","How do geographic and demographic variations impact AI-based healthcare solutions?"]],
+["Patient Data Privacy: HIPAA and Data Protection",["What is HIPAA compliance and why is it needed? How does it ensure privacy and security of patient data?","How can healthcare organisations protect patient data? Compare data-protection regimes in India, the UK and the US."]]
+],
+"papers":{
+"papers/all/bai416_end_2024_may_tg.pdf":{"0":22.5,"3":12.5,"4":2.5,"6":22.5,"7":2.5,"8":20},
+"papers/all/bai416_mid_2024_mar_tg.pdf":{"1":2.5,"3":7.5,"4":10,"5":5},
+"papers/all/bai416_end_2025_may_tg.pdf":{"0":2.5,"1":15,"2":10,"3":2.5,"4":10,"5":12.5,"6":2.5,"7":12.5,"8":12.5},
+"papers/all/bai416_mid_2025_mar_tg.pdf":{"0":5,"1":10,"3":5,"4":5,"7":5},
+"papers/all/bai416_end_2026_may_tg.pdf":{"0":12.5,"1":12.5,"2":10,"3":12.5,"4":12.5,"5":12.5,"6":12.5,"7":2.5,"8":12.5},
+"papers/all/bai416_mid_2026_mar_tg.pdf":{"0":5,"1":7.5,"2":5,"3":7.5,"4":10,"7":5}
+}}

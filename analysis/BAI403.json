@@ -1,0 +1,23 @@
+{"code":"BAI 403","name":"Computer Vision",
+"topics":[
+["Introduction to Computer Vision and the Data-Driven Approach",["What is computer vision? Why is vision so difficult? Give real-world examples of computer vision applications.","Explain the data-driven approach to computer vision versus hand-engineered approaches; explain image digitization and edge detection."]],
+["k-NN and Linear Classification",["How does the k-NN algorithm work and how is k chosen? Why is an odd k preferred? Discuss its limitations for large-scale image classification.","Explain linear classification and how a linear classifier separates classes; explain K-means clustering for vector quantization."]],
+["Loss Functions and Optimization (Gradient Descent, SGD)",["What is the optimization of the loss function and its role in computer vision? Explain MSE and its applications.","How are weights updated in SGD? Differentiate stochastic and batch gradient descent and explain gradient averaging."]],
+["Neural Network Training: Backpropagation and Activation Functions",["How does the backpropagation algorithm work? Describe the forward pass, loss computation and backward pass.","Compare sigmoid and ReLU activation functions; what is the function of the ReLU layer? How does a CNN differ from an ANN?"]],
+["CNN Layers: Convolution, Pooling, Parameter Sharing, Batch Norm",["Explain the convolutional, pooling, activation and fully connected layers in a CNN; why does max-pooling give translation invariance?","What is parameter sharing and why is it crucial? Explain batch normalization and its placement; compute output sizes for the given pooling."]],
+["Regularization, Overfitting and Weight Initialization",["Differentiate overfitting and underfitting; explain L1/L2 regularization and early stopping in CNN training.","Describe the weight initialization techniques used in CNNs."]],
+["CNN Architectures: LeNet, AlexNet, VGG-16, ResNet",["Compare LeNet and VGG-16; why is VGG-16 computationally expensive?","Explain the AlexNet and ResNet architectures."]],
+["Transfer Learning and Data Augmentation",["What is transfer learning? Explain using a CNN as a fixed feature extractor vs fine-tuning for a domain-specific task.","Explain the different data augmentation techniques used in computer vision."]],
+["RNNs, Attention and Image Captioning",["Explain the RNN architecture and its variants; compare RNNs with feedforward networks and CNNs in vision.","Describe the encoder–decoder architecture for image captioning and how attention lets the decoder focus on image regions; differentiate soft and hard attention."]],
+["Transformers and Vision Transformers",["Explain self-attention in a Transformer encoder and the roles of query, key and value.","How has the Transformer been adapted for image recognition? Explain Vision Transformers and vision–language models with applications."]],
+["Object Detection, Segmentation and Face Recognition",["Explain object detection and differentiate two-stage and single-stage detectors.","Define semantic segmentation and why classic CNN classifiers are unsuitable for it; how does face recognition work using Siamese networks?"]],
+["Generative Models, Adversarial Examples and Dataset Bias",["Explain the architecture and training objective of a GAN; what are conditional GANs and VAEs used for?","What is an adversarial example and how is it used to test robustness? Discuss biases in image datasets with an example."]]
+],
+"papers":{
+"papers/all/bai403_end_2023_dec_tg.pdf":{"0":10,"1":10,"2":10,"5":2.5,"6":10,"7":10,"8":10,"9":10,"11":10,"4":5},
+"papers/all/bai403_end_2024_dec_tg.pdf":{"0":2.5,"1":10,"2":12.5,"3":5,"4":5,"5":15,"6":5,"7":5,"8":12.5,"9":7.5,"10":10,"11":10},
+"papers/all/bai403_mid_2024_oct_tg.pdf":{"0":5,"1":5,"2":10,"4":5,"5":2.5,"6":5,"7":5},
+"papers/all/bai403_mid_2024_nov_remid_tg.pdf":{"0":5,"1":5,"2":5,"3":7.5,"4":5,"6":5},
+"papers/all/bai403_end_2025_dec_tg.pdf":{"0":5,"1":5,"2":2.5,"3":5,"4":10,"5":7.5,"6":6,"7":4,"8":12.5,"9":12.5,"10":7.5,"11":12.5},
+"papers/all/bai403_mid_2025_oct_tg.pdf":{"2":10,"3":5,"4":7.5,"6":5,"7":5}
+}}

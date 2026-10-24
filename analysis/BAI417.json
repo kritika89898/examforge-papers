@@ -1,0 +1,11 @@
+{"code":"BAI 417","name":"Multimodal Data Analysis",
+"topics":[
+["Text Statistics: Zipf's Law and Heaps' Law",["Using Heaps' law with the given k and β, estimate the vocabulary size for the given total word count.","Using Zipf's law, estimate the total number of words given the frequency of the first-ranked word; give examples and applications of both laws."]],
+["Multimodal Learning, Fusion and Co-learning",["What are the different multimodal learning techniques and combining models? Discuss their advantages and limitations.","Define co-learning and its application in multimodal data integration; give applications of multimodal recommendation."]],
+["Speech Processing: Short-Term Analysis, Energy, Spectral Features",["Calculate the short-term energy of the given speech segment and the spectral centroid of the given spectrum; explain windowing in short-term analysis.","Define formant frequencies and calculate the first three formants for a vocal tract of 17 cm; discuss applications of speech processing."]],
+["Image/Video Processing: Point, Neighbourhood and Edge Processing",["Explain point processing and neighbourhood processing techniques in multimodal/video data analysis and their challenges.","Compute the consecutive differences of the given audio amplitudes to detect edges; discuss the benefits of enhancement."]],
+["Biomedical Signals and Spatio-Temporal Data",["What are the types, characteristics and applications of biomedical signals? Explain the challenges in processing them.","Explain the handling of spatial and temporal data in multimodal analysis."]]
+],
+"papers":{
+"papers/all/bai417_end_2025_dec_tg.pdf":{"0":12.5,"1":15,"2":20,"3":15,"4":10}
+}}

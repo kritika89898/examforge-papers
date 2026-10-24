@@ -1,0 +1,21 @@
+{"code":"BAI 404","name":"Social Media Analytics",
+"topics":[
+["SMA Concept, Need and Social Media Landscape",["Define social media analytics and explain its significance; how does SMA turn raw social media data into actionable insights?","Discuss the need for SMA in small vs large organizations and its applications in marketing, customer service, product development and crisis management; explain the social media landscape."]],
+["Social Networks: Nodes, Ties, Influencers, Graphs and Matrices",["Explain nodes, ties and influencers in social networks and how graphs and adjacency matrices represent network data.","Define basic measures (degree, betweenness, clustering coefficient) to identify influential users; which measure identifies a bridge node?"]],
+["Network Models: Random Graphs, Evolution and Preferential Attachment",["Explain random graphs and their role in modelling network evolution, with real-world examples.","Model how a new researcher chooses papers to read using preferential attachment, starting from the given small network."]],
+["Link Analysis and Link Prediction",["What is link analysis and how does it uncover relationships between entities in a network?","Compare the Adamic–Adar, Jaccard, common-neighbours and preferential-attachment link prediction algorithms on the given network."]],
+["Web Analytics: Clickstream, Surveys, A/B Testing, Google Analytics",["What is clickstream analysis? Give metrics commonly analysed and write code to count clicks per user/session.","Explain online surveys, A/B testing for webpages and setting up Google Analytics for a website."]],
+["Web Crawling, Indexing and NLP for Micro-text",["Explain web crawling and indexing for data collection; write Python steps to crawl Twitter (X) data and visualise hashtags.","Give an overview of NLP techniques for micro-text analysis of social media posts."]],
+["Facebook Analytics and Social Campaigns",["A Facebook campaign reached 15,000 people with 6.5% engagement. Compute the engaged users and how many more were needed for 10%; suggest improvements.","Describe key Facebook Insights metrics (reach, engagement, demographics) and a strategy to plan, measure and evaluate a social campaign."]],
+["Network Analysis on Platforms (LinkedIn, Instagram, YouTube, Twitter)",["Explain network analysis on social platforms to identify communities, influencers and engagement metrics.","Explain social affiliation and contexts, collective classification and influence maximization."]],
+["Data Processing and Visualization in SMA",["Explain the principles of data visualization and the charts and dashboards used; how do node-link diagrams and heatmaps help?","Explain data cleaning, transformation and aggregation in SMA, and the role of Python tools and libraries."]],
+["Future Trends and Challenges in SMA",["Discuss future trends in SMA and the influence of AI/ML; explain game analytics.","Examine the challenges of analysing social network data (quality, scale, privacy) and strategies to overcome them."]]
+],
+"papers":{
+"papers/all/bai404_end_2024_may_tg.pdf":{"0":12.5,"1":2.5,"2":2.5,"3":15,"4":5,"5":10,"6":12.5,"7":10,"8":12.5,"9":12.5},
+"papers/all/bai404_mid_2024_mar_tg.pdf":{"0":5,"1":5,"2":5,"3":2.5,"4":7.5,"5":5,"8":5,"9":5},
+"papers/all/bai404_end_2025_may_tg.pdf":{"0":12.5,"1":12.5,"2":12.5,"3":10,"4":12.5,"5":12.5,"6":22.5,"7":5},
+"papers/all/bai404_mid_2025_mar_tg.pdf":{"0":5,"1":5,"2":5,"3":2.5,"4":7.5,"5":5,"8":5,"9":5},
+"papers/all/bai404_end_2026_may_tg.pdf":{"0":12.5,"1":12.5,"3":2.5,"4":12.5,"5":12.5,"6":15,"7":7.5,"8":15},
+"papers/all/bai404_mid_2026_mar_tg.pdf":{"0":10,"1":5,"2":5,"4":5,"5":5,"7":5,"8":5}
+}}
