@@ -1,0 +1,25 @@
+{"code":"BMA 110","name":"Engineering Mechanics",
+"topics":[
+["Force Systems, Resultants and Equilibrium",["Find the magnitude and direction of the resultant of the given concurrent forces; reduce the given parallel force system to a single force / force–couple system.","State Lami's, Varignon's and transmissibility principles; find the tensions/reactions for the given sphere, roller or beam in equilibrium with a free-body diagram."]],
+["Friction: Blocks, Inclines, Ladders and Wedges",["Determine whether the given block slips and the friction force; find the inclination and cord tension for the two bodies on an incline about to slide.","Find the coefficient of friction for the given ladder just about to slip / the wedge force P to raise the column; explain cone of friction and angle of repose."]],
+["Centroid and Centre of Gravity",["Locate the centroid of the given composite lamina (Z/C/T section, plate with hole); derive the centroid of a triangle and semicircle.","Find the centre of gravity of a solid hemisphere; use Pappus' theorems to find the volume/surface/mass of the given body of revolution."]],
+["Moment of Inertia and Radius of Gyration",["Find the moment of inertia of the given section about its centroidal axes; derive I of a triangle/semicircle.","State the parallel and perpendicular axis theorems; find the rectangular and polar radii of gyration of the given area."]],
+["Plane Trusses",["Find the forces in the given truss members using the method of joints or sections.","Classify perfect, deficient and redundant frames and check the given truss."]],
+["Kinematics of Particles: Rectilinear and Curvilinear Motion",["For the given acceleration–velocity relation, find the time and distance to reach the given speed.","Find the tangential and normal accelerations / radius of curvature for the given car on a curve, dip or hump."]],
+["Kinetics: Newton's Laws, D'Alembert, Pulleys",["Find the acceleration and tension for the given connected blocks over pulleys / on a rough plane.","State D'Alembert's principle; find the runway length for the given airliner take-off."]],
+["Work–Energy, Impulse and Impact",["State the work–energy principle; find the bullet's exit velocity and resistance for the given wood block.","Define the coefficient of restitution; show the total distance of a bouncing ball is h(1+e²)/(1−e²) and solve the given collision problem."]],
+["Rigid Body Kinematics: Rotation and Instantaneous Centre",["Find the angular velocity/displacement of the given rotating wheel or disk and the velocity/acceleration of a point on it.","Using the instantaneous centre, find the angular velocity of the given sliding bar, slotted link or slider-crank piston velocity."]],
+["Rigid Body Kinetics: Rolling and Plane Motion",["Find the velocity of the given cylinder rolling down the incline.","Find the cable tension when the given beam's other cable fails; find the linear and angular velocity of the roller between two belts."]]
+],
+"papers":{
+"papers/all/bma110_end_2022_aug_fr228.pdf":{"0":12.5,"1":12.5,"2":12.5,"4":10,"5":12.5,"6":12.5,"7":2.5,"8":10,"9":10},
+"papers/all/bma110_end_2022_apr_fr281.pdf":{"0":12.5,"1":15,"2":5,"3":12.5,"4":10,"5":10,"6":10,"7":2.5,"8":22.5},
+"papers/all/bma110_end_2023_dec_fr216.pdf":{"0":15,"1":12.5,"2":10,"4":12.5,"6":10,"7":12.5,"8":22.5},
+"papers/all/bma110_end_2023_mar_fr253.pdf":{"0":12.5,"1":12.5,"2":10,"3":2.5,"4":12.5,"5":2.5,"6":12.5,"7":12.5,"8":12.5,"9":10},
+"papers/all/bma110_end_2023_jul_fr259.pdf":{"0":15,"1":15,"2":12.5,"4":2,"5":12.5,"6":10,"7":4,"8":22.5},
+"papers/all/bma110_mid_2023_may_fr265.pdf":{"0":10,"1":7.5,"2":12.5,"3":10},
+"papers/all/bma110_mid_2023_oct_fr269.pdf":{"0":10,"1":7.5,"2":7.5,"3":5,"4":7.5},
+"papers/all/bma110_mid_2023_jan_fr2141.pdf":{"0":10,"1":10,"2":5,"3":7.5,"4":7.5},
+"papers/all/bma110_end_2024_may_fr230.pdf":{"0":12.5,"1":12.5,"2":15,"3":5,"4":2.5,"5":20,"6":2.5,"7":12.5,"8":10},
+"papers/all/bma110_mid_2024_mar_fr2125.pdf":{"0":12.5,"1":7.5,"2":7.5,"3":5,"4":7.5}
+}}

@@ -1,0 +1,19 @@
+{"code":"BIT 201","name":"Database Management Systems",
+"topics":[
+["DBMS Concepts, Architecture and DBA",["Explain the three-level schema architecture and logical/physical data independence.","Why use a DBMS over a file system? Give DBMS functions and applications, design anomalies, and the role of a DBA."]],
+["Keys and Integrity Constraints",["Differentiate super, candidate, primary, composite and alternate keys with examples.","Explain referential integrity and the significance of integrity constraints."]],
+["ER Modelling and Mapping to Relations",["Draw an ER diagram for the given scenario (music company / hospital / university academics / projects–clients) with all constraints.","Differentiate strong and weak entity sets; explain specialisation/generalisation and ternary relationships; map the ER diagram to relations."]],
+["SQL Queries",["Write SQL queries on the given schema (flights/aircraft/employees, customer/vehicle/rental, employee/department).","Explain GROUP BY, views, DROP vs DELETE, COMMIT vs ROLLBACK, and inner vs outer join with examples."]],
+["Relational Algebra",["Write relational algebra expressions for the given queries on the Sailors–Boats–Reserves / Customer–Vehicle–Rental schema.","Convert the given SQL to relational algebra; express cross product via join; differentiate selection and projection; when are relations union-compatible?"]],
+["Functional Dependencies and Normalisation",["For the given relation and FDs, find the closure, candidate keys and normalise to 2NF/3NF/BCNF.","Why is normalisation needed? Differentiate 3NF and BCNF; explain lossless-join decomposition and transitive dependency."]],
+["Transactions, ACID and Serializability",["Explain ACID properties and the transaction state diagram.","Explain serial vs non-serial schedules and conflict serializability with examples; explain dirty read and other concurrency problems."]],
+["Concurrency Control, Locking and Deadlocks",["Explain two-phase locking and strict 2PL with benefits and drawbacks.","What is deadlock? Illustrate with three transactions and explain a prevention scheme."]],
+["Advanced Databases: Distributed, Multimedia, Object-Oriented",["Explain the framework of a distributed DBMS and fragmentation.","Write notes on multimedia databases; distinguish relational and object-oriented data models."]]
+],
+"papers":{
+"papers/all/bit201_end_2022_dec_fr36.pdf":{"0":2.5,"1":2.5,"2":20,"3":12.5,"4":12.5,"5":12.5,"6":12.5,"7":5,"8":10},
+"papers/all/bit201_mid_2022_oct_fr52.pdf":{"0":5,"2":17.5,"3":5,"4":10},
+"papers/all/bit201_end_2023_dec_fr65.pdf":{"0":5,"2":12.5,"3":10,"5":20,"6":5,"7":10},
+"papers/all/bit201_end_2024_dec_fr12.pdf":{"0":5,"1":10,"2":10,"3":15,"4":10,"5":12.5,"6":10,"7":10,"8":12.5},
+"papers/all/bit201_mid_2024_oct_fr95.pdf":{"0":7.5,"1":5,"2":10,"3":10,"4":5}
+}}

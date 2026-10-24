@@ -1,0 +1,19 @@
+{"code":"BIT 204","name":"Object Oriented Programming",
+"topics":[
+["OOP Concepts and C++ Basics",["Explain five characteristics of OOP; are encapsulation and data abstraction the same?","Explain derived and user-defined data types, type casting (implicit and explicit), references vs pointers, and dynamic memory allocation."]],
+["Output Prediction in C++",["Find the output of the given program using the comma operator / pointer increment.","Find the output of the given constructor–destructor program and explain the execution order."]],
+["Functions: Inline, Default Arguments, Call by Reference",["Write a program using an inline function to find the minimum of two numbers; how does it differ from default arguments?","Square an integer using call by pointer and call by reference."]],
+["Classes, Static Members and Friend Functions",["Write an EMPLOYEE class with a static counter; explain two uses of static.","Use a friend function to swap private data of two classes / compare areas of Rectangle and Triangle; how does a friend differ from a member function?"]],
+["Constructors and Copy Constructors",["Why is a copy constructor used? Demonstrate with a program.","Differentiate default and parameterised constructors."]],
+["Operator and Function Overloading",["Overload the unary ++ operator for the given Time class using member and friend functions.","Calculate the area of a rectangle or circle using function overloading; explain compile-time polymorphism."]],
+["Inheritance, Virtual Functions and Abstract Classes",["Show the order of constructor calls in multiple inheritance; demonstrate a virtual base class and the protected specifier.","Create the abstract UniversityEmployee class with a pure virtual salary() and derived teaching/non-teaching classes; design the student–test–sports–result hierarchy."]],
+["File Handling in C++",["Count the characters, words and lines in a text file.","Write student records to Pass.txt or Fail.txt based on marks; explain random file access."]],
+["Exception Handling and Namespaces",["Explain exception handling with a diagram and show multiple catch blocks for one try.","Throw a divide-by-zero exception; explain the scope resolution operator and using in namespaces."]],
+["Java: Features, Packages, Interfaces, Inheritance, Threads",["Explain why Java is secure and portable and the JVM; differentiate abstract classes and interfaces.","Explain packages, multithreading and multilevel inheritance using super with programs."]]
+],
+"papers":{
+"papers/all/bit204_end_2024_may_fr2127.pdf":{"0":5,"1":2.5,"2":7.5,"4":5,"5":6,"6":10,"7":10,"8":10,"9":20},
+"papers/all/bit204_mid_2024_mar_fr2104.pdf":{"0":5,"2":2.5,"3":10,"5":5,"6":12.5},
+"papers/all/bit204_end_2025_may_fr227.pdf":{"0":5,"2":5,"3":10,"4":2.5,"5":12.5,"6":10,"7":10,"8":10,"9":22.5},
+"papers/all/bit204_mid_2026_mar_fr244.pdf":{"0":7.5,"1":5,"2":5,"3":7.5,"4":2.5,"5":5}
+}}
