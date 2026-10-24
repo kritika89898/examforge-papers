@@ -1,0 +1,23 @@
+{"code":"BIT 203","name":"Software Engineering",
+"topics":[
+["Software Engineering Basics and Software Crisis",["What are the reasons software engineering is important? Why do software projects go wrong?","Discuss the failure curves for hardware and software, and the umbrella activities of the software process."]],
+["Software Process Models (SDLC) and Agile",["Suggest the most appropriate process model for the given systems (anti-lock braking, university accounting, etc.) with reasons.","Compare prescriptive and evolutionary process models; describe the common characteristics of agile methods."]],
+["Prototyping vs Full Requirements Analysis Strategies",["For a hospital patient-planning system, discuss the pros and cons of thorough up-front analysis versus a pilot version. Which strategy do you favour?","Explain how prototyping is used for requirements determination and user participation in the SDLC."]],
+["Requirements Engineering and Elicitation",["Why is requirements engineering a critical stage? Discuss its three main activities and why no single elicitation technique works in all situations.","Discover ambiguities and omissions in the given requirements statement for an automated rail ticket machine."]],
+["SRS, Traceability and Requirement Quality",["What are the characteristics and goals of a good SRS? Why should requirements be numbered and traceable?","Describe why documentation of requirements is important, and the difference between good requirements and a good specification."]],
+["Data Flow Diagrams and Context Diagrams",["Draw the context diagram and level-1 DFD for the given system (hospital pharmacy / order system / student registration).","Identify violations of DFD rules in the given context and level-1 diagrams."]],
+["UML: Use Case, Sequence Diagrams and CRC Cards",["Draw a use case diagram for an online food ordering system.","Develop a sequence diagram for student course registration; explain why CRC cards are effective for conceptual modelling."]],
+["Software Design: Modularity, Coupling, Cohesion, Patterns",["Explain modularity in software design and the types of coupling; contrast coupling and cohesion.","What are the properties of design patterns and how do they impact design quality? Prepare a structure chart for the given module."]],
+["Software Testing: CFG, Cyclomatic Complexity, Levels",["Draw the CFG for the given program, calculate its cyclomatic complexity and identify independent paths with test cases.","Discuss the levels of software testing and the errors found at each level; distinguish verification and validation."]],
+["Software Maintenance, Reverse Engineering and Legacy Systems",["Why is maintenance required after implementation? Describe the software maintenance activities and process.","What is software reverse engineering? Discuss the parts of a legacy system."]],
+["Cost Estimation: Function Points and COCOMO",["Compute the function points for the given system with the given component complexities and adjustment factors.","Calculate the effort and development time for the given KLOC using basic COCOMO in organic, semi-detached and embedded modes; explain cost drivers."]],
+["Project Management, Risk Management and Configuration",["You are managing a project that is behind schedule. How can renegotiating schedule, adding people or relaxing quality shorten it?","What are the approaches to risk management? Define measure, measurement and metric, and software configuration items."]]
+],
+"papers":{
+"papers/all/bit203_end_2022_dec_fr72.pdf":{"0":2,"1":2,"3":12,"2":5,"5":10,"6":5,"7":7,"8":10,"9":7,"10":15,"11":10},
+"papers/all/bit203_mid_2022_oct_fr60.pdf":{"2":5,"3":5,"4":10,"5":10,"11":5},
+"papers/semester-3/BIT203_SE_END_2023.pdf":{"2":10,"4":15,"5":10,"7":2.5,"8":10,"9":12.5,"10":10,"11":15},
+"papers/semester-3/BIT203_SE_MID_2023.pdf":{"0":2.5,"1":7.5,"3":10,"6":4,"5":6},
+"papers/semester-3/BIT203_SE_END_2024.pdf":{"0":5,"1":20,"3":10,"4":2.5,"5":10,"7":15,"8":10,"10":22.5},
+"papers/semester-3/BIT203_SE_MID_2025.pdf":{"0":2.5,"1":12.5,"2":5,"4":5,"5":5,"6":5,"7":5}
+}}

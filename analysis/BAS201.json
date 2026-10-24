@@ -1,0 +1,15 @@
+{"code":"BAS 201","name":"Material Science and Engineering",
+"topics":[
+["Classes of Materials: Metals, Ceramics, Polymers, Composites",["What are composite materials? Explain the different composite matrices and their applications.","What are ceramic materials? Tabulate their properties and give differences between metals, ceramics and polymers."]],
+["Superconductivity",["The critical field of a superconductor at two temperatures is given; find its transition temperature (or the critical field at a given temperature).","What are Type-I and Type-II superconductors? Give examples."]],
+["Dielectric and Piezoelectric Materials",["What are the types of polarisation in a dielectric and how do they vary with frequency? Calculate the polarisation vector and flux density for the given dielectric slab.","What are piezoelectric materials? Explain the direct and reverse piezoelectric effect with examples."]],
+["Magnetic Materials, Spintronics and GMR",["Classify dia-, para-, ferro- and anti-ferromagnetic materials based on spin; differentiate hard and soft magnetic materials.","What is spintronics and the GMR effect? Calculate the magnetisation and flux density of a paramagnetic material."]],
+["Semiconductors and Hall Effect",["Calculate the Hall voltage developed across the given semiconductor plate in a magnetic field.","What is Fermi energy and how does it change with temperature in an n-type semiconductor?"]],
+["Smart and Photonic Materials",["What are shape memory alloys? Explain the shape memory effect. Explain thermo-, photo- and electro-chromic materials.","What are photonic crystals (1D, 2D, 3D)? Explain the construction of an LED."]],
+["Biomaterials and Conductivity of Materials",["What are the characteristics of implant materials? Give examples of polymer implants and their applications.","Write a note on the electrical and thermal conductivity of metals, alloys, ceramics, polymers and composites."]],
+["Characterisation: XRD and Raman Spectroscopy",["Explain X-ray diffraction and Bragg's law, and the construction and working of an X-ray diffractometer.","What is Raman spectroscopy? Explain Rayleigh, Stokes and anti-Stokes lines and the Raman set-up."]]
+],
+"papers":{
+"papers/all/bas201_end_2022_dec_fr234.pdf":{"0":22.5,"1":2.5,"2":10,"3":5,"4":5,"5":20,"6":7.5,"7":22.5},
+"papers/all/bas201_mid_2022_oct_fr290.pdf":{"0":2.5,"1":5,"2":5,"3":12.5,"4":7.5}
+}}

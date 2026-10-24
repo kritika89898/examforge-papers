@@ -1,0 +1,23 @@
+{"code":"BCS 201","name":"Data Structures",
+"topics":[
+["Complexity Analysis and Recursion Tracing",["What is a time–space trade-off? Find the time complexity of the given code segment / how many times 'Hello' is printed.","Trace the given recursive C functions and state their output with justification."]],
+["Arrays: Memory Representation and Algorithms",["For a 2-D array stored from the given base address, find the address of A[i][j] in row-major and column-major order.","Write an algorithm to insert/delete an element in an array, count inversions, or find the second largest element, and analyse its complexity."]],
+["Searching and Sorting",["Describe insertion sort and write an algorithm for it. How many recursive calls does binary search make for N elements?","Compare quick sort and merge sort in terms of complexity and suitability for applications."]],
+["Singly, Doubly and Circular Linked Lists",["Write an algorithm to delete the kth element from the end of a singly linked list / print a linked list in reverse order.","Write an algorithm to insert an element at the first, last and Nth position of a doubly linked list; reverse a circular linked list."]],
+["Stacks and Expression Conversion",["Convert the given infix expression to postfix and prefix using a stack, showing each step, and evaluate the postfix expression.","Implement a stack using a linked list, or two stacks in a single array growing in opposite directions."]],
+["Queues and Circular Queues",["Implement a queue using an array; what is the drawback of a linear queue and how does a circular queue solve it?","Implement a queue using two stacks / a singly linked list, and check whether a string is a palindrome using a stack and a queue."]],
+["Binary Trees and Binary Search Trees",["Find the preorder, inorder and postorder traversals of the given binary tree.","Given the preorder traversal of a BST, find its postorder traversal; describe BST operations with an example."]],
+["AVL Trees",["Construct an AVL tree by inserting the given keys and then delete the given node, showing the rebalancing rotations.","What is an AVL tree? Write the algorithms for the various AVL rotations."]],
+["B-Trees",["Perform the given sequence of insertions and deletions on an initially empty B-tree of order 4.","Explain B-trees, their advantages and the steps of insertion."]],
+["Graphs: Traversal, MST and Shortest Paths",["Find the minimum spanning tree of the given graph using Prim's and Kruskal's algorithms.","Explain Dijkstra's algorithm and find the shortest paths from the source vertex; show DFS and BFS for the given graph."]],
+["Hashing and Collision Resolution",["What is hashing? Explain collision resolution techniques and build a hash table of size 10 for the given keys using chaining and linear probing."]]
+],
+"papers":{
+"papers/semester-3/BCS201_DS_END_2022.pdf":{"1":15,"4":2.5,"3":10,"5":5,"6":2.5,"7":10,"8":10,"9":12.5,"10":10},
+"papers/all/bcs201_mid_2022_oct_fr221.pdf":{"1":7.5,"3":12.5,"4":7.5,"5":7.5},
+"papers/semester-3/BCS201_DS_END_2023.pdf":{"0":5,"1":10,"2":10,"3":12.5,"5":2.5,"6":7.5,"7":10,"9":20,"10":2.5},
+"papers/semester-3/BCS201_DS_MID_2023.pdf":{"0":2.5,"1":7.5,"2":2.5,"3":12.5,"4":5,"5":7.5},
+"papers/semester-3/BCS201_DS_END_2024.pdf":{"0":2.5,"1":12.5,"2":10,"3":2.5,"4":10,"5":10,"6":2.5,"7":10,"8":10,"9":20},
+"papers/all/bcs201_mid_2024_oct_fr64.pdf":{"0":5,"1":12.5,"3":7.5,"4":7.5,"5":7.5},
+"papers/all/bcs201_mid_2025_oct_fr293.pdf":{"0":2.5,"1":7.5,"2":5,"3":7.5,"4":7.5,"5":7.5}
+}}

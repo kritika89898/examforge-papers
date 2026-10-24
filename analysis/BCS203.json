@@ -1,0 +1,22 @@
+{"code":"BCS 203","name":"Discrete Structures",
+"topics":[
+["Propositional Logic, Tautologies and Equivalence",["Identify whether the given proposition is a tautology, contingency or contradiction; which of the given Boolean expressions are not tautologies?","Prove that ¬(P ∨ (¬P ∧ Q)) is logically equivalent to ¬P ∧ ¬Q without using a truth table."]],
+["Predicate Logic and Quantifiers",["Translate 'Not all that glitters is gold' and 'Some boys are taller than all the girls' into predicate logic.","Determine the truth value of the given quantified statements over the real numbers."]],
+["Rules of Inference and Proof Techniques",["Using rules of inference, show that the given premises lead to the given conclusion.","Prove that if 3n + 2 is even then n is even, by contraposition and by contradiction."]],
+["Mathematical Induction",["Prove by mathematical induction that 1·2 + 2·3 + ... + n(n+1) = n(n+1)(n+2)/3.","Using mathematical induction, show that 2²ⁿ − 1 is divisible by 3."]],
+["Sets, Counting, Inclusion–Exclusion and Pigeonhole",["Find the number of positive integers up to the given limit divisible by 3, 5 or 7 using inclusion–exclusion.","Using the pigeonhole principle, find the minimum number of students/balls needed to guarantee the given condition."]],
+["Relations: Equivalence and Partial Orders",["Show that 'x R y iff x − y is divisible by 3' (congruence modulo m) is an equivalence relation.","Determine whether the given relations are reflexive, symmetric, antisymmetric or transitive; count the antisymmetric relations on an n-element set."]],
+["Posets, Hasse Diagrams and Lattices",["Construct the Hasse diagram of the poset ({1,2,3,4,6,8,12,24}, |) and find its maximal, minimal, greatest and least elements and bounds of {1,2,3}.","Prove that 'divides' on the integers is a partial order and draw the Hasse diagram of D45 or of the power set P(A) under ⊆."]],
+["Functions, Countability and Recurrence Relations",["Is the function f(x) = (x − 2)/(x − 3) from R − {3} to R − {1} one-one and onto? Find compositions f∘g and g∘f.","Prove that the set of integers / rationals is countable; write and solve the recurrence relation of merge sort."]],
+["Groups, Subgroups and Lagrange's Theorem",["State and prove Lagrange's theorem; prove that every group of prime order is cyclic.","Prove that the positive rationals under a*b = ab/2 form an abelian group; show that if every element is its own inverse then G is abelian."]],
+["Rings and Fields",["Define ring, field and cyclic group. Prove that (Z₅, +₅, ×₅) is a field.","Prove that the intersection of two subgroups is a subgroup, and that the given set is a group under multiplication modulo 40."]],
+["Graphs: Euler and Hamiltonian Paths, Isomorphism",["Examine whether the given graph has an Euler path/circuit and a Hamiltonian path/circuit.","Determine whether the given graphs G1 and G2 are isomorphic; find the number of edges in a graph with 10 vertices each of degree 6."]],
+["Planar Graphs, Colouring and Spanning Trees",["State and prove Euler's formula V − E + R = 2 for connected planar graphs.","Find the chromatic number of the given graph; prove that any planar graph is 5-colourable; find the number of distinct minimum spanning trees."]]
+],
+"papers":{
+"papers/semester-3/BCS203_DSTR_END_2022.pdf":{"1":5,"2":12.5,"0":5,"4":2.5,"5":5,"6":7.5,"7":7.5,"8":10,"9":10,"10":10,"11":10},
+"papers/semester-3/BCS203_DSTR_MID_2022.pdf":{"0":7.5,"1":5,"2":5,"4":5,"5":5,"6":10},
+"papers/semester-3/BCS203_DSTR_END_2023.pdf":{"0":2.5,"1":7.5,"2":5,"3":5,"4":7.5,"5":10,"6":5,"7":7.5,"8":15,"9":5,"10":7.5,"11":15},
+"papers/semester-3/BCS203_DSTR_MID_2023.pdf":{"0":5,"1":10,"2":5,"3":5,"4":7.5,"6":5,"7":5},
+"papers/semester-3/BCS203_DSTR_END_2024.pdf":{"0":10,"1":5,"3":5,"5":10,"6":2.5,"7":5,"8":12.5,"9":5,"11":17.5}
+}}
