@@ -1,0 +1,9 @@
+{"code":"BIT 203 (OST)","name":"Open Source Technologies",
+"topics":[
+["Free Software and Open Source Licences",["What is the Free Software Foundation? List the licences supporting open source projects.","Explain the Apache or BSD licence."]],
+["Linux File System and Open Source Tools",["Explain the sub-folders under the Linux root folder.","Write a short note on PostgreSQL or the Git version control system."]],
+["Git, GitHub and GitLab",["What are trunk and branches in GitHub? Explain two Git branching strategies.","Explain GitLab and its key features."]],
+["SQL Transaction and Access Commands",["Explain ROLLBACK, SAVEPOINT, COMMIT, GRANT and INSERT in SQL.","Differentiate COMMIT and ROLLBACK with an example."]],
+["DevOps Tools: Jenkins and Docker",["What is Jenkins? List and explain the build triggers available in Jenkins.","Explain Docker and its architecture."]]
+],
+"papers":{"papers/all/bit203ost_mid_2025_oct_fr252.pdf":{"0":5,"1":5,"2":10,"3":5,"4":10}}}

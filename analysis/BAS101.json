@@ -1,0 +1,12 @@
+{"code":"BAS 101","name":"Applied Mathematics I",
+"topics":[
+["Matrices: Rank, Eigenvalues and Diagonalisation",["Find the eigenvalues and eigenvectors of the given matrix and check whether it is diagonalisable.","Find the rank of the given matrix by reducing it to normal form; determine a, b, c so that the given matrix is orthogonal."]],
+["Linear Systems and Cayley–Hamilton Theorem",["Test the given system of equations for consistency and solve it.","State the Cayley–Hamilton theorem and use it to compute A⁻¹ for the given matrix."]],
+["Infinite Series and Convergence Tests",["Test the convergence of the given series using appropriate tests (ratio, root, comparison).","Test the given alternating series for absolute and conditional convergence."]],
+["Successive Differentiation and Partial Derivatives",["If y = (x² − 1)ⁿ, prove the given relation using Leibnitz's theorem.","If u = f(x − y, y − z, z − x), show that uₓ + u_y + u_z = 0; test the given function for continuity at the origin; expand eˣ cos y in a Taylor series."]],
+["Maxima and Minima",["Find the maximum and minimum values of the given function of two variables."]],
+["Multiple Integrals: Area, Volume and Change of Order",["Find the area of the ellipse x²/a² + y²/b² = 1 using double integration and the volume of the given solid.","Change the order of integration and evaluate the given integral; evaluate the given triple integral."]]
+],
+"papers":{
+"papers/all/bas101_end_2022_apr_fr49.pdf":{"0":12.5,"1":10,"2":22.5,"3":12.5,"4":5,"5":22.5}
+}}

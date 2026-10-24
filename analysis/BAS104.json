@@ -1,0 +1,24 @@
+{"code":"BAS 104","name":"Applied Physics II",
+"topics":[
+["Maxwell's Equations, Displacement Current and Continuity",["Write Maxwell's equations in differential and integral form and discuss their physical significance; state and derive Gauss's law in differential form.","What is displacement current? Explain how Maxwell modified Ampère's law; find the displacement current for the given capacitor/dielectric."]],
+["EM Waves in Dielectrics and Free Space",["Using Maxwell's equations, derive the EM wave equations in a dielectric medium and show the speed is less than in vacuum; show EM waves are transverse.","For the given plane wave in a lossless medium, find the velocity, intrinsic impedance, peak magnetic field and Poynting vector; find E from the given B."]],
+["EM Waves in Conductors, Skin Depth and Poynting Theorem",["Discuss EM wave propagation in a conducting medium; why is the mobile signal weak inside a lift? Calculate the skin depth of silver at the given frequency.","Explain Poynting's theorem and the physical significance of the Poynting vector."]],
+["Crystal Structure: Miller Indices, Reciprocal Lattice",["Draw the crystal planes with the given Miller indices and find the Miller indices of a plane with given intercepts.","Find the reciprocal lattice vectors for the given primitive vectors and draw the Wigner–Seitz cell."]],
+["Band Theory: Kronig–Penney Model and Bloch Theorem",["Discuss the Kronig–Penney model and explain the formation of allowed and forbidden bands using the E–k diagram.","State and explain Bloch's theorem; classify conductors, semiconductors and insulators using band theory."]],
+["Semiconductors and Fermi Level",["Derive the expression for the Fermi level in a p-type (or n-type) semiconductor and show its position with a diagram.","Calculate the Fermi energy of the given metal / position of the Fermi level for the given doping; explain Fermi–Dirac statistics."]],
+["Diodes and Zener Regulators",["For the given Zener regulator circuit, find the output voltage, drop across the series resistor and the maximum/minimum Zener current.","Draw the I–V curve of a p-n junction diode and explain voltage stabilisation using a Zener diode."]],
+["Special Theory of Relativity",["Derive the Lorentz transformation equations and show they reduce to Galilean transformations for v ≪ c; derive time dilation and length contraction.","Derive the relativistic velocity-addition formula and solve the given spaceship/rod problems."]],
+["X-rays and Bragg's Law",["Derive Bragg's law and find the wavelength / diffraction angle for the given crystal.","Explain continuous and characteristic X-rays, Moseley's law and the shortest wavelength for the given tube voltage."]],
+["Sensors: Characteristics and Transfer Function",["What is a sensor's transfer function? Explain sensitivity, resolution, dead band, saturation and non-linearity; find the sensitivity for the given transfer function.","Differentiate sensors, transducers and actuators, and active vs passive sensors; explain the LDR or capacitive water-level sensor."]],
+["Characterisation: SEM and CT Scan",["Explain the principle, construction and working of a scanning electron microscope and its advantages over an optical microscope.","What is a CT scan? Explain its working principle and how it differs from normal X-ray imaging."]]
+],
+"papers":{
+"papers/all/bas104_end_2022_aug_fr2116.pdf":{"0":5,"1":10,"2":5,"3":5,"4":15,"5":5,"9":20,"10":10},
+"papers/all/bas104_end_2022_aug_fr2128.pdf":{"0":10,"1":10,"2":10,"3":5,"5":10,"6":10,"9":15,"10":20},
+"papers/all/bas104_mid_2022_jun_fr246.pdf":{"0":5,"2":7.5,"5":10,"6":2.5},
+"papers/all/bas104_end_2023_jul_fr289.pdf":{"0":10,"1":10,"3":5,"4":5,"5":10,"6":5,"7":17.5,"8":12.5,"9":10},
+"papers/all/bas104_mid_2023_may_fr213.pdf":{"0":10,"1":10,"3":10,"4":7.5,"5":2.5},
+"papers/all/bas104_mid_2023_may_fr2137.pdf":{"0":5,"1":5,"2":7.5,"3":5,"4":5,"5":10},
+"papers/all/bas104_end_2024_may_fr245.pdf":{"0":5,"1":12.5,"2":10,"3":5,"4":10,"5":10,"7":15,"8":10,"9":15},
+"papers/all/bas104_mid_2024_mar_fr2111.pdf":{"0":10,"1":5,"2":5,"3":2.5,"4":7.5,"5":5,"6":5}
+}}

@@ -1,0 +1,13 @@
+{"code":"BAS 103","name":"Applied Physics I",
+"topics":[
+["Interference in Thin Films",["Derive the conditions for intensity maxima and minima for interference of light reflected from a thin film.","Find the least thickness of a soap film of given refractive index that appears bright and dark by reflection."]],
+["Diffraction: N-Slit and Grating",["Derive the intensity distribution for diffraction through N slits and the conditions for maxima and minima.","A grating with 15,000 lines per inch is used with the mercury green line; find the angular separation between first and second orders."]],
+["Polarisation",["Unpolarised light passes through two polarising sheets. Find the angle between their axes for the given transmitted intensities."]],
+["Oscillations: SHM, Damped and Forced",["Solve the differential equation of a damped harmonic oscillator driven by a sinusoidal force and discuss resonance.","A particle in SHM has the given velocities at two positions; find its amplitude and period."]],
+["Central Forces and Two-Body Problem",["For a central force, show that angular momentum and areal velocity are constant.","Reduce the two-body problem to an equivalent one-body problem and define reduced mass."]],
+["Quantum Mechanics: de Broglie Waves and Particle in a Box",["Explain group and phase velocity of a wave packet and show that de Broglie waves travel with the particle velocity; compute the de Broglie wavelength of a 10 eV electron.","Solve the time-independent Schrödinger equation for a particle in a 1-D box and draw ψₙ and |ψₙ|² for n = 1, 2, 3."]],
+["Lasers and Optical Fibres",["Differentiate spontaneous and stimulated emission and derive Einstein's A and B coefficients.","Calculate the numerical aperture and acceptance angle of the given step-index fibre; explain an optical-fibre communication channel."]]
+],
+"papers":{
+"papers/all/bas103_end_2023_mar_fr59.pdf":{"0":10,"1":10,"2":2.5,"3":12.5,"4":10,"5":12.5,"6":12.5}
+}}

@@ -1,0 +1,11 @@
+{"code":"BAM 201","name":"Database Management Systems",
+"topics":[
+["DBMS Basics: Data Independence, Data Models, DBA",["Differentiate logical and physical data independence.","Differentiate hierarchical and network data models; explain the roles of a database administrator."]],
+["Three-Schema Architecture",["Describe the three-schema architecture with a diagram.","Why is mapping between schema levels needed?"]],
+["ER Modelling",["Draw an ER diagram for a hospital management system showing entities, attributes, relationships and keys.","Identify the primary and foreign keys in your ER design."]],
+["SQL Queries",["Write SQL queries on the given library schema (borrowers, suppliers, books issued).","Find the supplier with the maximum price and the books issued by a given borrower."]],
+["Integrity Constraints",["Explain the different integrity constraints in a database model with examples.","Differentiate entity and referential integrity."]],
+["Normalisation and Functional Dependencies",["Decompose the given relation into 1NF, 2NF and 3NF using the given functional dependencies.","Explain dependency-preserving decomposition and the lossless-join property with examples."]],
+["Transactions, ACID and Concurrency Control",["Explain concurrency control using timestamp-based protocols.","Explain the ACID properties of transactions and how issues from concurrent execution are handled."]]
+],
+"papers":{"papers/all/bam201_end_2024_dec_fr69.pdf":{"0":10,"1":10,"2":10,"3":10,"4":10,"5":15,"6":15}}}

@@ -1,0 +1,16 @@
+{"code":"BAS 105","name":"Applied Chemistry",
+"topics":[
+["Water: Hardness, Alkalinity and EDTA Titration",["Calculate the type and extent of alkalinity from the given phenolphthalein and methyl orange titre values.","Calculate the temporary and permanent hardness from the given EDTA titration data; what is the role of the buffer?"]],
+["Water Softening: Lime–Soda, Zeolite, Ion Exchange",["Calculate the lime (and soda) required to soften the given volume of hard water of the given composition and purity.","Describe the demineralisation/deionisation process and why water passes first through the cation exchanger; calculate the water softened by an exhausted zeolite."]],
+["Boiler Water Treatment: Conditioning and Deaeration",["Why is Calgon conditioning better than phosphate conditioning? Explain with reactions.","Describe chemical and physical methods for removal of dissolved oxygen from water; explain blow-down."]],
+["Phase Rule and Phase Diagrams",["Determine the number of components and phases in the given systems; explain congruent melting point and eutectic point.","Explain the lead–silver system (Pattinson's process for desilverisation) / water system with a phase diagram."]],
+["Catalysis: Acid–Base Catalysis and Adsorption Theory",["What are acid–base catalysts? Discuss the mechanism of acid-catalysed reactions.","Why does rough platinum act as a better catalyst in the contact process? Explain adsorption theory, promoters and catalyst poisons in Haber's and contact processes."]],
+["Spectroscopy: UV-Visible and Beer–Lambert Law",["State the Beer–Lambert law and its limitations; calculate the concentration from the given absorbance data.","Explain the instrumentation and quantitative applications of UV-visible spectrophotometry and the types of electronic transitions."]],
+["Thermal Analysis: TGA and DTA",["Explain the principle and instrumentation of thermogravimetric analysis and the factors affecting results.","How are the peaks in a DTA curve analysed and what information do they give?"]],
+["Nanomaterials and Composites",["How do the properties of materials change from bulk to nano? Discuss top-down and bottom-up approaches; explain fullerenes and carbon nanotubes.","What factors are considered in making fibre-reinforced and structural composites? What are the advantages of composites over metals?"]]
+],
+"papers":{
+"papers/all/bas105_end_2022_apr_fr217.pdf":{"0":10,"1":7,"2":5,"3":7.5,"4":10,"5":10,"6":12.5,"7":17.5},
+"papers/all/bas105_end_2022_apr_fr258_p34.pdf":{"0":10,"1":12.5,"2":2.5,"3":7.5,"4":10,"5":10,"6":10,"7":12.5},
+"papers/all/bas105_mid_2023_jan_fr2131.pdf":{"0":5,"1":10,"2":2.5,"3":7.5,"4":10}
+}}

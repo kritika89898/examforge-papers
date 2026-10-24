@@ -1,0 +1,18 @@
+{"code":"BAS 102","name":"Applied Mathematics II",
+"topics":[
+["Vector Calculus: Gradient, Divergence, Curl, Line Integrals",["Find the directional derivative of the given function and the tangent plane to the given surface; find a so that the given field is solenoidal.","Check whether the given field is conservative and find its scalar potential; find the work done along the given circular path."]],
+["Green's, Stokes' and Gauss Divergence Theorems",["Verify Green's theorem for the given line integral over the given region.","Verify Stokes' theorem / evaluate the surface integral using the Gauss divergence theorem for the given field and region."]],
+["Linear ODEs: Operator Method and Cauchy–Euler",["Solve the given linear differential equation with constant coefficients using the operator method.","Solve the given Cauchy–Euler equation and the given simultaneous differential equations."]],
+["Undetermined Coefficients, Variation of Parameters and Wronskian",["Solve the given ODE using the method of undetermined coefficients / variation of parameters.","Using the Wronskian, check whether the given solutions are linearly independent."]],
+["Laplace Transforms and Applications",["Find the Laplace transform of the given function using the shifting theorem; derive the transform of f'(t).","Solve the given initial value problem using Laplace transforms."]],
+["Inverse Laplace Transform and Convolution",["State and prove the convolution theorem and use it to find the given inverse Laplace transform.","Solve the given integral equation using Laplace transforms."]],
+["Analytic Functions and Cauchy–Riemann Equations",["If u − v is given, find the analytic function f(z); find the harmonic conjugate of u = eˣ cos y.","Show that the given f(z) satisfies the C-R equations at the origin but is not differentiable there; find the image of the given strip under the mapping."]],
+["Complex Integration: Cauchy's Theorem, Laurent Series and Residues",["Find the Laurent series of the given function valid in the given annulus.","Using the residue theorem, evaluate the given contour integral; classify the singularities of the given function."]]
+],
+"papers":{
+"papers/all/bas102_end_2022_aug_fr282.pdf":{"2":15,"3":10,"4":10,"5":12.5,"6":20,"7":20},
+"papers/all/bas102_mid_2022_jun_fr220.pdf":{"2":10,"3":10,"4":5,"5":7.5},
+"papers/all/bas102_end_2023_jul_fr2118.pdf":{"0":7.5,"1":20,"2":12.5,"3":12.5,"4":12.5,"5":5,"6":12.5,"7":15},
+"papers/all/bas102_end_2024_may_fr2110.pdf":{"0":5,"1":20,"2":12.5,"3":12.5,"4":12.5,"5":10,"6":12.5,"7":15},
+"papers/all/bas102_mid_2024_mar_fr237.pdf":{"0":15,"1":5,"2":7.5,"3":5}
+}}
