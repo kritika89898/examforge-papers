@@ -1,0 +1,25 @@
+{"code":"HMC 202","name":"Disaster Management",
+"topics":[
+["Hazard, Disaster, Risk, Vulnerability and Resilience",["Define hazard, risk, vulnerability and resilience. How is a hazard different from a disaster?","What is risk and how is it related to hazard and vulnerability? Discuss the factors affecting vulnerability and strategies for risk reduction."]],
+["Types of Disasters: Natural and Man-Made",["Differentiate between natural and man-made disasters and categorise disasters by causative factors with examples.","Name the natural and man-made disasters and the parts of India vulnerable to each."]],
+["Disaster Management Cycle: Pre-Disaster Stage",["Explain preparedness, mitigation and prevention in the pre-disaster stage with examples.","Discuss the disaster management cycle and a disaster preparedness plan."]],
+["Post-Disaster Stage: Relief, Rehabilitation, Reconstruction",["Explain the post-disaster stage with its components: relief, rehabilitation and reconstruction.","Explain the approaches to and significance of rehabilitation in disaster management."]],
+["Earthquakes and Tsunamis",["What is an earthquake? Explain its causes and the pre- and post-disaster management steps (relief and recovery).","What is a tsunami? Explain its causes, management steps, the 2004 Indian Ocean tsunami and the Indian Tsunami Early Warning System."]],
+["Cyclones, Floods, Landslides and Other Hazards",["What are tropical cyclones? Explain their causes and preparedness steps.","Explain the causes, effects and management of landslides and floods; discuss hazards from volcanic eruptions and soil erosion."]],
+["Case Studies: Bhopal, Bhuj, Joshimath and Others",["Write short notes on the Bhopal gas tragedy and the Bhuj earthquake, with lessons learnt.","Explain the causes and effects of the Joshimath disaster / the Bengal famine."]],
+["Technology: GIS, Remote Sensing, GPS and NavIC",["What is remote sensing? Discuss the use of GIS and remote sensing in disaster management.","What is IRNSS (NavIC) and how is it different from GPS in disaster management?"]],
+["ICT, Mobile Technology and Drones",["Discuss the use of ICT and mobile technology in disaster risk reduction and preparedness.","How can drone technology be used in disaster response and assessment?"]],
+["Institutional Framework: DM Act 2005, NDMA and UN Agencies",["Discuss the Disaster Management Act 2005 and its main provisions.","Explain the structure and role of NDMA, state governments and UN/international agencies in disaster management."]],
+["Search and Rescue, Fire and Evacuation Drills",["What is a search and rescue operation? Explain one-person and two-person rescue methods.","Discuss the importance and procedure of fire drills and earthquake evacuation drills."]]
+],
+"papers":{
+"papers/semester-4/HMC202_DM_END_2022.pdf":{"0":2,"1":12,"2":10,"3":5,"4":12,"5":13,"6":2,"7":10,"8":10,"9":14},
+"papers/semester-4/HMC202_DM_MID_2022.pdf":{"0":2.5,"1":5,"2":5,"3":2.5,"4":5,"5":7.5,"6":5},
+"papers/semester-4/HMC202_DM_END_2023.pdf":{"0":12.5,"1":2.5,"2":10,"4":17.5,"5":2.5,"6":5,"7":12.5,"8":12.5,"9":10,"10":10},
+"papers/semester-4/HMC202_DM_MID_2023.pdf":{"0":2.5,"1":5,"2":2.5,"3":5,"5":7.5,"6":10,"9":5},
+"papers/semester-4/HMC202_DM_END_2024.pdf":{"0":15,"3":10,"4":15,"5":15,"7":10,"8":10,"9":15,"10":5},
+"papers/semester-4/HMC202_DM_END_2024_MAY.pdf":{"0":7.5,"2":12.5,"3":10,"4":7.5,"5":2.5,"6":20,"7":20,"8":2.5,"9":7.5,"10":12.5},
+"papers/semester-4/HMC202_DM_MID_2024.pdf":{"0":2.5,"2":7.5,"3":5,"4":2.5,"5":10,"6":5},
+"papers/all/hmc202_end_2025_may_fr247.pdf":{"0":7.5,"1":10,"2":10,"3":2.5,"4":10,"7":12.5,"8":12.5,"9":12.5,"10":12.5},
+"papers/semester-4/HMC202_DM_MID_2025.pdf":{"0":10,"1":2.5,"2":10,"4":10,"5":5}
+}}

@@ -1,0 +1,161 @@
+{
+"code": "BCS 204",
+"name": "Design and Analysis of Algorithms",
+"topics": [
+[
+"Asymptotic Analysis and Loop Complexity",
+[
+"Discuss Big-O and Big-Omega notations and prove that ½n(n−1) = O(n²) by finding c and n₀.",
+"Work out the time complexity of the given nested loops; which of the two given algorithms is better in the Big-O sense?"
+]
+],
+[
+"Recurrence Relations: Master Theorem and Recursion Tree",
+[
+"Solve the recurrences T(n) = 2T(√n) + log n and T(n) = 4T(n/2) + n²√n.",
+"Solve T(n) = T(n/5) + T(4n/5) + n using the recursion tree method; compare algorithms A, B and C given by their recurrences."
+]
+],
+[
+"Divide and Conquer: Sorting, Searching, Strassen",
+[
+"Apply Strassen's algorithm to the given matrices and analyse its complexity.",
+"Design an O(log n) divide-and-conquer algorithm for the given search problem (index with T[i] = i / minimum of a decreasing-then-increasing array / missing term); analyse quick sort best and worst cases."
+]
+],
+[
+"Greedy: Activity Selection, Fractional Knapsack, Scheduling",
+[
+"Compute a schedule with the maximum number of activities for the given start and finish times.",
+"Solve the given knapsack instance with the greedy method; design a greedy algorithm to place songs on CDs or programs on a disk."
+]
+],
+[
+"Huffman Coding",
+[
+"Construct the Huffman tree for the given characters and frequencies and calculate the total bits needed.",
+"Explain the greedy Huffman coding algorithm, write its pseudocode and analyse its complexity."
+]
+],
+[
+"Minimum Spanning Trees: Kruskal and Prim",
+[
+"Find the minimum spanning tree of the given graph using Kruskal's algorithm and analyse its complexity.",
+"Do Prim's and Kruskal's algorithms work with negative edge weights? Does sorting edges in decreasing order give a maximum spanning tree?"
+]
+],
+[
+"Dynamic Programming: Matrix Chain, LCS, OBST, 0/1 Knapsack",
+[
+"Find an optimal parenthesisation of the matrix-chain product with the given dimensions.",
+"Write the algorithm for the longest common subsequence and find the LCS of the given strings; construct an optimal binary search tree for the given probabilities."
+]
+],
+[
+"Shortest Paths: Dijkstra, Bellman–Ford, Floyd–Warshall",
+[
+"Run the Bellman–Ford algorithm on the given graph from the source and show how it detects negative-weight cycles.",
+"Solve the all-pairs shortest-path problem using Floyd–Warshall, showing D(k) after each iteration."
+]
+],
+[
+"Graph Traversal and Topological Sort",
+[
+"Find the topological sort of the given DAG and how many topological orderings it has.",
+"Show how DFS can be used to find strongly connected components; which DFS implementation is better for sparse graphs?"
+]
+],
+[
+"Backtracking and Branch and Bound",
+[
+"Explain the N-Queen problem and solve the 4/5-queen problem using backtracking with the state-space tree.",
+"Compare backtracking with branch and bound; design a branch and bound algorithm for 0/1 knapsack."
+]
+],
+[
+"String Matching: Naive, Rabin–Karp, KMP, Finite Automata",
+[
+"Explain the Rabin–Karp algorithm and find the spurious hits for the given text and pattern modulo q.",
+"Using the KMP algorithm (or a string-matching automaton), search for the given pattern in the given text."
+]
+],
+[
+"NP-Completeness and Reductions",
+[
+"Discuss the classes P, NP, NP-hard and NP-complete with a diagram, and the steps to prove a problem NP-complete.",
+"Prove that the clique problem reduces to vertex cover / that set cover is NP-complete."
+]
+]
+],
+"papers": {
+"papers/semester-4/BCS204_DAA_END_2022.pdf": {
+"1": 10,
+"2": 15,
+"4": 10,
+"7": 20,
+"8": 2.5,
+"9": 2.5,
+"10": 10,
+"11": 10
+},
+"papers/semester-4/BCS204_DAA_MID_2022.pdf": {
+"0": 10,
+"1": 2.5,
+"2": 12.5,
+"3": 10
+},
+"papers/semester-4/BCS204_DAA_END_2023.pdf": {
+"0": 7.5,
+"1": 5,
+"2": 10,
+"3": 2.5,
+"4": 10,
+"5": 10,
+"6": 10,
+"7": 10,
+"9": 2.5,
+"10": 12.5,
+"11": 10
+},
+"papers/semester-4/BCS204_DAA_MID_2023.pdf": {
+"0": 2.5,
+"1": 2.5,
+"2": 15,
+"3": 7.5,
+"4": 5,
+"5": 2.5
+},
+"papers/semester-4/BCS204_DAA_END_2024.pdf": {
+"0": 2.5,
+"1": 10,
+"2": 12.5,
+"4": 5,
+"5": 7.5,
+"6": 10,
+"7": 5,
+"8": 7.5,
+"9": 12.5,
+"10": 12.5,
+"11": 12.5
+},
+"papers/semester-4/BCS204_DAA_MID_2024.pdf": {
+"1": 7.5,
+"2": 12.5,
+"3": 5,
+"4": 2.5,
+"6": 10
+},
+"papers/all/bcs204_end_2026_may_fr268.pdf": {
+"0": 2.5,
+"1": 10,
+"2": 10,
+"4": 2.5,
+"6": 20,
+"7": 10,
+"8": 2.5,
+"9": 10,
+"10": 12.5,
+"11": 10
+}
+}
+}

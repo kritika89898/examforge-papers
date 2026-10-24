@@ -1,0 +1,23 @@
+{"code":"BIT 202","name":"Operating Systems",
+"topics":[
+["OS Types, System Calls and Structure",["Explain the different types of operating systems with examples; differentiate hard and soft real-time OS.","Define system calls and their types; is multitasking an extension of multiprogramming?"]],
+["Processes, PCB, States and Context Switching",["Explain the process life cycle and process states with a diagram, and the contents of a PCB.","When does a context switch occur and what does the OS do? Explain long-, medium- and short-term schedulers."]],
+["Threads",["How is a thread different from a process? Compare single-threaded and multithreaded processes with a diagram.","Contrast user-level and kernel-level threads; why is a blocking system call a problem for user-level threads?"]],
+["CPU Scheduling: FCFS, SJF, SRTF, Priority, Round Robin",["For the given processes, draw Gantt charts and calculate the average waiting and turnaround times under SJF, SRTF, round robin (q = 3) and priority scheduling.","Explain preemption in CPU scheduling and how it changes the average waiting time for the given process set."]],
+["Process Synchronization, Semaphores and Classical Problems",["Define the critical section and its three requirements; when does a race condition arise?","Explain semaphores (wait and signal), their types, and any two classical synchronization problems with code."]],
+["Deadlocks and Banker's Algorithm",["Define deadlock and its four necessary conditions, and the methods of prevention, avoidance and detection.","Using the Banker's algorithm on the given snapshot, find the Need matrix, check for a safe state and whether the given request can be granted."]],
+["Memory Management: Allocation, Paging, Segmentation",["Explain contiguous allocation and fragmentation; allocate the given processes using first fit, best fit, worst fit and next fit.","For the given logical/physical address spaces and page size, compute address bits, pages, frames and page table size; explain segmentation with paging."]],
+["Virtual Memory and Page Replacement",["For the given reference string and number of frames, find the page faults under FIFO, LRU and optimal page replacement.","Define page fault and demand paging; explain the role of the valid/invalid bit."]],
+["Disk Scheduling and Disk Structure",["For the given request queue and head position, calculate total head movement using FCFS, SSTF, SCAN, LOOK, C-SCAN and C-LOOK.","Explain rotational latency, seek time, disk structure and how RAID improves reliability and performance."]],
+["File Systems, Directories and Free-Space Management",["Describe file access methods and the allocation schemes for secondary storage.","What is a directory and how is it implemented? Explain free-space and swap-space management."]],
+["I/O and Device Management",["Describe the features of device management and differentiate dedicated, shared and virtual devices."]]
+],
+"papers":{
+"papers/semester-4/BIT202_OS_END_2022.pdf":{"2":2.5,"3":22.5,"4":20,"5":12.5,"7":12.5,"8":10,"9":10},
+"papers/semester-4/BIT202_OS_MID_2022.pdf":{"0":5,"1":2.5,"3":15,"6":2.5,"7":10},
+"papers/semester-4/BIT202_OS_END_2023.pdf":{"1":2.5,"3":20,"4":2.5,"5":10,"6":2.5,"7":20,"8":12.5,"9":20},
+"papers/semester-4/BIT202_OS_MID_2023.pdf":{"0":2.5,"1":2.5,"3":10,"5":5,"6":2.5,"7":12.5},
+"papers/semester-4/BIT202_OS_END_2024.pdf":{"0":2.5,"3":20,"4":5,"5":15,"6":2.5,"8":15,"9":12.5,"10":7.5},
+"papers/semester-4/BIT202_OS_MID_2024.pdf":{"1":5,"3":10,"5":2.5,"6":7.5,"7":5},
+"papers/all/bit202_mid_2026_mar_fr2149.pdf":{"1":10,"2":5,"3":5,"4":2.5,"5":5,"6":10,"7":2.5}
+}}

@@ -1,0 +1,22 @@
+{"code":"BAI 202","name":"Computer Networks",
+"topics":[
+["Network Basics: Topologies, Classification and Addresses",["For n devices, find the number of cable links needed for mesh, ring and star topologies; classify networks by geography.","Differentiate between port, logical and physical addresses with an example; differentiate intranet, extranet and internet."]],
+["OSI and TCP/IP Reference Models",["Draw the OSI reference model and explain the functions of every layer.","Compare and contrast the ISO-OSI and TCP/IP models; state the purpose of layering."]],
+["Transmission Media and Fibre Optics",["Explain the principle of fibre-optic communication and light propagation through optical fibre, with its advantages.","Explain guided media (STP, UTP, coaxial) and the types of unguided media."]],
+["Error Detection and Correction: CRC, Parity, LDPC",["Given the data word and divisor, find the CRC and the transmitted codeword.","Explain CRC, LRC and VRC with examples; what are LDPC codes?"]],
+["Flow Control: Stop-and-Wait, Go-Back-N, Selective Repeat",["Explain the sliding window protocol using Go-Back-N with an example; why move from Stop-and-Wait ARQ to Go-Back-N?","For the given timeouts in selective repeat, find the contents of the sender's window; explain piggybacking."]],
+["Medium Access Control: ALOHA, CSMA/CD, LAN Standards",["Terminals share a 9600 bps channel with 200-bit frames; estimate the number of terminals supported by pure and slotted ALOHA at maximum throughput.","What is CSMA? Explain the persistence methods and the CSMA/CD protocol in Ethernet; compare Token Bus and Token Ring."]],
+["IP Addressing, Subnetting, CIDR and NAT",["An organisation is granted the block 130.86.0.0/16 and wants 1024 subnets. Find the subnet mask, addresses per subnet, and first/last addresses of the first and last subnets.","Find the network address, broadcast address and subnet mask for the given host; explain CIDR notation and NAT."]],
+["IPv4 vs IPv6 Headers",["Compare and contrast the IPv4 header with the IPv6 header. Why is IPv6 needed?"]],
+["Routing Algorithms: Dijkstra, Link State, Distance Vector, OSPF",["Use Dijkstra's algorithm to find the shortest path tree from the given node.","Compare link state and distance vector routing; explain OSPF and the advantages/disadvantages of flooding."]],
+["Transport Layer: TCP, UDP and Congestion Control",["Explain TCP's three-way handshake with diagrams; draw and explain the fields of the UDP header (decode the given hex header).","Explain the leaky bucket algorithm for traffic shaping."]],
+["Application Layer: HTTP, SMTP and E-mail",["Discuss the features of HTTP and how it works.","Explain the working of electronic mail and how SMTP is used."]]
+],
+"papers":{
+"papers/semester-4/BAI202_CN_END_2022.pdf":{"0":2.5,"1":10,"3":10,"4":2.5,"5":10,"6":7.5,"7":10,"8":12.5,"9":12.5},
+"papers/semester-4/BAI202_CN_MID_2022.pdf":{"1":2.5,"2":10,"3":5,"4":10,"5":7.5},
+"papers/semester-4/BAI202_CN_END_2023.pdf":{"0":2.5,"1":12.5,"2":12.5,"4":10,"5":10,"6":12.5,"8":12.5,"9":12.5,"10":10},
+"papers/semester-4/BAI202_CN_MID_2023.pdf":{"0":5,"1":5,"2":5,"3":2.5,"5":7.5,"4":5},
+"papers/semester-4/BAI202_CN_END_2024.pdf":{"0":2.5,"1":12.5,"2":12.5,"5":12.5,"4":10,"6":15,"7":2.5,"8":10,"9":12.5,"10":10},
+"papers/semester-4/BAI202_CN_MID_2024.pdf":{"0":5,"1":5,"2":5,"3":5,"4":7.5,"5":7.5}
+}}
