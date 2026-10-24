@@ -1,0 +1,9 @@
+{"code":"BMA 202","name":"Production Technology II",
+"topics":[
+["Metal Cutting Basics and Tool Materials",["Define feed, depth of cut and cutting speed for a turning operation.","Name six cutting tool materials."]],
+["Lathe Machine and Operations",["Explain a lathe and its parts with a diagram.","Explain the operations performed on a lathe, including reaming."]],
+["Machining Time Calculations",["Calculate the machining time for turning the given hollow workpiece in four passes.","Calculate the machining time for shaping the given CI plate with the given approach, overtravel and speeds."]],
+["Shaper, Slotter and Planer",["Why is the return stroke of a shaper quicker, and how is this achieved?","Differentiate shaper/slotter and planer."]],
+["CNC Machines",["Differentiate CNC and conventional lathes.","State the advantages of CNC machining."]]
+],
+"papers":{"papers/all/bma202_mid_2024_mar_fr260.pdf":{"0":5,"1":12.5,"2":10,"3":7.5,"4":5}}}

@@ -1,0 +1,11 @@
+{"code":"BMA 206","name":"Engineering Materials",
+"topics":[
+["Crystal Structure and Unit Cells",["What is a unit cell? Explain the types of unit cells with diagrams.","Explain amorphous and polycrystalline materials with examples."]],
+["Crystal Defects",["Explain point defects with a diagram.","Define edge dislocation and twin boundary defects with diagrams."]],
+["Alloys and the Iron–Carbon Phase Diagram",["Why study the Fe–C diagram? Explain it with a neat sketch.","Explain the microstructures of the phases of steel; what is an alloy?"]],
+["Heat Treatment",["Why are metals heat treated? Explain carburising and nitriding.","Explain annealing."]],
+["Corrosion",["What is corrosion? Explain its types and methods of protection.","What causes rusting of iron?"]],
+["Failure: Fracture, Fatigue and Creep",["Define fatigue and creep and explain their failures with examples.","Explain ductile fracture with a diagram."]],
+["Strengthening Mechanisms",["Explain strain hardening as a strengthening mechanism with a diagram.","Explain the Hall–Petch equation."]]
+],
+"papers":{"papers/all/bma206_end_2024_may_fr2103.pdf":{"0":12.5,"1":12.5,"2":12.5,"3":12.5,"4":12.5,"5":12.5,"6":12.5}}}

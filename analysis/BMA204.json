@@ -1,0 +1,16 @@
+{"code":"BMA 204","name":"Theory of Machines",
+"topics":[
+["Mechanisms: Kinematic Pairs, Grashof's Law, Degrees of Freedom",["State Grashof's law and check the given four-bar linkage; classify kinematic pairs.","Find the degrees of freedom of the given linkages using Grübler's rule."]],
+["Inversions and Mechanisms: Quick-Return, Scotch Yoke, Oldham",["Explain the Whitworth quick-return mechanism with a sketch.","Explain the Scotch yoke and Oldham's coupling; name the inversions behind the crank-and-slotted-lever and rotary engine."]],
+["Velocity Analysis and Instantaneous Centres",["For the given four-bar mechanism, find the velocity of C and E and angular velocities of BC and CD.","State the three-centres-in-line theorem; locate all instantaneous centres of the given mechanism and find ωBC."]],
+["Klein's Construction and Slider-Crank",["Explain Klein's construction for the slider-crank mechanism.","Find the piston velocity for the given crank and connecting rod using Klein's construction."]],
+["Cams and Followers",["Draw the cam profile for the given knife-edge follower with SHM rise and return and dwells.","Define base circle, trace point, pitch point, pitch curve and lift; draw displacement/velocity/acceleration diagrams for SHM and cycloidal motion; classify cams."]],
+["Gears and Gear Trains",["Explain interference in gears with a diagram.","Differentiate simple, compound, reverted and epicyclic gear trains; find the teeth numbers for the given reverted gear train."]],
+["Balancing of Rotating Masses",["Explain the graphical method of balancing four masses in one plane.","For the given shaft with three pulleys, find their relative positions for static balance and the dynamic bearing forces."]],
+["Gyroscopic Effects",["Find the gyroscopic couple on the given aeroplane making a half-circle turn and its effect.","What changes if the engine rotation is reversed?"]],
+["Vibrations",["Find the natural frequencies of longitudinal and transverse vibration for the given shaft and disc/flywheel.","Differentiate free and forced vibrations; explain logarithmic decrement."]]
+],
+"papers":{
+"papers/all/bma204_end_2024_may_fr2124.pdf":{"0":2.5,"1":7.5,"2":12.5,"3":10,"4":12.5,"5":15,"6":12.5,"7":10,"8":12.5},
+"papers/all/bma204_mid_2024_mar_fr291.pdf":{"0":10,"1":7.5,"2":5,"4":12.5,"8":7.5}
+}}

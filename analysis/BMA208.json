@@ -1,0 +1,14 @@
+{"code":"BMA 208","name":"Thermal Engineering II",
+"topics":[
+["Reciprocating Air Compressors",["Explain the effect of clearance volume on the work of a reciprocating compressor.","Derive the work for isothermal, adiabatic and polytropic compression; explain two-stage/multistage compression with intercooling."]],
+["Centrifugal Compressors",["Explain the working of a centrifugal compressor and the pressure/velocity variation in impeller and diffuser.","Draw the velocity triangles and find the impeller work; explain surging, choking, static and total head."]],
+["IC Engines: Cycles, Valve Timing and Indicator Diagrams",["Draw the actual valve timing and p–V diagrams of a four-stroke petrol engine; explain the four-stroke diesel engine.","Why is a four-stroke engine more efficient than a two-stroke? Compare efficiencies at different compression ratios; find the clearance ratio for the given data."]],
+["Combustion and Ignition Systems",["Explain pre-ignition, detonation and knocking.","Explain the coil/battery ignition system of an SI engine."]],
+["Gas Turbines and Brayton Cycle",["Find the work ratio and thermal efficiency of the given open-cycle gas turbine.","Explain regeneration and reheating effects and open vs closed gas turbines."]],
+["Jet Propulsion",["Explain turbojet and ramjet engines with diagrams.","Compare their applications."]],
+["Compressible Flow",["Find the stagnation pressure for the given air flow.","Explain Mach number, Mach wave, Mach cone and angle; discuss the continuity equation for compressible flow."]]
+],
+"papers":{
+"papers/all/bma208_end_2024_may_fr267.pdf":{"0":12.5,"1":12.5,"2":12.5,"3":7.5,"4":22.5,"5":10,"6":15},
+"papers/all/bma208_mid_2024_mar_fr295.pdf":{"0":7.5,"1":7.5,"2":10,"3":5}
+}}
